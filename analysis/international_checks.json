@@ -1,0 +1,95 @@
+{
+ "years_by_country": {
+  "Australia": [
+   1982,
+   2025
+  ],
+  "Canada": [
+   1972,
+   2026
+  ],
+  "United Kingdom": [
+   2012,
+   2025
+  ],
+  "United States": [
+   2021,
+   2025
+  ]
+ },
+ "latest_year_by_country": {
+  "Australia": {
+   "year_ending_june": 2025,
+   "net_migration": 301572.0,
+   "net_migration_per_1000_pop": 11.09,
+   "population_growth_pct": 1.5
+  },
+  "Canada": {
+   "year_ending_june": 2026,
+   "net_migration": 151781.0,
+   "net_migration_per_1000_pop": 3.65,
+   "population_growth_pct": 0.46
+  },
+  "United Kingdom": {
+   "year_ending_june": 2025,
+   "net_migration": 219000.0,
+   "net_migration_per_1000_pop": 3.16,
+   "population_growth_pct": 0.3
+  },
+  "United States": {
+   "year_ending_june": 2025,
+   "net_migration": 1262202.0,
+   "net_migration_per_1000_pop": 3.71,
+   "population_growth_pct": 0.52
+  }
+ },
+ "year_ending_june_2025": {
+  "Australia": {
+   "net_migration": 301572.0,
+   "net_migration_per_1000_pop": 11.09,
+   "population_growth_pct": 1.5
+  },
+  "Canada": {
+   "net_migration": 408690.0,
+   "net_migration_per_1000_pop": 9.93,
+   "population_growth_pct": 1.08
+  },
+  "United Kingdom": {
+   "net_migration": 219000.0,
+   "net_migration_per_1000_pop": 3.16,
+   "population_growth_pct": 0.3
+  },
+  "United States": {
+   "net_migration": 1262202.0,
+   "net_migration_per_1000_pop": 3.71,
+   "population_growth_pct": 0.52
+  }
+ },
+ "canada_net_emigration_identity_max_abs": 0.0,
+ "uk_table2_vs_table1_estimate_max_abs": 0.0,
+ "uk_net_minus_immigration_plus_emigration_max_abs (rounding to 1,000)": 1000.0,
+ "uk_reason_parts_minus_all_reasons_max_abs (rounding)": 2000.0,
+ "uk_latest_period": "2025-12",
+ "worldbank_vs_national_population_max_abs_pct_since_2015": {
+  "AUS": 0.046,
+  "CAN": 0.242,
+  "USA": 0.0
+ },
+ "worldbank_latest_year": {
+  "AUS": 2025,
+  "CAN": 2025,
+  "GBR": 2025,
+  "USA": 2025
+ },
+ "rows": {
+  "statcan_population_quarterly.csv": 4077,
+  "statcan_international_migration_quarterly.csv": 19313,
+  "ons_net_migration_uk.csv": 165,
+  "ons_visa_migration_by_reason_uk.csv": 810,
+  "uscensus_population_components.csv": 2862,
+  "worldbank_gdp_per_capita.csv": 14495,
+  "worldbank_population.csv": 17394,
+  "international_migration_comparison.csv": 118,
+  "international_gdp_per_capita.csv": 264
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "latest_quarter": "2026-06",
+ "latest_financial_year": "2025-26",
+ "gdp_per_capita_last_3_quarters": {
+  "2025-12": {
+   "q_pct": 0.6,
+   "tty_pct": 1.09
+  },
+  "2026-03": {
+   "q_pct": -0.1,
+   "tty_pct": 1.05
+  },
+  "2026-06": {
+   "q_pct": 0.0,
+   "tty_pct": 0.68
+  }
+ },
+ "gdp_last_3_quarters": {
+  "2025-12": {
+   "q_pct": 0.9,
+   "tty_pct": 2.61
+  },
+  "2026-03": {
+   "q_pct": 0.3,
+   "tty_pct": 2.5
+  },
+  "2026-06": {
+   "q_pct": 0.4,
+   "tty_pct": 2.14
+  }
+ },
+ "annual_gdp_equals_sum_of_quarters_max_abs_pct": 0.0003042139719466874,
+ "annual_gdp_table34_vs_table37_max_abs": 0.0,
+ "sfd_states": [
+  "ACT",
+  "NSW",
+  "NT",
+  "QLD",
+  "SA",
+  "TAS",
+  "VIC",
+  "WA"
+ ],
+ "sfd_latest_quarter": "2026-06",
+ "industry_divisions_found": [
+  "A",
+  "B",
+  "C",
+  "D",
+  "E",
+  "F",
+  "G",
+  "H",
+  "I",
+  "J",
+  "K",
+  "L",
+  "M",
+  "N",
+  "O",
+  "P",
+  "Q",
+  "R",
+  "S"
+ ],
+ "output_per_worker_years": [
+  "2006-07",
+  "2024-25"
+ ],
+ "output_per_worker_latest_full_year": {
+  "Accommodation and food services": 67375.0,
+  "Other services": 78131.0,
+  "Arts and recreation services": 78287.0,
+  "Retail trade": 86439.0,
+  "Health care and social assistance": 95000.0,
+  "Education and training": 98859.0,
+  "Construction": 140818.0,
+  "Public administration and safety": 146439.0,
+  "Professional, scientific and technical services": 148129.0,
+  "Manufacturing": 159800.0,
+  "Transport, postal and warehousing": 164120.0,
+  "Agriculture, forestry and fishing": 191447.0,
+  "Administrative and support services": 209887.0,
+  "Electricity, gas, water and waste services": 300607.0,
+  "Wholesale trade": 302708.0,
+  "Rental, hiring and real estate services": 307354.0,
+  "Information media and telecommunications": 318671.0,
+  "Financial and insurance services": 354424.0,
+  "Mining": 928851.0
+ },
+ "annual_recent": {
+  "2018-19": {
+   "gdp_growth_pct": 2.2,
+   "gdp_per_capita_growth_pct": 0.6,
+   "population_growth_pct": 1.49,
+   "nom": 241338.0
+  },
+  "2019-20": {
+   "gdp_growth_pct": -0.1,
+   "gdp_per_capita_growth_pct": -1.6,
+   "population_growth_pct": 1.24,
+   "nom": 192703.0
+  },
+  "2020-21": {
+   "gdp_growth_pct": 2.0,
+   "gdp_per_capita_growth_pct": 1.6,
+   "population_growth_pct": 0.14,
+   "nom": -84930.0
+  },
+  "2021-22": {
+   "gdp_growth_pct": 4.3,
+   "gdp_per_capita_growth_pct": 3.7,
+   "population_growth_pct": 1.3,
+   "nom": 207912.0
+  },
+  "2022-23": {
+   "gdp_growth_pct": 3.6,
+   "gdp_per_capita_growth_pct": 1.4,
+   "population_growth_pct": 2.46,
+   "nom": 538341.0
+  },
+  "2023-24": {
+   "gdp_growth_pct": 1.4,
+   "gdp_per_capita_growth_pct": -1.0,
+   "population_growth_pct": 2.0,
+   "nom": 429162.0
+  },
+  "2024-25": {
+   "gdp_growth_pct": 1.3,
+   "gdp_per_capita_growth_pct": -0.3,
+   "population_growth_pct": 1.5,
+   "nom": 301572.0
+  },
+  "2025-26": {
+   "gdp_growth_pct": 2.4,
+   "gdp_per_capita_growth_pct": 0.8,
+   "population_growth_pct": NaN,
+   "nom": NaN
+  }
+ },
+ "rows": {
+  "abs_gdp_key_aggregates_quarterly.csv": 25562,
+  "abs_gdp_key_aggregates_annual.csv": 5809,
+  "abs_state_final_demand_quarterly.csv": 31220,
+  "abs_industry_gva_quarterly.csv": 59308,
+  "abs_industry_gva_annual.csv": 2591,
+  "economy_quarterly_australia.csv": 268,
+  "economy_annual_australia.csv": 67,
+  "economy_state_final_demand.csv": 1312,
+  "sector_output_per_worker.csv": 380
+ }
+}

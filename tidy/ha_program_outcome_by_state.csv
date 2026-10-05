@@ -1,0 +1,386 @@
+financial_year,state,stream,places,derived
+2014-15,ACT,Skill,3450.0,False
+2015-16,ACT,Skill,2317.0,False
+2016-17,ACT,Skill,2755.0,False
+2017-18,ACT,Skill,2501.0,False
+2018-19,ACT,Skill,2619.0,False
+2019-20,ACT,Skill,3664.0,False
+2020-21,ACT,Skill,2906.0,False
+2021-22,ACT,Skill,3282.0,False
+2022-23,ACT,Skill,5085.0,False
+2023-24,ACT,Skill,4613.0,False
+2024-25,ACT,Skill,7426.0,False
+2014-15,ACT,Family,1014.0,False
+2015-16,ACT,Family,904.0,False
+2016-17,ACT,Family,898.0,False
+2017-18,ACT,Family,733.0,False
+2018-19,ACT,Family,741.0,False
+2019-20,ACT,Family,638.0,False
+2020-21,ACT,Family,1248.0,False
+2021-22,ACT,Family,722.0,False
+2022-23,ACT,Family,905.0,False
+2023-24,ACT,Family,827.0,False
+2024-25,ACT,Family,789.0,False
+2014-15,ACT,Child,0.0,False
+2015-16,ACT,Child,39.0,False
+2016-17,ACT,Child,54.0,False
+2017-18,ACT,Child,43.0,False
+2018-19,ACT,Child,48.0,False
+2019-20,ACT,Child,68.0,False
+2020-21,ACT,Child,48.0,False
+2021-22,ACT,Child,35.0,False
+2022-23,ACT,Child,0.0,False
+2023-24,ACT,Child,0.0,False
+2024-25,ACT,Child,0.0,False
+2014-15,ACT,Special Eligibility,0.0,False
+2015-16,ACT,Special Eligibility,0.0,False
+2016-17,ACT,Special Eligibility,0.0,False
+2017-18,ACT,Special Eligibility,0.0,False
+2018-19,ACT,Special Eligibility,0.0,False
+2019-20,ACT,Special Eligibility,0.0,False
+2020-21,ACT,Special Eligibility,0.0,False
+2021-22,ACT,Special Eligibility,0.0,False
+2022-23,ACT,Special Eligibility,0.0,False
+2023-24,ACT,Special Eligibility,0.0,False
+2024-25,ACT,Special Eligibility,0.0,False
+2014-15,NSW,Skill,36509.0,False
+2015-16,NSW,Skill,42189.0,False
+2016-17,NSW,Skill,40704.0,False
+2017-18,NSW,Skill,35576.0,False
+2018-19,NSW,Skill,38383.0,False
+2019-20,NSW,Skill,29776.0,False
+2020-21,NSW,Skill,25216.0,False
+2021-22,NSW,Skill,27772.0,False
+2022-23,NSW,Skill,40093.0,False
+2023-24,NSW,Skill,39597.0,False
+2024-25,NSW,Skill,38862.0,False
+2014-15,NSW,Family,20200.0,False
+2015-16,NSW,Family,18669.0,False
+2016-17,NSW,Family,19849.0,False
+2017-18,NSW,Family,15853.0,False
+2018-19,NSW,Family,15847.0,False
+2019-20,NSW,Family,13768.0,False
+2020-21,NSW,Family,25254.0,False
+2021-22,NSW,Family,16287.0,False
+2022-23,NSW,Family,17425.0,False
+2023-24,NSW,Family,17861.0,False
+2024-25,NSW,Family,17024.0,False
+2014-15,NSW,Child,0.0,False
+2015-16,NSW,Child,884.0,False
+2016-17,NSW,Child,911.0,False
+2017-18,NSW,Child,822.0,False
+2018-19,NSW,Child,831.0,False
+2019-20,NSW,Child,638.0,False
+2020-21,NSW,Child,809.0,False
+2021-22,NSW,Child,881.0,False
+2022-23,NSW,Child,0.0,False
+2023-24,NSW,Child,0.0,False
+2024-25,NSW,Child,0.0,False
+2014-15,NSW,Special Eligibility,0.0,False
+2015-16,NSW,Special Eligibility,0.0,False
+2016-17,NSW,Special Eligibility,6.0,False
+2017-18,NSW,Special Eligibility,0.0,False
+2018-19,NSW,Special Eligibility,0.0,False
+2019-20,NSW,Special Eligibility,0.0,False
+2020-21,NSW,Special Eligibility,0.0,False
+2021-22,NSW,Special Eligibility,0.0,False
+2022-23,NSW,Special Eligibility,0.0,False
+2023-24,NSW,Special Eligibility,0.0,False
+2024-25,NSW,Special Eligibility,0.0,False
+2014-15,NT,Skill,2007.0,False
+2015-16,NT,Skill,1858.0,False
+2016-17,NT,Skill,1769.0,False
+2017-18,NT,Skill,1868.0,False
+2018-19,NT,Skill,2203.0,False
+2019-20,NT,Skill,2162.0,False
+2020-21,NT,Skill,1523.0,False
+2021-22,NT,Skill,2181.0,False
+2022-23,NT,Skill,3453.0,False
+2023-24,NT,Skill,2803.0,False
+2024-25,NT,Skill,3171.0,False
+2014-15,NT,Family,524.0,False
+2015-16,NT,Family,539.0,False
+2016-17,NT,Family,583.0,False
+2017-18,NT,Family,556.0,False
+2018-19,NT,Family,360.0,False
+2019-20,NT,Family,365.0,False
+2020-21,NT,Family,702.0,False
+2021-22,NT,Family,398.0,False
+2022-23,NT,Family,412.0,False
+2023-24,NT,Family,371.0,False
+2024-25,NT,Family,360.0,False
+2014-15,NT,Child,0.0,False
+2015-16,NT,Child,41.0,False
+2016-17,NT,Child,41.0,False
+2017-18,NT,Child,59.0,False
+2018-19,NT,Child,53.0,False
+2019-20,NT,Child,31.0,False
+2020-21,NT,Child,36.0,False
+2021-22,NT,Child,32.0,False
+2022-23,NT,Child,0.0,False
+2023-24,NT,Child,0.0,False
+2024-25,NT,Child,0.0,False
+2014-15,NT,Special Eligibility,0.0,False
+2015-16,NT,Special Eligibility,0.0,False
+2016-17,NT,Special Eligibility,0.0,False
+2017-18,NT,Special Eligibility,0.0,False
+2018-19,NT,Special Eligibility,0.0,False
+2019-20,NT,Special Eligibility,0.0,False
+2020-21,NT,Special Eligibility,0.0,False
+2021-22,NT,Special Eligibility,0.0,False
+2022-23,NT,Special Eligibility,0.0,False
+2023-24,NT,Special Eligibility,0.0,False
+2024-25,NT,Special Eligibility,0.0,False
+2014-15,QLD,Skill,14713.0,False
+2015-16,QLD,Skill,14354.0,False
+2016-17,QLD,Skill,14175.0,False
+2017-18,QLD,Skill,11100.0,False
+2018-19,QLD,Skill,13588.0,False
+2019-20,QLD,Skill,12763.0,False
+2020-21,QLD,Skill,11613.0,False
+2021-22,QLD,Skill,10877.0,False
+2022-23,QLD,Skill,18039.0,False
+2023-24,QLD,Skill,16344.0,False
+2024-25,QLD,Skill,15000.0,False
+2014-15,QLD,Family,7496.0,False
+2015-16,QLD,Family,7134.0,False
+2016-17,QLD,Family,6936.0,False
+2017-18,QLD,Family,6359.0,False
+2018-19,QLD,Family,6374.0,False
+2019-20,QLD,Family,5671.0,False
+2020-21,QLD,Family,11575.0,False
+2021-22,QLD,Family,7261.0,False
+2022-23,QLD,Family,6888.0,False
+2023-24,QLD,Family,6684.0,False
+2024-25,QLD,Family,6757.0,False
+2014-15,QLD,Child,0.0,False
+2015-16,QLD,Child,372.0,False
+2016-17,QLD,Child,408.0,False
+2017-18,QLD,Child,411.0,False
+2018-19,QLD,Child,458.0,False
+2019-20,QLD,Child,309.0,False
+2020-21,QLD,Child,452.0,False
+2021-22,QLD,Child,453.0,False
+2022-23,QLD,Child,0.0,False
+2023-24,QLD,Child,0.0,False
+2024-25,QLD,Child,0.0,False
+2014-15,QLD,Special Eligibility,0.0,False
+2015-16,QLD,Special Eligibility,0.0,False
+2016-17,QLD,Special Eligibility,0.0,False
+2017-18,QLD,Special Eligibility,0.0,False
+2018-19,QLD,Special Eligibility,0.0,False
+2019-20,QLD,Special Eligibility,0.0,False
+2020-21,QLD,Special Eligibility,0.0,False
+2021-22,QLD,Special Eligibility,0.0,False
+2022-23,QLD,Special Eligibility,0.0,False
+2023-24,QLD,Special Eligibility,0.0,False
+2024-25,QLD,Special Eligibility,0.0,False
+2014-15,SA,Skill,10701.0,False
+2015-16,SA,Skill,9504.0,False
+2016-17,SA,Skill,8238.0,False
+2017-18,SA,Skill,9422.0,False
+2018-19,SA,Skill,7840.0,False
+2019-20,SA,Skill,9969.0,False
+2020-21,SA,Skill,6320.0,False
+2021-22,SA,Skill,9287.0,False
+2022-23,SA,Skill,16177.0,False
+2023-24,SA,Skill,13767.0,False
+2024-25,SA,Skill,12780.0,False
+2014-15,SA,Family,2785.0,False
+2015-16,SA,Family,2812.0,False
+2016-17,SA,Family,2683.0,False
+2017-18,SA,Family,2460.0,False
+2018-19,SA,Family,2159.0,False
+2019-20,SA,Family,1937.0,False
+2020-21,SA,Family,3402.0,False
+2021-22,SA,Family,2347.0,False
+2022-23,SA,Family,2471.0,False
+2023-24,SA,Family,2789.0,False
+2024-25,SA,Family,2940.0,False
+2014-15,SA,Child,0.0,False
+2015-16,SA,Child,145.0,False
+2016-17,SA,Child,141.0,False
+2017-18,SA,Child,135.0,False
+2018-19,SA,Child,116.0,False
+2019-20,SA,Child,90.0,False
+2020-21,SA,Child,107.0,False
+2021-22,SA,Child,129.0,False
+2022-23,SA,Child,0.0,False
+2023-24,SA,Child,0.0,False
+2024-25,SA,Child,0.0,False
+2014-15,SA,Special Eligibility,0.0,False
+2015-16,SA,Special Eligibility,0.0,False
+2016-17,SA,Special Eligibility,0.0,False
+2017-18,SA,Special Eligibility,0.0,False
+2018-19,SA,Special Eligibility,0.0,False
+2019-20,SA,Special Eligibility,0.0,False
+2020-21,SA,Special Eligibility,0.0,False
+2021-22,SA,Special Eligibility,0.0,False
+2022-23,SA,Special Eligibility,0.0,False
+2023-24,SA,Special Eligibility,0.0,False
+2024-25,SA,Special Eligibility,0.0,False
+2014-15,TAS,Skill,679.0,False
+2015-16,TAS,Skill,772.0,False
+2016-17,TAS,Skill,1582.0,False
+2017-18,TAS,Skill,2498.0,False
+2018-19,TAS,Skill,2873.0,False
+2019-20,TAS,Skill,5835.0,False
+2020-21,TAS,Skill,3592.0,False
+2021-22,TAS,Skill,4862.0,False
+2022-23,TAS,Skill,6816.0,False
+2023-24,TAS,Skill,6191.0,False
+2024-25,TAS,Skill,5509.0,False
+2014-15,TAS,Family,406.0,False
+2015-16,TAS,Family,386.0,False
+2016-17,TAS,Family,405.0,False
+2017-18,TAS,Family,265.0,False
+2018-19,TAS,Family,348.0,False
+2019-20,TAS,Family,302.0,False
+2020-21,TAS,Family,574.0,False
+2021-22,TAS,Family,430.0,False
+2022-23,TAS,Family,419.0,False
+2023-24,TAS,Family,379.0,False
+2024-25,TAS,Family,388.0,False
+2014-15,TAS,Child,0.0,False
+2015-16,TAS,Child,22.0,False
+2016-17,TAS,Child,17.0,False
+2017-18,TAS,Child,12.0,False
+2018-19,TAS,Child,26.0,False
+2019-20,TAS,Child,15.0,False
+2020-21,TAS,Child,13.0,False
+2021-22,TAS,Child,20.0,False
+2022-23,TAS,Child,0.0,False
+2023-24,TAS,Child,0.0,False
+2024-25,TAS,Child,0.0,False
+2014-15,TAS,Special Eligibility,0.0,False
+2015-16,TAS,Special Eligibility,0.0,False
+2016-17,TAS,Special Eligibility,0.0,False
+2017-18,TAS,Special Eligibility,0.0,False
+2018-19,TAS,Special Eligibility,0.0,False
+2019-20,TAS,Special Eligibility,0.0,False
+2020-21,TAS,Special Eligibility,0.0,False
+2021-22,TAS,Special Eligibility,0.0,False
+2022-23,TAS,Special Eligibility,0.0,False
+2023-24,TAS,Special Eligibility,0.0,False
+2024-25,TAS,Special Eligibility,0.0,False
+2014-15,VIC,Skill,29630.0,False
+2015-16,VIC,Skill,32206.0,False
+2016-17,VIC,Skill,32197.0,False
+2017-18,VIC,Skill,27685.0,False
+2018-19,VIC,Skill,28828.0,False
+2019-20,VIC,Skill,21850.0,False
+2020-21,VIC,Skill,19469.0,False
+2021-22,VIC,Skill,21009.0,False
+2022-23,VIC,Skill,34515.0,False
+2023-24,VIC,Skill,33994.0,False
+2024-25,VIC,Skill,29395.0,False
+2014-15,VIC,Family,15677.0,False
+2015-16,VIC,Family,14689.0,False
+2016-17,VIC,Family,14741.0,False
+2017-18,VIC,Family,12703.0,False
+2018-19,VIC,Family,13235.0,False
+2019-20,VIC,Family,11841.0,False
+2020-21,VIC,Family,20064.0,False
+2021-22,VIC,Family,14553.0,False
+2022-23,VIC,Family,15176.0,False
+2023-24,VIC,Family,16152.0,False
+2024-25,VIC,Family,15665.0,False
+2014-15,VIC,Child,0.0,False
+2015-16,VIC,Child,621.0,False
+2016-17,VIC,Child,611.0,False
+2017-18,VIC,Child,617.0,False
+2018-19,VIC,Child,561.0,False
+2019-20,VIC,Child,498.0,False
+2020-21,VIC,Child,581.0,False
+2021-22,VIC,Child,606.0,False
+2022-23,VIC,Child,0.0,False
+2023-24,VIC,Child,0.0,False
+2024-25,VIC,Child,0.0,False
+2014-15,VIC,Special Eligibility,0.0,False
+2015-16,VIC,Special Eligibility,0.0,False
+2016-17,VIC,Special Eligibility,0.0,False
+2017-18,VIC,Special Eligibility,0.0,False
+2018-19,VIC,Special Eligibility,0.0,False
+2019-20,VIC,Special Eligibility,0.0,False
+2020-21,VIC,Special Eligibility,0.0,False
+2021-22,VIC,Special Eligibility,0.0,False
+2022-23,VIC,Special Eligibility,0.0,False
+2023-24,VIC,Special Eligibility,0.0,False
+2024-25,VIC,Special Eligibility,0.0,False
+2014-15,WA,Skill,20216.0,False
+2015-16,WA,Skill,15914.0,False
+2016-17,WA,Skill,12765.0,False
+2017-18,WA,Skill,8140.0,False
+2018-19,WA,Skill,7607.0,False
+2019-20,WA,Skill,6948.0,False
+2020-21,WA,Skill,8361.0,False
+2021-22,WA,Skill,9010.0,False
+2022-23,WA,Skill,14640.0,False
+2023-24,WA,Skill,15314.0,False
+2024-25,WA,Skill,17936.0,False
+2014-15,WA,Family,6017.0,False
+2015-16,WA,Family,6206.0,False
+2016-17,WA,Family,5770.0,False
+2017-18,WA,Family,5048.0,False
+2018-19,WA,Family,4283.0,False
+2019-20,WA,Family,4184.0,False
+2020-21,WA,Family,7844.0,False
+2021-22,WA,Family,4603.0,False
+2022-23,WA,Family,4745.0,False
+2023-24,WA,Family,4787.0,False
+2024-25,WA,Family,4686.0,False
+2014-15,WA,Child,0.0,False
+2015-16,WA,Child,368.0,False
+2016-17,WA,Child,373.0,False
+2017-18,WA,Child,292.0,False
+2018-19,WA,Child,357.0,False
+2019-20,WA,Child,245.0,False
+2020-21,WA,Child,328.0,False
+2021-22,WA,Child,324.0,False
+2022-23,WA,Child,0.0,False
+2023-24,WA,Child,0.0,False
+2024-25,WA,Child,0.0,False
+2014-15,Not specified,Skill,9869.0,True
+2014-15,Not specified,Family,6966.0,True
+2014-15,Not specified,Child,0.0,True
+2014-15,Not specified,Special Eligibility,238.0,True
+2015-16,Not specified,Skill,9436.0,True
+2015-16,Not specified,Family,6061.0,True
+2015-16,Not specified,Child,1020.0,True
+2015-16,Not specified,Special Eligibility,308.0,True
+2016-17,Not specified,Skill,9382.0,True
+2016-17,Not specified,Family,4355.0,True
+2016-17,Not specified,Child,844.0,True
+2016-17,Not specified,Special Eligibility,415.0,True
+2017-18,Not specified,Skill,12309.0,True
+2017-18,Not specified,Family,3755.0,True
+2017-18,Not specified,Child,959.0,True
+2017-18,Not specified,Special Eligibility,236.0,True
+2018-19,Not specified,Skill,5772.0,True
+2018-19,Not specified,Family,3900.0,True
+2018-19,Not specified,Child,798.0,True
+2018-19,Not specified,Special Eligibility,115.0,True
+2019-20,Not specified,Skill,2876.0,True
+2019-20,Not specified,Family,3255.0,True
+2019-20,Not specified,Child,587.0,True
+2019-20,Not specified,Special Eligibility,81.0,True
+2020-21,Not specified,Skill,620.0,True
+2020-21,Not specified,Family,6709.0,True
+2020-21,Not specified,Child,632.0,True
+2020-21,Not specified,Special Eligibility,54.0,True
+2021-22,Not specified,Skill,783.0,True
+2021-22,Not specified,Family,4687.0,True
+2021-22,Not specified,Child,526.0,True
+2021-22,Not specified,Special Eligibility,199.0,True
+2022-23,Not specified,Skill,3526.0,True
+2022-23,Not specified,Family,4059.0,True
+2022-23,Not specified,Child,0.0,True
+2022-23,Not specified,Special Eligibility,160.0,True
+2023-24,Not specified,Skill,4477.0,True
+2023-24,Not specified,Family,2870.0,True
+2023-24,Not specified,Child,0.0,True
+2023-24,Not specified,Special Eligibility,180.0,True
+2024-25,Not specified,Skill,2069.0,True
+2024-25,Not specified,Family,3891.0,True
+2024-25,Not specified,Child,0.0,True
+2024-25,Not specified,Special Eligibility,353.0,True

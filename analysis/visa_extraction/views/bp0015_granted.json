@@ -1,0 +1,5 @@
+{
+ "student_grants_sector_state_month": {"dims": ["Financial Year of Visa Grant","Financial Year Quarter","Month","Client Location","Sector","Applicant Type","Education Provider Registered State"], "measures": ["Total"]},
+ "student_grants_previous_visa": {"dims": ["Financial Year of Visa Grant","Client Location","Sector","Applicant Type","Last Visa Held - Visa Category"], "measures": ["Total"]},
+ "student_grants_age": {"dims": ["Financial Year of Visa Grant","Applicant Type","Sector","Age Group"], "measures": ["Total"]}
+}

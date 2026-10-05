@@ -1,0 +1,20 @@
+anzsic_division,industry,employed_may2025,projected_may2030,projected_may2035,projected_growth_5y,projected_growth_5y_pct,projected_growth_10y,projected_growth_10y_pct
+A,"Agriculture, Forestry and Fishing",305412.0,303809.0,320176.0,-1603.0,-0.5,14764.0,4.8
+B,Mining,322615.0,340718.0,350380.0,18103.0,5.6,27765.0,8.6
+C,Manufacturing,874265.0,917245.0,976254.0,42979.0,4.9,101989.0,11.7
+D,"Electricity, Gas, Water and Waste Services",198569.0,210397.0,222554.0,11827.0,6.0,23984.0,12.1
+E,Construction,1347968.0,1441499.0,1508869.0,93532.0,6.9,160901.0,11.9
+F,Wholesale Trade,359484.0,381315.0,406607.0,21831.0,6.1,47123.0,13.1
+G,Retail trade,1346992.0,1381330.0,1440124.0,34338.0,2.5,93132.0,6.9
+H,Accommodation and Food Services,962089.0,995451.0,1054499.0,33362.0,3.5,92410.0,9.6
+I,"Transport, Postal and Warehousing",754127.0,780246.0,821003.0,26119.0,3.5,66876.0,8.9
+J,Information Media and Telecommunications,184729.0,193308.0,208415.0,8579.0,4.6,23686.0,12.8
+K,Financial and Insurance Services,572078.0,608580.0,650482.0,36502.0,6.4,78405.0,13.7
+L,"Rental, Hiring and Real Estate Services",244536.0,262013.0,278399.0,17478.0,7.1,33863.0,13.8
+M,"Professional, Scientific and Technical Services",1351632.0,1488272.0,1601743.0,136640.0,10.1,250112.0,18.5
+N,Administrative and Support Services,429755.0,445156.0,469616.0,15401.0,3.6,39861.0,9.3
+O,Public Administration and Safety,988982.0,1062135.0,1111794.0,73153.0,7.4,122812.0,12.4
+P,Education and Training,1267618.0,1339695.0,1425339.0,72078.0,5.7,157721.0,12.4
+Q,Healthcare and Social Assistance,2369312.0,2659637.0,2911197.0,290325.0,12.3,541885.0,22.9
+R,Arts and Recreation Services,274146.0,288481.0,305003.0,14335.0,5.2,30857.0,11.3
+S,Other Services,546681.0,562670.0,593067.0,15990.0,2.9,46386.0,8.5

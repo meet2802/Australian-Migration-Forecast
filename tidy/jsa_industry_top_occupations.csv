@@ -1,0 +1,191 @@
+anzsic_division,industry,rank_in_industry,unit_group_code,occupation
+A,"Agriculture, Forestry and Fishing",1,1213,Livestock Farmers
+A,"Agriculture, Forestry and Fishing",2,1212,Crop Farmers
+A,"Agriculture, Forestry and Fishing",3,1214,Mixed Crop and Livestock Farmers
+A,"Agriculture, Forestry and Fishing",4,8412,Crop Farm Workers
+A,"Agriculture, Forestry and Fishing",5,8415,Livestock Farm Workers
+A,"Agriculture, Forestry and Fishing",6,7211,"Agricultural, Forestry and Horticultural Plant Operators"
+A,"Agriculture, Forestry and Fishing",7,5512,Bookkeepers
+A,"Agriculture, Forestry and Fishing",8,8419,"Other Farm, Forestry and Garden Workers"
+A,"Agriculture, Forestry and Fishing",9,8414,Garden and Nursery Labourers
+A,"Agriculture, Forestry and Fishing",10,7331,Truck Drivers
+B,Mining,1,7122,"Drillers, Miners and Shot Firers"
+B,Mining,2,3232,Metal Fitters and Machinists
+B,Mining,3,3129,Other Building and Engineering Technicians
+B,Mining,4,3411,Electricians
+B,Mining,5,7331,Truck Drivers
+B,Mining,6,2336,Mining Engineers
+B,Mining,7,1335,Production Managers
+B,Mining,8,2344,"Geologists, Geophysicists and Hydrogeologists"
+B,Mining,9,7212,Earthmoving Plant Operators
+B,Mining,10,3223,Structural Steel and Welding Trades Workers
+C,Manufacturing,1,3223,Structural Steel and Welding Trades Workers
+C,Manufacturing,2,1335,Production Managers
+C,Manufacturing,3,3232,Metal Fitters and Machinists
+C,Manufacturing,4,3941,Cabinetmakers
+C,Manufacturing,5,8321,Packers
+C,Manufacturing,6,6211,Sales Assistants (General)
+C,Manufacturing,7,8311,Food and Drink Factory Workers
+C,Manufacturing,8,7411,Storepersons
+C,Manufacturing,9,3511,Bakers and Pastrycooks
+C,Manufacturing,10,8322,Product Assemblers
+D,"Electricity, Gas, Water and Waste Services",1,7331,Truck Drivers
+D,"Electricity, Gas, Water and Waste Services",2,3411,Electricians
+D,"Electricity, Gas, Water and Waste Services",3,3422,Electrical Distribution Trades Workers
+D,"Electricity, Gas, Water and Waste Services",4,5111,"Contract, Program and Project Administrators"
+D,"Electricity, Gas, Water and Waste Services",5,2333,Electrical Engineers
+D,"Electricity, Gas, Water and Waste Services",6,5311,General Clerks
+D,"Electricity, Gas, Water and Waste Services",7,3232,Metal Fitters and Machinists
+D,"Electricity, Gas, Water and Waste Services",8,1399,Other Specialist Managers
+D,"Electricity, Gas, Water and Waste Services",9,7129,Other Stationary Plant Operators
+D,"Electricity, Gas, Water and Waste Services",10,3129,Other Building and Engineering Technicians
+E,Construction,1,3312,Carpenters and Joiners
+E,Construction,2,3411,Electricians
+E,Construction,3,1331,Construction Managers
+E,Construction,4,3341,Plumbers
+E,Construction,5,8211,Building and Plumbing Labourers
+E,Construction,6,3121,"Architectural, Building and Surveying Technicians"
+E,Construction,7,3322,Painting Trades Workers
+E,Construction,8,8212,Concreters
+E,Construction,9,3622,Gardeners
+E,Construction,10,7212,Earthmoving Plant Operators
+F,Wholesale Trade,1,7411,Storepersons
+F,Wholesale Trade,2,5911,Purchasing and Supply Logistics Clerks
+F,Wholesale Trade,3,6113,Sales Representatives
+F,Wholesale Trade,4,1311,"Advertising, Public Relations and Sales Managers"
+F,Wholesale Trade,5,6211,Sales Assistants (General)
+F,Wholesale Trade,6,1333,"Importers, Exporters and Wholesalers"
+F,Wholesale Trade,7,7213,Forklift Drivers
+F,Wholesale Trade,8,2254,Technical Sales Representatives
+F,Wholesale Trade,9,1421,Retail Managers
+F,Wholesale Trade,10,7331,Truck Drivers
+G,Retail Trade,1,6211,Sales Assistants (General)
+G,Retail Trade,2,1421,Retail Managers
+G,Retail Trade,3,6311,Checkout Operators and Office Cashiers
+G,Retail Trade,4,8912,Shelf Fillers
+G,Retail Trade,5,6215,Retail Supervisors
+G,Retail Trade,6,6214,Pharmacy Sales Assistants
+G,Retail Trade,7,7411,Storepersons
+G,Retail Trade,8,2515,Pharmacists
+G,Retail Trade,9,5911,Purchasing and Supply Logistics Clerks
+G,Retail Trade,10,6213,Motor Vehicle and Vehicle Parts Salespersons
+H,Accommodation and Food Services,1,4315,Waiters
+H,Accommodation and Food Services,2,3513,Chefs
+H,Accommodation and Food Services,3,8513,Kitchenhands
+H,Accommodation and Food Services,4,4311,Bar Attendants and Baristas
+H,Accommodation and Food Services,5,6211,Sales Assistants (General)
+H,Accommodation and Food Services,6,1411,Cafe and Restaurant Managers
+H,Accommodation and Food Services,7,8511,Fast Food Cooks
+H,Accommodation and Food Services,8,4312,Cafe Workers
+H,Accommodation and Food Services,9,1421,Retail Managers
+H,Accommodation and Food Services,10,3514,Cooks
+I,"Transport, Postal and Warehousing",1,7331,Truck Drivers
+I,"Transport, Postal and Warehousing",2,7411,Storepersons
+I,"Transport, Postal and Warehousing",3,7321,Delivery Drivers
+I,"Transport, Postal and Warehousing",4,7311,Automobile Drivers
+I,"Transport, Postal and Warehousing",5,5612,Couriers and Postal Deliverers
+I,"Transport, Postal and Warehousing",6,7312,Bus and Coach Drivers
+I,"Transport, Postal and Warehousing",7,5912,Transport and Despatch Clerks
+I,"Transport, Postal and Warehousing",8,7213,Forklift Drivers
+I,"Transport, Postal and Warehousing",9,1336,"Supply, Distribution and Procurement Managers"
+I,"Transport, Postal and Warehousing",10,7313,Train and Tram Drivers
+J,Information Media and Telecommunications,1,2123,"Film, Television, Radio and Stage Directors"
+J,Information Media and Telecommunications,2,2124,Journalists and Other Writers
+J,Information Media and Telecommunications,3,2121,"Artistic Directors, and Media Producers and Presenters"
+J,Information Media and Telecommunications,4,2633,Telecommunications Engineering Professionals
+J,Information Media and Telecommunications,5,2613,Software and Applications Programmers
+J,Information Media and Telecommunications,6,3995,Performing Arts Technicians
+J,Information Media and Telecommunications,7,3424,Telecommunications Trades Workers
+J,Information Media and Telecommunications,8,2246,Librarians
+J,Information Media and Telecommunications,9,2324,"Graphic and Web Designers, and Illustrators"
+J,Information Media and Telecommunications,10,1351,ICT Managers
+K,Financial and Insurance Services,1,2221,Financial Brokers
+K,Financial and Insurance Services,2,2223,Financial Investment Advisers and Managers
+K,Financial and Insurance Services,3,5521,Bank Workers
+K,Financial and Insurance Services,4,5523,"Insurance, Money Market and Statistical Clerks"
+K,Financial and Insurance Services,5,5522,Credit and Loans Officers
+K,Financial and Insurance Services,6,2613,Software and Applications Programmers
+K,Financial and Insurance Services,7,2211,Accountants
+K,Financial and Insurance Services,8,1322,Finance Managers
+K,Financial and Insurance Services,9,2247,Management and Organisation Analysts
+K,Financial and Insurance Services,10,1499,"Other Hospitality, Retail and Service Managers"
+L,"Rental, Hiring and Real Estate Services",1,6121,Real Estate Sales Agents
+L,"Rental, Hiring and Real Estate Services",2,1499,"Other Hospitality, Retail and Service Managers"
+L,"Rental, Hiring and Real Estate Services",3,2245,Land Economists and Valuers
+L,"Rental, Hiring and Real Estate Services",4,5311,General Clerks
+L,"Rental, Hiring and Real Estate Services",5,2211,Accountants
+L,"Rental, Hiring and Real Estate Services",6,5121,Office Managers
+L,"Rental, Hiring and Real Estate Services",7,1311,"Advertising, Public Relations and Sales Managers"
+L,"Rental, Hiring and Real Estate Services",8,5421,Receptionists
+L,"Rental, Hiring and Real Estate Services",9,5211,Personal Assistants
+L,"Rental, Hiring and Real Estate Services",10,3232,Metal Fitters and Machinists
+M,"Professional, Scientific and Technical Services",1,2211,Accountants
+M,"Professional, Scientific and Technical Services",2,2613,Software and Applications Programmers
+M,"Professional, Scientific and Technical Services",3,2713,Solicitors
+M,"Professional, Scientific and Technical Services",4,2247,Management and Organisation Analysts
+M,"Professional, Scientific and Technical Services",5,2251,Advertising and Marketing Professionals
+M,"Professional, Scientific and Technical Services",6,1351,ICT Managers
+M,"Professional, Scientific and Technical Services",7,2332,Civil Engineering Professionals
+M,"Professional, Scientific and Technical Services",8,3131,ICT Support Technicians
+M,"Professional, Scientific and Technical Services",9,1311,"Advertising, Public Relations and Sales Managers"
+M,"Professional, Scientific and Technical Services",10,2324,"Graphic and Web Designers, and Illustrators"
+N,Administrative and Support Services,1,8112,Commercial Cleaners
+N,Administrative and Support Services,2,3622,Gardeners
+N,Administrative and Support Services,3,8113,Domestic Cleaners
+N,Administrative and Support Services,4,2231,Human Resource Professionals
+N,Administrative and Support Services,5,4516,Tourism and Travel Advisers
+N,Administrative and Support Services,6,8414,Garden and Nursery Labourers
+N,Administrative and Support Services,7,5311,General Clerks
+N,Administrative and Support Services,8,1499,"Other Hospitality, Retail and Service Managers"
+N,Administrative and Support Services,9,1493,Conference and Event Organisers
+N,Administrative and Support Services,10,8116,Other Cleaners
+O,Public Administration and Safety,1,4413,Police
+O,Public Administration and Safety,2,5311,General Clerks
+O,Public Administration and Safety,3,5111,"Contract, Program and Project Administrators"
+O,Public Administration and Safety,4,4422,Security Officers and Guards
+O,Public Administration and Safety,5,5995,Inspectors and Regulatory Officers
+O,Public Administration and Safety,6,2244,Intelligence and Policy Analysts
+O,Public Administration and Safety,7,8999,Other Miscellaneous Labourers
+O,Public Administration and Safety,8,4421,Prison Officers
+O,Public Administration and Safety,9,5412,Information Officers
+O,Public Administration and Safety,10,1324,Policy and Planning Managers
+P,Education and Training,1,2414,Secondary School Teachers
+P,Education and Training,2,2412,Primary School Teachers
+P,Education and Training,3,4221,Education Aides
+P,Education and Training,4,2421,University Lecturers and Tutors
+P,Education and Training,5,4211,Child Carers
+P,Education and Training,6,2411,Early Childhood (Pre-primary School) Teachers
+P,Education and Training,7,2492,Private Tutors and Teachers
+P,Education and Training,8,5311,General Clerks
+P,Education and Training,9,4523,"Sports Coaches, Instructors and Officials"
+P,Education and Training,10,2422,Vocational Education Teachers
+Q,Health Care and Social Assistance,1,4231,Aged and Disabled Carers
+Q,Health Care and Social Assistance,2,2544,Registered Nurses
+Q,Health Care and Social Assistance,3,4211,Child Carers
+Q,Health Care and Social Assistance,4,4233,Nursing Support and Personal Care Workers
+Q,Health Care and Social Assistance,5,5421,Receptionists
+Q,Health Care and Social Assistance,6,2531,General Practitioners and Resident Medical Officers
+Q,Health Care and Social Assistance,7,4117,Welfare Support Workers
+Q,Health Care and Social Assistance,8,1342,Health and Welfare Services Managers
+Q,Health Care and Social Assistance,9,5311,General Clerks
+Q,Health Care and Social Assistance,10,2525,Physiotherapists
+R,Arts and Recreation Services,1,4523,"Sports Coaches, Instructors and Officials"
+R,Arts and Recreation Services,2,4524,Sportspersons
+R,Arts and Recreation Services,3,4521,Fitness Instructors
+R,Arts and Recreation Services,4,1491,"Amusement, Fitness and Sports Centre Managers"
+R,Arts and Recreation Services,5,5421,Receptionists
+R,Arts and Recreation Services,6,2112,Music Professionals
+R,Arts and Recreation Services,7,2114,Visual Arts and Crafts Professionals
+R,Arts and Recreation Services,8,3622,Gardeners
+R,Arts and Recreation Services,9,1399,Other Specialist Managers
+R,Arts and Recreation Services,10,2111,"Actors, Dancers and Other Entertainers"
+S,Other Services,1,3212,Motor Mechanics
+S,Other Services,2,3911,Hairdressers
+S,Other Services,3,4511,Beauty Therapists
+S,Other Services,4,3232,Metal Fitters and Machinists
+S,Other Services,5,4518,Other Personal Service Workers
+S,Other Services,6,3611,Animal Attendants and Trainers
+S,Other Services,7,4521,Fitness Instructors
+S,Other Services,8,3421,Airconditioning and Refrigeration Mechanics
+S,Other Services,9,2722,Ministers of Religion
+S,Other Services,10,8115,Laundry Workers

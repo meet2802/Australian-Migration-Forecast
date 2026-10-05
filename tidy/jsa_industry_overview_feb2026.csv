@@ -1,0 +1,21 @@
+anzsic_division,industry,employed_feb2026,female_share_pct,part_time_share_pct,median_weekly_earnings,workforce_share_pct,median_age
+A,"Agriculture, Forestry and Fishing",292200.0,32.0,28.0,1358,2.0,51.0
+B,Mining,314500.0,20.0,5.0,2832,2.1,42.0
+C,Manufacturing,868100.0,30.0,17.0,1654,5.9,43.0
+D,"Electricity, Gas, Water and Waste Services",216300.0,28.0,10.0,2134,1.5,41.0
+E,Construction,1371500.0,13.0,14.0,1600,9.3,37.0
+F,Wholesale Trade,328900.0,32.0,17.0,1588,2.2,43.0
+G,Retail Trade,1338300.0,55.0,50.0,1300,9.1,33.0
+H,Accommodation and Food Services,967200.0,52.0,61.0,1300,6.5,26.0
+I,"Transport, Postal and Warehousing",754500.0,22.0,23.0,1608,5.1,43.0
+J,Information Media and Telecommunications,178100.0,41.0,22.0,1875,1.2,38.0
+K,Financial and Insurance Services,546000.0,52.0,14.0,2163,3.7,41.0
+L,"Rental, Hiring and Real Estate Services",226200.0,48.0,24.0,1700,1.5,42.0
+M,"Professional, Scientific and Technical Services",1401200.0,44.0,20.0,2071,9.5,40.0
+N,Administrative and Support Services,434200.0,52.0,40.0,1494,2.9,41.0
+O,Public Administration and Safety,976200.0,50.0,15.0,1913,6.6,42.0
+P,Education and Training,1318100.0,70.0,39.0,1903,8.9,42.0
+Q,Health Care and Social Assistance,2409000.0,76.0,43.0,1689,16.3,40.0
+R,Arts and Recreation Services,262700.0,48.0,48.0,1713,1.8,35.0
+S,Other Services,579900.0,44.0,33.0,1400,3.9,38.0
+All,All Industries,,,,1741,,

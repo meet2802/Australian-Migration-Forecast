@@ -1,0 +1,36 @@
+Data, text and charts licence
+
+Copyright (c) 2026 Meet Sharma
+
+The data, text and charts in this repository are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+This covers:
+- the tables in tidy/
+- the tables (CSV) and check files (JSON) the pipeline writes to analysis/
+- data_inventory.csv
+- dashboard/data/, dashboard/downloads/, dashboard/content/ and dashboard/figures.csv
+- the words and charts the dashboard shows, and review-screenshots/
+
+The code (the Python scripts and extraction settings in analysis/, the
+dashboard's HTML, JavaScript and CSS, and the tests) is under the MIT licence
+in LICENSE. D3 and Scrollama in dashboard/vendor/ keep their own licences.
+
+You may share and adapt this material for any purpose, including
+commercially, as long as you give credit, link to the licence and say if you
+made changes. Suggested credit:
+
+  Meet Sharma, Migration Skills Forecast (2026), CC BY 4.0.
+  https://github.com/meet2802/migration-skills-forecast
+
+Source data
+
+The tables are built from data published by others, and that data stays under
+its publishers' terms. When you reuse a table, credit the original source as
+well: each chart names it, and data_inventory.csv lists every source file.
+The Australian Bureau of Statistics and Jobs and Skills Australia publish under
+CC BY 4.0 (Jobs and Skills Australia asks for "© Commonwealth of Australia").
+Check the terms of the other sources (Home Affairs, NCVER, the Department of
+Education, the Treasury, the World Bank, the UK Office for National Statistics,
+Statistics Canada and the US Census Bureau) before reusing their data.

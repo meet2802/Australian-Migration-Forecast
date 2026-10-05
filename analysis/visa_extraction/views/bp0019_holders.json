@@ -1,0 +1,3 @@
+{
+ "bp0019_temporary_visa_holders": {"dims": ["Snapshot Date","Visa Category","Visa Subclass","Visa Type","Applicant Type"], "measures": ["Visa Holders"]}
+}

@@ -1,0 +1,7 @@
+{
+ "skilled_holders_occupation_state": {"dims": ["Snapshot Date","Applicant Type","Visa Subclass","Visa Type","Visa Sub-type","Nominated Position Location (State)","Nominated Occupation (Unit Group)","Nominated Occupation (Skill Level)"], "measures": ["Total"]},
+ "skilled_holders_occupation6_national": {"dims": ["Snapshot Date","Applicant Type","Visa Type","Nominated Occupation","Nominated Occupation (Unit Group)","Nominated Occupation (Skill Level)"], "measures": ["Total"]},
+ "skilled_holders_industry_state": {"dims": ["Snapshot Date","Applicant Type","Visa Type","Nominated Position Location (State)","Sponsor Industry"], "measures": ["Total"]},
+ "skilled_holders_region": {"dims": ["Snapshot Date","Applicant Type","Nominated Position Location (State)","Nominated Position Location (Statistical Area Level 4)","Nominated Position Location (Statistical Area Level 3)","Nominated Occupation (Major Group)"], "measures": ["Total"]},
+ "skilled_holders_age_gender": {"dims": ["Snapshot Date","Applicant Type","Gender","Age Group"], "measures": ["Total"]}
+}

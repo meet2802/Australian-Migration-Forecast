@@ -1,0 +1,3 @@
+{
+ "bp0016_temporary_graduate_lodged": {"dims": ["Financial Year of Visa Lodged","Financial Year Quarter","Month","Visa Subclass","Applicant Type","Gender","Visa Type","Visa Sub-type"], "measures": ["Total"]}
+}

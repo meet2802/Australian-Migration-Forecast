@@ -1,0 +1,41 @@
+{
+ "nero_latest_month": "2026-08",
+ "snapshot_years": [
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "sa4_count": 88,
+ "region_types": {
+  "Capital city": 46,
+  "Rest of state": 42
+ },
+ "nero_total_latest": 14748203.0,
+ "ivi_latest_month": "2026-08",
+ "ivi_sa4_regions": 42,
+ "visa_reference": {
+  "grants_fy": "2025-26",
+  "holders_snapshot": "2026-06-30"
+ },
+ "visa_sa4_names_not_in_nero": [
+  "Not Specified",
+  "Other Territories"
+ ],
+ "visa_holders_matched_share_pct": 99.83,
+ "nero_sa4_without_visa_records": [],
+ "occupation_rows": 31240,
+ "files": {
+  "jsa_nero_sa4_occupation_snapshots.csv": "jsa_nero_sa4_occupation_snapshots.csv.gz",
+  "jsa_ivi_regions_monthly.csv": "jsa_ivi_regions_monthly.csv.gz",
+  "region_skills_sa4.csv": "region_skills_sa4.csv",
+  "region_occupation_sa4.csv": "region_occupation_sa4.csv"
+ }
+}

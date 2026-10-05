@@ -1,0 +1,215 @@
+anzsic_division,industry,sector,employed_feb2026
+A,"Agriculture, Forestry and Fishing","Sheep, Beef Cattle and Grain Farming",121100
+A,"Agriculture, Forestry and Fishing",Fruit and Tree Nut Growing,24600
+A,"Agriculture, Forestry and Fishing",Agriculture and Fishing Support Services,23400
+A,"Agriculture, Forestry and Fishing",Mushroom and Vegetable Growing,15700
+A,"Agriculture, Forestry and Fishing",Nursery and Floriculture Production,13400
+A,"Agriculture, Forestry and Fishing",Dairy Cattle Farming,10600
+A,"Agriculture, Forestry and Fishing",Other Livestock Farming,9500
+A,"Agriculture, Forestry and Fishing",Other Crop Growing,7100
+A,"Agriculture, Forestry and Fishing",Poultry Farming,6600
+A,"Agriculture, Forestry and Fishing",Forestry and Logging,6000
+A,"Agriculture, Forestry and Fishing",Aquaculture,5300
+A,"Agriculture, Forestry and Fishing",Forestry Support Services,4000
+A,"Agriculture, Forestry and Fishing",Fishing,3700
+A,"Agriculture, Forestry and Fishing",Hunting and Trapping,800
+A,"Agriculture, Forestry and Fishing",Deer Farming,100
+B,Mining,Metal Ore Mining,134100
+B,Mining,Other Mining Support Services,51600
+B,Mining,Coal Mining,45900
+B,Mining,Exploration,25700
+B,Mining,Oil and Gas Extraction,24100
+B,Mining,Other Non-Metallic Mineral Mining and Quarrying,9500
+B,Mining,Construction Material Mining,5200
+C,Manufacturing,Bakery Product Manufacturing,63200
+C,Manufacturing,Meat and Meat Product Manufacturing,46400
+C,Manufacturing,Furniture Manufacturing,40800
+C,Manufacturing,Other Manufacturing,38000
+C,Manufacturing,Motor Vehicle and Motor Vehicle Part Manufacturing,37900
+C,Manufacturing,Other Transport Equipment Manufacturing,31900
+C,Manufacturing,Structural Metal Product Manufacturing,29700
+C,Manufacturing,Beverage Manufacturing,29300
+C,Manufacturing,Other Fabricated Metal Product Manufacturing,29100
+C,Manufacturing,Other Wood Product Manufacturing,26400
+C,Manufacturing,Pharmaceutical and Medicinal Product Manufacturing,26200
+C,Manufacturing,Professional and Scientific Equipment Manufacturing,25700
+C,Manufacturing,Other Machinery and Equipment Manufacturing,24300
+C,Manufacturing,Basic Ferrous Metal Manufacturing,23800
+C,Manufacturing,Other Food Product Manufacturing,23500
+C,Manufacturing,Specialised Machinery and Equipment Manufacturing,23400
+C,Manufacturing,Polymer Product Manufacturing,22900
+C,Manufacturing,Printing and Printing Support Services,22700
+C,Manufacturing,Basic Non-Ferrous Metal Manufacturing,20000
+C,Manufacturing,Dairy Product Manufacturing,17700
+C,Manufacturing,Electrical Equipment Manufacturing,17700
+C,Manufacturing,Computer and Electronic Equipment Manufacturing,17000
+C,Manufacturing,Clothing and Footwear Manufacturing,15500
+C,Manufacturing,Textile Product Manufacturing,12000
+C,Manufacturing,"Cement, Lime, Plaster and Concrete Product Manufacturing",11500
+C,Manufacturing,Metal Container Manufacturing,9900
+C,Manufacturing,Sugar and Confectionery Manufacturing,9600
+C,Manufacturing,Log Sawmilling and Timber Dressing,9300
+C,Manufacturing,Other Non-Metallic Mineral Product Manufacturing,9100
+C,Manufacturing,Converted Paper Product Manufacturing,8400
+C,Manufacturing,Basic Non-Ferrous Metal Product Manufacturing,7900
+C,Manufacturing,Glass and Glass Product Manufacturing,7500
+C,Manufacturing,Cleaning Compound and Toiletry Preparation Manufacturing,6800
+C,Manufacturing,Petroleum and Coal Product Manufacturing,6500
+C,Manufacturing,Grain Mill and Cereal Product Manufacturing,6300
+C,Manufacturing,"Pulp, Paper and Paperboard Manufacturing",5800
+C,Manufacturing,Basic Chemical Manufacturing,5400
+C,Manufacturing,Fruit and Vegetable Processing,5200
+C,Manufacturing,Sheet Metal Product Manufacturing (except Metal Structural and Container Products),5000
+C,Manufacturing,"Pump, Compressor, Heating and Ventilation Equipment Manufacturing",4900
+C,Manufacturing,Fertiliser and Pesticide Manufacturing,4400
+C,Manufacturing,Domestic Appliance Manufacturing,4100
+C,Manufacturing,Other Basic Chemical Product Manufacturing,3900
+C,Manufacturing,Ceramic Product Manufacturing,3600
+C,Manufacturing,Basic Ferrous Metal Product Manufacturing,3200
+C,Manufacturing,"Leather Tanning, Fur Dressing and Leather Product Manufacturing",2500
+C,Manufacturing,Oil and Fat Manufacturing,1700
+C,Manufacturing,Basic Polymer Manufacturing,1600
+C,Manufacturing,Seafood Processing,1200
+C,Manufacturing,Textile Manufacturing,1100
+C,Manufacturing,Iron and Steel Forging,1100
+C,Manufacturing,Natural Rubber Product Manufacturing,800
+C,Manufacturing,Reproduction of Recorded Media,700
+C,Manufacturing,Knitted Product Manufacturing,200
+C,Manufacturing,Cigarette and Tobacco Product Manufacturing,100
+D,"Electricity, Gas, Water and Waste Services","Water Supply, Sewerage and Drainage Services",42200
+D,"Electricity, Gas, Water and Waste Services",Electricity Distribution,32100
+D,"Electricity, Gas, Water and Waste Services",Electricity Generation,32000
+D,"Electricity, Gas, Water and Waste Services",Waste Collection Services,27100
+D,"Electricity, Gas, Water and Waste Services","Waste Treatment, Disposal and Remediation Services",15900
+D,"Electricity, Gas, Water and Waste Services",Gas Supply,11000
+D,"Electricity, Gas, Water and Waste Services",On Selling Electricity and Electricity Market Operation,8900
+D,"Electricity, Gas, Water and Waste Services",Electricity Transmission,7800
+E,Construction,Building Installation Services,324900
+E,Construction,Building Completion Services,216000
+E,Construction,Residential Building Construction,166100
+E,Construction,Other Construction Services,139100
+E,Construction,Heavy and Civil Engineering Construction,128400
+E,Construction,Building Structure Services,108900
+E,Construction,Non-Residential Building Construction,80000
+E,Construction,Land Development and Site Preparation Services,58000
+F,Wholesale Trade,Other Machinery and Equipment Wholesaling,58900
+F,Wholesale Trade,"Grocery, Liquor and Tobacco Product Wholesaling",56300
+F,Wholesale Trade,"Furniture, Floor Covering and Other Goods Wholesaling",38700
+F,Wholesale Trade,Timber and Hardware Goods Wholesaling,35400
+F,Wholesale Trade,Specialised Industrial Machinery and Equipment Wholesaling,30100
+F,Wholesale Trade,"Mineral, Metal and Chemical Wholesaling",27900
+F,Wholesale Trade,Motor Vehicle and Motor Vehicle Parts Wholesaling,23500
+F,Wholesale Trade,Agricultural Product Wholesaling,20500
+F,Wholesale Trade,Pharmaceutical and Toiletry Goods Wholesaling,20500
+F,Wholesale Trade,"Textile, Clothing and Footwear Wholesaling",11300
+F,Wholesale Trade,Commission-Based Wholesaling,6400
+G,Retail Trade,Supermarket and Grocery Stores,321100
+G,Retail Trade,Pharmaceutical and Other Store-Based Retailing,222800
+G,Retail Trade,"Clothing, Footwear and Personal Accessory Retailing",149000
+G,Retail Trade,Specialised Food Retailing,109000
+G,Retail Trade,"Hardware, Building and Garden Supplies Retailing",101700
+G,Retail Trade,Department Stores,80100
+G,Retail Trade,Motor Vehicle Retailing,68500
+G,Retail Trade,Electrical and Electronic Goods Retailing,56400
+G,Retail Trade,"Furniture, Floor Coverings, Houseware and Textile Goods Retailing",55100
+G,Retail Trade,Recreational Goods Retailing,49100
+G,Retail Trade,Fuel Retailing,38900
+G,Retail Trade,Motor Vehicle Parts and Tyre Retailing,28900
+G,Retail Trade,Non-Store Retailing,24700
+G,Retail Trade,Retail Commission-Based Buying and/or Selling,900
+H,Accommodation and Food Services,"Cafes, Restaurants and Takeaway Food Services",696600
+H,Accommodation and Food Services,"Pubs, Taverns and Bars",106400
+H,Accommodation and Food Services,Accommodation,100800
+H,Accommodation and Food Services,Clubs (Hospitality),55000
+I,"Transport, Postal and Warehousing",Road Freight Transport,201400
+I,"Transport, Postal and Warehousing",Warehousing and Storage Services,122300
+I,"Transport, Postal and Warehousing",Postal and Courier Pick-up and Delivery Services,93800
+I,"Transport, Postal and Warehousing",Road Passenger Transport,91600
+I,"Transport, Postal and Warehousing",Other Transport Support Services,70000
+I,"Transport, Postal and Warehousing",Air and Space Transport,51700
+I,"Transport, Postal and Warehousing",Water Transport Support Services,20400
+I,"Transport, Postal and Warehousing",Airport Operations and Other Air Transport Support Services,19500
+I,"Transport, Postal and Warehousing",Rail Passenger Transport,13200
+I,"Transport, Postal and Warehousing",Scenic and Sightseeing Transport,7100
+I,"Transport, Postal and Warehousing",Rail Freight Transport,6200
+I,"Transport, Postal and Warehousing",Water Freight Transport,3900
+I,"Transport, Postal and Warehousing",Water Passenger Transport,3600
+I,"Transport, Postal and Warehousing",Pipeline and Other Transport,1300
+J,Information Media and Telecommunications,Telecommunications Services,68900
+J,Information Media and Telecommunications,Motion Picture and Video Activities,34300
+J,Information Media and Telecommunications,Television Broadcasting,21300
+J,Information Media and Telecommunications,Libraries and Archives,18100
+J,Information Media and Telecommunications,"Newspaper, Periodical, Book and Directory Publishing",14800
+J,Information Media and Telecommunications,Radio Broadcasting,7100
+J,Information Media and Telecommunications,"Data Processing, Web Hosting and Electronic Information Storage Services",3700
+J,Information Media and Telecommunications,Internet Service Providers and Web Search Portals,3000
+J,Information Media and Telecommunications,Internet Publishing and Broadcasting,2400
+J,Information Media and Telecommunications,Sound Recording and Music Publishing,2400
+J,Information Media and Telecommunications,Other Information Services,100
+J,Information Media and Telecommunications,Software Publishing,100
+K,Financial and Insurance Services,Depository Financial Intermediation,190400
+K,Financial and Insurance Services,Auxiliary Finance and Investment Services,164400
+K,Financial and Insurance Services,Health and General Insurance,108300
+K,Financial and Insurance Services,Auxiliary Insurance Services,26600
+K,Financial and Insurance Services,Superannuation Funds,17900
+K,Financial and Insurance Services,Financial Asset Investing,13700
+K,Financial and Insurance Services,Life Insurance,6800
+K,Financial and Insurance Services,Non-Depository Financing,4700
+K,Financial and Insurance Services,Central Banking,2400
+L,"Rental, Hiring and Real Estate Services",Real Estate Services,147500
+L,"Rental, Hiring and Real Estate Services",Property Operators,38400
+L,"Rental, Hiring and Real Estate Services",Other Goods and Equipment Rental and Hiring,26600
+L,"Rental, Hiring and Real Estate Services",Motor Vehicle and Transport Equipment Rental and Hiring,12300
+L,"Rental, Hiring and Real Estate Services",Non-Financial Intangible Assets (Except Copyrights) Leasing,100
+L,"Rental, Hiring and Real Estate Services",Farm Animal and Bloodstock Leasing,100
+M,"Professional, Scientific and Technical Services",Computer System Design and Related Services,376100
+M,"Professional, Scientific and Technical Services",Legal and Accounting Services,339000
+M,"Professional, Scientific and Technical Services","Architectural, Engineering and Technical Services",337100
+M,"Professional, Scientific and Technical Services",Management and Related Consulting Services,135400
+M,"Professional, Scientific and Technical Services",Scientific Research Services,59400
+M,"Professional, Scientific and Technical Services",Market Research and Statistical Services,45700
+M,"Professional, Scientific and Technical Services",Veterinary Services,41500
+M,"Professional, Scientific and Technical Services","Other Professional, Scientific and Technical Services",37400
+M,"Professional, Scientific and Technical Services",Advertising Services,30900
+N,Administrative and Support Services,"Building Cleaning, Pest Control and Gardening Services",224100
+N,Administrative and Support Services,Employment Services,81800
+N,Administrative and Support Services,Other Administrative Services,79400
+N,Administrative and Support Services,Travel Agency and Tour Arrangement Services,40900
+N,Administrative and Support Services,Packaging Services,9800
+O,Public Administration and Safety,Public Order and Safety Services,257300
+O,Public Administration and Safety,State Government Administration,251600
+O,Public Administration and Safety,Central Government Administration,195000
+O,Public Administration and Safety,Local Government Administration,152100
+O,Public Administration and Safety,Defence,49500
+O,Public Administration and Safety,Justice,30800
+O,Public Administration and Safety,Regulatory Services,13300
+O,Public Administration and Safety,Government Representation,1500
+P,Education and Training,School Education,663600
+P,Education and Training,Tertiary Education,282500
+P,Education and Training,"Adult, Community and Other Education",242600
+P,Education and Training,Preschool Education,112900
+P,Education and Training,Educational Support Services,8600
+Q,Health Care and Social Assistance,Hospitals,645000
+Q,Health Care and Social Assistance,Other Social Assistance Services,543700
+Q,Health Care and Social Assistance,Allied Health Services,337800
+Q,Health Care and Social Assistance,Residential Care Services,293100
+Q,Health Care and Social Assistance,Medical Services,239500
+Q,Health Care and Social Assistance,Child Care Services,176300
+Q,Health Care and Social Assistance,Pathology and Diagnostic Imaging Services,71400
+Q,Health Care and Social Assistance,Other Health Care Services,62200
+R,Arts and Recreation Services,Sports and Physical Recreation Activities,119000
+R,Arts and Recreation Services,Creative and Performing Arts Activities,53600
+R,Arts and Recreation Services,Parks and Gardens Operations,25600
+R,Arts and Recreation Services,Gambling Activities,24500
+R,Arts and Recreation Services,Amusement and Other Recreation Activities,18800
+R,Arts and Recreation Services,Horse and Dog Racing Activities,10600
+R,Arts and Recreation Services,Museum Operation,10200
+S,Other Services,Automotive Repair and Maintenance,168500
+S,Other Services,Personal Care Services,127100
+S,Other Services,Machinery and Equipment Repair and Maintenance,79800
+S,Other Services,Other Personal Services,79500
+S,Other Services,"Civic, Professional and Other Interest Group Services",44300
+S,Other Services,Religious Services,35300
+S,Other Services,Other Repair and Maintenance,9900
+S,Other Services,"Funeral, Crematorium and Cemetery Services",8700
+S,Other Services,Private Households Employing Staff and Undifferentiated Goods and Service-Producing Activities of Households for Own Use,2400

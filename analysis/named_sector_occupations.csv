@@ -1,0 +1,661 @@
+sector_id,sector_name,unit_group_code,occupation,not_further_defined,in_jsa_projections,assignment,share_of_code_pct,employed_may2025_in_sector,comparison_group,main_industry,main_industry_share_pct
+nurses,Nurses and midwives,2541,Midwives,False,True,Assigned,100.0,21274,2541,Health Care and Social Assistance,97.2
+nurses,Nurses and midwives,2542,Nurse Educators and Researchers,False,True,Assigned,100.0,8826,2542,Health Care and Social Assistance,77.7
+nurses,Nurses and midwives,2543,Nurse Managers,False,True,Assigned,100.0,21871,2543,Health Care and Social Assistance,92.5
+nurses,Nurses and midwives,2544,Registered Nurses,False,True,Assigned,100.0,363766,2544,Health Care and Social Assistance,94.2
+nurses,Nurses and midwives,4114,Enrolled and Mothercraft Nurses,False,True,Assigned,100.0,22104,4114,Health Care and Social Assistance,93.0
+nurses,Nurses and midwives,2000,Professionals nfd,True,True,Shared by employment (nfd),11.1,2394,2000,,
+nurses,Nurses and midwives,2500,Health Professionals nfd,True,True,Shared by employment (nfd),48.8,146,2500,,
+nurses,Nurses and midwives,2540,Midwifery and Nursing Professionals nfd,True,True,Shared by employment (nfd),100.0,137,2540,,
+nurses,Nurses and midwives,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),1.3,2,4000,,
+nurses,Nurses and midwives,4110,Health and Welfare Support Workers nfd,True,True,Shared by employment (nfd),12.2,66,4110,,
+doctors,Doctors,2531,General Practitioners and Resident Medical Officers,False,True,Assigned,100.0,89006,G253,Health Care and Social Assistance,96.2
+doctors,Doctors,2532,Anaesthetists,False,True,Assigned,100.0,7077,G253,Health Care and Social Assistance,98.9
+doctors,Doctors,2533,Specialist Physicians,False,True,Assigned,100.0,16101,G253,Health Care and Social Assistance,96.9
+doctors,Doctors,2534,Psychiatrists,False,True,Assigned,100.0,6410,G253,Health Care and Social Assistance,96.4
+doctors,Doctors,2535,Surgeons,False,True,Assigned,100.0,10452,G253,Health Care and Social Assistance,97.1
+doctors,Doctors,2539,Other Medical Practitioners,False,True,Assigned,100.0,21691,G253,Health Care and Social Assistance,97.2
+doctors,Doctors,2000,Professionals nfd,True,True,Shared by employment (nfd),4.0,868,2000,,
+doctors,Doctors,2500,Health Professionals nfd,True,True,Shared by employment (nfd),17.7,53,2500,,
+doctors,Doctors,2530,Medical Practitioners nfd,True,True,Shared by employment (nfd),100.0,2333,G253,,
+other_health,Other health workers,1342,Health and Welfare Services Managers,False,True,Assigned,100.0,44254,1342,Health Care and Social Assistance,82.2
+other_health,Other health workers,2346,Medical Laboratory Scientists,False,True,Assigned,100.0,32346,2346,Health Care and Social Assistance,53.3
+other_health,Other health workers,2511,Nutrition Professionals,False,True,Assigned,100.0,10876,2511,Health Care and Social Assistance,83.0
+other_health,Other health workers,2512,Medical Imaging Professionals,False,True,Assigned,100.0,22918,2512,Health Care and Social Assistance,97.1
+other_health,Other health workers,2514,Optometrists and Orthoptists,False,True,Assigned,100.0,10047,2514,Health Care and Social Assistance,94.3
+other_health,Other health workers,2515,Pharmacists,False,True,Assigned,100.0,41985,2515,Retail Trade,68.3
+other_health,Other health workers,2519,Other Health Diagnostic and Promotion Professionals,False,True,Assigned,100.0,10444,2519,Health Care and Social Assistance,86.1
+other_health,Other health workers,2521,Chiropractors and Osteopaths,False,True,Assigned,100.0,8936,2521,Health Care and Social Assistance,96.8
+other_health,Other health workers,2522,Complementary Health Therapists,False,True,Assigned,100.0,9489,2522,Health Care and Social Assistance,82.3
+other_health,Other health workers,2523,Dental Practitioners,False,True,Assigned,100.0,24458,2523,Health Care and Social Assistance,96.3
+other_health,Other health workers,2524,Occupational Therapists,False,True,Assigned,100.0,31285,2524,Health Care and Social Assistance,91.0
+other_health,Other health workers,2525,Physiotherapists,False,True,Assigned,100.0,46980,2525,Health Care and Social Assistance,94.6
+other_health,Other health workers,2526,Podiatrists,False,True,Assigned,100.0,6144,2526,Health Care and Social Assistance,97.3
+other_health,Other health workers,2527,Audiologists and Speech Pathologists \ Therapists,False,True,Assigned,100.0,22103,2527,Health Care and Social Assistance,82.9
+other_health,Other health workers,2723,Psychologists,False,True,Assigned,100.0,51199,2723,Health Care and Social Assistance,72.1
+other_health,Other health workers,3112,Medical Technicians,False,True,Assigned,100.0,41937,G311,Health Care and Social Assistance,71.2
+other_health,Other health workers,4111,Ambulance Officers and Paramedics,False,True,Assigned,100.0,28154,4111,Health Care and Social Assistance,94.0
+other_health,Other health workers,4112,"Dental Hygienists, Technicians and Therapists",False,True,Assigned,100.0,7542,4112,Health Care and Social Assistance,84.1
+other_health,Other health workers,4115,Indigenous Health Workers,False,True,Assigned,100.0,1193,4115,Health Care and Social Assistance,73.8
+other_health,Other health workers,4116,Massage Therapists,False,True,Assigned,100.0,19473,4116,Health Care and Social Assistance,89.0
+other_health,Other health workers,4232,Dental Assistants,False,True,Assigned,100.0,26128,4232,Health Care and Social Assistance,96.3
+other_health,Other health workers,1000,Managers nfd,True,True,Shared by employment (nfd),2.4,148,1000,,
+other_health,Other health workers,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),4.4,215,1300,,
+other_health,Other health workers,1340,"Education, Health and Welfare Services Managers nfd",True,True,Shared by employment (nfd),41.0,45,1340,,
+other_health,Other health workers,2000,Professionals nfd,True,True,Shared by employment (nfd),8.8,1896,2000,,
+other_health,Other health workers,2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),6.3,6,2300,,
+other_health,Other health workers,2340,Natural and Physical Science Professionals nfd,True,True,Shared by employment (nfd),23.8,1985,2340,,
+other_health,Other health workers,2500,Health Professionals nfd,True,True,Shared by employment (nfd),28.8,86,2500,,
+other_health,Other health workers,2510,Health Diagnostic and Promotion Professionals nfd,True,True,Shared by employment (nfd),70.6,83,2510,,
+other_health,Other health workers,2520,Health Therapy Professionals nfd,True,True,Shared by employment (nfd),100.0,224,2520,,
+other_health,Other health workers,2700,"Legal, Social and Welfare Professionals nfd",True,True,Shared by employment (nfd),15.4,22,2700,,
+other_health,Other health workers,2720,Social and Welfare Professionals nfd,True,True,Shared by employment (nfd),24.3,30,2720,,
+other_health,Other health workers,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),2.1,182,3000,,
+other_health,Other health workers,3100,"Engineering, ICT and Science Technicians nfd",True,True,Shared by employment (nfd),13.1,291,3100,,
+other_health,Other health workers,3110,"Agricultural, Medical and Science Technicians nfd",True,True,Shared by employment (nfd),59.2,185,G311,,
+other_health,Other health workers,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),4.8,7,4000,,
+other_health,Other health workers,4110,Health and Welfare Support Workers nfd,True,True,Shared by employment (nfd),31.0,169,4110,,
+other_health,Other health workers,4200,Carers and Aides nfd,True,True,Shared by employment (nfd),3.2,153,4200,,
+other_health,Other health workers,4230,Personal Carers and Assistants nfd,True,True,Shared by employment (nfd),5.1,42,4230,,
+aged_disability,Aged and disability care,4113,Diversional Therapists,False,True,Assigned,100.0,6624,4113,Health Care and Social Assistance,90.9
+aged_disability,Aged and disability care,4231,Aged and Disabled Carers,False,True,Assigned,100.0,370154,4231,Health Care and Social Assistance,89.4
+aged_disability,Aged and disability care,4233,Nursing Support and Personal Care Workers,False,True,Assigned,100.0,115049,4233,Health Care and Social Assistance,94.0
+aged_disability,Aged and disability care,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),28.7,42,4000,,
+aged_disability,Aged and disability care,4110,Health and Welfare Support Workers nfd,True,True,Shared by employment (nfd),3.6,20,4110,,
+aged_disability,Aged and disability care,4200,Carers and Aides nfd,True,True,Shared by employment (nfd),59.0,2837,4200,,
+aged_disability,Aged and disability care,4230,Personal Carers and Assistants nfd,True,True,Shared by employment (nfd),94.1,787,4230,,
+child_care,Child care,1341,Child Care Centre Managers,False,True,Assigned,100.0,18859,1341,Health Care and Social Assistance,52.7
+child_care,Child care,4211,Child Carers,False,True,Assigned,100.0,172417,4211,Health Care and Social Assistance,54.0
+child_care,Child care,1000,Managers nfd,True,True,Shared by employment (nfd),1.0,63,1000,,
+child_care,Child care,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),1.9,92,1300,,
+child_care,Child care,1340,"Education, Health and Welfare Services Managers nfd",True,True,Shared by employment (nfd),17.5,19,1340,,
+child_care,Child care,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),10.1,15,4000,,
+child_care,Child care,4200,Carers and Aides nfd,True,True,Shared by employment (nfd),21.0,1008,4200,,
+teaching,Teaching and education,1343,School Principals,False,True,Assigned,100.0,28969,1343,Education and Training,96.7
+teaching,Teaching and education,1344,Other Education Managers,False,True,Assigned,100.0,15743,1344,Education and Training,85.3
+teaching,Teaching and education,2233,Training and Development Professionals,False,True,Assigned,100.0,31794,2233,Education and Training,32.5
+teaching,Teaching and education,2411,Early Childhood (Pre-primary School) Teachers,False,True,Assigned,100.0,79788,G241,Education and Training,62.8
+teaching,Teaching and education,2412,Primary School Teachers,False,True,Assigned,100.0,168611,G241,Education and Training,98.3
+teaching,Teaching and education,2413,Middle School Teachers,False,True,Assigned,100.0,1162,G241,Education and Training,98.7
+teaching,Teaching and education,2414,Secondary School Teachers,False,True,Assigned,100.0,153486,G241,Education and Training,98.7
+teaching,Teaching and education,2415,Special Education Teachers,False,True,Assigned,100.0,29617,G241,Education and Training,92.3
+teaching,Teaching and education,2421,University Lecturers and Tutors,False,True,Assigned,100.0,63829,2421,Education and Training,98.0
+teaching,Teaching and education,2422,Vocational Education Teachers,False,True,Assigned,100.0,35244,2422,Education and Training,48.5
+teaching,Teaching and education,2491,Education Advisers and Reviewers,False,True,Assigned,100.0,25423,2491,Education and Training,73.0
+teaching,Teaching and education,2492,Private Tutors and Teachers,False,True,Assigned,100.0,45432,2492,Education and Training,90.8
+teaching,Teaching and education,2493,Teachers of English to Speakers of Other Languages,False,True,Assigned,100.0,4228,2493,Education and Training,94.8
+teaching,Teaching and education,4221,Education Aides,False,True,Assigned,100.0,134653,4221,Education and Training,94.8
+teaching,Teaching and education,1000,Managers nfd,True,True,Shared by employment (nfd),2.4,150,1000,,
+teaching,Teaching and education,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),4.4,217,1300,,
+teaching,Teaching and education,1340,"Education, Health and Welfare Services Managers nfd",True,True,Shared by employment (nfd),41.5,45,1340,,
+teaching,Teaching and education,2000,Professionals nfd,True,True,Shared by employment (nfd),17.0,3677,2000,,
+teaching,Teaching and education,2200,"Business, Human Resource and Marketing Professionals nfd",True,True,Shared by employment (nfd),3.4,6,2200,,
+teaching,Teaching and education,2230,Human Resource and Training Professionals nfd,True,True,Shared by employment (nfd),25.6,58,2230,,
+teaching,Teaching and education,2400,Education Professionals nfd,True,True,Shared by employment (nfd),100.0,6397,2400,,
+teaching,Teaching and education,2410,School Teachers nfd,True,True,Shared by employment (nfd),100.0,100530,G241,,
+teaching,Teaching and education,2420,Tertiary Education Teachers nfd,True,True,Shared by employment (nfd),100.0,931,2420,,
+teaching,Teaching and education,2490,Miscellaneous Education Professionals nfd,True,True,Shared by employment (nfd),100.0,506,2490,,
+teaching,Teaching and education,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),7.9,12,4000,,
+teaching,Teaching and education,4200,Carers and Aides nfd,True,True,Shared by employment (nfd),16.4,787,4200,,
+community,Community and social services,2721,Counsellors,False,True,Assigned,100.0,34045,2721,Health Care and Social Assistance,47.5
+community,Community and social services,2722,Ministers of Religion,False,True,Assigned,100.0,19451,2722,Other Services,77.3
+community,Community and social services,2724,Social Professionals,False,True,Assigned,100.0,15797,2724,"Professional, Scientific and Technical Services",45.1
+community,Community and social services,2725,Social Workers,False,True,Assigned,100.0,49846,2725,Health Care and Social Assistance,73.9
+community,Community and social services,2726,"Welfare, Recreation and Community Arts Workers",False,True,Assigned,100.0,40451,2726,Health Care and Social Assistance,59.1
+community,Community and social services,4117,Welfare Support Workers,False,True,Assigned,100.0,96486,4117,Health Care and Social Assistance,57.8
+community,Community and social services,4234,Special Care Workers,False,True,Assigned,100.0,4156,4234,Education and Training,46.8
+community,Community and social services,2000,Professionals nfd,True,True,Shared by employment (nfd),4.2,919,2000,,
+community,Community and social services,2700,"Legal, Social and Welfare Professionals nfd",True,True,Shared by employment (nfd),48.0,69,2700,,
+community,Community and social services,2720,Social and Welfare Professionals nfd,True,True,Shared by employment (nfd),75.7,95,2720,,
+community,Community and social services,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),5.9,9,4000,,
+community,Community and social services,4110,Health and Welfare Support Workers nfd,True,True,Shared by employment (nfd),53.1,290,4110,,
+community,Community and social services,4200,Carers and Aides nfd,True,True,Shared by employment (nfd),0.5,24,4200,,
+community,Community and social services,4230,Personal Carers and Assistants nfd,True,True,Shared by employment (nfd),0.8,7,4230,,
+police_security,"Police, fire and security",1391,Commissioned Officers (Management),False,True,Assigned,100.0,4372,1391,Public Administration and Safety,97.2
+police_security,"Police, fire and security",1392,Senior Non-commissioned Defence Force Members,False,True,Assigned,100.0,257,1392,Public Administration and Safety,98.3
+police_security,"Police, fire and security",4411,Defence Force Members - Other Ranks,False,True,Assigned,100.0,4066,4411,Public Administration and Safety,97.2
+police_security,"Police, fire and security",4412,Fire and Emergency Workers,False,True,Assigned,100.0,17137,4412,Public Administration and Safety,81.9
+police_security,"Police, fire and security",4413,Police,False,True,Assigned,100.0,67454,4413,Public Administration and Safety,99.0
+police_security,"Police, fire and security",4421,Prison Officers,False,True,Assigned,100.0,18553,4421,Public Administration and Safety,96.6
+police_security,"Police, fire and security",4422,Security Officers and Guards,False,True,Assigned,100.0,65264,4422,Public Administration and Safety,69.0
+police_security,"Police, fire and security",1000,Managers nfd,True,True,Shared by employment (nfd),0.3,15,1000,,
+police_security,"Police, fire and security",1300,Specialist Managers nfd,True,True,Shared by employment (nfd),0.5,23,1300,,
+police_security,"Police, fire and security",1390,Miscellaneous Specialist Managers nfd,True,True,Shared by employment (nfd),6.3,12,1390,,
+police_security,"Police, fire and security",4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),10.1,15,4000,,
+police_security,"Police, fire and security",4400,Protective Service Workers nfd,True,True,Shared by employment (nfd),100.0,145,4400,,
+police_security,"Police, fire and security",4410,"Defence Force Members, Fire Fighters and Police nfd",True,True,Shared by employment (nfd),100.0,101,4410,,
+police_security,"Police, fire and security",4420,Prison and Security Officers nfd,True,True,Shared by employment (nfd),100.0,101,4420,,
+construction,Building and construction,1331,Construction Managers,False,True,Assigned,100.0,128188,1331,Construction,75.2
+construction,Building and construction,2321,Architects and Landscape Architects,False,True,Assigned,100.0,30932,2321,"Professional, Scientific and Technical Services",83.7
+construction,Building and construction,2322,Surveyors and Spatial Scientists,False,True,Assigned,100.0,19559,2322,"Professional, Scientific and Technical Services",45.5
+construction,Building and construction,2326,Urban and Regional Planners,False,True,Assigned,100.0,20525,2326,Public Administration and Safety,51.1
+construction,Building and construction,3121,"Architectural, Building and Surveying Technicians",False,True,Assigned,100.0,84203,3121,Construction,56.1
+construction,Building and construction,3126,Safety Inspectors,False,True,Assigned,100.0,7383,3126,Public Administration and Safety,32.6
+construction,Building and construction,3311,Bricklayers and Stonemasons,False,True,Assigned,100.0,26586,3311,Construction,80.5
+construction,Building and construction,3312,Carpenters and Joiners,False,True,Assigned,100.0,149259,3312,Construction,89.4
+construction,Building and construction,3321,Floor Finishers,False,True,Assigned,100.0,10865,3321,Construction,83.9
+construction,Building and construction,3322,Painting Trades Workers,False,True,Assigned,100.0,53822,3322,Construction,90.8
+construction,Building and construction,3331,Glaziers,False,True,Assigned,100.0,8343,3331,Construction,73.6
+construction,Building and construction,3332,Plasterers,False,True,Assigned,100.0,31431,3332,Construction,94.0
+construction,Building and construction,3333,Roof Tilers,False,True,Assigned,100.0,10272,3333,Construction,93.6
+construction,Building and construction,3334,Wall and Floor Tilers,False,True,Assigned,100.0,21093,3334,Construction,94.9
+construction,Building and construction,3341,Plumbers,False,True,Assigned,100.0,103573,3341,Construction,89.0
+construction,Building and construction,3411,Electricians,False,True,Assigned,100.0,194917,3411,Construction,64.4
+construction,Building and construction,3421,Airconditioning and Refrigeration Mechanics,False,True,Assigned,100.0,29234,3421,Construction,46.2
+construction,Building and construction,3422,Electrical Distribution Trades Workers,False,True,Assigned,100.0,11975,3422,"Electricity, Gas, Water and Waste Services",66.3
+construction,Building and construction,3423,Electronics Trades Workers,False,True,Assigned,100.0,30283,3423,Construction,20.7
+construction,Building and construction,7121,"Crane, Hoist and Lift Operators",False,True,Assigned,100.0,15241,7121,Construction,50.2
+construction,Building and construction,7212,Earthmoving Plant Operators,False,True,Assigned,100.0,48644,7212,Construction,65.5
+construction,Building and construction,8211,Building and Plumbing Labourers,False,True,Assigned,100.0,73043,8211,Construction,69.5
+construction,Building and construction,8212,Concreters,False,True,Assigned,100.0,36445,8212,Construction,88.5
+construction,Building and construction,8213,Fencers,False,True,Assigned,100.0,13854,8213,Construction,85.1
+construction,Building and construction,8214,Insulation and Home Improvement Installers,False,True,Assigned,100.0,27349,8214,Construction,75.1
+construction,Building and construction,8215,Paving and Surfacing Labourers,False,True,Assigned,100.0,6908,8215,Construction,58.9
+construction,Building and construction,8216,Railway Track Workers,False,True,Assigned,100.0,5764,8216,Public Administration and Safety,29.6
+construction,Building and construction,8217,Structural Steel Construction Workers,False,True,Assigned,100.0,26377,8217,Construction,74.4
+construction,Building and construction,8219,Other Construction and Mining Labourers,False,True,Assigned,100.0,7896,8219,Mining,27.1
+construction,Building and construction,1000,Managers nfd,True,True,Shared by employment (nfd),7.0,429,1000,,
+construction,Building and construction,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),12.7,623,1300,,
+construction,Building and construction,1330,"Construction, Distribution and Production Managers nfd",True,True,Shared by employment (nfd),39.9,182,1330,,
+construction,Building and construction,2000,Professionals nfd,True,True,Shared by employment (nfd),1.9,409,2000,,
+construction,Building and construction,2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),13.8,14,2300,,
+construction,Building and construction,2320,"Architects, Designers, Planners and Surveyors nfd",True,True,Shared by employment (nfd),44.3,688,2320,,
+construction,Building and construction,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),39.3,3360,3000,,
+construction,Building and construction,3100,"Engineering, ICT and Science Technicians nfd",True,True,Shared by employment (nfd),28.6,636,3100,,
+construction,Building and construction,3120,Building and Engineering Technicians nfd,True,True,Shared by employment (nfd),53.8,1572,3120,,
+construction,Building and construction,3300,Construction Trades Workers nfd,True,True,Shared by employment (nfd),100.0,1836,3300,,
+construction,Building and construction,3310,"Bricklayers, and Carpenters and Joiners nfd",True,True,Shared by employment (nfd),100.0,2774,3310,,
+construction,Building and construction,3320,Floor Finishers and Painting Trades Workers nfd,True,True,Shared by employment (nfd),100.0,102,3320,,
+construction,Building and construction,3330,"Glaziers, Plasterers and Tilers nfd",True,True,Shared by employment (nfd),100.0,106,3330,,
+construction,Building and construction,3400,Electrotechnology and Telecommunications Trades Workers nfd,True,True,Shared by employment (nfd),94.0,1370,3400,,
+construction,Building and construction,3420,Electronics and Telecommunications Trades Workers nfd,True,True,Shared by employment (nfd),80.8,82,3420,,
+construction,Building and construction,7000,Machinery Operators and Drivers nfd,True,True,Shared by employment (nfd),7.2,283,7000,,
+construction,Building and construction,7100,Machine and Stationary Plant Operators nfd,True,True,Shared by employment (nfd),8.8,38,7100,,
+construction,Building and construction,7120,Stationary Plant Operators nfd,True,True,Shared by employment (nfd),11.9,32,7120,,
+construction,Building and construction,7210,Mobile Plant Operators nfd,True,True,Shared by employment (nfd),33.0,998,7210,,
+construction,Building and construction,8000,Labourers nfd,True,True,Shared by employment (nfd),16.7,1083,8000,,
+construction,Building and construction,8210,Construction and Mining Labourers nfd,True,True,Shared by employment (nfd),100.0,272,8210,,
+mechanics_metal,Mechanics and metal trades,3211,Automotive Electricians,False,True,Assigned,100.0,10455,3211,Other Services,57.2
+mechanics_metal,Mechanics and metal trades,3212,Motor Mechanics,False,True,Assigned,100.0,111202,3212,Other Services,54.6
+mechanics_metal,Mechanics and metal trades,3221,"Metal Casting, Forging and Finishing Trades Workers",False,True,Assigned,100.0,2290,G322,Manufacturing,56.3
+mechanics_metal,Mechanics and metal trades,3222,Sheetmetal Trades Workers,False,True,Assigned,100.0,5693,G322,Manufacturing,56.3
+mechanics_metal,Mechanics and metal trades,3223,Structural Steel and Welding Trades Workers,False,True,Assigned,100.0,77184,G322,Manufacturing,48.9
+mechanics_metal,Mechanics and metal trades,3231,Aircraft Maintenance Engineers,False,True,Assigned,100.0,10006,G323,Public Administration and Safety,32.3
+mechanics_metal,Mechanics and metal trades,3232,Metal Fitters and Machinists,False,True,Assigned,100.0,122958,G323,Manufacturing,23.7
+mechanics_metal,Mechanics and metal trades,3233,Precision Metal Trades Workers,False,True,Assigned,100.0,8286,G323,Manufacturing,27.0
+mechanics_metal,Mechanics and metal trades,3234,Toolmakers and Engineering Patternmakers,False,True,Assigned,100.0,4077,G323,Manufacturing,27.0
+mechanics_metal,Mechanics and metal trades,3241,Panelbeaters,False,True,Assigned,100.0,11043,G324,Other Services,92.8
+mechanics_metal,Mechanics and metal trades,3242,Vehicle Body Builders and Trimmers,False,True,Assigned,100.0,6337,G324,Manufacturing,41.2
+mechanics_metal,Mechanics and metal trades,3243,Vehicle Painters,False,True,Assigned,100.0,9808,G324,Other Services,68.4
+mechanics_metal,Mechanics and metal trades,8994,Motor Vehicle Parts and Accessories Fitters,False,True,Assigned,100.0,14259,8994,Other Services,41.5
+mechanics_metal,Mechanics and metal trades,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),19.3,1649,3000,,
+mechanics_metal,Mechanics and metal trades,3200,Automotive and Engineering Trades Workers nfd,True,True,Shared by employment (nfd),100.0,3690,3200,,
+mechanics_metal,Mechanics and metal trades,3210,Automotive Electricians and Mechanics nfd,True,True,Shared by employment (nfd),100.0,414,3210,,
+mechanics_metal,Mechanics and metal trades,3220,Fabrication Engineering Trades Workers nfd,True,True,Shared by employment (nfd),100.0,102,G322,,
+mechanics_metal,Mechanics and metal trades,3230,Mechanical Engineering Trades Workers nfd,True,True,Shared by employment (nfd),100.0,483,G323,,
+mechanics_metal,Mechanics and metal trades,3240,"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters nfd",True,True,Shared by employment (nfd),100.0,774,G324,,
+mechanics_metal,Mechanics and metal trades,8000,Labourers nfd,True,True,Shared by employment (nfd),1.2,78,8000,,
+mechanics_metal,Mechanics and metal trades,8900,Other Labourers nfd,True,True,Shared by employment (nfd),6.0,30,8900,,
+mechanics_metal,Mechanics and metal trades,8990,Miscellaneous Labourers nfd,True,True,Shared by employment (nfd),9.5,57,8990,,
+engineering,Engineering,1332,Engineering Managers,False,True,Assigned,100.0,34760,1332,"Professional, Scientific and Technical Services",29.3
+engineering,Engineering,2331,Chemical and Materials Engineers,False,True,Assigned,100.0,7147,2331,"Professional, Scientific and Technical Services",24.3
+engineering,Engineering,2332,Civil Engineering Professionals,False,True,Assigned,100.0,76286,2332,"Professional, Scientific and Technical Services",46.3
+engineering,Engineering,2333,Electrical Engineers,False,True,Assigned,100.0,32250,2333,"Professional, Scientific and Technical Services",31.0
+engineering,Engineering,2334,Electronics Engineers,False,True,Assigned,100.0,5624,2334,"Professional, Scientific and Technical Services",25.3
+engineering,Engineering,2335,"Industrial, Mechanical and Production Engineers",False,True,Assigned,100.0,40100,2335,Manufacturing,29.0
+engineering,Engineering,2339,Other Engineering Professionals,False,True,Assigned,100.0,17110,2339,"Professional, Scientific and Technical Services",33.3
+engineering,Engineering,3122,Civil Engineering Draftspersons and Technicians,False,True,Assigned,100.0,16035,3122,"Professional, Scientific and Technical Services",50.4
+engineering,Engineering,3123,Electrical Engineering Draftspersons and Technicians,False,True,Assigned,100.0,10070,3123,"Electricity, Gas, Water and Waste Services",20.6
+engineering,Engineering,3124,Electronic Engineering Draftspersons and Technicians,False,True,Assigned,100.0,6515,3124,"Professional, Scientific and Technical Services",24.0
+engineering,Engineering,3125,Mechanical Engineering Draftspersons and Technicians,False,True,Assigned,100.0,6770,3125,"Professional, Scientific and Technical Services",24.0
+engineering,Engineering,3129,Other Building and Engineering Technicians,False,True,Assigned,100.0,39364,3129,Mining,38.1
+engineering,Engineering,1000,Managers nfd,True,True,Shared by employment (nfd),1.9,116,1000,,
+engineering,Engineering,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),3.5,169,1300,,
+engineering,Engineering,1330,"Construction, Distribution and Production Managers nfd",True,True,Shared by employment (nfd),10.8,49,1330,,
+engineering,Engineering,2000,Professionals nfd,True,True,Shared by employment (nfd),4.8,1028,2000,,
+engineering,Engineering,2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),34.6,35,2300,,
+engineering,Engineering,2330,Engineering Professionals nfd,True,True,Shared by employment (nfd),92.0,23721,2330,,
+engineering,Engineering,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),4.0,342,3000,,
+engineering,Engineering,3100,"Engineering, ICT and Science Technicians nfd",True,True,Shared by employment (nfd),24.6,547,3100,,
+engineering,Engineering,3120,Building and Engineering Technicians nfd,True,True,Shared by employment (nfd),46.2,1352,3120,,
+farming,"Farming, gardening and animals",1211,Aquaculture Farmers,False,True,Assigned,100.0,1873,G121,"Agriculture, Forestry and Fishing",94.8
+farming,"Farming, gardening and animals",1212,Crop Farmers,False,True,Assigned,100.0,33157,G121,"Agriculture, Forestry and Fishing",88.4
+farming,"Farming, gardening and animals",1213,Livestock Farmers,False,True,Assigned,100.0,78871,G121,"Agriculture, Forestry and Fishing",93.8
+farming,"Farming, gardening and animals",1214,Mixed Crop and Livestock Farmers,False,True,Assigned,100.0,27586,G121,"Agriculture, Forestry and Fishing",96.4
+farming,"Farming, gardening and animals",1215,Broadacre Crop Growers,False,False,Assigned,100.0,,G121,,
+farming,"Farming, gardening and animals",1216,Horticultural Crop Growers,False,False,Assigned,100.0,,G121,,
+farming,"Farming, gardening and animals",1217,Mixed Production Farmers,False,False,Assigned,100.0,,G121,,
+farming,"Farming, gardening and animals",2347,Veterinarians,False,True,Assigned,100.0,13123,2347,"Professional, Scientific and Technical Services",83.4
+farming,"Farming, gardening and animals",3111,Agricultural Technicians,False,True,Assigned,100.0,2637,G311,Public Administration and Safety,46.3
+farming,"Farming, gardening and animals",3113,Primary Products Inspectors,False,True,Assigned,100.0,3854,G311,Public Administration and Safety,46.3
+farming,"Farming, gardening and animals",3431,"Senior Aquaculture, Crop and Forestry Workers",False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",3611,Animal Attendants and Trainers,False,True,Assigned,100.0,26019,3611,Other Services,53.1
+farming,"Farming, gardening and animals",3612,Shearers,False,True,Assigned,100.0,2122,G84,"Agriculture, Forestry and Fishing",92.0
+farming,"Farming, gardening and animals",3613,Veterinary Nurses,False,True,Assigned,100.0,17525,3613,"Professional, Scientific and Technical Services",92.9
+farming,"Farming, gardening and animals",3621,Florists,False,True,Assigned,100.0,5895,G362,Retail Trade,92.0
+farming,"Farming, gardening and animals",3622,Gardeners,False,True,Assigned,100.0,87220,G362,Construction,34.5
+farming,"Farming, gardening and animals",3623,Greenkeepers,False,True,Assigned,100.0,13249,G362,Arts and Recreation Services,31.8
+farming,"Farming, gardening and animals",3624,Nurserypersons,False,True,Assigned,100.0,4094,G362,"Agriculture, Forestry and Fishing",58.6
+farming,"Farming, gardening and animals",3625,Arboriculture Workers,False,False,Assigned,100.0,,G362,,
+farming,"Farming, gardening and animals",3626,Gardeners (General),False,False,Assigned,100.0,,G362,,
+farming,"Farming, gardening and animals",3627,Landscape Gardeners and Irrigation Technicians,False,False,Assigned,100.0,,G362,,
+farming,"Farming, gardening and animals",3631,"Senior Aquaculture, Crop and Forestry Workers",False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",3632,Senior Livestock Farm Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",3633,Shearers and Wool Classers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",7211,"Agricultural, Forestry and Horticultural Plant Operators",False,True,Assigned,100.0,16122,7211,"Agriculture, Forestry and Fishing",73.4
+farming,"Farming, gardening and animals",8411,Aquaculture Workers,False,True,Assigned,100.0,746,G84,"Agriculture, Forestry and Fishing",91.2
+farming,"Farming, gardening and animals",8412,Crop Farm Workers,False,True,Assigned,100.0,24000,G84,"Agriculture, Forestry and Fishing",78.2
+farming,"Farming, gardening and animals",8413,Forestry and Logging Workers,False,True,Assigned,100.0,2144,G84,"Agriculture, Forestry and Fishing",60.1
+farming,"Farming, gardening and animals",8414,Garden and Nursery Labourers,False,True,Assigned,100.0,32426,G84,Administrative and Support Services,38.0
+farming,"Farming, gardening and animals",8415,Livestock Farm Workers,False,True,Assigned,100.0,28346,G84,"Agriculture, Forestry and Fishing",74.1
+farming,"Farming, gardening and animals",8416,Mixed Crop and Livestock Farm Workers,False,True,Assigned,100.0,3985,G84,"Agriculture, Forestry and Fishing",92.4
+farming,"Farming, gardening and animals",8419,"Other Farm, Forestry and Garden Workers",False,True,Assigned,100.0,17099,G84,Administrative and Support Services,50.7
+farming,"Farming, gardening and animals",8421,Aquaculture Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8422,Crop Farm Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8423,Livestock Farm Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8424,Mixed Production Farm Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8431,Forestry and Logging Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8432,Garden Labourers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8433,Horticultural Nursery Assistants,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8434,Pest Control Technicians,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8439,Other Forestry and Garden Workers,False,False,Assigned,100.0,,G84,,
+farming,"Farming, gardening and animals",8992,Deck and Fishing Hands,False,True,Assigned,100.0,6299,8992,"Agriculture, Forestry and Fishing",44.6
+farming,"Farming, gardening and animals",1000,Managers nfd,True,True,Shared by employment (nfd),7.7,473,1000,,
+farming,"Farming, gardening and animals",1210,Farmers and Farm Managers nfd,True,True,Shared by employment (nfd),100.0,17879,G121,,
+farming,"Farming, gardening and animals",2000,Professionals nfd,True,True,Shared by employment (nfd),0.3,76,2000,,
+farming,"Farming, gardening and animals",2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),2.5,3,2300,,
+farming,"Farming, gardening and animals",2340,Natural and Physical Science Professionals nfd,True,True,Shared by employment (nfd),9.6,805,2340,,
+farming,"Farming, gardening and animals",3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),8.3,707,3000,,
+farming,"Farming, gardening and animals",3100,"Engineering, ICT and Science Technicians nfd",True,True,Shared by employment (nfd),2.0,45,3100,,
+farming,"Farming, gardening and animals",3110,"Agricultural, Medical and Science Technicians nfd",True,True,Shared by employment (nfd),9.2,29,G311,,
+farming,"Farming, gardening and animals",3600,Skilled Animal and Horticultural Workers nfd,True,True,Shared by employment (nfd),100.0,102,3600,,
+farming,"Farming, gardening and animals",3610,"Animal Attendants and Trainers, and Shearers nfd",True,True,Shared by employment (nfd),100.0,102,3610,,
+farming,"Farming, gardening and animals",3620,Horticultural Trades Workers nfd,True,True,Shared by employment (nfd),100.0,208,G362,,
+farming,"Farming, gardening and animals",7000,Machinery Operators and Drivers nfd,True,True,Shared by employment (nfd),1.8,71,7000,,
+farming,"Farming, gardening and animals",7210,Mobile Plant Operators nfd,True,True,Shared by employment (nfd),10.9,331,7210,,
+farming,"Farming, gardening and animals",8000,Labourers nfd,True,True,Shared by employment (nfd),9.7,630,8000,,
+farming,"Farming, gardening and animals",8410,"Farm, Forestry and Garden Workers nfd",True,True,Shared by employment (nfd),100.0,6870,G84,,
+farming,"Farming, gardening and animals",8900,Other Labourers nfd,True,True,Shared by employment (nfd),2.7,13,8900,,
+farming,"Farming, gardening and animals",8990,Miscellaneous Labourers nfd,True,True,Shared by employment (nfd),4.2,25,8990,,
+mining,Mining,2336,Mining Engineers,False,True,Assigned,100.0,15504,2336,Mining,58.9
+mining,Mining,2344,"Geologists, Geophysicists and Hydrogeologists",False,True,Assigned,100.0,14015,2344,Mining,60.3
+mining,Mining,3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",False,True,Assigned,100.0,9539,3992,"Electricity, Gas, Water and Waste Services",26.1
+mining,Mining,7122,"Drillers, Miners and Shot Firers",False,True,Assigned,100.0,64127,7122,Mining,70.0
+mining,Mining,2000,Professionals nfd,True,True,Shared by employment (nfd),0.8,170,2000,,
+mining,Mining,2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),5.7,6,2300,,
+mining,Mining,2330,Engineering Professionals nfd,True,True,Shared by employment (nfd),8.0,2060,2330,,
+mining,Mining,2340,Natural and Physical Science Professionals nfd,True,True,Shared by employment (nfd),10.3,860,2340,,
+mining,Mining,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),0.5,41,3000,,
+mining,Mining,3900,Other Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),4.8,14,3900,,
+mining,Mining,3990,Miscellaneous Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),13.1,13,3990,,
+mining,Mining,7000,Machinery Operators and Drivers nfd,True,True,Shared by employment (nfd),7.2,284,7000,,
+mining,Mining,7100,Machine and Stationary Plant Operators nfd,True,True,Shared by employment (nfd),37.2,162,7100,,
+mining,Mining,7120,Stationary Plant Operators nfd,True,True,Shared by employment (nfd),50.2,136,7120,,
+manufacturing,Manufacturing and factory work,1334,Manufacturers,False,True,Assigned,100.0,21678,1334,Manufacturing,77.3
+manufacturing,Manufacturing and factory work,1335,Production Managers,False,True,Assigned,100.0,62231,1335,Manufacturing,48.4
+manufacturing,Manufacturing and factory work,3921,Print Finishers and Screen Printers,False,True,Assigned,100.0,2998,3921,Manufacturing,76.2
+manufacturing,Manufacturing and factory work,3922,Graphic Pre-press Trades Workers,False,True,Assigned,100.0,1195,3922,Manufacturing,76.2
+manufacturing,Manufacturing and factory work,3923,Printers,False,True,Assigned,100.0,10868,3923,Manufacturing,76.2
+manufacturing,Manufacturing and factory work,3931,Canvas and Leather Goods Makers,False,True,Assigned,100.0,1404,G393,Manufacturing,46.6
+manufacturing,Manufacturing and factory work,3932,Clothing Trades Workers,False,True,Assigned,100.0,7959,G393,Manufacturing,46.6
+manufacturing,Manufacturing and factory work,3933,Upholsterers,False,True,Assigned,100.0,2093,G393,Manufacturing,46.6
+manufacturing,Manufacturing and factory work,3941,Cabinetmakers,False,True,Assigned,100.0,32927,3941,Manufacturing,62.6
+manufacturing,Manufacturing and factory work,3942,Wood Machinists and Other Wood Trades Workers,False,True,Assigned,100.0,2618,3942,Manufacturing,47.5
+manufacturing,Manufacturing and factory work,3991,Boat Builders and Shipwrights,False,True,Assigned,100.0,3946,3991,Manufacturing,23.0
+manufacturing,Manufacturing and factory work,3994,Jewellers,False,True,Assigned,100.0,4606,3994,Retail Trade,27.5
+manufacturing,Manufacturing and factory work,3996,Signwriters,False,True,Assigned,100.0,6598,3996,"Professional, Scientific and Technical Services",60.7
+manufacturing,Manufacturing and factory work,3999,Other Miscellaneous Technicians and Trades Workers,False,True,Assigned,100.0,24860,3999,Health Care and Social Assistance,32.5
+manufacturing,Manufacturing and factory work,7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",False,True,Assigned,100.0,2519,7111,Manufacturing,32.4
+manufacturing,Manufacturing and factory work,7112,Industrial Spraypainters,False,True,Assigned,100.0,6283,7112,Manufacturing,39.5
+manufacturing,Manufacturing and factory work,7113,Paper and Wood Processing Machine Operators,False,True,Assigned,100.0,6154,7113,Manufacturing,72.2
+manufacturing,Manufacturing and factory work,7114,Photographic Developers and Printers,False,True,Assigned,100.0,933,7114,Manufacturing,32.4
+manufacturing,Manufacturing and factory work,7115,Plastics and Rubber Production Machine Operators,False,True,Assigned,100.0,7304,7115,Manufacturing,57.7
+manufacturing,Manufacturing and factory work,7116,Sewing Machinists,False,True,Assigned,100.0,6048,7116,Manufacturing,60.8
+manufacturing,Manufacturing and factory work,7117,Textile and Footwear Production Machine Operators,False,True,Assigned,100.0,1683,7117,Manufacturing,60.8
+manufacturing,Manufacturing and factory work,7119,Other Machine Operators,False,True,Assigned,100.0,13647,7119,Manufacturing,32.8
+manufacturing,Manufacturing and factory work,7123,Engineering Production Workers,False,True,Assigned,100.0,23027,7123,Manufacturing,66.1
+manufacturing,Manufacturing and factory work,7129,Other Stationary Plant Operators,False,True,Assigned,100.0,25455,7129,Manufacturing,22.8
+manufacturing,Manufacturing and factory work,8311,Food and Drink Factory Workers,False,True,Assigned,100.0,28135,8311,Manufacturing,74.1
+manufacturing,Manufacturing and factory work,8312,"Meat Boners and Slicers, and Slaughterers",False,True,Assigned,100.0,5602,8312,Manufacturing,84.9
+manufacturing,Manufacturing and factory work,8313,"Meat, Poultry and Seafood Process Workers",False,True,Assigned,100.0,13575,8313,Manufacturing,73.3
+manufacturing,Manufacturing and factory work,8321,Packers,False,True,Assigned,100.0,59633,8321,Manufacturing,41.6
+manufacturing,Manufacturing and factory work,8322,Product Assemblers,False,True,Assigned,100.0,27427,8322,Manufacturing,60.1
+manufacturing,Manufacturing and factory work,8391,Metal Engineering Process Workers,False,True,Assigned,100.0,7988,8391,Manufacturing,51.2
+manufacturing,Manufacturing and factory work,8392,Plastics and Rubber Factory Workers,False,True,Assigned,100.0,1489,8392,Manufacturing,51.2
+manufacturing,Manufacturing and factory work,8393,Product Quality Controllers,False,True,Assigned,100.0,11527,8393,Manufacturing,39.1
+manufacturing,Manufacturing and factory work,8394,Timber and Wood Process Workers,False,True,Assigned,100.0,4172,8394,Manufacturing,51.2
+manufacturing,Manufacturing and factory work,8399,Other Factory Process Workers,False,True,Assigned,100.0,12395,8399,Manufacturing,51.2
+manufacturing,Manufacturing and factory work,8995,Printing Assistants and Table Workers,False,True,Assigned,100.0,2522,8995,Manufacturing,76.2
+manufacturing,Manufacturing and factory work,1000,Managers nfd,True,True,Shared by employment (nfd),4.6,281,1000,,
+manufacturing,Manufacturing and factory work,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),8.3,408,1300,,
+manufacturing,Manufacturing and factory work,1330,"Construction, Distribution and Production Managers nfd",True,True,Shared by employment (nfd),26.1,119,1330,,
+manufacturing,Manufacturing and factory work,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),5.2,444,3000,,
+manufacturing,Manufacturing and factory work,3900,Other Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),51.1,154,3900,,
+manufacturing,Manufacturing and factory work,3920,Printing Trades Workers nfd,True,True,Shared by employment (nfd),100.0,192,3920,,
+manufacturing,Manufacturing and factory work,3930,"Textile, Clothing and Footwear Trades Workers nfd",True,True,Shared by employment (nfd),100.0,113,G393,,
+manufacturing,Manufacturing and factory work,3940,Wood Trades Workers nfd,True,True,Shared by employment (nfd),100.0,173,3940,,
+manufacturing,Manufacturing and factory work,3990,Miscellaneous Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),54.9,56,3990,,
+manufacturing,Manufacturing and factory work,7000,Machinery Operators and Drivers nfd,True,True,Shared by employment (nfd),10.5,412,7000,,
+manufacturing,Manufacturing and factory work,7100,Machine and Stationary Plant Operators nfd,True,True,Shared by employment (nfd),54.0,235,7100,,
+manufacturing,Manufacturing and factory work,7110,Machine Operators nfd,True,True,Shared by employment (nfd),100.0,10611,7110,,
+manufacturing,Manufacturing and factory work,7120,Stationary Plant Operators nfd,True,True,Shared by employment (nfd),37.9,103,7120,,
+manufacturing,Manufacturing and factory work,8000,Labourers nfd,True,True,Shared by employment (nfd),14.7,956,8000,,
+manufacturing,Manufacturing and factory work,8300,Factory Process Workers nfd,True,True,Shared by employment (nfd),100.0,3949,8300,,
+manufacturing,Manufacturing and factory work,8310,Food Process Workers nfd,True,True,Shared by employment (nfd),100.0,153,8310,,
+manufacturing,Manufacturing and factory work,8320,Packers and Product Assemblers nfd,True,True,Shared by employment (nfd),100.0,100,8320,,
+manufacturing,Manufacturing and factory work,8390,Miscellaneous Factory Process Workers nfd,True,True,Shared by employment (nfd),100.0,452,8390,,
+manufacturing,Manufacturing and factory work,8900,Other Labourers nfd,True,True,Shared by employment (nfd),1.1,5,8900,,
+manufacturing,Manufacturing and factory work,8990,Miscellaneous Labourers nfd,True,True,Shared by employment (nfd),1.7,10,8990,,
+tech,Tech and IT,1351,ICT Managers,False,True,Assigned,100.0,89883,1351,"Professional, Scientific and Technical Services",35.1
+tech,Tech and IT,2232,ICT Trainers,False,True,Assigned,100.0,2965,2232,Education and Training,32.5
+tech,Tech and IT,2252,ICT Sales Professionals,False,True,Assigned,100.0,17204,2252,"Professional, Scientific and Technical Services",27.1
+tech,Tech and IT,2611,ICT Business and Systems Analysts,False,True,Assigned,100.0,51422,2611,"Professional, Scientific and Technical Services",40.2
+tech,Tech and IT,2612,Multimedia Specialists and Web Developers,False,True,Assigned,100.0,13464,2612,"Professional, Scientific and Technical Services",52.7
+tech,Tech and IT,2613,Software and Applications Programmers,False,True,Assigned,100.0,186066,2613,"Professional, Scientific and Technical Services",50.0
+tech,Tech and IT,2621,"Database and Systems Administrators, and ICT Security Specialists",False,True,Assigned,100.0,68857,2621,"Professional, Scientific and Technical Services",29.9
+tech,Tech and IT,2631,Computer Network Professionals,False,True,Assigned,100.0,45040,2631,"Professional, Scientific and Technical Services",36.5
+tech,Tech and IT,2632,ICT Support and Test Engineers,False,True,Assigned,100.0,15565,2632,"Professional, Scientific and Technical Services",41.3
+tech,Tech and IT,2633,Telecommunications Engineering Professionals,False,True,Assigned,100.0,15424,2633,Information Media and Telecommunications,45.6
+tech,Tech and IT,3131,ICT Support Technicians,False,True,Assigned,100.0,74771,3131,"Professional, Scientific and Technical Services",31.4
+tech,Tech and IT,3132,Telecommunications Technical Specialists,False,True,Assigned,100.0,3760,3132,Information Media and Telecommunications,24.5
+tech,Tech and IT,3424,Telecommunications Trades Workers,False,True,Assigned,100.0,16991,3424,Information Media and Telecommunications,53.7
+tech,Tech and IT,1000,Managers nfd,True,True,Shared by employment (nfd),4.9,301,1000,,
+tech,Tech and IT,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),8.9,437,1300,,
+tech,Tech and IT,2000,Professionals nfd,True,True,Shared by employment (nfd),11.1,2395,2000,,
+tech,Tech and IT,2200,"Business, Human Resource and Marketing Professionals nfd",True,True,Shared by employment (nfd),2.1,4,2200,,
+tech,Tech and IT,2230,Human Resource and Training Professionals nfd,True,True,Shared by employment (nfd),2.4,5,2230,,
+tech,Tech and IT,2250,"Sales, Marketing and Public Relations Professionals nfd",True,True,Shared by employment (nfd),9.6,10,2250,,
+tech,Tech and IT,2600,ICT Professionals nfd,True,True,Shared by employment (nfd),100.0,22900,2600,,
+tech,Tech and IT,2610,"Business and Systems Analysts, and Programmers nfd",True,True,Shared by employment (nfd),100.0,659,2610,,
+tech,Tech and IT,2630,ICT Network and Support Professionals nfd,True,True,Shared by employment (nfd),100.0,271,2630,,
+tech,Tech and IT,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),4.9,415,3000,,
+tech,Tech and IT,3100,"Engineering, ICT and Science Technicians nfd",True,True,Shared by employment (nfd),24.6,545,3100,,
+tech,Tech and IT,3130,ICT and Telecommunications Technicians nfd,True,True,Shared by employment (nfd),100.0,102,3130,,
+tech,Tech and IT,3400,Electrotechnology and Telecommunications Trades Workers nfd,True,True,Shared by employment (nfd),6.0,87,3400,,
+tech,Tech and IT,3420,Electronics and Telecommunications Trades Workers nfd,True,True,Shared by employment (nfd),19.2,20,3420,,
+science,Science,1325,Research and Development Managers,False,True,Assigned,100.0,19797,1325,"Professional, Scientific and Technical Services",21.0
+science,Science,2341,Agricultural and Forestry Scientists,False,True,Assigned,100.0,9438,2341,"Agriculture, Forestry and Fishing",41.1
+science,Science,2342,"Chemists, and Food and Wine Scientists",False,True,Assigned,100.0,10245,2342,Manufacturing,51.5
+science,Science,2343,Environmental Scientists,False,True,Assigned,100.0,31524,2343,Public Administration and Safety,33.4
+science,Science,2345,Life Scientists,False,True,Assigned,100.0,10520,2345,"Professional, Scientific and Technical Services",29.5
+science,Science,2349,Other Natural and Physical Science Professionals,False,True,Assigned,100.0,14876,2349,Health Care and Social Assistance,54.2
+science,Science,3114,Science Technicians,False,True,Assigned,100.0,22432,G311,"Professional, Scientific and Technical Services",25.7
+science,Science,1000,Managers nfd,True,True,Shared by employment (nfd),1.1,66,1000,,
+science,Science,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),2.0,96,1300,,
+science,Science,1320,Business Administration Managers nfd,True,True,Shared by employment (nfd),7.9,115,1320,,
+science,Science,2000,Professionals nfd,True,True,Shared by employment (nfd),2.0,441,2000,,
+science,Science,2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),14.8,15,2300,,
+science,Science,2340,Natural and Physical Science Professionals nfd,True,True,Shared by employment (nfd),56.3,4700,2340,,
+science,Science,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),1.1,97,3000,,
+science,Science,3100,"Engineering, ICT and Science Technicians nfd",True,True,Shared by employment (nfd),7.0,156,3100,,
+science,Science,3110,"Agricultural, Medical and Science Technicians nfd",True,True,Shared by employment (nfd),31.7,99,G311,,
+hospitality,Hospitality and food,1411,Cafe and Restaurant Managers,False,True,Assigned,100.0,64510,1411,Accommodation and Food Services,59.2
+hospitality,Hospitality and food,1412,Caravan Park and Camping Ground Managers,False,True,Assigned,100.0,3212,1412,Accommodation and Food Services,64.0
+hospitality,Hospitality and food,1413,Hotel and Motel Managers,False,True,Assigned,100.0,18249,1413,Accommodation and Food Services,92.6
+hospitality,Hospitality and food,1414,Licensed Club Managers,False,True,Assigned,100.0,6452,1414,Accommodation and Food Services,77.6
+hospitality,Hospitality and food,1419,Other Accommodation and Hospitality Managers,False,True,Assigned,100.0,10481,1419,Accommodation and Food Services,52.9
+hospitality,Hospitality and food,3511,Bakers and Pastrycooks,False,True,Assigned,100.0,34272,3511,Manufacturing,55.4
+hospitality,Hospitality and food,3512,Butchers and Smallgoods Makers,False,True,Assigned,100.0,14529,3512,Retail Trade,79.3
+hospitality,Hospitality and food,3513,Chefs,False,True,Assigned,100.0,124895,G351C,Accommodation and Food Services,81.1
+hospitality,Hospitality and food,3514,Cooks,False,True,Assigned,100.0,39447,G351C,Accommodation and Food Services,70.5
+hospitality,Hospitality and food,4311,Bar Attendants and Baristas,False,True,Assigned,100.0,120351,G431,Accommodation and Food Services,86.2
+hospitality,Hospitality and food,4312,Cafe Workers,False,True,Assigned,100.0,37419,G431,Accommodation and Food Services,77.9
+hospitality,Hospitality and food,4313,Gaming Workers,False,True,Assigned,100.0,5343,G431,Accommodation and Food Services,61.4
+hospitality,Hospitality and food,4314,Hotel Service Managers,False,True,Assigned,100.0,11073,G431,Accommodation and Food Services,75.9
+hospitality,Hospitality and food,4315,Waiters,False,True,Assigned,100.0,126494,G431,Accommodation and Food Services,89.6
+hospitality,Hospitality and food,4319,Other Hospitality Workers,False,True,Assigned,100.0,6092,G431,Accommodation and Food Services,46.0
+hospitality,Hospitality and food,8511,Fast Food Cooks,False,True,Assigned,100.0,50159,8511,Accommodation and Food Services,92.8
+hospitality,Hospitality and food,8512,Food Trades Assistants,False,True,Assigned,100.0,4550,8512,Accommodation and Food Services,65.5
+hospitality,Hospitality and food,8513,Kitchenhands,False,True,Assigned,100.0,151627,8513,Accommodation and Food Services,65.5
+hospitality,Hospitality and food,1000,Managers nfd,True,True,Shared by employment (nfd),5.6,344,1000,,
+hospitality,Hospitality and food,1400,"Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),18.5,37,1400,,
+hospitality,Hospitality and food,1410,Accommodation and Hospitality Managers nfd,True,True,Shared by employment (nfd),100.0,484,1410,,
+hospitality,Hospitality and food,3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),10.8,926,3000,,
+hospitality,Hospitality and food,3510,Food Trades Workers nfd,True,True,Shared by employment (nfd),100.0,102,3510,,
+hospitality,Hospitality and food,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),17.9,26,4000,,
+hospitality,Hospitality and food,4310,Hospitality Workers nfd,True,True,Shared by employment (nfd),100.0,5828,G431,,
+hospitality,Hospitality and food,8000,Labourers nfd,True,True,Shared by employment (nfd),17.4,1131,8000,,
+hospitality,Hospitality and food,8510,Food Preparation Assistants nfd,True,True,Shared by employment (nfd),100.0,1748,8510,,
+transport,Transport and logistics,1336,"Supply, Distribution and Procurement Managers",False,True,Assigned,100.0,55476,1336,"Transport, Postal and Warehousing",27.6
+transport,Transport and logistics,1494,Transport Services Managers,False,True,Assigned,100.0,20033,1494,"Transport, Postal and Warehousing",58.0
+transport,Transport and logistics,2311,Air Transport Professionals,False,True,Assigned,100.0,15493,2311,"Transport, Postal and Warehousing",64.8
+transport,Transport and logistics,2312,Marine Transport Professionals,False,True,Assigned,100.0,10549,2312,"Transport, Postal and Warehousing",48.2
+transport,Transport and logistics,4517,Travel Attendants,False,True,Assigned,100.0,9999,4517,"Transport, Postal and Warehousing",93.9
+transport,Transport and logistics,5612,Couriers and Postal Deliverers,False,True,Assigned,100.0,42544,5612,"Transport, Postal and Warehousing",59.0
+transport,Transport and logistics,5614,Mail Sorters,False,True,Assigned,100.0,15522,5614,"Transport, Postal and Warehousing",89.1
+transport,Transport and logistics,5912,Transport and Despatch Clerks,False,True,Assigned,100.0,46458,5912,"Transport, Postal and Warehousing",36.1
+transport,Transport and logistics,7213,Forklift Drivers,False,True,Assigned,100.0,69085,7213,Manufacturing,25.7
+transport,Transport and logistics,7219,Other Mobile Plant Operators,False,True,Assigned,100.0,13762,7219,"Transport, Postal and Warehousing",63.4
+transport,Transport and logistics,7311,Automobile Drivers,False,True,Assigned,100.0,55040,7311,"Transport, Postal and Warehousing",87.6
+transport,Transport and logistics,7312,Bus and Coach Drivers,False,True,Assigned,100.0,40249,7312,"Transport, Postal and Warehousing",85.8
+transport,Transport and logistics,7313,Train and Tram Drivers,False,True,Assigned,100.0,17539,7313,"Transport, Postal and Warehousing",85.7
+transport,Transport and logistics,7321,Delivery Drivers,False,True,Assigned,100.0,91596,7321,"Transport, Postal and Warehousing",59.0
+transport,Transport and logistics,7331,Truck Drivers,False,True,Assigned,100.0,189200,7331,"Transport, Postal and Warehousing",51.2
+transport,Transport and logistics,7411,Storepersons,False,True,Assigned,100.0,175683,7411,Retail Trade,25.9
+transport,Transport and logistics,8911,Freight and Furniture Handlers,False,True,Assigned,100.0,14732,8911,"Transport, Postal and Warehousing",54.9
+transport,Transport and logistics,1000,Managers nfd,True,True,Shared by employment (nfd),4.1,253,1000,,
+transport,Transport and logistics,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),5.5,270,1300,,
+transport,Transport and logistics,1330,"Construction, Distribution and Production Managers nfd",True,True,Shared by employment (nfd),17.3,79,1330,,
+transport,Transport and logistics,1400,"Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),3.6,7,1400,,
+transport,Transport and logistics,1490,"Miscellaneous Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),9.9,43,1490,,
+transport,Transport and logistics,2000,Professionals nfd,True,True,Shared by employment (nfd),0.7,150,2000,,
+transport,Transport and logistics,2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),5.0,5,2300,,
+transport,Transport and logistics,2310,Air and Marine Transport Professionals nfd,True,True,Shared by employment (nfd),100.0,101,2310,,
+transport,Transport and logistics,4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),0.6,1,4000,,
+transport,Transport and logistics,4500,Sports and Personal Service Workers nfd,True,True,Shared by employment (nfd),4.4,4,4500,,
+transport,Transport and logistics,4510,Personal Service and Travel Workers nfd,True,True,Shared by employment (nfd),8.7,9,4510,,
+transport,Transport and logistics,5000,Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),5.6,26,5000,,
+transport,Transport and logistics,5610,Clerical and Office Support Workers nfd,True,True,Shared by employment (nfd),65.7,931,5610,,
+transport,Transport and logistics,5900,Other Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),14.6,45,5900,,
+transport,Transport and logistics,5910,Logistics Clerks nfd,True,True,Shared by employment (nfd),28.3,95,5910,,
+transport,Transport and logistics,7000,Machinery Operators and Drivers nfd,True,True,Shared by employment (nfd),73.3,2885,7000,,
+transport,Transport and logistics,7210,Mobile Plant Operators nfd,True,True,Shared by employment (nfd),56.1,1700,7210,,
+transport,Transport and logistics,7300,Road and Rail Drivers nfd,True,True,Shared by employment (nfd),100.0,1930,7300,,
+transport,Transport and logistics,7310,"Automobile, Bus and Rail Drivers nfd",True,True,Shared by employment (nfd),100.0,102,7310,,
+transport,Transport and logistics,8000,Labourers nfd,True,True,Shared by employment (nfd),1.2,81,8000,,
+transport,Transport and logistics,8900,Other Labourers nfd,True,True,Shared by employment (nfd),6.2,31,8900,,
+transport,Transport and logistics,8910,Freight Handlers and Shelf Fillers nfd,True,True,Shared by employment (nfd),17.0,39,8910,,
+retail,Retail and sales,1333,"Importers, Exporters and Wholesalers",False,True,Assigned,100.0,18648,1333,Wholesale Trade,70.4
+retail,Retail and sales,1421,Retail Managers,False,True,Assigned,100.0,250748,1421,Retail Trade,52.4
+retail,Retail and sales,2254,Technical Sales Representatives,False,True,Assigned,100.0,27905,2254,Wholesale Trade,27.9
+retail,Retail and sales,6111,"Auctioneers, and Stock and Station Agents",False,True,Assigned,100.0,2682,6111,"Rental, Hiring and Real Estate Services",87.5
+retail,Retail and sales,6112,Insurance Agents,False,True,Assigned,100.0,16703,6112,Financial and Insurance Services,93.3
+retail,Retail and sales,6113,Sales Representatives,False,True,Assigned,100.0,76535,6113,Wholesale Trade,19.9
+retail,Retail and sales,6121,Real Estate Sales Agents,False,True,Assigned,100.0,114371,6121,"Rental, Hiring and Real Estate Services",79.5
+retail,Retail and sales,6211,Sales Assistants (General),False,True,Assigned,100.0,569429,6211,Retail Trade,64.6
+retail,Retail and sales,6212,ICT Sales Assistants,False,True,Assigned,100.0,16017,6212,Retail Trade,30.0
+retail,Retail and sales,6213,Motor Vehicle and Vehicle Parts Salespersons,False,True,Assigned,100.0,35976,6213,Retail Trade,62.4
+retail,Retail and sales,6214,Pharmacy Sales Assistants,False,True,Assigned,100.0,42513,6214,Retail Trade,95.0
+retail,Retail and sales,6215,Retail Supervisors,False,True,Assigned,100.0,52067,6215,Retail Trade,55.6
+retail,Retail and sales,6216,Service Station Attendants,False,True,Assigned,100.0,12885,6216,Retail Trade,90.2
+retail,Retail and sales,6217,Street Vendors and Related Salespersons,False,True,Assigned,100.0,4626,6217,Wholesale Trade,19.1
+retail,Retail and sales,6219,Other Sales Assistants and Salespersons,False,True,Assigned,100.0,15469,6219,Wholesale Trade,19.1
+retail,Retail and sales,6311,Checkout Operators and Office Cashiers,False,True,Assigned,100.0,125173,6311,Retail Trade,81.9
+retail,Retail and sales,6391,Models and Sales Demonstrators,False,True,Assigned,100.0,11374,6391,Retail Trade,31.7
+retail,Retail and sales,6392,Retail and Wool Buyers,False,True,Assigned,100.0,6866,6392,Retail Trade,59.4
+retail,Retail and sales,6393,Telemarketers,False,True,Assigned,100.0,5318,6393,Retail Trade,31.7
+retail,Retail and sales,6394,Ticket Salespersons,False,True,Assigned,100.0,21195,6394,Retail Trade,40.7
+retail,Retail and sales,6395,Visual Merchandisers,False,True,Assigned,100.0,8234,6395,Retail Trade,29.3
+retail,Retail and sales,6399,Other Sales Support Workers,False,True,Assigned,100.0,7272,6399,Retail Trade,59.4
+retail,Retail and sales,8912,Shelf Fillers,False,True,Assigned,100.0,72020,8912,Retail Trade,96.1
+retail,Retail and sales,1000,Managers nfd,True,True,Shared by employment (nfd),14.6,901,1000,,
+retail,Retail and sales,1300,Specialist Managers nfd,True,True,Shared by employment (nfd),1.9,91,1300,,
+retail,Retail and sales,1330,"Construction, Distribution and Production Managers nfd",True,True,Shared by employment (nfd),5.8,26,1330,,
+retail,Retail and sales,1400,"Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),45.1,90,1400,,
+retail,Retail and sales,2000,Professionals nfd,True,True,Shared by employment (nfd),0.7,161,2000,,
+retail,Retail and sales,2200,"Business, Human Resource and Marketing Professionals nfd",True,True,Shared by employment (nfd),2.9,5,2200,,
+retail,Retail and sales,2250,"Sales, Marketing and Public Relations Professionals nfd",True,True,Shared by employment (nfd),15.6,16,2250,,
+retail,Retail and sales,6000,Sales Workers nfd,True,True,Shared by employment (nfd),100.0,567,6000,,
+retail,Retail and sales,6100,Sales Representatives and Agents nfd,True,True,Shared by employment (nfd),100.0,375,6100,,
+retail,Retail and sales,6110,Insurance Agents and Sales Representatives nfd,True,True,Shared by employment (nfd),100.0,102,6110,,
+retail,Retail and sales,6210,Sales Assistants and Salespersons nfd,True,True,Shared by employment (nfd),100.0,8522,6210,,
+retail,Retail and sales,6300,Sales Support Workers nfd,True,True,Shared by employment (nfd),100.0,283,6300,,
+retail,Retail and sales,6390,Miscellaneous Sales Support Workers nfd,True,True,Shared by employment (nfd),100.0,102,6390,,
+retail,Retail and sales,8000,Labourers nfd,True,True,Shared by employment (nfd),6.1,395,8000,,
+retail,Retail and sales,8900,Other Labourers nfd,True,True,Shared by employment (nfd),30.4,152,8900,,
+retail,Retail and sales,8910,Freight Handlers and Shelf Fillers nfd,True,True,Shared by employment (nfd),83.0,193,8910,,
+business,"Business, finance and law",1111,Chief Executives and Managing Directors,False,True,Assigned,100.0,61193,1111,"Professional, Scientific and Technical Services",15.9
+business,"Business, finance and law",1112,General Managers,False,True,Assigned,100.0,71323,1112,Public Administration and Safety,10.1
+business,"Business, finance and law",1113,Legislators,False,True,Assigned,100.0,2830,1113,Public Administration and Safety,83.2
+business,"Business, finance and law",1311,"Advertising, Public Relations and Sales Managers",False,True,Assigned,100.0,165395,1311,"Professional, Scientific and Technical Services",13.9
+business,"Business, finance and law",1321,Corporate Services Managers,False,True,Assigned,100.0,21673,1321,"Professional, Scientific and Technical Services",13.6
+business,"Business, finance and law",1322,Finance Managers,False,True,Assigned,100.0,76302,1322,Financial and Insurance Services,18.5
+business,"Business, finance and law",1323,Human Resource Managers,False,True,Assigned,100.0,92889,1323,Public Administration and Safety,11.2
+business,"Business, finance and law",1324,Policy and Planning Managers,False,True,Assigned,100.0,39317,1324,Public Administration and Safety,40.4
+business,"Business, finance and law",1399,Other Specialist Managers,False,True,Assigned,100.0,68817,1399,Public Administration and Safety,13.4
+business,"Business, finance and law",1499,"Other Hospitality, Retail and Service Managers",False,True,Assigned,100.0,92729,1499,Financial and Insurance Services,15.8
+business,"Business, finance and law",2211,Accountants,False,True,Assigned,100.0,210295,2211,"Professional, Scientific and Technical Services",47.5
+business,"Business, finance and law",2212,"Auditors, Company Secretaries and Corporate Treasurers",False,True,Assigned,100.0,31540,2212,"Professional, Scientific and Technical Services",43.5
+business,"Business, finance and law",2221,Financial Brokers,False,True,Assigned,100.0,50642,2221,Financial and Insurance Services,85.9
+business,"Business, finance and law",2222,Financial Dealers,False,True,Assigned,100.0,21240,2222,Financial and Insurance Services,82.7
+business,"Business, finance and law",2223,Financial Investment Advisers and Managers,False,True,Assigned,100.0,65810,2223,Financial and Insurance Services,76.6
+business,"Business, finance and law",2231,Human Resource Professionals,False,True,Assigned,100.0,89673,2231,Administrative and Support Services,34.9
+business,"Business, finance and law",2241,"Actuaries, Mathematicians and Statisticians",False,True,Assigned,100.0,12479,2241,Financial and Insurance Services,27.3
+business,"Business, finance and law",2243,Economists,False,True,Assigned,100.0,4443,2243,"Professional, Scientific and Technical Services",26.8
+business,"Business, finance and law",2244,Intelligence and Policy Analysts,False,True,Assigned,100.0,45428,2244,Public Administration and Safety,73.6
+business,"Business, finance and law",2245,Land Economists and Valuers,False,True,Assigned,100.0,14687,2245,"Rental, Hiring and Real Estate Services",44.7
+business,"Business, finance and law",2247,Management and Organisation Analysts,False,True,Assigned,100.0,107697,2247,"Professional, Scientific and Technical Services",38.5
+business,"Business, finance and law",2249,Other Information and Organisation Professionals,False,True,Assigned,100.0,57124,2249,Public Administration and Safety,32.0
+business,"Business, finance and law",2251,Advertising and Marketing Professionals,False,True,Assigned,100.0,102987,2251,"Professional, Scientific and Technical Services",30.3
+business,"Business, finance and law",2253,Public Relations Professionals,False,True,Assigned,100.0,30791,2253,Public Administration and Safety,26.3
+business,"Business, finance and law",2513,Occupational and Environmental Health Professionals,False,True,Assigned,100.0,40030,2513,Public Administration and Safety,18.5
+business,"Business, finance and law",2711,Barristers,False,True,Assigned,100.0,8715,2711,"Professional, Scientific and Technical Services",71.3
+business,"Business, finance and law",2712,Judicial and Other Legal Professionals,False,True,Assigned,100.0,12883,2712,Public Administration and Safety,41.4
+business,"Business, finance and law",2713,Solicitors,False,True,Assigned,100.0,100238,2713,"Professional, Scientific and Technical Services",78.7
+business,"Business, finance and law",5991,Conveyancers and Legal Executives,False,True,Assigned,100.0,19330,5991,"Professional, Scientific and Technical Services",77.9
+business,"Business, finance and law",5992,Court and Legal Clerks,False,True,Assigned,100.0,21032,5992,"Professional, Scientific and Technical Services",73.7
+business,"Business, finance and law",1000,Managers nfd,True,True,Shared by employment (nfd),37.6,2316,1000,,
+business,"Business, finance and law",1110,"Chief Executives, General Managers and Legislators nfd",True,True,Shared by employment (nfd),100.0,152,1110,,
+business,"Business, finance and law",1300,Specialist Managers nfd,True,True,Shared by employment (nfd),46.1,2258,1300,,
+business,"Business, finance and law",1320,Business Administration Managers nfd,True,True,Shared by employment (nfd),92.1,1334,1320,,
+business,"Business, finance and law",1390,Miscellaneous Specialist Managers nfd,True,True,Shared by employment (nfd),93.7,186,1390,,
+business,"Business, finance and law",1400,"Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),16.7,33,1400,,
+business,"Business, finance and law",1490,"Miscellaneous Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),45.8,200,1490,,
+business,"Business, finance and law",2000,Professionals nfd,True,True,Shared by employment (nfd),26.8,5797,2000,,
+business,"Business, finance and law",2200,"Business, Human Resource and Marketing Professionals nfd",True,True,Shared by employment (nfd),89.3,154,2200,,
+business,"Business, finance and law",2210,"Accountants, Auditors and Company Secretaries nfd",True,True,Shared by employment (nfd),100.0,607,2210,,
+business,"Business, finance and law",2220,"Financial Brokers and Dealers, and Investment Advisers nfd",True,True,Shared by employment (nfd),100.0,465,2220,,
+business,"Business, finance and law",2230,Human Resource and Training Professionals nfd,True,True,Shared by employment (nfd),72.1,163,2230,,
+business,"Business, finance and law",2240,Information and Organisation Professionals nfd,True,True,Shared by employment (nfd),91.8,165,2240,,
+business,"Business, finance and law",2250,"Sales, Marketing and Public Relations Professionals nfd",True,True,Shared by employment (nfd),74.8,76,2250,,
+business,"Business, finance and law",2500,Health Professionals nfd,True,True,Shared by employment (nfd),4.7,14,2500,,
+business,"Business, finance and law",2510,Health Diagnostic and Promotion Professionals nfd,True,True,Shared by employment (nfd),29.4,35,2510,,
+business,"Business, finance and law",2700,"Legal, Social and Welfare Professionals nfd",True,True,Shared by employment (nfd),36.6,52,2700,,
+business,"Business, finance and law",2710,Legal Professionals nfd,True,True,Shared by employment (nfd),100.0,101,2710,,
+business,"Business, finance and law",5000,Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),2.2,10,5000,,
+business,"Business, finance and law",5900,Other Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),12.6,39,5900,,
+business,"Business, finance and law",5990,Miscellaneous Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),26.0,26,5990,,
+office,Office and admin,1492,Call or Contact Centre and Customer Service Managers,False,True,Assigned,100.0,39530,1492,Financial and Insurance Services,12.1
+office,Office and admin,5110,"Contract, Program and Project Administrators - nfd",False,False,Assigned,100.0,,5110,,
+office,Office and admin,5111,"Contract, Program and Project Administrators",False,True,Assigned,100.0,164536,5111,Public Administration and Safety,25.2
+office,Office and admin,5121,Office Managers,False,True,Assigned,100.0,136601,5121,Construction,16.2
+office,Office and admin,5122,Practice Managers,False,True,Assigned,100.0,31015,5122,Health Care and Social Assistance,80.7
+office,Office and admin,5211,Personal Assistants,False,True,Assigned,100.0,49827,5211,"Professional, Scientific and Technical Services",16.3
+office,Office and admin,5212,Secretaries,False,True,Assigned,100.0,30162,5212,"Professional, Scientific and Technical Services",28.8
+office,Office and admin,5311,General Clerks,False,True,Assigned,100.0,297907,5311,Public Administration and Safety,15.9
+office,Office and admin,5321,Keyboard Operators,False,True,Assigned,100.0,46343,5321,Health Care and Social Assistance,19.0
+office,Office and admin,5411,Call or Contact Centre Workers,False,True,Assigned,100.0,32172,5411,Public Administration and Safety,21.9
+office,Office and admin,5412,Information Officers,False,True,Assigned,100.0,81828,5412,Public Administration and Safety,29.6
+office,Office and admin,5421,Receptionists,False,True,Assigned,100.0,190051,5421,Health Care and Social Assistance,58.8
+office,Office and admin,5511,Accounting Clerks,False,True,Assigned,100.0,138663,5511,Construction,14.8
+office,Office and admin,5512,Bookkeepers,False,True,Assigned,100.0,88258,5512,"Professional, Scientific and Technical Services",27.1
+office,Office and admin,5513,Payroll Clerks,False,True,Assigned,100.0,52311,5513,Health Care and Social Assistance,13.1
+office,Office and admin,5521,Bank Workers,False,True,Assigned,100.0,42302,G552,Financial and Insurance Services,96.5
+office,Office and admin,5522,Credit and Loans Officers,False,True,Assigned,100.0,36433,G552,Financial and Insurance Services,89.8
+office,Office and admin,5523,"Insurance, Money Market and Statistical Clerks",False,True,Assigned,100.0,40652,G552,Financial and Insurance Services,80.1
+office,Office and admin,5611,Betting Clerks,False,True,Assigned,100.0,2324,5611,Administrative and Support Services,19.9
+office,Office and admin,5613,Filing and Registry Clerks,False,True,Assigned,100.0,17926,5613,Public Administration and Safety,29.3
+office,Office and admin,5615,Survey Interviewers,False,True,Assigned,100.0,1426,5615,"Professional, Scientific and Technical Services",17.9
+office,Office and admin,5616,Switchboard Operators,False,True,Assigned,100.0,2929,5616,Public Administration and Safety,29.6
+office,Office and admin,5619,Other Clerical and Office Support Workers,False,True,Assigned,100.0,5748,5619,Public Administration and Safety,23.1
+office,Office and admin,5911,Purchasing and Supply Logistics Clerks,False,True,Assigned,100.0,117522,5911,Retail Trade,18.9
+office,Office and admin,5993,Debt Collectors,False,True,Assigned,100.0,6915,5993,Administrative and Support Services,19.9
+office,Office and admin,5994,Human Resource Clerks,False,True,Assigned,100.0,23483,5994,Health Care and Social Assistance,33.5
+office,Office and admin,5995,Inspectors and Regulatory Officers,False,True,Assigned,100.0,47488,5995,Public Administration and Safety,71.0
+office,Office and admin,5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",False,True,Assigned,100.0,7928,5996,Financial and Insurance Services,80.1
+office,Office and admin,5999,Other Miscellaneous Clerical and Administrative Workers,False,True,Assigned,100.0,21864,5999,"Professional, Scientific and Technical Services",17.2
+office,Office and admin,1000,Managers nfd,True,True,Shared by employment (nfd),2.1,132,1000,,
+office,Office and admin,1400,"Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),7.1,14,1400,,
+office,Office and admin,1490,"Miscellaneous Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),19.5,85,1490,,
+office,Office and admin,5000,Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),91.9,423,5000,,
+office,Office and admin,5100,Office Managers and Program Administrators nfd,True,True,Shared by employment (nfd),100.0,189,5100,,
+office,Office and admin,5120,Office and Practice Managers nfd,True,True,Shared by employment (nfd),100.0,100,5120,,
+office,Office and admin,5210,Personal Assistants and Secretaries nfd,True,True,Shared by employment (nfd),100.0,261,5210,,
+office,Office and admin,5300,General Clerical Workers nfd,True,True,Shared by employment (nfd),100.0,100,5300,,
+office,Office and admin,5400,Inquiry Clerks and Receptionists nfd,True,True,Shared by employment (nfd),100.0,131,5400,,
+office,Office and admin,5410,Call or Contact Centre Information Clerks nfd,True,True,Shared by employment (nfd),100.0,100,5410,,
+office,Office and admin,5500,Numerical Clerks nfd,True,True,Shared by employment (nfd),100.0,578,5500,,
+office,Office and admin,5510,Accounting Clerks and Bookkeepers nfd,True,True,Shared by employment (nfd),100.0,100,5510,,
+office,Office and admin,5520,Financial and Insurance Clerks nfd,True,True,Shared by employment (nfd),100.0,100,G552,,
+office,Office and admin,5610,Clerical and Office Support Workers nfd,True,True,Shared by employment (nfd),34.3,487,5610,,
+office,Office and admin,5900,Other Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),70.6,219,5900,,
+office,Office and admin,5910,Logistics Clerks nfd,True,True,Shared by employment (nfd),71.7,242,5910,,
+office,Office and admin,5990,Miscellaneous Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),69.4,69,5990,,
+arts_media,"Arts, design and media",2111,"Actors, Dancers and Other Entertainers",False,True,Assigned,100.0,7887,2111,Arts and Recreation Services,53.0
+arts_media,"Arts, design and media",2112,Music Professionals,False,True,Assigned,100.0,10659,2112,Arts and Recreation Services,63.9
+arts_media,"Arts, design and media",2113,Photographers,False,True,Assigned,100.0,15231,2113,"Professional, Scientific and Technical Services",81.7
+arts_media,"Arts, design and media",2114,Visual Arts and Crafts Professionals,False,True,Assigned,100.0,12283,2114,Arts and Recreation Services,65.6
+arts_media,"Arts, design and media",2121,"Artistic Directors, and Media Producers and Presenters",False,True,Assigned,100.0,14329,2121,Information Media and Telecommunications,40.3
+arts_media,"Arts, design and media",2122,"Authors, and Book and Script Editors",False,True,Assigned,100.0,6035,2122,Arts and Recreation Services,41.1
+arts_media,"Arts, design and media",2123,"Film, Television, Radio and Stage Directors",False,True,Assigned,100.0,15468,2123,Information Media and Telecommunications,57.2
+arts_media,"Arts, design and media",2124,Journalists and Other Writers,False,True,Assigned,100.0,23339,2124,Information Media and Telecommunications,41.6
+arts_media,"Arts, design and media",2242,"Archivists, Curators and Records Managers",False,True,Assigned,100.0,10213,2242,Public Administration and Safety,26.5
+arts_media,"Arts, design and media",2246,Librarians,False,True,Assigned,100.0,11259,2246,Education and Training,35.0
+arts_media,"Arts, design and media",2323,"Fashion, Industrial and Jewellery Designers",False,True,Assigned,100.0,14601,2323,"Professional, Scientific and Technical Services",32.9
+arts_media,"Arts, design and media",2324,"Graphic and Web Designers, and Illustrators",False,True,Assigned,100.0,55688,2324,"Professional, Scientific and Technical Services",42.7
+arts_media,"Arts, design and media",2325,Interior Designers,False,True,Assigned,100.0,18963,2325,"Professional, Scientific and Technical Services",62.1
+arts_media,"Arts, design and media",3993,"Gallery, Library and Museum Technicians",False,True,Assigned,100.0,7020,3993,Education and Training,57.4
+arts_media,"Arts, design and media",3995,Performing Arts Technicians,False,True,Assigned,100.0,16279,3995,Information Media and Telecommunications,38.2
+arts_media,"Arts, design and media",5997,Library Assistants,False,True,Assigned,100.0,7048,5997,Public Administration and Safety,29.3
+arts_media,"Arts, design and media",2000,Professionals nfd,True,True,Shared by employment (nfd),5.8,1243,2000,,
+arts_media,"Arts, design and media",2100,Arts and Media Professionals nfd,True,True,Shared by employment (nfd),100.0,232,2100,,
+arts_media,"Arts, design and media",2110,Arts Professionals nfd,True,True,Shared by employment (nfd),100.0,1755,2110,,
+arts_media,"Arts, design and media",2120,Media Professionals nfd,True,True,Shared by employment (nfd),100.0,1085,2120,,
+arts_media,"Arts, design and media",2200,"Business, Human Resource and Marketing Professionals nfd",True,True,Shared by employment (nfd),2.3,4,2200,,
+arts_media,"Arts, design and media",2240,Information and Organisation Professionals nfd,True,True,Shared by employment (nfd),8.2,15,2240,,
+arts_media,"Arts, design and media",2300,"Design, Engineering, Science and Transport Professionals nfd",True,True,Shared by employment (nfd),17.3,17,2300,,
+arts_media,"Arts, design and media",2320,"Architects, Designers, Planners and Surveyors nfd",True,True,Shared by employment (nfd),55.7,865,2320,,
+arts_media,"Arts, design and media",3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),1.2,101,3000,,
+arts_media,"Arts, design and media",3900,Other Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),11.7,35,3900,,
+arts_media,"Arts, design and media",3990,Miscellaneous Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),32.0,33,3990,,
+arts_media,"Arts, design and media",5000,Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),0.4,2,5000,,
+arts_media,"Arts, design and media",5900,Other Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),2.2,7,5900,,
+arts_media,"Arts, design and media",5990,Miscellaneous Clerical and Administrative Workers nfd,True,True,Shared by employment (nfd),4.5,5,5990,,
+personal_services,"Sport, travel and personal services",1491,"Amusement, Fitness and Sports Centre Managers",False,True,Assigned,100.0,19703,1491,Arts and Recreation Services,55.0
+personal_services,"Sport, travel and personal services",1493,Conference and Event Organisers,False,True,Assigned,100.0,30336,1493,Administrative and Support Services,24.1
+personal_services,"Sport, travel and personal services",3911,Hairdressers,False,True,Assigned,100.0,64836,3911,Other Services,96.1
+personal_services,"Sport, travel and personal services",4511,Beauty Therapists,False,True,Assigned,100.0,39264,4511,Other Services,91.9
+personal_services,"Sport, travel and personal services",4512,Driving Instructors,False,True,Assigned,100.0,6661,4512,Education and Training,84.9
+personal_services,"Sport, travel and personal services",4513,Funeral Workers,False,True,Assigned,100.0,5123,4513,Other Services,93.4
+personal_services,"Sport, travel and personal services",4514,"Gallery, Museum and Tour Guides",False,True,Assigned,100.0,6094,4514,Arts and Recreation Services,33.1
+personal_services,"Sport, travel and personal services",4515,Personal Care Consultants,False,True,Assigned,100.0,4669,4515,Other Services,24.2
+personal_services,"Sport, travel and personal services",4516,Tourism and Travel Advisers,False,True,Assigned,100.0,21930,4516,Administrative and Support Services,76.9
+personal_services,"Sport, travel and personal services",4518,Other Personal Service Workers,False,True,Assigned,100.0,21044,4518,Other Services,39.6
+personal_services,"Sport, travel and personal services",4521,Fitness Instructors,False,True,Assigned,100.0,35273,4521,Other Services,50.3
+personal_services,"Sport, travel and personal services",4522,Outdoor Adventure Guides,False,True,Assigned,100.0,4054,4522,Education and Training,63.0
+personal_services,"Sport, travel and personal services",4523,"Sports Coaches, Instructors and Officials",False,True,Assigned,100.0,58786,4523,Education and Training,52.4
+personal_services,"Sport, travel and personal services",4524,Sportspersons,False,True,Assigned,100.0,16084,4524,Arts and Recreation Services,63.7
+personal_services,"Sport, travel and personal services",1000,Managers nfd,True,True,Shared by employment (nfd),2.7,167,1000,,
+personal_services,"Sport, travel and personal services",1400,"Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),9.0,18,1400,,
+personal_services,"Sport, travel and personal services",1490,"Miscellaneous Hospitality, Retail and Service Managers nfd",True,True,Shared by employment (nfd),24.7,108,1490,,
+personal_services,"Sport, travel and personal services",3000,Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),3.3,282,3000,,
+personal_services,"Sport, travel and personal services",3900,Other Technicians and Trades Workers nfd,True,True,Shared by employment (nfd),32.5,98,3900,,
+personal_services,"Sport, travel and personal services",4000,Community and Personal Service Workers nfd,True,True,Shared by employment (nfd),12.8,19,4000,,
+personal_services,"Sport, travel and personal services",4500,Sports and Personal Service Workers nfd,True,True,Shared by employment (nfd),95.6,97,4500,,
+personal_services,"Sport, travel and personal services",4510,Personal Service and Travel Workers nfd,True,True,Shared by employment (nfd),91.3,92,4510,,
+personal_services,"Sport, travel and personal services",4520,Sports and Fitness Workers nfd,True,True,Shared by employment (nfd),100.0,327,4520,,
+cleaning_labouring,Cleaning and other labouring,8111,Car Detailers,False,True,Assigned,100.0,17370,8111,Other Services,50.0
+cleaning_labouring,Cleaning and other labouring,8112,Commercial Cleaners,False,True,Assigned,100.0,153028,8112,Administrative and Support Services,46.8
+cleaning_labouring,Cleaning and other labouring,8113,Domestic Cleaners,False,True,Assigned,100.0,32494,8113,Administrative and Support Services,84.7
+cleaning_labouring,Cleaning and other labouring,8114,Housekeepers,False,True,Assigned,100.0,32932,8114,Accommodation and Food Services,54.5
+cleaning_labouring,Cleaning and other labouring,8115,Laundry Workers,False,True,Assigned,100.0,14183,8115,Other Services,56.3
+cleaning_labouring,Cleaning and other labouring,8116,Other Cleaners,False,True,Assigned,100.0,13395,8116,Administrative and Support Services,40.7
+cleaning_labouring,Cleaning and other labouring,8991,Caretakers,False,True,Assigned,100.0,7053,8991,Education and Training,48.8
+cleaning_labouring,Cleaning and other labouring,8993,Handypersons,False,True,Assigned,100.0,43825,8993,Construction,40.2
+cleaning_labouring,Cleaning and other labouring,8996,Recycling and Rubbish Collectors,False,True,Assigned,100.0,3623,8996,Public Administration and Safety,18.6
+cleaning_labouring,Cleaning and other labouring,8997,Vending Machine Attendants,False,True,Assigned,100.0,3733,8997,Arts and Recreation Services,46.1
+cleaning_labouring,Cleaning and other labouring,8999,Other Miscellaneous Labourers,False,True,Assigned,100.0,68591,8999,Public Administration and Safety,26.5
+cleaning_labouring,Cleaning and other labouring,8000,Labourers nfd,True,True,Shared by employment (nfd),32.9,2138,8000,,
+cleaning_labouring,Cleaning and other labouring,8110,Cleaners and Laundry Workers nfd,True,True,Shared by employment (nfd),100.0,14264,8110,,
+cleaning_labouring,Cleaning and other labouring,8900,Other Labourers nfd,True,True,Shared by employment (nfd),53.6,267,8900,,
+cleaning_labouring,Cleaning and other labouring,8990,Miscellaneous Labourers nfd,True,True,Shared by employment (nfd),84.6,510,8990,,

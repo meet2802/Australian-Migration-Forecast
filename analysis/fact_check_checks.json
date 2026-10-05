@@ -1,0 +1,87 @@
+{
+ "files_written": {
+  "fact_check_claims.csv": "fact_check_claims.csv",
+  "treasury_nom_forecasts.csv": "treasury_nom_forecasts.csv",
+  "fact_check_cards.csv": "fact_check_cards.csv"
+ },
+ "cards": 19,
+ "by_side": {
+  "Business": 3,
+  "Coalition": 4,
+  "Greens": 2,
+  "Labor": 4,
+  "One Nation": 4,
+  "Union": 2
+ },
+ "verdicts_by_side": {
+  "Business": {
+   "Accurate": 0,
+   "Can't test with our data": 1,
+   "Mostly accurate": 2,
+   "Partly accurate": 0,
+   "Plan (what it implies)": 0,
+   "Too early to tell": 0
+  },
+  "Coalition": {
+   "Accurate": 1,
+   "Can't test with our data": 2,
+   "Mostly accurate": 0,
+   "Partly accurate": 1,
+   "Plan (what it implies)": 0,
+   "Too early to tell": 0
+  },
+  "Greens": {
+   "Accurate": 1,
+   "Can't test with our data": 1,
+   "Mostly accurate": 0,
+   "Partly accurate": 0,
+   "Plan (what it implies)": 0,
+   "Too early to tell": 0
+  },
+  "Labor": {
+   "Accurate": 2,
+   "Can't test with our data": 0,
+   "Mostly accurate": 1,
+   "Partly accurate": 0,
+   "Plan (what it implies)": 0,
+   "Too early to tell": 1
+  },
+  "One Nation": {
+   "Accurate": 1,
+   "Can't test with our data": 1,
+   "Mostly accurate": 1,
+   "Partly accurate": 0,
+   "Plan (what it implies)": 1,
+   "Too early to tell": 0
+  },
+  "Union": {
+   "Accurate": 0,
+   "Can't test with our data": 2,
+   "Mostly accurate": 0,
+   "Partly accurate": 0,
+   "Plan (what it implies)": 0,
+   "Too early to tell": 0
+  }
+ },
+ "verdicts": {
+  "LAB-1": "Accurate",
+  "LAB-2": "Too early to tell",
+  "LAB-3": "Accurate",
+  "LAB-4": "Mostly accurate",
+  "COA-1": "Accurate",
+  "COA-2": "Can't test with our data",
+  "COA-3": "Partly accurate",
+  "COA-4": "Can't test with our data",
+  "ONP-1": "Mostly accurate",
+  "ONP-2": "Accurate",
+  "ONP-3": "Can't test with our data",
+  "ONP-4": "Plan (what it implies)",
+  "GRN-1": "Accurate",
+  "GRN-2": "Can't test with our data",
+  "BUS-1": "Mostly accurate",
+  "BUS-2": "Can't test with our data",
+  "BUS-3": "Mostly accurate",
+  "UNI-1": "Can't test with our data",
+  "UNI-2": "Can't test with our data"
+ }
+}

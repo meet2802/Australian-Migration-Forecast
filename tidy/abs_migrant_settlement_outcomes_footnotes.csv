@@ -1,0 +1,79 @@
+table,marker,footnote
+Table 1,a,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 1,b,Includes year of arrival not stated and not applicable.
+Table 1,c,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 1,d,Excludes Australian citizenship not stated.
+Table 1,e,Includes Other Territories.
+Table 1,f,Includes other permanent migrants.
+Table 2a,a,Persons whose Settlement Data date of arrival was 1st January 2000 or later.
+Table 2a,b,Includes higher education and/or vocational education and training.
+Table 2a,c,Includes Other Territories.
+Table 2a,d,Includes other permanent migrants.
+Table 2b,a,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 2b,b,Includes year of arrival not stated and not applicable.
+Table 2b,c,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 2b,d,"Includes Post Graduate Degree, Graduate Diploma and Graduate Certificate, Bachelor Degree, Advanced Diploma and Diploma Level."
+Table 2b,e,Includes Certificate I & II and Certificate III & IV Level.
+Table 2b,f,Includes higher education and/or vocational education and training.
+Table 2b,g,Includes Other Territories.
+Table 2b,h,Includes other permanent migrants.
+Table 3a,a,Persons whose Settlement Data date of arrival was 1st January 2000 or later.
+Table 3a,b,"Includes government payments, employee income, own unincorporated business income, investment income, superannuation income and other income."
+Table 3a,c,Data is not comparable with estimates published in Personal Income in Australia due to different scoping and visa selection methods. Refer to Methodology for more information.
+Table 3a,d,"Includes employee income, own unincorporated business income, investment income, superannuation income and other income."
+Table 3a,e,"Includes Jobseeker Payment, Jobseeker Allowance, and Newstart Allowance."
+Table 3a,f,Includes Other Territories.
+Table 3a,g,Includes other permanent migrants.
+Table 3b,a,Persons whose Settlement Data date of arrival was 1st January 2000 or later.
+Table 3b,b,"Includes government payments, employee income, own unincorporated business income, investment income, superannuation income and other income."
+Table 3b,c,Data is not comparable with estimates published in Personal Income in Australia due to different scoping and visa selection methods. Refer to Methodology for more information.
+Table 3b,d,Includes Other Territories.
+Table 3b,e,"Includes employee income, own unincorporated business income, investment income, superannuation income and other income."
+Table 3b,f,Includes other permanent migrants.
+Table 3c,a,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 3c,b,Includes year of arrival not stated and not applicable.
+Table 3c,c,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 3c,d,Excludes labour force status not stated.
+Table 3c,e,Includes Other Territories.
+Table 3c,f,Includes other permanent migrants.
+Table 3d,a,The data in this table relates to quintiles of the Index of Relative Socio-economic Advantage and Disadvantage (IRSAD) at Statistical Area Level 1 (SA1) from the Socio-Economic Indexes for Areas (SEIFA).
+Table 3d,b,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 3d,c,Includes year of arrival not stated and not applicable.
+Table 3d,d,"Quintiles are constructed from neighbouring deciles. For example, Quintile 1 is constructed from Decile 1 and Decile 2. Lower quintile SA1s have greater levels of disadvantage and a lack of advantage compared with higher quintile SA1s."
+Table 3d,e,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 3d,f,Includes not applicable or not determined category.
+Table 3d,g,Includes Other Territories.
+Table 3d,h,Includes other permanent migrants.
+Table 4,a,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 4,b,Includes year of arrival not stated and not applicable.
+Table 4,c,"Includes speaks English only, speaks English well and speaks English very well."
+Table 4,d,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 4,e,Includes speaks English not well or not at all.
+Table 4,f,Excludes English proficiency not stated.
+Table 4,g,Includes Other Territories.
+Table 4,h,Includes other permanent migrants.
+Table 5a,a,Persons whose Settlement Data date of arrival was 1st January 2000 or later.
+Table 5a,b,Only includes data on Medicare-subsidised GP mental health treatment plans. Does not include data on the overall use of mental health services nor the prevalence of mental health conditions.
+Table 5a,c,Individuals may have accessed multiple services or may have accessed the same service(s) more than once within the year. Therefore the sum of the components will not be equal to the total person count.
+Table 5a,d,Includes Other Territories.
+Table 5a,e,Includes other permanent migrants.
+Table 5b,a,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 5b,b,Includes year of arrival not stated and not applicable.
+Table 5b,c,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 5b,d,'COPD' refers to Chronic Obstructive Pulmonary Disease.
+Table 5b,e,Respondents had the option to record multiple long-term health conditions therefore the sum of total responses count will not equal the total person count.
+Table 5b,f,Includes Other Territories.
+Table 5b,g,Includes other permanent migrants.
+Table 6,a,Arrived 1 January 2017 to 10 August 2021 (Census Night).
+Table 6,b,Includes year of arrival not stated and not applicable.
+Table 6,c,Excludes visitor only and non-classifiable households.
+Table 6,d,"Includes persons whose Settlement Data date of arrival was 1st January 2000 or later, but may have reported a Census year of arrival in Australia prior to 2000."
+Table 6,e,Includes purchased under a shared equity scheme.
+Table 6,f,Excludes being occupied rent free.
+Table 6,g,Excludes tenure type not stated.
+Table 6,h,Excludes not applicable or unable to be determined.
+Table 6,i,"Living in a dwelling that requires one or more extra bedrooms to accommodate the people who usually live there, as defined by the Census variable Housing suitability (HOSD), based on the Canadian National Occupancy Standard (CNOS)."
+Table 6,j,"Living in a dwelling that requires four or more extra bedrooms to accommodate the people who usually live there, as defined by the Census variable Housing suitability (HOSD), based on the Canadian National Occupancy Standard (CNOS)."
+Table 6,k,"Includes one or more bedrooms needed, one or more bedrooms spare, and no bedrooms needed or spare. Excludes number of bedrooms not applicable, not stated or unable to be determined."
+Table 6,l,Includes Other Territories.
+Table 6,m,Includes other permanent migrants.

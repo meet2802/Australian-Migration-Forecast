@@ -1,0 +1,159 @@
+{
+ "files_written": {
+  "abs_overseas_arrivals_by_age_2024_25.csv": "abs_overseas_arrivals_by_age_2024_25.csv",
+  "scenario_assumptions.csv": "scenario_assumptions.csv",
+  "scenario_population.csv": "scenario_population.csv",
+  "scenario_summary.csv": "scenario_summary.csv",
+  "scenario_skilled_exposure.csv": "scenario_skilled_exposure.csv",
+  "scenario_housing_context.csv": "scenario_housing_context.csv"
+ },
+ "age_table_checks": {
+  "total_vs_abs": [
+   568340,
+   568370
+  ],
+  "median_age (ABS says 26)": 26,
+  "modal_age (ABS says 23)": 23,
+  "sex_ratio (ABS says 98)": 98.3
+ },
+ "age_shares_of_arrivals_pct": {
+  "0-14": 13.3,
+  "15-64": 82.9,
+  "65+": 3.8
+ },
+ "latest_population_quarter": "2026-03",
+ "homes_completed_year_ending": "2026-03",
+ "state_nom_shares_pct": {
+  "AUS": 100.0,
+  "NSW": 30.36,
+  "VIC": 28.92,
+  "QLD": 17.62,
+  "SA": 5.76,
+  "WA": 13.79,
+  "TAS": 1.02,
+  "NT": 1.06,
+  "ACT": 1.46
+ },
+ "state_nom_add_to_national (largest gap)": 25,
+ "population_june_2026_est": 27994467,
+ "one_nation_skilled_cut_share_pct": 39.5,
+ "housing_context_australia": [
+  {
+   "window": "Latest 12 months",
+   "from_quarter": "2025-06",
+   "to_quarter": "2026-03",
+   "population_growth": 392728,
+   "homes_needed_for_growth": 157091,
+   "homes_completed": 173523,
+   "homes_completed_minus_needed": 16432,
+   "people_added_per_home_completed": 2.26
+  },
+  {
+   "window": "Since the borders reopened (from the March quarter 2022)",
+   "from_quarter": "2022-03",
+   "to_quarter": "2026-03",
+   "population_growth": 2147355,
+   "homes_needed_for_growth": 858942,
+   "homes_completed": 741173,
+   "homes_completed_minus_needed": -117769,
+   "people_added_per_home_completed": 2.9
+  },
+  {
+   "window": "Five years",
+   "from_quarter": "2021-06",
+   "to_quarter": "2026-03",
+   "population_growth": 2268145,
+   "homes_needed_for_growth": 907258,
+   "homes_completed": 880680,
+   "homes_completed_minus_needed": -26578,
+   "people_added_per_home_completed": 2.58
+  }
+ ],
+ "national_results": [
+  {
+   "plan": "Government (Labor)",
+   "case": "central",
+   "nom_4y": 920000,
+   "population_growth_4y": 1322364,
+   "population_june_2030": 29316831,
+   "population_june_2030_vs_government": 0,
+   "working_age_people_added_via_nom_4y": 762674,
+   "homes_needed_per_year": 132236,
+   "homes_completed_minus_needed_per_year": 41287
+  },
+  {
+   "plan": "Coalition (Liberal-National)",
+   "case": "central",
+   "nom_4y": 694092,
+   "population_growth_4y": 1096456,
+   "population_june_2030": 29090923,
+   "population_june_2030_vs_government": -225908,
+   "working_age_people_added_via_nom_4y": 575398,
+   "homes_needed_per_year": 109646,
+   "homes_completed_minus_needed_per_year": 63877
+  },
+  {
+   "plan": "Coalition (Liberal-National)",
+   "case": "low",
+   "nom_4y": 600000,
+   "population_growth_4y": 1002364,
+   "population_june_2030": 28996831,
+   "population_june_2030_vs_government": -320000,
+   "working_age_people_added_via_nom_4y": 497396,
+   "homes_needed_per_year": 100236,
+   "homes_completed_minus_needed_per_year": 73287
+  },
+  {
+   "plan": "One Nation",
+   "case": "central",
+   "nom_4y": -253001,
+   "population_growth_4y": 149363,
+   "population_june_2030": 28143830,
+   "population_june_2030_vs_government": -1173001,
+   "working_age_people_added_via_nom_4y": -209736,
+   "homes_needed_per_year": 14936,
+   "homes_completed_minus_needed_per_year": 158587
+  },
+  {
+   "plan": "One Nation",
+   "case": "low",
+   "nom_4y": -635999,
+   "population_growth_4y": -233635,
+   "population_june_2030": 27760832,
+   "population_june_2030_vs_government": -1555999,
+   "working_age_people_added_via_nom_4y": -527239,
+   "homes_needed_per_year": -23364,
+   "homes_completed_minus_needed_per_year": 196886
+  },
+  {
+   "plan": "One Nation",
+   "case": "high",
+   "nom_4y": 230000,
+   "population_growth_4y": 632364,
+   "population_june_2030": 28626831,
+   "population_june_2030_vs_government": -690000,
+   "working_age_people_added_via_nom_4y": 190668,
+   "homes_needed_per_year": 63236,
+   "homes_completed_minus_needed_per_year": 110287
+  },
+  {
+   "plan": "Reference: latest year held flat (not a plan)",
+   "case": "central",
+   "nom_4y": 1168548,
+   "population_growth_4y": 1570912,
+   "population_june_2030": 29565379,
+   "population_june_2030_vs_government": 248548,
+   "working_age_people_added_via_nom_4y": 968718,
+   "homes_needed_per_year": 157091,
+   "homes_completed_minus_needed_per_year": 16432
+  }
+ ],
+ "rows": {
+  "abs_overseas_arrivals_by_age_2024_25.csv": 101,
+  "scenario_assumptions.csv": 14,
+  "scenario_population.csv": 252,
+  "scenario_summary.csv": 63,
+  "scenario_skilled_exposure.csv": 24,
+  "scenario_housing_context.csv": 27
+ }
+}

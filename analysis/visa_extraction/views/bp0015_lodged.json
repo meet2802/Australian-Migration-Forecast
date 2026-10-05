@@ -1,0 +1,4 @@
+{
+ "student_lodged_sector_state_month": {"dims": ["Financial Year of Visa Lodged","Financial Year Quarter","Month","Client Location","Sector","Applicant Type","Education Provider Registered State"], "measures": ["Total"]},
+ "student_lodged_age": {"dims": ["Financial Year of Visa Lodged","Applicant Type","Sector","Age Group"], "measures": ["Total"]}
+}

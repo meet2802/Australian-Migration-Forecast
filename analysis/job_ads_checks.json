@@ -1,0 +1,52 @@
+{
+ "files_written": {
+  "jsa_ivi_occupation4_state_monthly.csv": "jsa_ivi_occupation4_state_monthly.csv.gz",
+  "jsa_ivi_skill_level_state_monthly.csv": "jsa_ivi_skill_level_state_monthly.csv",
+  "job_ads_trends_state.csv": "job_ads_trends_state.csv"
+ },
+ "occupation_months": [
+  "2006-03",
+  "2026-08"
+ ],
+ "occupation_codes": 351,
+ "occupations_sum_vs_total_australia_max_abs_pct (some occupations unpublished)": 1.2,
+ "states_sum_vs_australia_total_max_abs_pct": 0.0,
+ "skill_levels_sum_vs_all_trend_max_abs_pct (trends are smoothed separately)": 4.31,
+ "latest_trend_australia": {
+  "0": {
+   "job_ads_latest": 212698.0,
+   "change_12m_pct": 1.2,
+   "change_vs_2019_pct": 24.6
+  },
+  "1": {
+   "job_ads_latest": 77707.0,
+   "change_12m_pct": 0.4,
+   "change_vs_2019_pct": 14.5
+  },
+  "2": {
+   "job_ads_latest": 24586.0,
+   "change_12m_pct": 3.1,
+   "change_vs_2019_pct": 26.2
+  },
+  "3": {
+   "job_ads_latest": 32622.0,
+   "change_12m_pct": -0.4,
+   "change_vs_2019_pct": 34.9
+  },
+  "4": {
+   "job_ads_latest": 53279.0,
+   "change_12m_pct": 1.8,
+   "change_vs_2019_pct": 26.3
+  },
+  "5": {
+   "job_ads_latest": 24671.0,
+   "change_12m_pct": 6.0,
+   "change_vs_2019_pct": 46.4
+  }
+ },
+ "rows": {
+  "jsa_ivi_occupation4_state_monthly.csv": 779328,
+  "jsa_ivi_skill_level_state_monthly.csv": 26784,
+  "job_ads_trends_state.csv": 54
+ }
+}

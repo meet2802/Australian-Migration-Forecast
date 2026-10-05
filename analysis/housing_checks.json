@@ -1,0 +1,117 @@
+{
+ "activity_series_per_file": {
+  "Commenced": 96,
+  "Completed": 96
+ },
+ "activity_latest_quarter": "2026-03",
+ "approvals_latest_month": "2026-08",
+ "approvals_table9_australia_minus_sum_of_states (ABS published; old months only)": {
+  "months_affected": 10,
+  "max_abs": 44.0,
+  "first_month": "1983-11",
+  "last_month": "1985-07"
+ },
+ "approvals_overlap_with_table9": {
+  "table6_original_vs_table9_max_abs": 0.0,
+  "table6_original_rows_compared": 1554,
+  "table7_original_vs_table9_max_abs": 0.0,
+  "table7_original_rows_compared": 4144
+ },
+ "approvals_table9_total_minus_houses_minus_other (ABS published; old months only)": {
+  "months_affected": 8,
+  "max_abs": 27.0,
+  "first_month": "1984-02",
+  "last_month": "2010-11"
+ },
+ "analysis_latest_year_ending": "2026-03",
+ "year_to_latest": {
+  "NSW": {
+   "approved": 52405.0,
+   "commenced": 51714.0,
+   "completed": 44804.0,
+   "population_growth": 96971.0,
+   "people_added_per_home_completed": 2.16
+  },
+  "VIC": {
+   "approved": 54230.0,
+   "commenced": 55261.0,
+   "completed": 54599.0,
+   "population_growth": 109491.0,
+   "people_added_per_home_completed": 2.01
+  },
+  "QLD": {
+   "approved": 45380.0,
+   "commenced": 43284.0,
+   "completed": 33060.0,
+   "population_growth": 90078.0,
+   "people_added_per_home_completed": 2.72
+  },
+  "SA": {
+   "approved": 14897.0,
+   "commenced": 14902.0,
+   "completed": 14051.0,
+   "population_growth": 18387.0,
+   "people_added_per_home_completed": 1.31
+  },
+  "WA": {
+   "approved": 25295.0,
+   "commenced": 24236.0,
+   "completed": 19963.0,
+   "population_growth": 64198.0,
+   "people_added_per_home_completed": 3.22
+  },
+  "TAS": {
+   "approved": 2440.0,
+   "commenced": 2416.0,
+   "completed": 2285.0,
+   "population_growth": 3394.0,
+   "people_added_per_home_completed": 1.49
+  },
+  "NT": {
+   "approved": 748.0,
+   "commenced": 698.0,
+   "completed": 601.0,
+   "population_growth": 3965.0,
+   "people_added_per_home_completed": 6.6
+  },
+  "ACT": {
+   "approved": 4299.0,
+   "commenced": 4945.0,
+   "completed": 4160.0,
+   "population_growth": 6206.0,
+   "people_added_per_home_completed": 1.49
+  },
+  "AUS": {
+   "approved": 199694.0,
+   "commenced": 197456.0,
+   "completed": 173523.0,
+   "population_growth": 392728.0,
+   "people_added_per_home_completed": 2.26
+  }
+ },
+ "australia_completed_by_financial_year": {
+  "2018-19": 215279.0,
+  "2019-20": 192262.0,
+  "2020-21": 179923.0,
+  "2021-22": 172804.0,
+  "2022-23": 174599.0,
+  "2023-24": 177847.0,
+  "2024-25": 175509.0
+ },
+ "accord_pace_per_year": 240000,
+ "australia_people_added_per_home_completed_by_financial_year": {
+  "2018-19": 1.73,
+  "2019-20": 1.64,
+  "2020-21": 0.2,
+  "2021-22": 1.93,
+  "2022-23": 3.67,
+  "2023-24": 3.0,
+  "2024-25": 2.32
+ },
+ "rows": {
+  "abs_dwellings_commenced_completed_by_state.csv": 36772,
+  "abs_dwellings_approved_by_state.csv": 30562,
+  "housing_vs_population_by_state.csv": 1512,
+  "housing_targets.csv": 1
+ }
+}

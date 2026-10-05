@@ -1,0 +1,28 @@
+{
+ "unit_groups": 421,
+ "occupations_6_digit": 1156,
+ "total_employed_main_job": 12049400.0,
+ "unit_groups_sum_vs_total_pct (nfd and suppressed excluded)": -6.42,
+ "occupations_6_digit_sum_vs_total_pct (nfd and suppressed excluded)": -7.16,
+ "industry_shares_sum_pct_range (published codes; small and not-stated industries excluded)": [
+  80.3,
+  100.1
+ ],
+ "age_shares_sum_pct_range (published codes)": [
+  99.4,
+  100.9
+ ],
+ "codes_with_industry_detail_suppressed": 529,
+ "codes_with_state_detail_suppressed": 529,
+ "state_counts_vs_overview_max_abs_pct (rounding and perturbation)": 3.33,
+ "share_cells_below_0_1pct": 2420,
+ "skill_level_missing": 1,
+ "descriptions_rows": 1577,
+ "rows": {
+  "jsa_osca_census2021_overview.csv": 1578,
+  "jsa_osca_census2021_industry_shares.csv": 29982,
+  "jsa_osca_census2021_state_shares.csv": 12624,
+  "jsa_osca_census2021_age_profile.csv": 11046,
+  "jsa_osca_descriptions.csv": 1577
+ }
+}

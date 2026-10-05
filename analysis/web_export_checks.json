@@ -1,0 +1,179 @@
+{
+ "q2_fy2020_21_vs_rolling_june_2021": [
+  -84935,
+  -84930
+ ],
+ "q3_squares": {
+  "perm_skilled": 7,
+  "perm_family": 4,
+  "perm_humanitarian": 3,
+  "perm_other": 2,
+  "students": 27,
+  "working_holiday": 14,
+  "visitors": 10,
+  "temp_skilled": 8,
+  "temp_other": 5,
+  "aus_citizens": 11,
+  "nz_citizens": 9
+ },
+ "q3_temporary_groups_vs_published_subtotal": [
+  363080,
+  363090
+ ],
+ "q3_net": {
+  "total": 305570,
+  "skilled": 70910,
+  "skilled_share_pct": 23.21
+ },
+ "q6_shortfall": 117769,
+ "q12_aus_people_per_home": [
+  2.26,
+  2.26
+ ],
+ "job_ads_series": {
+  "occupations": 351,
+  "first": "2016-08",
+  "last": "2026-08"
+ },
+ "simulator": {
+  "skilled_share_pct": 23.21,
+  "workers_per_100_skilled": 63.0,
+  "short_share_of_visas_pct": 57.6,
+  "sectors": 24
+ },
+ "downloads": 20,
+ "downloads_missing": [],
+ "models": {
+  "a1_rows": 304,
+  "a2_rows": 112,
+  "pipeline": {
+   "source_files": 241,
+   "scripts": 21,
+   "steps_logged": 122,
+   "tables_documented": 119,
+   "columns_documented": 1183,
+   "downloads": 20,
+   "figures": 31
+  }
+ },
+ "written": [
+  {
+   "file": "dashboard/data/data.js",
+   "kb": 47.2,
+   "md5": "7fdc0e069b94a688a358a8af65b7bb36"
+  },
+  {
+   "file": "dashboard/data/data-explore.js",
+   "kb": 494.0,
+   "md5": "315857f3fccdacd0509436912e0149d1"
+  },
+  {
+   "file": "dashboard/data/data-methods.js",
+   "kb": 369.6,
+   "md5": "9c9ebc51fb964f42044a0a4856a4da9d"
+  }
+ ],
+ "story_values": {
+  "q1_nom": 292137,
+  "q1_mcgs": 2.92,
+  "q1_per_day": 800,
+  "q2_peak": [
+   555798,
+   "Year to Sep 2023"
+  ],
+  "q2_low": [
+   -94326,
+   "Year to Mar 2021"
+  ],
+  "q3_permanent_squares": 16,
+  "q4_first_year": {
+   "gov": 245000,
+   "on": -127667
+  },
+  "q5_range": [
+   28143830,
+   29316831,
+   1173001,
+   11.7
+  ],
+  "q6_shortfall": 117769,
+  "q7_top": [
+   "doctors",
+   "mechanics_metal",
+   "nurses",
+   "child_care"
+  ],
+  "q8_top": [
+   "doctors",
+   "other_health",
+   "tech",
+   "nurses",
+   "aged_disability"
+  ],
+  "q9_rows": [
+   [
+    "aged_disability",
+    7,
+    10
+   ],
+   [
+    "doctors",
+    61,
+    73
+   ],
+   [
+    "teaching",
+    141,
+    9
+   ],
+   [
+    "nurses",
+    144,
+    13
+   ],
+   [
+    "construction",
+    146,
+    19
+   ],
+   [
+    "child_care",
+    153,
+    33
+   ],
+   [
+    "mechanics_metal",
+    242,
+    155
+   ]
+  ],
+  "q11": [
+   [
+    "skilled",
+    81.8
+   ],
+   [
+    "everyone",
+    73.9
+   ],
+   [
+    "family",
+    68.2
+   ],
+   [
+    "humanitarian",
+    46.0
+   ]
+  ],
+  "q13": [
+   [
+    "LAB-1",
+    "COA-3",
+    "ONP-1",
+    "GRN-1"
+   ],
+   10,
+   9
+  ]
+ }
+}

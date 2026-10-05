@@ -1,0 +1,2 @@
+target,homes,period_start,period_end,homes_per_year,status,what_it_counts,source
+National Housing Accord,1200000,2024-07,2029-06,240000,Policy target agreed by National Cabinet on 16 August 2023 (not law),New well-located homes. The Treasury page does not say which ABS measure tracks it; this project compares it with ABS dwelling completions (assumption),"Australian Government, The Treasury (n.d.), Delivering the National Housing Accord, https://treasury.gov.au/policy-topics/housing/accord (checked 4 Oct 2026)"

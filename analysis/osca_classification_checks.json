@@ -1,0 +1,95 @@
+{
+ "structure_counts": {
+  "Occupation": 1156,
+  "Unit group": 421,
+  "Minor group": 111,
+  "Sub-major group": 53,
+  "Major group": 8
+ },
+ "correspondence_tables": [
+  {
+   "table": "Table 1",
+   "from_classification": "ANZSCO v1.3",
+   "to_classification": "OSCA 2024 v1.0",
+   "rows": 1383
+  },
+  {
+   "table": "Table 10",
+   "from_classification": "OSCA 2024 v1.0",
+   "to_classification": "NOL v1.0",
+   "rows": 1739
+  },
+  {
+   "table": "Table 2",
+   "from_classification": "OSCA 2024 v1.0",
+   "to_classification": "ANZSCO v1.3",
+   "rows": 1383
+  },
+  {
+   "table": "Table 3",
+   "from_classification": "ANZSCO 2021 Australian Update",
+   "to_classification": "OSCA 2024 v1.0",
+   "rows": 1348
+  },
+  {
+   "table": "Table 4",
+   "from_classification": "OSCA 2024 v1.0",
+   "to_classification": "ANZSCO 2021 Australian Update",
+   "rows": 1348
+  },
+  {
+   "table": "Table 5",
+   "from_classification": "ANZSCO 2022 Australian Update",
+   "to_classification": "OSCA 2024 v1.0",
+   "rows": 1348
+  },
+  {
+   "table": "Table 6",
+   "from_classification": "OSCA 2024 v1.0",
+   "to_classification": "ANZSCO 2022 Australian Update",
+   "rows": 1348
+  },
+  {
+   "table": "Table 7",
+   "from_classification": "ISCO-08",
+   "to_classification": "OSCA 2024 v1.0",
+   "rows": 1448
+  },
+  {
+   "table": "Table 8",
+   "from_classification": "OSCA 2024 v1.0",
+   "to_classification": "ISCO-08",
+   "rows": 1448
+  },
+  {
+   "table": "Table 9",
+   "from_classification": "NOL v1.0",
+   "to_classification": "OSCA 2024 v1.0",
+   "rows": 1739
+  }
+ ],
+ "no_correspondence_rows": 12,
+ "partial_share_table1_pct": 27.1,
+ "anzsco_v13_occupations_in_table1": 1023,
+ "crosswalk_unit_group_pairs": 624,
+ "spine_unit_groups_covered (excluding 'nfd' rows)": "358 of 358",
+ "spine_unit_groups_not_covered": [],
+ "anzsco_occupations_without_2021_employment": 152,
+ "one_to_one_unit_groups": 212,
+ "descriptions": {
+  "Occupation": 1156,
+  "Unit group": 421,
+  "Minor group": 111,
+  "Sub-major group": 53,
+  "Major group": 8
+ },
+ "title_index_rows": 3338,
+ "title_index_table1_rows": 3338,
+ "rows": {
+  "abs_osca_structure.csv": 1749,
+  "abs_osca_correspondences.csv": 14532,
+  "abs_osca_descriptions.csv": 1749,
+  "abs_osca_title_index.csv": 3338,
+  "anzsco_osca_unit_group_crosswalk.csv": 624
+ }
+}

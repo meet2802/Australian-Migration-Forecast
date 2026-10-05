@@ -1,0 +1,42 @@
+{
+ "unit_groups": 358,
+ "occupations_6_digit": 878,
+ "unit_group_employment_total": 14463400.0,
+ "suppressed_employment (<50)": 7,
+ "share_sums_range_by_dimension": {
+  "age_group | Occupation (6-digit)": [
+   86.3,
+   112.2
+  ],
+  "age_group | Unit group (4-digit)": [
+   99.3,
+   100.6
+  ],
+  "highest_qualification | Occupation (6-digit)": [
+   75.5,
+   105.2
+  ],
+  "highest_qualification | Unit group (4-digit)": [
+   84.8,
+   99.7
+  ],
+  "state | Occupation (6-digit)": [
+   84.8,
+   117.5
+  ],
+  "state | Unit group (4-digit)": [
+   99.8,
+   100.2
+  ]
+ },
+ "unit_groups_missing_earnings": 62,
+ "industries_per_code_max": 3,
+ "tasks_per_code_max": 18,
+ "rows": {
+  "jsa_anzsco_profiles_overview.csv": 1236,
+  "jsa_anzsco_profiles_distributions.csv": 28428,
+  "jsa_anzsco_profiles_industries.csv": 3708,
+  "jsa_anzsco_profiles_tasks.csv": 8113,
+  "jsa_anzsco_profiles_all_occupations.csv": 40
+ }
+}

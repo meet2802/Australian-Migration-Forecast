@@ -1,0 +1,203 @@
+{
+ "extracted_on": "2026-10-03",
+ "method": "Pivot caches streamed and summed into views; Citizenship Country summed out of every table by design.",
+ "files": [
+  {
+   "source": "bp0014l-temporary-resident-skilled-visa-holders-report-as-at-2026-06-30.xlsx",
+   "records": 6277690,
+   "expected_records": 6277690,
+   "bad_records": 0,
+   "grand_totals": {
+    "Total": 9994939.0
+   },
+   "views": {
+    "skilled_holders_occupation_state": {
+     "file": "skilled_holders_occupation_state.csv",
+     "rows": 135327,
+     "totals": {
+      "Total": 9994939.0
+     }
+    },
+    "skilled_holders_occupation6_national": {
+     "file": "skilled_holders_occupation6_national.csv",
+     "rows": 49490,
+     "totals": {
+      "Total": 9994939.0
+     }
+    },
+    "skilled_holders_industry_state": {
+     "file": "skilled_holders_industry_state.csv",
+     "rows": 14989,
+     "totals": {
+      "Total": 9994939.0
+     }
+    },
+    "skilled_holders_region": {
+     "file": "skilled_holders_region.csv",
+     "rows": 129114,
+     "totals": {
+      "Total": 9994939.0
+     }
+    },
+    "skilled_holders_age_gender": {
+     "file": "skilled_holders_age_gender.csv",
+     "rows": 3808,
+     "totals": {
+      "Total": 9994939.0
+     }
+    }
+   },
+   "seconds": 71.8,
+   "check_against_workbook": "All 252 cached cells (applicant x state x snapshot, 2023-26) match"
+  },
+  {
+   "source": "bp0014ltemporary-resident-skilled-visas-granted-report-at-2026-06-30.xlsx",
+   "records": 1512404,
+   "expected_records": 1512404,
+   "bad_records": 0,
+   "grand_totals": {
+    "Total": 1931710.0
+   },
+   "views": {
+    "skilled_grants_occupation_state": {
+     "file": "skilled_grants_occupation_state.csv",
+     "rows": 133808,
+     "totals": {
+      "Total": 1931710.0
+     }
+    },
+    "skilled_grants_occupation6_national": {
+     "file": "skilled_grants_occupation6_national.csv",
+     "rows": 12998,
+     "totals": {
+      "Total": 1931710.0
+     }
+    },
+    "skilled_grants_industry_state": {
+     "file": "skilled_grants_industry_state.csv",
+     "rows": 24973,
+     "totals": {
+      "Total": 1931710.0
+     }
+    },
+    "skilled_grants_region": {
+     "file": "skilled_grants_region.csv",
+     "rows": 37524,
+     "totals": {
+      "Total": 1931710.0
+     }
+    },
+    "skilled_grants_agreements": {
+     "file": "skilled_grants_agreements.csv",
+     "rows": 2835,
+     "totals": {
+      "Total": 1931710.0
+     }
+    },
+    "skilled_grants_age_gender": {
+     "file": "skilled_grants_age_gender.csv",
+     "rows": 1271,
+     "totals": {
+      "Total": 1931710.0
+     }
+    }
+   },
+   "seconds": 22.0,
+   "check_against_workbook": "All 22 financial-year totals match the workbook's cached pivot table"
+  },
+  {
+   "source": "bp0015l-student-visa-grant-rates-locked-at-2025-08-31-v100.xlsx",
+   "records": 2078349,
+   "expected_records": 2078349,
+   "bad_records": 0,
+   "grand_totals": {
+    "Grant Total": 6618932.0,
+    "Refused Total": 808803.0,
+    "Total": 7427735.0
+   },
+   "views": {
+    "student_decisions_sector_state_month": {
+     "file": "student_decisions_sector_state_month.csv",
+     "rows": 42358,
+     "totals": {
+      "Grant Total": 6618932.0,
+      "Refused Total": 808803.0,
+      "Total": 7427735.0
+     }
+    },
+    "student_decisions_age": {
+     "file": "student_decisions_age.csv",
+     "rows": 3080,
+     "totals": {
+      "Grant Total": 6618932.0,
+      "Refused Total": 808803.0,
+      "Total": 7427735.0
+     }
+    }
+   },
+   "seconds": 17.7,
+   "check_against_workbook": "All 307 grant-rate cells (applicant x sector x year) match the cached pivot table"
+  },
+  {
+   "source": "bp0015l-student-visas-granted-report-locked-at-2025-08-31-v100.xlsx",
+   "records": 2305366,
+   "expected_records": 2305366,
+   "bad_records": 0,
+   "grand_totals": {
+    "Total": 6618932.0
+   },
+   "views": {
+    "student_grants_sector_state_month": {
+     "file": "student_grants_sector_state_month.csv",
+     "rows": 41287,
+     "totals": {
+      "Total": 6618932.0
+     }
+    },
+    "student_grants_previous_visa": {
+     "file": "student_grants_previous_visa.csv",
+     "rows": 4020,
+     "totals": {
+      "Total": 6618932.0
+     }
+    },
+    "student_grants_age": {
+     "file": "student_grants_age.csv",
+     "rows": 3003,
+     "totals": {
+      "Total": 6618932.0
+     }
+    }
+   },
+   "seconds": 18.7,
+   "check_against_workbook": "All 305 cached cells (applicant x sector x year) match; total grants equal the grant-rates file (6,618,932)"
+  },
+  {
+   "source": "bp0015l-student-visas-lodged-report-locked-at-2025-08-31-v100.xlsx",
+   "records": 2110995,
+   "expected_records": 2110995,
+   "bad_records": 0,
+   "grand_totals": {
+    "Total": 7631694.0
+   },
+   "views": {
+    "student_lodged_sector_state_month": {
+     "file": "student_lodged_sector_state_month.csv",
+     "rows": 42654,
+     "totals": {
+      "Total": 7631694.0
+     }
+    },
+    "student_lodged_age": {
+     "file": "student_lodged_age.csv",
+     "rows": 3161,
+     "totals": {
+      "Total": 7631694.0
+     }
+    }
+   },
+   "seconds": 15.3,
+   "check_against_workbook": "All 307 cached cells (applicant x sector x year) match"
+  }
+ ]
+}

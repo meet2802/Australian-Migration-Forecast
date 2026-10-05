@@ -1,0 +1,25 @@
+sector_id,sector_name,short_name,employed_may2025,visa_holders_primary,visa_holders_per_1000_workers,share_of_all_holders_pct,one_nation_cut_if_even,one_nation_cut_per_1000_workers
+hospitality,Hospitality and food,Hospitality & food,839782.0,21123,25.2,15.7,8349,9.9
+mechanics_metal,Mechanics and metal trades,Mechanics & metal trades,400875.0,19911,49.7,14.8,7870,19.6
+business,"Business, finance and law","Business, finance & law",1753714.0,18555,10.6,13.8,7334,4.2
+tech,Tech and IT,Tech & IT,629563.0,13726,21.8,10.2,5426,8.6
+construction,Building and construction,Construction,1250853.0,11671,9.3,8.7,4613,3.7
+engineering,Engineering,Engineering,319390.0,10982,34.4,8.2,4341,13.6
+doctors,Doctors,Doctors,153991.0,6617,43.0,4.9,2616,17.0
+aged_disability,Aged and disability care,Aged & disability care,495513.0,3883,7.8,2.9,1535,3.1
+nurses,Nurses and midwives,Nurses & midwives,440586.0,3683,8.4,2.7,1456,3.3
+farming,"Farming, gardening and animals",Farming & gardening,476761.0,3134,6.6,2.3,1239,2.6
+other_health,Other health workers,Other health,503661.0,2825,5.6,2.1,1117,2.2
+teaching,Teaching and education,Teaching,931295.0,2679,2.9,2.0,1059,1.1
+office,Office and admin,Office & admin,1757474.0,2065,1.2,1.5,816,0.5
+retail,Retail and sales,Retail & sales,1526006.0,1878,1.2,1.4,742,0.5
+personal_services,"Sport, travel and personal services",Sport & personal services,335064.0,1872,5.6,1.4,740,2.2
+community,Community and social services,Community services,261644.0,1702,6.5,1.3,673,2.6
+child_care,Child care,Child care,192473.0,1648,8.6,1.2,651,3.4
+transport,Transport and logistics,Transport,891747.0,1622,1.8,1.2,641,0.7
+manufacturing,Manufacturing and factory work,Manufacturing,472424.0,1494,3.2,1.1,591,1.3
+science,Science,Science,124617.0,1367,11.0,1.0,540,4.3
+mining,Mining,Mining,106931.0,930,8.7,0.7,368,3.4
+arts_media,"Arts, design and media",Arts & media,251700.0,840,3.3,0.6,332,1.3
+cleaning_labouring,Cleaning and other labouring,Cleaning & labouring,407406.0,49,0.1,0.0,19,0.0
+police_security,"Police, fire and security","Police, fire & security",177515.0,15,0.1,0.0,6,0.0

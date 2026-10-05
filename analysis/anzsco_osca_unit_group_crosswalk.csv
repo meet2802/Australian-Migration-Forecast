@@ -1,0 +1,625 @@
+anzsco_unit_group,osca_unit_group,osca_unit_group_title,links,partial_links,anzsco_occupations,employed_2021_est,anzsco_without_employment,share_of_anzsco_unit_group_pct,share_of_osca_unit_group_pct
+1111,1211,Chief Executives and Managing Directors,1,0,1,0.0,1,100.0,
+1112,1212,General Managers and Defence Force Senior Officers,2,0,2,60370.0,0,97.37,100.0
+1112,1492,Commissioned Officers (Management),1,1,1,1630.0,0,2.63,12.95
+1113,1213,Legislators,3,0,3,2300.0,0,100.0,100.0
+1211,1513,Mixed Production and Aquaculture Farmers,1,0,1,0.0,1,93.33,0.0
+1211,3431,"Senior Aquaculture, Crop and Forestry Workers",1,1,1,0.0,1,6.67,0.0
+1212,1511,Broadacre Crop Growers,4,0,4,11715.0,0,30.86,100.0
+1212,1512,Horticultural Crop Growers,10,4,7,18532.0,0,48.82,100.0
+1212,1513,Mixed Production and Aquaculture Farmers,1,1,1,1305.0,0,3.44,100.0
+1212,3431,"Senior Aquaculture, Crop and Forestry Workers",9,9,9,6408.0,0,16.88,59.87
+1213,1521,Beef Cattle Farmers,1,0,1,24735.0,0,40.37,100.0
+1213,1522,Dairy Cattle Farmers,1,0,1,8468.0,0,13.82,100.0
+1213,1523,Mixed Cattle and Sheep Farmers,1,0,1,3879.0,0,6.33,100.0
+1213,1524,Sheep Farmers,1,0,1,10189.0,0,16.63,100.0
+1213,1529,Other Livestock Farmers,8,3,8,8572.0,1,13.99,100.0
+1213,3432,Senior Livestock Farm Workers,7,7,7,5427.0,0,8.86,51.38
+1214,1513,Mixed Production and Aquaculture Farmers,2,1,1,0.0,2,99.78,0.0
+1214,3431,"Senior Aquaculture, Crop and Forestry Workers",1,1,1,0.0,1,0.22,0.0
+1311,1121,Business Promotion Managers,3,0,2,120600.0,0,91.78,100.0
+1311,1122,Communications Managers (Public Relations),1,0,1,10800.0,0,8.22,100.0
+1321,1111,Corporate Services Managers,1,0,1,0.0,1,100.0,
+1322,1112,Finance Managers,1,0,1,0.0,1,100.0,
+1323,1113,Human Resources Managers,1,0,1,0.0,1,85.5,
+1323,1116,Workplace Compliance Managers,1,0,1,0.0,1,14.5,0.0
+1324,1114,Policy and Planning Managers,1,0,1,0.0,1,100.0,
+1325,1115,Research and Development Managers,1,0,1,0.0,1,100.0,
+1331,1311,Construction Project Managers,1,0,1,60200.0,0,55.74,100.0
+1331,1313,Project Builders,1,0,1,47800.0,0,44.26,100.0
+1332,1312,Engineering Managers,1,0,1,0.0,1,100.0,
+1333,1331,"Importers, Exporters and Wholesalers",2,0,2,14200.0,0,100.0,100.0
+1334,1321,Manufacturers,1,0,1,0.0,1,100.0,
+1335,1322,Production Managers,3,1,3,46310.0,0,100.0,74.89
+1336,1332,Procurement Managers,1,0,1,9900.0,0,24.75,100.0
+1336,1333,Supply and Distribution Managers,1,0,1,30100.0,0,75.25,100.0
+1341,1412,Children's Education and Care Service Directors,1,1,1,0.0,1,100.0,
+1342,1413,Health and Welfare Service Managers,8,4,5,30470.0,0,100.0,100.0
+1343,1411,Assistant School Principals and School Principals,2,0,1,0.0,2,100.0,
+1344,1414,Other Education Managers,3,0,3,10900.0,0,100.0,100.0
+1351,1131,Chief Information and Chief Information Security Officers,2,0,1,7300.0,0,11.03,100.0
+1351,1132,ICT Managers,4,0,2,58900.0,0,88.97,100.0
+1391,1492,Commissioned Officers (Management),3,1,3,10960.0,0,100.0,87.05
+1392,1494,Senior Non-commissioned Defence Force Members,1,0,1,0.0,1,100.0,
+1399,1116,Workplace Compliance Managers,2,0,1,19100.0,0,30.13,100.0
+1399,1319,Other Construction and Engineering Managers,2,0,1,6213.0,0,9.8,100.0
+1399,1491,"Arts, Culture and Sports Administrators",3,0,3,5607.0,0,8.84,100.0
+1399,1493,Scientific and Environmental Managers,4,0,3,8048.0,0,12.69,100.0
+1399,1499,Other Specialist Managers,4,0,1,21101.0,0,33.28,100.0
+1399,1729,Other Service Managers,1,0,1,3331.0,0,5.25,27.96
+1411,1612,"Cafe, Restaurant and Catering Managers",2,1,1,0.0,2,100.0,0.0
+1412,1619,"Other Hospitality, Tourism and Venue Managers",1,0,1,0.0,1,100.0,0.0
+1413,1614,Hotel and Motel Managers,1,0,1,0.0,1,100.0,
+1414,1615,Licensed Club Managers,1,1,1,0.0,1,100.0,
+1419,1619,"Other Hospitality, Tourism and Venue Managers",2,1,2,6000.0,0,82.19,60.82
+1419,1729,Other Service Managers,1,0,1,1300.0,0,17.81,10.91
+1421,1612,"Cafe, Restaurant and Catering Managers",1,1,1,73400.0,0,37.74,100.0
+1421,1613,"Entertainment, Fitness and Sports Venue Managers",1,0,1,390.0,0,0.2,2.46
+1421,1619,"Other Hospitality, Tourism and Venue Managers",1,0,1,1200.0,0,0.62,12.16
+1421,1621,Retail Managers,3,0,3,113790.0,0,58.51,100.0
+1421,1724,"Hair, Body and Beauty Service Managers",1,0,1,5700.0,0,2.93,97.51
+1491,1613,"Entertainment, Fitness and Sports Venue Managers",3,0,3,13800.0,0,100.0,86.96
+1492,1721,Call Centre and Customer Service Managers,2,0,2,43800.0,0,100.0,100.0
+1493,1722,Event Managers,1,0,1,0.0,1,100.0,
+1494,1725,Transport Service Managers,3,0,3,15640.0,0,100.0,100.0
+1499,1322,Production Managers,1,1,1,15530.0,0,26.68,25.11
+1499,1613,"Entertainment, Fitness and Sports Venue Managers",2,0,2,1679.0,0,2.88,10.58
+1499,1619,"Other Hospitality, Tourism and Venue Managers",1,1,1,2665.0,0,4.58,27.01
+1499,1711,Financial Institution Managers,1,0,1,9200.0,0,15.81,100.0
+1499,1723,Facilities Managers,1,0,1,21700.0,0,37.29,100.0
+1499,1724,"Hair, Body and Beauty Service Managers",1,0,1,146.0,0,0.25,2.49
+1499,1729,Other Service Managers,3,0,3,7281.0,0,12.51,61.12
+2111,2311,"Actors, Dancers and Other Entertainers",7,2,4,6119.0,0,95.91,100.0
+2111,2316,Music Professionals,1,1,1,261.0,0,4.09,3.76
+2112,2316,Music Professionals,5,1,5,6440.0,0,100.0,92.83
+2113,3913,Photographers,1,0,1,0.0,1,100.0,
+2114,2317,Visual Arts and Crafts Professionals,4,0,4,6320.0,0,100.0,100.0
+2121,2211,Advertising Specialists,1,1,1,3733.0,0,36.64,35.11
+2121,2314,Media Directors and Designers,2,1,2,751.0,0,7.37,8.22
+2121,2315,Media Producers,3,2,1,3676.0,0,36.07,53.46
+2121,2316,Music Professionals,1,1,1,237.0,0,2.32,3.41
+2121,2319,Other Arts and Media Professionals,2,2,2,1793.0,0,17.6,75.56
+2122,2312,"Authors, and Book and Script Editors",2,0,2,4800.0,0,100.0,100.0
+2123,2314,Media Directors and Designers,10,6,7,8070.0,0,71.61,88.35
+2123,2315,Media Producers,3,3,2,3200.0,0,28.39,46.54
+2124,2313,Journalists and Other Writers,8,5,7,16970.0,0,100.0,98.43
+2211,2111,Accountants and Corporate Treasurers,4,0,3,158000.0,0,100.0,97.11
+2212,2111,Accountants and Corporate Treasurers,1,0,1,4700.0,0,19.42,2.89
+2212,2112,Auditors,2,0,2,18500.0,0,76.45,100.0
+2212,2239,Other Information and Organisation Professionals,1,0,1,1000.0,0,4.13,1.8
+2221,5313,Financial and Insurance Brokers,4,0,4,31720.0,0,100.0,98.2
+2222,2122,Financial Dealers,3,2,3,5006.0,0,27.08,100.0
+2222,2123,Investment Specialists,2,0,2,6833.0,0,36.96,40.84
+2222,2129,Other Financial Services and Investment Specialists,2,0,1,6651.0,0,35.97,100.0
+2223,2121,Financial Advisers,1,0,1,24000.0,0,70.8,100.0
+2223,2123,Investment Specialists,1,0,1,9900.0,0,29.2,59.16
+2231,2221,Human Resources and Workplace Relations Advisers,2,0,2,34868.0,0,49.46,100.0
+2231,2222,Recruitment Consultants,1,0,1,21755.0,0,30.86,100.0
+2231,4114,Employment Consultants,1,1,1,11245.0,0,15.95,60.57
+2231,5999,Other Miscellaneous Clerical and Administrative Workers,1,0,1,2632.0,0,3.73,7.96
+2232,2224,Training and Development Professionals,1,1,1,0.0,1,100.0,
+2233,2224,Training and Development Professionals,1,1,1,0.0,1,100.0,
+2241,2231,"Actuaries, Mathematicians and Statisticians",3,0,3,3394.0,0,51.89,100.0
+2241,2232,Data Professionals,2,0,1,3146.0,0,48.11,55.09
+2242,2239,Other Information and Organisation Professionals,2,0,2,4100.0,0,64.06,7.37
+2242,2323,Social Science and Related Professionals,2,0,2,2300.0,0,35.94,23.53
+2243,2323,Social Science and Related Professionals,1,1,1,0.0,1,100.0,0.0
+2244,2233,Intelligence and Policy Analysts,2,0,2,19300.0,0,100.0,100.0
+2245,1314,Property Developers,1,0,1,4396.0,0,31.62,100.0
+2245,2235,Property and Valuation Professionals,2,0,2,6391.0,0,45.98,100.0
+2245,2323,Social Science and Related Professionals,1,1,1,3114.0,0,22.4,31.86
+2246,1491,"Arts, Culture and Sports Administrators",1,0,1,0.0,1,13.4,0.0
+2246,2321,Librarians,1,0,1,0.0,1,86.6,
+2247,2234,Management and Organisation Analysts,3,0,2,74400.0,0,100.0,98.78
+2249,2213,Electorate and Liaison Officers,2,0,2,10000.0,0,15.78,100.0
+2249,2239,Other Information and Organisation Professionals,3,0,2,50560.0,0,79.8,90.84
+2249,2812,Judicial and Other Legal Professionals,1,0,1,2800.0,0,4.42,16.58
+2251,2211,Advertising Specialists,1,1,1,6900.0,0,8.47,64.89
+2251,2215,Marketing Professionals,4,0,2,74600.0,0,91.53,100.0
+2252,2214,ICT Business Development Managers,1,0,1,4600.0,0,23.59,100.0
+2252,2216,Technical Sales Representatives,2,0,2,14900.0,0,76.41,35.73
+2253,2212,Communications Officers (Public Relations),1,0,1,0.0,1,100.0,
+2254,2216,Technical Sales Representatives,3,0,3,26800.0,0,94.7,64.27
+2254,2441,"Agricultural, Fisheries and Forestry Scientists",1,1,1,1500.0,0,5.3,16.88
+2311,2991,Air Transport Professionals,5,0,5,12870.0,0,100.0,100.0
+2312,3134,"Marine Transport Masters, Officers and Technicians",7,0,6,7690.0,0,100.0,100.0
+2321,2411,"Architects, Landscape Architects and Urban Designers",3,1,2,22426.0,0,97.08,100.0
+2321,3121,Building and Landscape Designers and Technicians,1,0,1,674.0,0,2.92,3.96
+2322,2412,Geospatial Information Professionals and Surveyors,6,0,3,13620.0,0,100.0,100.0
+2323,2314,Media Directors and Designers,1,1,1,313.0,0,3.34,3.43
+2323,2422,"Fashion, Industrial, Jewellery and Textile Designers",4,0,3,9077.0,0,96.66,100.0
+2324,2421,Digital Designers,2,1,2,5995.0,0,14.69,86.41
+2324,2423,Graphic and Visual Content Designers,5,3,3,31655.0,0,77.59,100.0
+2324,2593,Education Advisers and Reviewers,1,1,1,3020.0,0,7.4,19.46
+2324,2731,Digital Game and Web Developers,1,1,1,130.0,0,0.32,7.67
+2325,2424,Interior Designers,1,0,1,0.0,1,100.0,
+2326,2411,"Architects, Landscape Architects and Urban Designers",1,1,1,0.0,1,7.86,0.0
+2326,2413,Urban and Regional Planners,1,0,1,0.0,1,92.14,
+2331,2431,Chemical and Materials Engineering Professionals,2,1,2,3780.0,0,100.0,68.23
+2332,2419,"Other Architects, Planners and Surveyors",1,0,1,3500.0,0,7.1,52.63
+2332,2432,Civil Engineering Professionals,7,2,4,45800.0,0,92.9,100.0
+2333,2433,Electrical Engineering Professionals,2,0,1,0.0,2,100.0,
+2334,2434,Electronics Engineers,1,0,1,0.0,1,100.0,
+2335,2435,"Industrial, Mechanical and Production Engineers",3,0,3,32200.0,0,100.0,100.0
+2336,2436,Mining Engineers,2,0,2,8300.0,0,100.0,100.0
+2339,2431,Chemical and Materials Engineering Professionals,1,1,1,660.0,0,7.33,11.91
+2339,2439,Other Engineering Professionals,10,2,7,8340.0,0,92.67,100.0
+2341,2441,"Agricultural, Fisheries and Forestry Scientists",5,2,3,6500.0,0,100.0,73.13
+2342,2442,"Chemists, and Food and Wine Scientists",3,1,3,7000.0,0,100.0,85.37
+2343,2443,Environmental Conservation Professionals,5,2,4,12261.0,0,61.3,100.0
+2343,2444,Environmental Consultants and Scientists,3,0,3,7739.0,0,38.7,100.0
+2344,2445,Geoscientists and Hydrologists,3,0,3,8360.0,0,100.0,100.0
+2345,2441,"Agricultural, Fisheries and Forestry Scientists",2,2,2,888.0,0,15.44,9.99
+2345,2446,Life Scientists,9,3,8,4653.0,0,80.92,100.0
+2345,2639,Other Allied Health Science Professionals,1,0,1,209.0,0,3.64,2.6
+2346,2447,Medical Science Professionals,1,0,1,0.0,1,100.0,0.0
+2347,2695,Veterinarians and Veterinary Technologists,1,0,1,0.0,1,100.0,0.0
+2349,2431,Chemical and Materials Engineering Professionals,2,1,1,1100.0,0,10.54,19.86
+2349,2447,Medical Science Professionals,1,0,1,1205.0,0,11.54,100.0
+2349,2449,Other Natural and Physical Science Professionals,4,0,4,1845.0,0,17.67,100.0
+2349,2622,Exercise Physiologists and Scientists,2,0,1,5100.0,0,48.85,100.0
+2349,2639,Other Allied Health Science Professionals,1,0,1,1190.0,0,11.4,14.78
+2411,1412,Children's Education and Care Service Directors,1,1,1,0.0,1,17.93,
+2411,2511,Early Childhood (Pre-primary School) Teachers,2,2,2,0.0,2,82.07,
+2412,2512,Primary School Teachers,3,3,3,0.0,3,98.44,
+2412,2519,"Other Early Childhood, School and Specialist Education Teachers",3,3,3,0.0,3,1.56,
+2413,2513,Secondary School Teachers,1,1,1,0.0,1,100.0,
+2414,2513,Secondary School Teachers,1,1,1,0.0,1,98.36,
+2414,2519,"Other Early Childhood, School and Specialist Education Teachers",1,1,1,0.0,1,1.64,
+2415,2514,Specialist Education Teachers,3,0,3,19158.0,0,75.25,100.0
+2415,2599,Other Education Professionals,2,2,2,6302.0,0,24.75,47.08
+2421,2521,University Lecturers and Tutors,2,0,2,49000.0,0,100.0,100.0
+2422,2224,Training and Development Professionals,1,1,1,0.0,1,70.08,
+2422,2522,Vocational Education Teachers,1,0,1,0.0,1,28.21,
+2422,2599,Other Education Professionals,1,0,1,0.0,1,1.71,0.0
+2491,2593,Education Advisers and Reviewers,2,1,2,12500.0,0,100.0,80.54
+2492,2591,Academic Tutors (Private Tuition),1,0,1,5499.0,0,17.49,100.0
+2492,2592,Arts and Personal Enrichment Teachers (Private Tuition),4,0,4,10921.0,0,34.73,100.0
+2492,2594,Music Teachers (Private Tuition),1,0,1,11800.0,0,37.52,100.0
+2492,2599,Other Education Professionals,1,1,1,3230.0,0,10.27,24.13
+2493,2595,Teachers of English to Speakers of Other Languages,1,0,1,0.0,1,100.0,
+2511,2632,Nutrition Professionals,2,0,2,6600.0,0,100.0,100.0
+2512,2631,Medical Radiation Practitioners,3,0,3,13230.0,0,68.8,100.0
+2512,2635,Sonographers,1,0,1,4648.0,0,24.17,100.0
+2512,2639,Other Allied Health Science Professionals,1,1,1,1352.0,0,7.03,16.79
+2513,2223,Rehabilitation Consultants and Work Health and Safety Advisers,2,1,1,20600.0,0,82.73,92.47
+2513,2693,Environmental Health and Health Promotion Officers,1,0,1,4300.0,0,17.27,87.41
+2514,2633,Optometrists,1,0,1,5200.0,0,82.54,100.0
+2514,2639,Other Allied Health Science Professionals,1,0,1,1100.0,0,17.46,13.66
+2515,2442,"Chemists, and Food and Wine Scientists",1,1,1,1200.0,0,4.24,14.63
+2515,2634,Pharmacists,2,0,2,27100.0,0,95.76,100.0
+2519,2619,"Other Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals",1,1,1,957.0,0,13.19,18.65
+2519,2629,Other Allied Health Physical and Sensory Therapy Professionals,2,0,2,550.0,0,7.59,19.3
+2519,2639,Other Allied Health Science Professionals,2,0,2,604.0,0,8.32,7.49
+2519,2651,Midwives,1,1,1,4242.0,0,58.51,100.0
+2519,2693,Environmental Health and Health Promotion Officers,1,0,1,620.0,0,8.55,12.59
+2519,2699,Other Health Professionals,1,1,1,278.0,0,3.84,4.93
+2521,2621,Chiropractors,1,0,1,4400.0,0,65.67,100.0
+2521,2629,Other Allied Health Physical and Sensory Therapy Professionals,1,0,1,2300.0,0,34.33,80.7
+2522,2619,"Other Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals",3,2,1,1009.0,0,16.22,19.67
+2522,2699,Other Health Professionals,6,3,6,5211.0,1,83.78,92.41
+2523,2692,Dentists and Dental Specialists,2,0,2,15600.0,0,100.0,100.0
+2524,2623,Occupational Therapists,1,0,1,0.0,1,100.0,
+2525,2624,Physiotherapists,1,0,1,0.0,1,100.0,
+2526,2625,Podiatrists,1,0,1,0.0,1,100.0,
+2527,2626,Speech Pathologists,1,0,1,11000.0,0,80.88,100.0
+2527,2639,Other Allied Health Science Professionals,1,0,1,2600.0,0,19.12,32.28
+2531,2642,General Practitioners,1,0,1,48700.0,0,75.27,100.0
+2531,2645,Resident Medical Officers,1,0,1,16000.0,0,24.73,100.0
+2532,2641,Anaesthetists,1,0,1,0.0,1,100.0,
+2533,2643,Physicians,20,9,13,10580.0,0,100.0,94.09
+2534,2644,Psychiatrists,1,0,1,0.0,1,100.0,
+2535,2646,Surgeons,9,0,9,4230.0,0,100.0,100.0
+2539,2643,Physicians,1,1,1,664.0,0,4.58,5.91
+2539,2649,Other Medical Practitioners,9,2,8,13836.0,0,95.42,100.0
+2541,2651,Midwives,1,1,1,0.0,1,100.0,0.0
+2542,2652,Nurse Educators and Researchers,2,0,2,6300.0,0,100.0,100.0
+2543,1413,Health and Welfare Service Managers,1,1,1,0.0,1,24.03,0.0
+2543,2653,Nursing and Midwifery Unit Managers,1,0,1,0.0,1,75.97,
+2544,2654,Registered Nurses,17,13,14,250800.0,1,100.0,100.0
+2611,2234,Management and Organisation Analysts,1,0,1,919.0,0,2.67,1.22
+2611,2732,ICT Business and Systems Analysts and Architects,5,2,2,33481.0,0,97.33,85.75
+2612,2421,Digital Designers,1,1,1,236.0,0,2.33,3.4
+2612,2731,Digital Game and Web Developers,3,3,2,1564.0,0,15.48,92.33
+2612,2733,Software and Applications Engineers,1,1,1,8300.0,0,82.18,7.89
+2613,2232,Data Professionals,2,0,1,2565.0,0,2.25,44.91
+2613,2711,Cyber Security Professionals,2,0,2,917.0,0,0.8,6.45
+2613,2722,ICT Quality Engineers and Test Analysts,1,1,1,8217.0,0,7.19,35.87
+2613,2732,ICT Business and Systems Analysts and Architects,1,1,1,5565.0,0,4.87,14.25
+2613,2733,Software and Applications Engineers,6,4,4,96936.0,0,84.88,92.11
+2621,2711,Cyber Security Professionals,5,0,1,13300.0,0,39.23,93.55
+2621,2712,Database and Systems Administrators,2,0,2,20600.0,0,60.77,100.0
+2631,2721,ICT Network Professionals,4,2,3,21100.0,0,100.0,100.0
+2632,2421,Digital Designers,1,0,1,707.0,0,4.59,10.2
+2632,2722,ICT Quality Engineers and Test Analysts,4,2,4,14693.0,0,95.41,64.13
+2633,2723,Telecommunications Engineers,2,2,2,9000.0,0,100.0,100.0
+2711,2811,Barristers,1,0,1,0.0,1,69.14,
+2711,2812,Judicial and Other Legal Professionals,1,0,1,0.0,1,30.86,0.0
+2712,2812,Judicial and Other Legal Professionals,6,0,5,13770.0,0,100.0,81.56
+2713,2813,Solicitors,1,0,1,0.0,1,100.0,
+2721,2223,Rehabilitation Consultants and Work Health and Safety Advisers,1,1,1,1676.0,0,9.06,7.53
+2721,2599,Other Education Professionals,2,0,2,3855.0,0,20.84,28.8
+2721,2611,Counsellors and Psychotherapists,5,0,5,11653.0,0,62.99,84.41
+2721,2619,"Other Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals",1,1,1,1315.0,0,7.11,25.65
+2722,2322,Religious Leaders,1,0,1,0.0,1,100.0,
+2723,2611,Counsellors and Psychotherapists,1,0,1,2152.0,0,6.7,15.59
+2723,2612,Psychologists,4,4,4,28110.0,0,87.54,100.0
+2723,2619,"Other Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals",2,1,1,1848.0,0,5.76,36.04
+2724,2323,Social Science and Related Professionals,4,0,3,4360.0,0,43.78,44.61
+2724,4115,Interpreters and Translators,2,0,2,5600.0,0,56.22,100.0
+2725,2613,Social Workers,1,0,1,0.0,1,100.0,
+2726,2319,Other Arts and Media Professionals,1,0,1,580.0,0,1.59,24.44
+2726,4111,Child Protection and Family Violence Practitioners,2,0,1,11887.0,0,32.5,100.0
+2726,4116,Welfare Support Workers,2,0,1,8916.0,0,24.37,50.65
+2726,4119,Other Community and Welfare Support Workers,1,0,1,1700.0,0,4.65,35.04
+2726,4413,Mental Health Workers,1,0,1,13497.0,0,36.9,100.0
+3111,3111,Agricultural Technicians and Inspection Officers,4,0,1,0.0,4,100.0,0.0
+3112,2639,Other Allied Health Science Professionals,1,1,1,1000.0,0,3.09,12.41
+3112,3112,Medical and Dental Technicians,5,0,4,11954.0,0,36.96,81.02
+3112,3113,Pharmacy Technicians,2,0,1,6900.0,0,21.34,100.0
+3112,3114,Phlebotomists,1,0,1,12000.0,0,37.11,100.0
+3112,4419,Other Health Support Workers,1,0,1,486.0,0,1.5,100.0
+3113,3111,Agricultural Technicians and Inspection Officers,5,0,4,2410.0,0,100.0,100.0
+3114,2695,Veterinarians and Veterinary Technologists,1,0,1,991.0,0,7.09,100.0
+3114,3115,Science Technicians,6,1,6,12989.0,0,92.91,92.47
+3121,2419,"Other Architects, Planners and Surveyors",1,0,1,3150.0,0,4.56,47.37
+3121,3115,Science Technicians,1,0,1,345.0,0,0.5,2.45
+3121,3121,Building and Landscape Designers and Technicians,4,0,3,15892.0,0,22.98,93.19
+3121,3122,Construction and Safety Inspectors,3,0,3,4064.0,0,5.88,100.0
+3121,3123,Construction Estimators,1,0,1,7000.0,0,10.12,100.0
+3121,3124,Construction Supervisors,2,1,1,38700.0,0,55.97,93.05
+3122,3131,Civil Engineering Draftspersons and Technicians,2,0,2,10300.0,0,100.0,100.0
+3123,3132,Electrical Engineering Draftspersons and Technicians,2,0,2,9000.0,0,100.0,100.0
+3124,3139,Other Engineering Technicians,2,1,2,3740.0,0,100.0,21.8
+3125,3139,Other Engineering Technicians,2,0,2,4200.0,0,100.0,24.48
+3126,3122,Construction and Safety Inspectors,1,0,1,0.0,1,100.0,0.0
+3129,3121,Building and Landscape Designers and Technicians,1,0,1,486.0,0,1.91,2.85
+3129,3133,Maintenance Planners,1,0,1,8300.0,0,32.68,100.0
+3129,3135,Mining Supervisors,1,0,1,7400.0,0,29.13,100.0
+3129,3139,Other Engineering Technicians,5,1,2,9214.0,0,36.27,53.71
+3131,3141,ICT and Telecommunications Technicians,3,0,3,5040.0,0,9.84,61.17
+3131,3142,ICT Customer Support Officers,1,0,1,46200.0,0,90.16,100.0
+3132,3141,ICT and Telecommunications Technicians,4,0,4,3200.0,0,100.0,38.83
+3211,3512,Automotive Electricians,1,0,1,0.0,1,100.0,
+3211,3514,Specialist Automotive Technicians,1,0,1,0.0,1,0.0,0.0
+3212,3511,Automotive Technicians (General),1,0,1,77851.0,0,86.02,100.0
+3212,3514,Specialist Automotive Technicians,6,3,4,12649.0,0,13.98,78.55
+3221,3319,Other Fabrication Engineering Trades Workers,5,0,5,2230.0,0,100.0,100.0
+3222,3319,Other Fabrication Engineering Trades Workers,1,0,1,0.0,1,100.0,0.0
+3223,3311,Structural Steel and Welding Trades Workers,3,0,3,62620.0,0,100.0,100.0
+3231,3321,Aircraft Maintenance Technicians,5,2,3,4350.0,0,100.0,100.0
+3232,3322,Metal Fitters and Machinists,6,2,6,83016.0,0,97.93,100.0
+3232,3514,Specialist Automotive Technicians,1,0,1,1754.0,0,2.07,10.89
+3233,3323,Precision Engineering Trades Workers,6,0,6,5840.0,0,100.0,72.91
+3234,3323,Precision Engineering Trades Workers,2,0,2,2170.0,0,100.0,27.09
+3241,3513,Panelbeaters,1,0,1,0.0,1,100.0,
+3242,3515,Vehicle Body Builders and Trimmers,2,0,2,5200.0,0,100.0,100.0
+3243,3516,Vehicle Painters,1,0,1,0.0,1,100.0,
+3311,3711,Bricklayers and Stonemasons,2,0,2,21500.0,0,100.0,100.0
+3312,3699,Other Building Completion and Related Trades Workers,1,0,1,0.0,1,0.0,0.0
+3312,3721,Carpenters and Joiners,3,0,3,109200.0,1,100.0,100.0
+3321,3611,Floor Finishers,1,1,1,0.0,1,100.0,
+3322,3612,Painters,1,0,1,0.0,1,100.0,
+3331,3621,Glaziers,1,0,1,0.0,1,100.0,
+3332,3622,Plasterers and Renderers,2,0,2,22800.0,0,100.0,100.0
+3333,3623,Roof Tilers,1,0,1,0.0,1,100.0,
+3334,3624,Wall and Floor Tilers,1,0,1,0.0,1,100.0,
+3341,3631,Plumbers (General),1,0,1,43590.0,0,54.35,100.0
+3341,3632,Gasfitters,1,0,1,6642.0,0,8.28,100.0
+3341,3633,Roof Plumbers,1,0,1,10500.0,0,13.09,100.0
+3341,3639,Other Plumbers,3,0,3,18510.0,0,23.08,100.0
+3341,3999,Other Miscellaneous Technicians and Trades Workers,1,0,1,958.0,0,1.19,6.18
+3411,3812,Electricians,5,2,3,131860.0,0,100.0,100.0
+3421,3821,Air Conditioning and Refrigeration Technicians,1,0,1,0.0,1,100.0,
+3422,3811,Electrical Distribution Trades Workers,2,2,2,6880.0,0,100.0,100.0
+3423,3822,Electronics Trades Workers,5,2,5,19780.0,0,100.0,100.0
+3424,3823,Telecommunications Trades Workers,4,0,4,13410.0,0,100.0,100.0
+3511,3221,Bakers,1,0,1,18700.0,0,73.33,100.0
+3511,3224,Pastrycooks,1,0,1,6800.0,0,26.67,100.0
+3512,3222,Butchers and Smallgoods Makers,1,0,1,0.0,1,100.0,
+3513,1616,Senior Chefs,1,0,1,0.0,1,11.99,
+3513,3211,Chefs,1,0,1,0.0,1,88.01,
+3514,3223,Cooks,1,0,1,0.0,1,100.0,
+3611,3411,Animal Trainers and Zookeepers,4,0,4,6687.0,0,36.34,87.96
+3611,4614,Domestic Animal Care Workers,4,2,3,11713.0,0,63.66,91.31
+3612,3433,Shearers and Wool Classers,1,0,1,0.0,1,100.0,0.0
+3613,3412,Veterinary Nurses,1,0,1,0.0,1,100.0,
+3621,3423,Florists,1,0,1,0.0,1,100.0,
+3622,3421,Gardeners (General),1,0,1,32600.0,0,50.39,100.0
+3622,3422,Arboriculture Workers,2,0,1,7000.0,0,10.82,100.0
+3622,3424,Irrigation Technicians and Landscape Gardeners,2,0,1,25100.0,0,38.79,100.0
+3623,3425,Sports Turf Managers and Trades Workers,2,0,1,0.0,2,100.0,
+3624,3429,Other Horticultural Trades Workers,1,0,1,0.0,1,100.0,
+3911,3921,Barbers and Hairdressers,2,0,1,0.0,2,100.0,
+3921,3914,Printing Trades Workers,2,1,2,2500.0,0,100.0,29.98
+3922,3914,Printing Trades Workers,1,0,1,0.0,1,100.0,0.0
+3923,3914,Printing Trades Workers,2,2,2,3670.0,0,100.0,44.0
+3931,3994,"Textile, Clothing and Footwear Trades Workers",4,0,4,1770.0,0,100.0,22.58
+3932,3994,"Textile, Clothing and Footwear Trades Workers",5,4,4,6070.0,0,100.0,77.42
+3933,3994,"Textile, Clothing and Footwear Trades Workers",1,0,1,0.0,1,100.0,0.0
+3941,3691,Cabinet Makers,1,0,1,0.0,1,93.09,
+3941,3995,Wood Machinists and Other Wood Trades Workers,1,0,1,0.0,1,6.91,0.0
+3942,3995,Wood Machinists and Other Wood Trades Workers,5,2,5,3340.0,0,100.0,100.0
+3991,3999,Other Miscellaneous Technicians and Trades Workers,2,1,2,3430.0,0,100.0,22.12
+3992,3991,"Chemical, Gas, Petroleum and Power Generation Plant Technicians",3,0,3,7700.0,0,100.0,100.0
+3993,3911,"Gallery, Library and Museum Technicians",2,0,2,6470.0,0,100.0,100.0
+3994,3919,Other Artistic and Cultural Technicians and Trades Workers,1,0,1,0.0,1,100.0,0.0
+3995,3912,Performing Arts Technicians,6,2,6,9140.0,0,76.36,100.0
+3995,3919,Other Artistic and Cultural Technicians and Trades Workers,1,0,1,830.0,0,6.93,30.4
+3995,4612,Body and Make-up Artists,1,0,1,2000.0,0,16.71,35.09
+3996,3915,Signwriters,1,0,1,0.0,1,100.0,
+3999,3433,Shearers and Wool Classers,1,0,1,460.0,0,2.4,100.0
+3999,3919,Other Artistic and Cultural Technicians and Trades Workers,1,0,1,1900.0,0,9.91,69.6
+3999,3999,Other Miscellaneous Technicians and Trades Workers,6,1,5,9820.0,0,51.2,63.32
+3999,4424,Optical Dispensers,1,0,1,6200.0,0,32.33,100.0
+3999,4619,Other Personal Service and Travel Workers,1,0,1,800.0,0,4.17,5.0
+4111,2694,Paramedic Professionals,2,0,2,17241.0,0,90.27,100.0
+4111,4429,Other Patient and Health Care Assistants,1,0,1,1859.0,0,9.73,39.58
+4112,2691,"Dental Hygienists, Prosthetists and Therapists",3,0,3,4780.0,0,63.06,100.0
+4112,3112,Medical and Dental Technicians,1,0,1,2800.0,0,36.94,18.98
+4113,4113,"Diversional Therapists, and Lifestyle Coordinators and Officers",3,0,1,0.0,3,100.0,
+4114,4411,Enrolled Nurses,2,2,2,41730.0,0,100.0,100.0
+4115,4112,Community Development and Support Workers,1,1,1,0.0,1,50.0,0.0
+4115,4419,Other Health Support Workers,2,0,1,0.0,2,50.0,0.0
+4116,4412,Massage Therapists and Myotherapists,3,0,1,0.0,3,100.0,
+4117,4112,Community Development and Support Workers,2,1,1,15041.0,0,21.74,100.0
+4117,4114,Employment Consultants,1,1,1,7321.0,0,10.58,39.43
+4117,4116,Welfare Support Workers,3,0,3,8388.0,0,12.12,47.65
+4117,4117,Youth Support Workers,3,1,2,16810.0,0,24.29,93.86
+4117,4119,Other Community and Welfare Support Workers,1,0,1,2051.0,0,2.96,42.28
+4117,4211,Aged Care Coordinators and Team Leaders,1,0,1,8067.0,0,11.66,100.0
+4117,4221,Disability Services and Residential Care Officers,2,0,2,10469.0,0,15.13,100.0
+4117,4312,Family Day Care Educators and Coordinators,1,1,1,1053.0,0,1.52,11.26
+4211,4311,Early Childhood Educators and Room Leaders,2,1,1,123800.0,0,82.31,97.56
+4211,4312,Family Day Care Educators and Coordinators,2,1,1,8300.0,0,5.52,88.74
+4211,4313,Nannies,1,0,1,7100.0,0,4.72,100.0
+4211,4314,Out of School Hours Care Educators,1,0,1,11200.0,0,7.45,100.0
+4221,4311,Early Childhood Educators and Room Leaders,1,1,1,3100.0,0,3.03,2.44
+4221,4321,Inclusion Support Assistants,1,0,1,22100.0,0,21.62,100.0
+4221,4322,Teaching Assistants,3,3,3,74800.0,2,73.19,100.0
+4221,4329,Other Education Assistants,1,0,1,2200.0,0,2.15,61.11
+4231,4211,Aged Care Coordinators and Team Leaders,1,0,1,0.0,1,0.41,0.0
+4231,4212,Community Aged Care Support Workers,1,0,1,0.0,1,30.37,
+4231,4222,Disability Support Workers and Team Leaders,2,0,1,0.0,2,69.22,
+4232,4423,Dental Assistants,1,0,1,0.0,1,100.0,
+4233,4213,Residential Aged Care Workers,1,0,1,30692.0,0,29.31,100.0
+4233,4421,Allied Health Assistants,1,0,1,7800.0,0,7.45,100.0
+4233,4422,Assistants in Nursing,1,0,1,39700.0,0,37.92,100.0
+4233,4425,Patient Care and Patient Services Assistants,2,0,2,26508.0,0,25.32,100.0
+4234,4116,Welfare Support Workers,1,0,1,300.0,0,10.71,1.7
+4234,4117,Youth Support Workers,1,1,1,1100.0,0,39.29,6.14
+4234,4329,Other Education Assistants,1,0,1,1400.0,0,50.0,38.89
+4311,4711,Bar Attendants,1,0,1,42814.0,0,46.59,100.0
+4311,4712,Baristas,1,0,1,46300.0,0,50.38,100.0
+4311,4715,Hospitality Supervisors,1,0,1,2786.0,0,3.03,100.0
+4312,4713,Cafe Workers,1,0,1,0.0,1,79.94,
+4312,4715,Hospitality Supervisors,1,1,1,0.0,1,20.06,0.0
+4313,1615,Licensed Club Managers,1,1,1,0.0,1,46.32,
+4313,4714,"Gaming Attendants, Dealers and Croupiers",1,0,1,0.0,1,43.16,0.0
+4313,4715,Hospitality Supervisors,1,0,1,0.0,1,10.53,0.0
+4314,1611,Accommodation Service Managers,1,0,1,0.0,1,48.28,
+4314,4715,Hospitality Supervisors,2,0,1,0.0,2,51.72,0.0
+4315,4715,Hospitality Supervisors,1,1,1,0.0,1,7.43,0.0
+4315,4716,Sommeliers and Waiters,2,0,1,0.0,2,92.57,
+4319,4719,Other Hospitality Workers,3,0,3,4970.0,0,100.0,100.0
+4411,4511,Defence Force Members - Other Ranks,1,0,1,0.0,1,100.0,
+4412,4512,Emergency Services Officers and Firefighters,2,0,2,14900.0,0,100.0,100.0
+4413,2992,Specialist Police Officers,2,2,2,13676.0,0,22.72,100.0
+4413,4513,General Duties Police Officers,1,0,1,46524.0,0,77.28,100.0
+4421,4521,Correctional Officers,1,0,1,0.0,1,100.0,
+4422,4522,Security Officers and Guards,10,2,8,49110.0,0,100.0,100.0
+4511,4611,Beauty and Dermal Therapists,2,0,1,0.0,2,100.0,
+4512,4615,Driving Instructors,1,0,1,0.0,1,100.0,
+4513,4613,Civil Celebrants and Funeral Workers,2,1,2,3940.0,0,100.0,66.3
+4514,4616,Tourist Guides and Information Officers,2,0,2,4200.0,0,100.0,76.36
+4515,2699,Other Health Professionals,1,1,1,150.0,0,3.61,2.66
+4515,4619,Other Personal Service and Travel Workers,2,0,2,4010.0,0,96.39,25.05
+4516,4616,Tourist Guides and Information Officers,1,0,1,1300.0,0,12.75,23.64
+4516,4618,Travel Consultants,1,0,1,8900.0,0,87.25,100.0
+4517,4617,Travel Attendants,2,0,2,6560.0,0,100.0,100.0
+4518,4429,Other Patient and Health Care Assistants,1,0,1,2838.0,0,16.61,60.42
+4518,4612,Body and Make-up Artists,1,0,1,3700.0,0,21.66,64.91
+4518,4613,Civil Celebrants and Funeral Workers,1,0,1,1100.0,0,6.44,18.51
+4518,4614,Domestic Animal Care Workers,1,0,1,1115.0,0,6.53,8.69
+4518,4619,Other Personal Service and Travel Workers,5,0,5,8327.0,1,48.75,52.03
+4521,4621,Fitness Instructors (General),1,0,1,0.0,1,77.93,
+4521,4622,Pilates and Yoga Instructors,2,0,1,0.0,2,22.07,
+4522,4624,Sports Coaches and Outdoor Adventure Guides,8,8,8,2210.0,4,100.0,6.81
+4523,4119,Other Community and Welfare Support Workers,1,0,1,1100.0,0,2.98,22.68
+4523,4624,Sports Coaches and Outdoor Adventure Guides,11,0,7,30220.0,0,81.74,93.19
+4523,4625,Sports Officials and Umpires,3,0,3,5650.0,0,15.28,100.0
+4524,4623,Sport and Recreation Safety Patrollers,2,0,2,5510.0,0,58.43,100.0
+4524,4626,Sportspersons,4,0,4,3920.0,0,41.57,100.0
+5111,5111,Contract Administrators,1,0,1,21200.0,0,17.04,100.0
+5111,5112,Program and Project Administrators,1,0,1,103200.0,0,82.96,100.0
+5121,1712,Office and Payroll Managers,1,0,1,0.0,1,100.0,
+5122,1713,Practice Managers,4,0,2,27300.0,0,100.0,100.0
+5211,5222,Executive Assistants,1,0,1,0.0,1,100.0,
+5212,5212,Court and Legal Assistants,1,0,1,7700.0,0,25.33,26.3
+5212,5221,Secretaries (General),1,0,1,22700.0,0,74.67,100.0
+5311,5611,General Clerks,1,0,1,0.0,1,100.0,
+5321,5612,Data Entry Operators and Transcriptionists,3,0,3,40600.0,0,100.0,100.0
+5411,5511,Call and Contact Centre Workers,2,0,2,39000.0,0,100.0,100.0
+5412,5512,Information Officers and Switchboard Operators,1,0,1,0.0,1,100.0,
+5421,5521,Medical Receptionists,1,0,1,71500.0,0,44.6,100.0
+5421,5522,Ward Clerks,1,0,1,8000.0,0,4.99,100.0
+5421,5531,Receptionists (General),1,0,1,70900.0,0,44.23,100.0
+5421,5532,Hotel and Motel Receptionists,1,0,1,9900.0,0,6.18,100.0
+5511,5411,Accounts Clerks,1,0,1,93000.0,0,91.54,100.0
+5511,5412,Estimators,1,0,1,8600.0,0,8.46,100.0
+5512,5421,Bookkeepers,1,0,1,0.0,1,100.0,
+5513,1712,Office and Payroll Managers,1,0,1,0.0,1,26.28,
+5513,5413,Payroll Officers,1,0,1,0.0,1,73.72,
+5521,5311,Bank Officers,1,0,1,0.0,1,100.0,
+5522,5312,Credit and Loans Officers,1,0,1,0.0,1,100.0,
+5523,5314,Insurance Consultants,1,0,1,28300.0,0,94.78,100.0
+5523,5319,Other Financial Services and Insurance Workers and Brokers,2,0,1,1000.0,0,3.35,100.0
+5523,5491,Other Accounting and Related Clerks,1,0,1,430.0,0,1.44,30.71
+5523,5999,Other Miscellaneous Clerical and Administrative Workers,1,1,1,130.0,0,0.44,0.39
+5611,5491,Other Accounting and Related Clerks,4,4,4,970.0,1,100.0,69.29
+5612,7122,Postal and Delivery Workers,2,2,2,40400.0,0,100.0,100.0
+5613,5991,Filing and Registry Clerks and Library Assistants,1,0,1,0.0,1,100.0,
+5614,5993,Mail Sorters,2,0,2,9700.0,0,100.0,100.0
+5615,5999,Other Miscellaneous Clerical and Administrative Workers,1,0,1,0.0,1,100.0,0.0
+5616,5512,Information Officers and Switchboard Operators,1,0,1,0.0,1,100.0,
+5619,5911,Inspectors and Regulatory Compliance Officers,2,0,2,2740.0,0,29.62,23.83
+5619,5999,Other Miscellaneous Clerical and Administrative Workers,2,2,2,6510.0,0,70.38,19.7
+5911,5711,Logistics Officers,1,1,1,4181.0,0,5.67,13.9
+5911,5712,Order Clerks,1,0,1,14200.0,0,19.27,100.0
+5911,5713,Procurement and Purchasing Officers,2,0,1,15800.0,0,21.44,100.0
+5911,5714,Stock Clerks,1,0,1,19300.0,0,26.19,100.0
+5911,5715,Warehouse Administrators,1,0,1,19900.0,0,27.0,100.0
+5911,5719,Other Supply Chain Support Workers,1,0,1,319.0,0,0.43,8.75
+5912,5711,Logistics Officers,1,1,1,25900.0,0,83.55,86.1
+5912,5719,Other Supply Chain Support Workers,1,0,1,3326.0,0,10.73,91.25
+5912,5999,Other Miscellaneous Clerical and Administrative Workers,1,0,1,1774.0,0,5.72,5.37
+5991,5211,Conveyancers,1,0,1,7400.0,0,47.13,100.0
+5991,5212,Court and Legal Assistants,1,1,1,8300.0,0,52.87,28.35
+5992,2812,Judicial and Other Legal Professionals,1,0,1,313.0,0,2.3,1.85
+5992,5212,Court and Legal Assistants,5,1,5,13277.0,0,97.7,45.35
+5993,5491,Other Accounting and Related Clerks,1,0,1,0.0,1,100.0,0.0
+5994,5992,Human Resources Assistants,2,0,1,0.0,2,100.0,
+5995,4519,Other Protective Service Workers,2,2,2,3820.0,0,9.41,100.0
+5995,5911,Inspectors and Regulatory Compliance Officers,7,0,4,8756.0,0,21.57,76.17
+5995,5912,Regulatory Administration and Assessment Officers,3,0,3,18950.0,0,46.67,100.0
+5995,5919,Other Inspectors and Regulatory Officers,3,3,3,9074.0,0,22.35,100.0
+5996,5315,"Insurance Investigators, Loss Adjusters and Risk Surveyors",3,0,3,5160.0,0,100.0,100.0
+5997,5991,Filing and Registry Clerks and Library Assistants,1,0,1,0.0,1,100.0,
+5999,2313,Journalists and Other Writers,1,1,1,270.0,0,1.41,1.57
+5999,5999,Other Miscellaneous Clerical and Administrative Workers,6,1,5,16480.0,0,85.97,49.88
+5999,6191,Product Promotion Workers,1,0,1,2420.0,0,12.62,21.36
+6111,6222,Property Sales Agents and Related Workers,2,0,2,2770.0,0,100.0,6.78
+6112,6211,Insurance Agents,1,0,1,0.0,1,100.0,
+6113,6212,Sales Representatives,5,0,5,70700.0,0,100.0,100.0
+6121,1714,Real Estate Agency Principals,1,0,1,7200.0,0,8.46,100.0
+6121,5313,Financial and Insurance Brokers,1,0,1,580.0,0,0.68,1.8
+6121,5999,Other Miscellaneous Clerical and Administrative Workers,1,0,1,5206.0,0,6.12,15.76
+6121,6221,Property Managers,1,0,1,33994.0,0,39.96,100.0
+6121,6222,Property Sales Agents and Related Workers,2,0,2,38100.0,0,44.78,93.22
+6211,6311,Sales Assistants (General),1,0,1,0.0,1,100.0,
+6212,6313,ICT Sales Assistants,1,0,1,0.0,1,100.0,
+6213,6314,Motor Vehicle and Vehicle Parts Salespersons,2,0,2,32100.0,0,100.0,100.0
+6214,6312,Community Pharmacy Sales Assistants,1,0,1,0.0,1,100.0,
+6215,4715,Hospitality Supervisors,1,1,1,0.0,1,25.0,0.0
+6215,6315,Retail Supervisors,1,0,1,0.0,1,75.0,
+6216,6316,Service Station Attendants,1,1,1,0.0,1,100.0,0.0
+6217,6319,Other Sales Assistants and Salespersons,3,2,3,4980.0,0,100.0,32.17
+6219,6319,Other Sales Assistants and Salespersons,3,0,3,10500.0,0,100.0,67.83
+6311,4714,"Gaming Attendants, Dealers and Croupiers",2,2,2,3846.0,0,3.99,100.0
+6311,5999,Other Miscellaneous Clerical and Administrative Workers,1,1,1,309.0,0,0.32,0.94
+6311,6111,Checkout Operators,2,2,2,84984.0,0,88.25,100.0
+6311,6316,Service Station Attendants,1,1,1,7161.0,0,7.44,100.0
+6391,6191,Product Promotion Workers,2,0,2,8910.0,0,100.0,78.64
+6392,6199,Other Sales Support Workers,3,1,2,4390.0,0,100.0,30.25
+6393,6191,Product Promotion Workers,1,0,1,0.0,1,100.0,0.0
+6394,4619,Other Personal Service and Travel Workers,1,0,1,2868.0,0,23.06,17.92
+6394,6199,Other Sales Support Workers,3,2,2,8421.0,0,67.69,58.03
+6394,8995,"Rail Guards, Conductors and Railways Assistants",2,2,2,1151.0,0,9.25,28.41
+6395,4619,Other Personal Service and Travel Workers,1,0,1,0.0,1,8.21,0.0
+6395,6191,Product Promotion Workers,1,0,1,0.0,1,91.79,0.0
+6399,6199,Other Sales Support Workers,2,1,1,0.0,2,100.0,0.0
+7111,7319,Other Machine Operators,5,1,5,2920.0,0,100.0,17.68
+7112,7311,Industrial Spray Painters and Sandblasters,1,0,1,0.0,1,100.0,0.0
+7113,7312,Paper and Wood Processing Machine Operators,3,3,3,5300.0,0,100.0,65.44
+7114,7319,Other Machine Operators,1,0,1,0.0,1,100.0,0.0
+7115,7313,Plastics and Rubber Production Machine Operators,7,3,7,5500.0,0,100.0,100.0
+7116,7314,"Sewing, Textile and Footwear Machine Operators",1,0,1,0.0,1,100.0,0.0
+7117,7314,"Sewing, Textile and Footwear Machine Operators",7,7,7,1270.0,0,100.0,100.0
+7119,7311,Industrial Spray Painters and Sandblasters,1,0,1,670.0,0,5.01,100.0
+7119,7319,Other Machine Operators,4,2,4,12700.0,0,94.99,76.91
+7121,7321,"Crane, Hoist and Lift Operators",1,0,1,0.0,1,100.0,
+7122,3992,Drillers,1,0,1,8100.0,0,15.79,100.0
+7122,7323,Miners and Shot Firers,2,0,2,43200.0,0,84.21,100.0
+7123,7322,Engineering Production Workers,1,0,1,0.0,1,100.0,
+7129,3999,Other Miscellaneous Technicians and Trades Workers,1,0,1,1300.0,0,6.09,8.38
+7129,7312,Paper and Wood Processing Machine Operators,2,2,2,2798.0,0,13.11,34.56
+7129,7319,Other Machine Operators,2,2,2,893.0,0,4.19,5.41
+7129,7324,Wastewater and Water Plant Operators,1,0,1,5200.0,0,24.37,100.0
+7129,7329,Other Stationary Plant Operators,8,2,8,10744.0,0,50.35,100.0
+7129,7419,Other Mobile Plant Operators,1,0,1,404.0,0,1.89,3.17
+7211,7411,"Agricultural, Horticultural and Logging Plant Operators",2,1,2,10500.0,0,100.0,94.41
+7212,3124,Construction Supervisors,1,1,1,2893.0,0,12.35,6.95
+7212,7412,Earthmoving Plant Operators,6,0,6,20537.0,0,87.65,99.33
+7213,7413,Forklift Drivers,1,0,1,0.0,1,100.0,
+7219,7412,Earthmoving Plant Operators,1,0,1,139.0,0,1.68,0.67
+7219,7419,Other Mobile Plant Operators,8,3,7,8141.0,0,98.32,63.83
+7311,4613,Civil Celebrants and Funeral Workers,1,1,1,903.0,0,2.52,15.19
+7311,7111,Automobile Drivers,5,0,3,34897.0,0,97.48,100.0
+7312,7112,Bus and Coach Drivers,3,0,3,37500.0,0,100.0,100.0
+7313,7113,Train and Tram Drivers,3,0,2,12800.0,0,100.0,100.0
+7321,7122,Postal and Delivery Workers,2,2,1,0.0,2,100.0,0.0
+7331,7121,Furniture Removalists,1,0,1,5800.0,0,3.6,100.0
+7331,7131,General Truck Drivers,2,0,2,146912.0,0,91.07,100.0
+7331,7132,Articulated and Tanker Truck Drivers,2,0,2,7888.0,0,4.89,100.0
+7331,7419,Other Mobile Plant Operators,2,1,1,710.0,0,0.44,5.57
+7411,7211,Storepersons and Warehouse Supervisors,2,0,1,0.0,2,100.0,
+8111,8115,Vehicle Detailers,1,0,1,0.0,1,100.0,
+8112,8111,Commercial Cleaners,1,0,1,0.0,1,100.0,
+8113,8112,Domestic Cleaners,1,0,1,0.0,1,100.0,
+8114,8114,Housekeepers,2,0,2,29300.0,0,100.0,100.0
+8115,8113,Drycleaners and Laundry Workers,3,2,3,12000.0,0,100.0,100.0
+8116,8119,Other Cleaners and Laundry Workers,4,0,3,8235.0,0,72.23,100.0
+8116,8999,Other Miscellaneous Labourers,1,1,1,3165.0,0,27.77,8.49
+8211,8211,Construction and Demolition Labourers,4,0,2,43184.0,0,87.77,100.0
+8211,8216,Plumbing and Drainage Labourers,3,0,3,6016.0,0,12.23,100.0
+8212,3611,Floor Finishers,1,1,1,0.0,1,23.37,
+8212,3712,Concreters,1,0,1,0.0,1,69.84,
+8212,8211,Construction and Demolition Labourers,1,0,1,0.0,1,6.79,0.0
+8213,8213,Fencers,1,0,1,0.0,1,100.0,
+8214,3699,Other Building Completion and Related Trades Workers,2,0,2,4426.0,0,25.88,100.0
+8214,8214,Home Improvement and Insulation Installers,5,0,2,12674.0,0,74.12,100.0
+8215,8215,Paving and Surfacing Labourers,1,0,1,0.0,1,100.0,
+8216,5919,Other Inspectors and Regulatory Officers,1,1,1,0.0,1,60.2,0.0
+8216,8219,Other Construction and Mining Labourers,2,0,1,0.0,2,39.8,0.0
+8217,8212,Construction Riggers and Doggers,1,0,1,7400.0,0,36.85,89.91
+8217,8217,Structural Steel Construction Workers,3,0,3,12680.0,0,63.15,100.0
+8219,3115,Science Technicians,1,1,1,712.0,0,11.12,5.07
+8219,8212,Construction Riggers and Doggers,1,0,1,830.0,0,12.95,10.09
+8219,8219,Other Construction and Mining Labourers,4,0,4,4868.0,0,75.94,100.0
+8311,8311,Food and Drink Factory Workers,11,2,9,28130.0,0,100.0,100.0
+8312,8312,"Meat Boners and Slicers, and Slaughterers",2,0,2,7900.0,0,100.0,100.0
+8313,8313,"Meat, Poultry and Seafood Process Workers",3,0,3,18900.0,0,100.0,100.0
+8321,8321,Packers,6,2,6,38780.0,0,100.0,100.0
+8322,8322,Product Assemblers,1,0,1,0.0,1,100.0,
+8391,8391,Materials and Chemical Process Workers,1,0,1,0.0,1,100.0,0.0
+8392,8391,Materials and Chemical Process Workers,2,1,2,1660.0,0,100.0,10.37
+8393,8392,Product Quality Controllers,3,0,3,7800.0,0,100.0,100.0
+8394,8391,Materials and Chemical Process Workers,3,2,3,4930.0,0,100.0,30.79
+8399,8391,Materials and Chemical Process Workers,9,4,9,9420.0,0,100.0,58.84
+8411,3431,"Senior Aquaculture, Crop and Forestry Workers",1,1,1,0.0,1,18.52,0.0
+8411,8413,Mixed Production and Aquaculture Farm Workers,1,0,1,0.0,1,81.48,
+8412,3431,"Senior Aquaculture, Crop and Forestry Workers",5,5,5,4003.0,0,16.01,37.4
+8412,8411,Crop Farm Workers,13,4,8,20997.0,0,83.99,100.0
+8413,3431,"Senior Aquaculture, Crop and Forestry Workers",3,3,3,292.0,0,14.04,2.73
+8413,7411,"Agricultural, Horticultural and Logging Plant Operators",2,2,2,622.0,0,29.91,5.59
+8413,8429,Other Garden and Forestry Workers,2,2,2,1166.0,0,56.05,19.35
+8414,8421,Garden Labourers,1,0,1,21000.0,0,76.92,100.0
+8414,8422,Horticultural Nursery Assistants,1,0,1,6300.0,0,23.08,100.0
+8415,3411,Animal Trainers and Zookeepers,1,0,1,916.0,0,3.43,12.04
+8415,3432,Senior Livestock Farm Workers,8,8,6,5136.0,0,19.22,48.62
+8415,8412,Livestock Farm Workers,12,4,8,20668.0,0,77.35,100.0
+8416,3431,"Senior Aquaculture, Crop and Forestry Workers",2,2,1,0.0,2,13.77,0.0
+8416,8413,Mixed Production and Aquaculture Farm Workers,2,0,1,0.0,2,86.23,
+8419,3993,Pest Control Technicians,1,0,1,6100.0,0,55.66,100.0
+8419,8429,Other Garden and Forestry Workers,4,2,2,4860.0,0,44.34,80.65
+8511,8511,Fast Food Cooks,1,0,1,0.0,1,100.0,
+8512,8512,Food Preparation Assistants,2,0,2,4390.0,0,100.0,100.0
+8513,8512,Food Preparation Assistants,2,0,1,0.0,2,100.0,0.0
+8911,7419,Other Mobile Plant Operators,1,1,1,3500.0,0,27.34,27.44
+8911,8911,Freight and Furniture Handlers,2,0,2,9300.0,0,72.66,100.0
+8912,8912,Shelf Fillers,1,0,1,0.0,1,100.0,
+8991,8991,Caretakers,1,0,1,0.0,1,100.0,
+8992,3431,"Senior Aquaculture, Crop and Forestry Workers",1,0,1,0.0,0,0.0,0.0
+8992,8992,Deck and Fishing Hands,2,0,2,5200.0,0,100.0,100.0
+8993,8993,Handypersons,1,0,1,0.0,1,100.0,
+8994,8994,Motor Vehicle Parts and Accessories Fitters,5,3,5,11820.0,0,100.0,86.78
+8995,3914,Printing Trades Workers,2,2,2,2170.0,0,100.0,26.02
+8996,8999,Other Miscellaneous Labourers,1,0,1,0.0,1,100.0,0.0
+8997,4714,"Gaming Attendants, Dealers and Croupiers",1,1,1,0.0,1,87.42,0.0
+8997,8999,Other Miscellaneous Labourers,1,0,1,0.0,1,12.58,0.0
+8999,3514,Specialist Automotive Technicians,1,0,1,1700.0,0,2.92,10.56
+8999,6199,Other Sales Support Workers,1,1,1,1700.0,0,2.92,11.72
+8999,8994,Motor Vehicle Parts and Accessories Fitters,1,0,1,1800.0,0,3.09,13.22
+8999,8995,"Rail Guards, Conductors and Railways Assistants",2,2,1,2900.0,0,4.97,71.59
+8999,8996,Road Traffic Controllers,1,0,1,16100.0,0,27.62,100.0
+8999,8999,Other Miscellaneous Labourers,8,1,7,34100.0,0,58.49,91.51

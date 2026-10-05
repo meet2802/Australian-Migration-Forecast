@@ -1,0 +1,323 @@
+year,state,institution,course_code,course,maps_to,completions,suppressed
+2024,NSW,Avondale University,8.01,Initial registration as a nurse,2544,101.0,False
+2024,NSW,Avondale University,8.02,Initial teacher education,G241,52.0,False
+2024,NSW,Avondale University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,NSW,Avondale University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,Avondale University,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,Avondale University,8.06,Clinical psychology,2723,0.0,False
+2024,NSW,Avondale University,8.07,Aviation,2311,0.0,False
+2024,NSW,Charles Sturt University,8.01,Initial registration as a nurse,2544,483.0,False
+2024,NSW,Charles Sturt University,8.02,Initial teacher education,G241,708.0,False
+2024,NSW,Charles Sturt University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,NSW,Charles Sturt University,8.04,Registration as a veterinary practitioner,2347,59.0,False
+2024,NSW,Charles Sturt University,8.05,Registration as a dentist,2523,39.0,False
+2024,NSW,Charles Sturt University,8.06,Clinical psychology,2723,25.0,False
+2024,NSW,Charles Sturt University,8.07,Aviation,2311,0.0,False
+2024,NSW,Macquarie University,8.01,Initial registration as a nurse,2544,0.0,False
+2024,NSW,Macquarie University,8.02,Initial teacher education,G241,451.0,False
+2024,NSW,Macquarie University,8.03,Provisional registration as a medical practitioner,G253,,True
+2024,NSW,Macquarie University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,Macquarie University,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,Macquarie University,8.06,Clinical psychology,2723,57.0,False
+2024,NSW,Macquarie University,8.07,Aviation,2311,0.0,False
+2024,NSW,Southern Cross University,8.01,Initial registration as a nurse,2544,321.0,False
+2024,NSW,Southern Cross University,8.02,Initial teacher education,G241,410.0,False
+2024,NSW,Southern Cross University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,NSW,Southern Cross University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,Southern Cross University,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,Southern Cross University,8.06,Clinical psychology,2723,0.0,False
+2024,NSW,Southern Cross University,8.07,Aviation,2311,0.0,False
+2024,NSW,The University of New England,8.01,Initial registration as a nurse,2544,277.0,False
+2024,NSW,The University of New England,8.02,Initial teacher education,G241,472.0,False
+2024,NSW,The University of New England,8.03,Provisional registration as a medical practitioner,G253,67.0,False
+2024,NSW,The University of New England,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,The University of New England,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,The University of New England,8.06,Clinical psychology,2723,14.0,False
+2024,NSW,The University of New England,8.07,Aviation,2311,0.0,False
+2024,NSW,The University of Newcastle,8.01,Initial registration as a nurse,2544,459.0,False
+2024,NSW,The University of Newcastle,8.02,Initial teacher education,G241,649.0,False
+2024,NSW,The University of Newcastle,8.03,Provisional registration as a medical practitioner,G253,243.0,False
+2024,NSW,The University of Newcastle,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,The University of Newcastle,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,The University of Newcastle,8.06,Clinical psychology,2723,56.0,False
+2024,NSW,The University of Newcastle,8.07,Aviation,2311,0.0,False
+2024,NSW,The University of Sydney,8.01,Initial registration as a nurse,2544,350.0,False
+2024,NSW,The University of Sydney,8.02,Initial teacher education,G241,543.0,False
+2024,NSW,The University of Sydney,8.03,Provisional registration as a medical practitioner,G253,302.0,False
+2024,NSW,The University of Sydney,8.04,Registration as a veterinary practitioner,2347,102.0,False
+2024,NSW,The University of Sydney,8.05,Registration as a dentist,2523,111.0,False
+2024,NSW,The University of Sydney,8.06,Clinical psychology,2723,30.0,False
+2024,NSW,The University of Sydney,8.07,Aviation,2311,0.0,False
+2024,NSW,University of New South Wales,8.01,Initial registration as a nurse,2544,0.0,False
+2024,NSW,University of New South Wales,8.02,Initial teacher education,G241,250.0,False
+2024,NSW,University of New South Wales,8.03,Provisional registration as a medical practitioner,G253,376.0,False
+2024,NSW,University of New South Wales,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,University of New South Wales,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,University of New South Wales,8.06,Clinical psychology,2723,17.0,False
+2024,NSW,University of New South Wales,8.07,Aviation,2311,90.0,False
+2024,NSW,University of Technology Sydney,8.01,Initial registration as a nurse,2544,524.0,False
+2024,NSW,University of Technology Sydney,8.02,Initial teacher education,G241,65.0,False
+2024,NSW,University of Technology Sydney,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,NSW,University of Technology Sydney,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,University of Technology Sydney,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,University of Technology Sydney,8.06,Clinical psychology,2723,0.0,False
+2024,NSW,University of Technology Sydney,8.07,Aviation,2311,0.0,False
+2024,NSW,University of Wollongong,8.01,Initial registration as a nurse,2544,434.0,False
+2024,NSW,University of Wollongong,8.02,Initial teacher education,G241,368.0,False
+2024,NSW,University of Wollongong,8.03,Provisional registration as a medical practitioner,G253,79.0,False
+2024,NSW,University of Wollongong,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,University of Wollongong,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,University of Wollongong,8.06,Clinical psychology,2723,20.0,False
+2024,NSW,University of Wollongong,8.07,Aviation,2311,0.0,False
+2024,NSW,Western Sydney University,8.01,Initial registration as a nurse,2544,1238.0,False
+2024,NSW,Western Sydney University,8.02,Initial teacher education,G241,656.0,False
+2024,NSW,Western Sydney University,8.03,Provisional registration as a medical practitioner,G253,,False
+2024,NSW,Western Sydney University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,Western Sydney University,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,Western Sydney University,8.06,Clinical psychology,2723,70.0,False
+2024,NSW,Western Sydney University,8.07,Aviation,2311,0.0,False
+2024,NSW,Non-University Higher Education Institutions,8.01,Initial registration as a nurse,2544,0.0,False
+2024,NSW,Non-University Higher Education Institutions,8.02,Initial teacher education,G241,203.0,False
+2024,NSW,Non-University Higher Education Institutions,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,NSW,Non-University Higher Education Institutions,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NSW,Non-University Higher Education Institutions,8.05,Registration as a dentist,2523,0.0,False
+2024,NSW,Non-University Higher Education Institutions,8.06,Clinical psychology,2723,0.0,False
+2024,NSW,Non-University Higher Education Institutions,8.07,Aviation,2311,0.0,False
+2024,VIC,Deakin University,8.01,Initial registration as a nurse,2544,798.0,False
+2024,VIC,Deakin University,8.02,Initial teacher education,G241,1004.0,False
+2024,VIC,Deakin University,8.03,Provisional registration as a medical practitioner,G253,144.0,False
+2024,VIC,Deakin University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,Deakin University,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,Deakin University,8.06,Clinical psychology,2723,32.0,False
+2024,VIC,Deakin University,8.07,Aviation,2311,0.0,False
+2024,VIC,Federation University Australia,8.01,Initial registration as a nurse,2544,548.0,False
+2024,VIC,Federation University Australia,8.02,Initial teacher education,G241,231.0,False
+2024,VIC,Federation University Australia,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,VIC,Federation University Australia,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,Federation University Australia,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,Federation University Australia,8.06,Clinical psychology,2723,43.0,False
+2024,VIC,Federation University Australia,8.07,Aviation,2311,0.0,False
+2024,VIC,La Trobe University,8.01,Initial registration as a nurse,2544,899.0,False
+2024,VIC,La Trobe University,8.02,Initial teacher education,G241,511.0,False
+2024,VIC,La Trobe University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,VIC,La Trobe University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,La Trobe University,8.05,Registration as a dentist,2523,50.0,False
+2024,VIC,La Trobe University,8.06,Clinical psychology,2723,24.0,False
+2024,VIC,La Trobe University,8.07,Aviation,2311,0.0,False
+2024,VIC,Monash University,8.01,Initial registration as a nurse,2544,501.0,False
+2024,VIC,Monash University,8.02,Initial teacher education,G241,626.0,False
+2024,VIC,Monash University,8.03,Provisional registration as a medical practitioner,G253,539.0,False
+2024,VIC,Monash University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,Monash University,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,Monash University,8.06,Clinical psychology,2723,108.0,False
+2024,VIC,Monash University,8.07,Aviation,2311,0.0,False
+2024,VIC,RMIT University,8.01,Initial registration as a nurse,2544,163.0,False
+2024,VIC,RMIT University,8.02,Initial teacher education,G241,92.0,False
+2024,VIC,RMIT University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,VIC,RMIT University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,RMIT University,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,RMIT University,8.06,Clinical psychology,2723,13.0,False
+2024,VIC,RMIT University,8.07,Aviation,2311,36.0,False
+2024,VIC,Swinburne University of Technology,8.01,Initial registration as a nurse,2544,133.0,False
+2024,VIC,Swinburne University of Technology,8.02,Initial teacher education,G241,834.0,False
+2024,VIC,Swinburne University of Technology,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,VIC,Swinburne University of Technology,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,Swinburne University of Technology,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,Swinburne University of Technology,8.06,Clinical psychology,2723,31.0,False
+2024,VIC,Swinburne University of Technology,8.07,Aviation,2311,61.0,False
+2024,VIC,The University of Melbourne,8.01,Initial registration as a nurse,2544,204.0,False
+2024,VIC,The University of Melbourne,8.02,Initial teacher education,G241,474.0,False
+2024,VIC,The University of Melbourne,8.03,Provisional registration as a medical practitioner,G253,332.0,False
+2024,VIC,The University of Melbourne,8.04,Registration as a veterinary practitioner,2347,128.0,False
+2024,VIC,The University of Melbourne,8.05,Registration as a dentist,2523,84.0,False
+2024,VIC,The University of Melbourne,8.06,Clinical psychology,2723,83.0,False
+2024,VIC,The University of Melbourne,8.07,Aviation,2311,0.0,False
+2024,VIC,Victoria University,8.01,Initial registration as a nurse,2544,429.0,False
+2024,VIC,Victoria University,8.02,Initial teacher education,G241,381.0,False
+2024,VIC,Victoria University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,VIC,Victoria University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,Victoria University,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,Victoria University,8.06,Clinical psychology,2723,41.0,False
+2024,VIC,Victoria University,8.07,Aviation,2311,0.0,False
+2024,VIC,Non-University Higher Education Institutions,8.01,Initial registration as a nurse,2544,187.0,False
+2024,VIC,Non-University Higher Education Institutions,8.02,Initial teacher education,G241,9.0,False
+2024,VIC,Non-University Higher Education Institutions,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,VIC,Non-University Higher Education Institutions,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,VIC,Non-University Higher Education Institutions,8.05,Registration as a dentist,2523,0.0,False
+2024,VIC,Non-University Higher Education Institutions,8.06,Clinical psychology,2723,63.0,False
+2024,VIC,Non-University Higher Education Institutions,8.07,Aviation,2311,0.0,False
+2024,QLD,Bond University,8.01,Initial registration as a nurse,2544,0.0,False
+2024,QLD,Bond University,8.02,Initial teacher education,G241,0.0,False
+2024,QLD,Bond University,8.03,Provisional registration as a medical practitioner,G253,312.0,False
+2024,QLD,Bond University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,Bond University,8.05,Registration as a dentist,2523,0.0,False
+2024,QLD,Bond University,8.06,Clinical psychology,2723,0.0,False
+2024,QLD,Bond University,8.07,Aviation,2311,0.0,False
+2024,QLD,CQUniversity,8.01,Initial registration as a nurse,2544,643.0,False
+2024,QLD,CQUniversity,8.02,Initial teacher education,G241,261.0,False
+2024,QLD,CQUniversity,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,QLD,CQUniversity,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,CQUniversity,8.05,Registration as a dentist,2523,0.0,False
+2024,QLD,CQUniversity,8.06,Clinical psychology,2723,11.0,False
+2024,QLD,CQUniversity,8.07,Aviation,2311,35.0,False
+2024,QLD,Griffith University,8.01,Initial registration as a nurse,2544,564.0,False
+2024,QLD,Griffith University,8.02,Initial teacher education,G241,612.0,False
+2024,QLD,Griffith University,8.03,Provisional registration as a medical practitioner,G253,224.0,False
+2024,QLD,Griffith University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,Griffith University,8.05,Registration as a dentist,2523,101.0,False
+2024,QLD,Griffith University,8.06,Clinical psychology,2723,35.0,False
+2024,QLD,Griffith University,8.07,Aviation,2311,14.0,False
+2024,QLD,James Cook University,8.01,Initial registration as a nurse,2544,315.0,False
+2024,QLD,James Cook University,8.02,Initial teacher education,G241,141.0,False
+2024,QLD,James Cook University,8.03,Provisional registration as a medical practitioner,G253,171.0,False
+2024,QLD,James Cook University,8.04,Registration as a veterinary practitioner,2347,81.0,False
+2024,QLD,James Cook University,8.05,Registration as a dentist,2523,77.0,False
+2024,QLD,James Cook University,8.06,Clinical psychology,2723,23.0,False
+2024,QLD,James Cook University,8.07,Aviation,2311,0.0,False
+2024,QLD,Queensland University of Technology,8.01,Initial registration as a nurse,2544,817.0,False
+2024,QLD,Queensland University of Technology,8.02,Initial teacher education,G241,525.0,False
+2024,QLD,Queensland University of Technology,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,QLD,Queensland University of Technology,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,Queensland University of Technology,8.05,Registration as a dentist,2523,0.0,False
+2024,QLD,Queensland University of Technology,8.06,Clinical psychology,2723,33.0,False
+2024,QLD,Queensland University of Technology,8.07,Aviation,2311,0.0,False
+2024,QLD,The University of Queensland,8.01,Initial registration as a nurse,2544,296.0,False
+2024,QLD,The University of Queensland,8.02,Initial teacher education,G241,254.0,False
+2024,QLD,The University of Queensland,8.03,Provisional registration as a medical practitioner,G253,452.0,False
+2024,QLD,The University of Queensland,8.04,Registration as a veterinary practitioner,2347,140.0,False
+2024,QLD,The University of Queensland,8.05,Registration as a dentist,2523,78.0,False
+2024,QLD,The University of Queensland,8.06,Clinical psychology,2723,46.0,False
+2024,QLD,The University of Queensland,8.07,Aviation,2311,0.0,False
+2024,QLD,University of Southern Queensland,8.01,Initial registration as a nurse,2544,639.0,False
+2024,QLD,University of Southern Queensland,8.02,Initial teacher education,G241,258.0,False
+2024,QLD,University of Southern Queensland,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,QLD,University of Southern Queensland,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,University of Southern Queensland,8.05,Registration as a dentist,2523,0.0,False
+2024,QLD,University of Southern Queensland,8.06,Clinical psychology,2723,102.0,False
+2024,QLD,University of Southern Queensland,8.07,Aviation,2311,0.0,False
+2024,QLD,University of the Sunshine Coast,8.01,Initial registration as a nurse,2544,689.0,False
+2024,QLD,University of the Sunshine Coast,8.02,Initial teacher education,G241,291.0,False
+2024,QLD,University of the Sunshine Coast,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,QLD,University of the Sunshine Coast,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,University of the Sunshine Coast,8.05,Registration as a dentist,2523,0.0,False
+2024,QLD,University of the Sunshine Coast,8.06,Clinical psychology,2723,16.0,False
+2024,QLD,University of the Sunshine Coast,8.07,Aviation,2311,0.0,False
+2024,QLD,Non-University Higher Education Institutions,8.01,Initial registration as a nurse,2544,0.0,False
+2024,QLD,Non-University Higher Education Institutions,8.02,Initial teacher education,G241,41.0,False
+2024,QLD,Non-University Higher Education Institutions,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,QLD,Non-University Higher Education Institutions,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,QLD,Non-University Higher Education Institutions,8.05,Registration as a dentist,2523,0.0,False
+2024,QLD,Non-University Higher Education Institutions,8.06,Clinical psychology,2723,0.0,False
+2024,QLD,Non-University Higher Education Institutions,8.07,Aviation,2311,0.0,False
+2024,WA,Curtin University,8.01,Initial registration as a nurse,2544,377.0,False
+2024,WA,Curtin University,8.02,Initial teacher education,G241,823.0,False
+2024,WA,Curtin University,8.03,Provisional registration as a medical practitioner,G253,81.0,False
+2024,WA,Curtin University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,WA,Curtin University,8.05,Registration as a dentist,2523,0.0,False
+2024,WA,Curtin University,8.06,Clinical psychology,2723,60.0,False
+2024,WA,Curtin University,8.07,Aviation,2311,0.0,False
+2024,WA,Edith Cowan University,8.01,Initial registration as a nurse,2544,978.0,False
+2024,WA,Edith Cowan University,8.02,Initial teacher education,G241,1007.0,False
+2024,WA,Edith Cowan University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,WA,Edith Cowan University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,WA,Edith Cowan University,8.05,Registration as a dentist,2523,0.0,False
+2024,WA,Edith Cowan University,8.06,Clinical psychology,2723,17.0,False
+2024,WA,Edith Cowan University,8.07,Aviation,2311,16.0,False
+2024,WA,Murdoch University,8.01,Initial registration as a nurse,2544,314.0,False
+2024,WA,Murdoch University,8.02,Initial teacher education,G241,189.0,False
+2024,WA,Murdoch University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,WA,Murdoch University,8.04,Registration as a veterinary practitioner,2347,89.0,False
+2024,WA,Murdoch University,8.05,Registration as a dentist,2523,0.0,False
+2024,WA,Murdoch University,8.06,Clinical psychology,2723,8.0,False
+2024,WA,Murdoch University,8.07,Aviation,2311,0.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.01,Initial registration as a nurse,2544,588.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.02,Initial teacher education,G241,367.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.05,Registration as a dentist,2523,0.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.06,Clinical psychology,2723,0.0,False
+2024,WA,The University of Notre Dame Australia(1.09),8.07,Aviation,2311,0.0,False
+2024,WA,The University of Western Australia,8.01,Initial registration as a nurse,2544,0.0,False
+2024,WA,The University of Western Australia,8.02,Initial teacher education,G241,75.0,False
+2024,WA,The University of Western Australia,8.03,Provisional registration as a medical practitioner,G253,198.0,False
+2024,WA,The University of Western Australia,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,WA,The University of Western Australia,8.05,Registration as a dentist,2523,49.0,False
+2024,WA,The University of Western Australia,8.06,Clinical psychology,2723,13.0,False
+2024,WA,The University of Western Australia,8.07,Aviation,2311,0.0,False
+2024,SA,Flinders University,8.01,Initial registration as a nurse,2544,583.0,False
+2024,SA,Flinders University,8.02,Initial teacher education,G241,346.0,False
+2024,SA,Flinders University,8.03,Provisional registration as a medical practitioner,G253,148.0,False
+2024,SA,Flinders University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,SA,Flinders University,8.05,Registration as a dentist,2523,0.0,False
+2024,SA,Flinders University,8.06,Clinical psychology,2723,15.0,False
+2024,SA,Flinders University,8.07,Aviation,2311,0.0,False
+2024,SA,The University of Adelaide,8.01,Initial registration as a nurse,2544,225.0,False
+2024,SA,The University of Adelaide,8.02,Initial teacher education,G241,164.0,False
+2024,SA,The University of Adelaide,8.03,Provisional registration as a medical practitioner,G253,332.0,False
+2024,SA,The University of Adelaide,8.04,Registration as a veterinary practitioner,2347,66.0,False
+2024,SA,The University of Adelaide,8.05,Registration as a dentist,2523,63.0,False
+2024,SA,The University of Adelaide,8.06,Clinical psychology,2723,24.0,False
+2024,SA,The University of Adelaide,8.07,Aviation,2311,0.0,False
+2024,SA,Torrens University Australia,8.01,Initial registration as a nurse,2544,131.0,False
+2024,SA,Torrens University Australia,8.02,Initial teacher education,G241,0.0,False
+2024,SA,Torrens University Australia,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,SA,Torrens University Australia,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,SA,Torrens University Australia,8.05,Registration as a dentist,2523,0.0,False
+2024,SA,Torrens University Australia,8.06,Clinical psychology,2723,0.0,False
+2024,SA,Torrens University Australia,8.07,Aviation,2311,0.0,False
+2024,SA,University of South Australia,8.01,Initial registration as a nurse,2544,642.0,False
+2024,SA,University of South Australia,8.02,Initial teacher education,G241,624.0,False
+2024,SA,University of South Australia,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,SA,University of South Australia,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,SA,University of South Australia,8.05,Registration as a dentist,2523,0.0,False
+2024,SA,University of South Australia,8.06,Clinical psychology,2723,6.0,False
+2024,SA,University of South Australia,8.07,Aviation,2311,74.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.01,Initial registration as a nurse,2544,0.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.02,Initial teacher education,G241,37.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.05,Registration as a dentist,2523,0.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.06,Clinical psychology,2723,0.0,False
+2024,SA,Private Universities (Table C) and Non-University Higher Education Institutions,8.07,Aviation,2311,0.0,False
+2024,TAS,University of Tasmania(1.05),8.01,Initial registration as a nurse,2544,465.0,False
+2024,TAS,University of Tasmania(1.05),8.02,Initial teacher education,G241,274.0,False
+2024,TAS,University of Tasmania(1.05),8.03,Provisional registration as a medical practitioner,G253,102.0,False
+2024,TAS,University of Tasmania(1.05),8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,TAS,University of Tasmania(1.05),8.05,Registration as a dentist,2523,0.0,False
+2024,TAS,University of Tasmania(1.05),8.06,Clinical psychology,2723,67.0,False
+2024,TAS,University of Tasmania(1.05),8.07,Aviation,2311,0.0,False
+2024,NT,Charles Darwin University(1.04),8.01,Initial registration as a nurse,2544,953.0,False
+2024,NT,Charles Darwin University(1.04),8.02,Initial teacher education,G241,322.0,False
+2024,NT,Charles Darwin University(1.04),8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,NT,Charles Darwin University(1.04),8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,NT,Charles Darwin University(1.04),8.05,Registration as a dentist,2523,0.0,False
+2024,NT,Charles Darwin University(1.04),8.06,Clinical psychology,2723,21.0,False
+2024,NT,Charles Darwin University(1.04),8.07,Aviation,2311,0.0,False
+2024,ACT,The Australian National University,8.01,Initial registration as a nurse,2544,0.0,False
+2024,ACT,The Australian National University,8.02,Initial teacher education,G241,0.0,False
+2024,ACT,The Australian National University,8.03,Provisional registration as a medical practitioner,G253,92.0,False
+2024,ACT,The Australian National University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,ACT,The Australian National University,8.05,Registration as a dentist,2523,0.0,False
+2024,ACT,The Australian National University,8.06,Clinical psychology,2723,21.0,False
+2024,ACT,The Australian National University,8.07,Aviation,2311,0.0,False
+2024,ACT,University of Canberra,8.01,Initial registration as a nurse,2544,272.0,False
+2024,ACT,University of Canberra,8.02,Initial teacher education,G241,277.0,False
+2024,ACT,University of Canberra,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,ACT,University of Canberra,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,ACT,University of Canberra,8.05,Registration as a dentist,2523,0.0,False
+2024,ACT,University of Canberra,8.06,Clinical psychology,2723,12.0,False
+2024,ACT,University of Canberra,8.07,Aviation,2311,0.0,False
+2024,ACT,Non-University Higher Education Institutions,8.01,Initial registration as a nurse,2544,9.0,False
+2024,ACT,Non-University Higher Education Institutions,8.02,Initial teacher education,G241,0.0,False
+2024,ACT,Non-University Higher Education Institutions,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,ACT,Non-University Higher Education Institutions,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,ACT,Non-University Higher Education Institutions,8.05,Registration as a dentist,2523,0.0,False
+2024,ACT,Non-University Higher Education Institutions,8.06,Clinical psychology,2723,0.0,False
+2024,ACT,Non-University Higher Education Institutions,8.07,Aviation,2311,0.0,False
+2024,Multi-state,Australian Catholic University,8.01,Initial registration as a nurse,2544,1812.0,False
+2024,Multi-state,Australian Catholic University,8.02,Initial teacher education,G241,1562.0,False
+2024,Multi-state,Australian Catholic University,8.03,Provisional registration as a medical practitioner,G253,0.0,False
+2024,Multi-state,Australian Catholic University,8.04,Registration as a veterinary practitioner,2347,0.0,False
+2024,Multi-state,Australian Catholic University,8.05,Registration as a dentist,2523,0.0,False
+2024,Multi-state,Australian Catholic University,8.06,Clinical psychology,2723,68.0,False
+2024,Multi-state,Australian Catholic University,8.07,Aviation,2311,0.0,False

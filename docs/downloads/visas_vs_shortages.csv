@@ -1,0 +1,305 @@
+unit_group_code,occupation,skill_level,shortage_now,short,projected_growth_5y_pct,employed_may2025,visa_grants_primary,visas_per_1000_workers,rank_visas_per_1000
+3125,Mechanical Engineering Draftspersons and Technicians,2.0,Short now,1,5.9,6770.0,1162,171.64,1
+3111,Agricultural Technicians,2.0,Short now,1,3.2,2637.0,140,53.09,2
+3513,Chefs,2.0,Short now,1,5.8,124895.0,5794,46.39,3
+2632,ICT Support and Test Engineers,1.0,Not short now,0,14.9,15565.0,677,43.5,4
+2531,General Practitioners and Resident Medical Officers,1.0,Short now,1,18.0,89006.0,3809,42.79,5
+3514,Cooks,3.0,Short now,1,6.0,39447.0,1658,42.03,6
+3231,Aircraft Maintenance Engineers,3.0,Short now,1,1.0,10006.0,412,41.18,7
+3132,Telecommunications Technical Specialists,2.0,Not short now,0,5.5,3760.0,142,37.77,8
+3113,Primary Products Inspectors,2.0,Not short now,0,1.8,3854.0,144,37.36,9
+3123,Electrical Engineering Draftspersons and Technicians,2.0,Short now,1,5.6,10070.0,372,36.94,10
+2252,ICT Sales Professionals,1.0,Not short now,0,13.6,17204.0,596,34.64,11
+3212,Motor Mechanics,3.0,Short now,1,2.7,111202.0,3578,32.18,12
+3243,Vehicle Painters,3.0,Short now,1,-3.0,9808.0,293,29.87,13
+2339,Other Engineering Professionals,1.0,Short now,1,12.4,17110.0,492,28.76,14
+3241,Panelbeaters,3.0,Short now,1,-3.0,11043.0,301,27.26,15
+3942,Wood Machinists and Other Wood Trades Workers,3.0,Not short now,0,1.8,2618.0,68,25.97,16
+3422,Electrical Distribution Trades Workers,3.0,Short now,1,0.8,11975.0,309,25.8,17
+2539,Other Medical Practitioners,1.0,Short now,1,18.0,21691.0,539,24.85,18
+2611,ICT Business and Systems Analysts,1.0,Not short now,0,15.1,51422.0,1255,24.41,19
+2241,"Actuaries, Mathematicians and Statisticians",1.0,Not short now,0,16.1,12479.0,301,24.12,20
+2212,"Auditors, Company Secretaries and Corporate Treasurers",1.0,Short now,1,8.0,31540.0,687,21.78,21
+3223,Structural Steel and Welding Trades Workers,3.0,Short now,1,2.9,77184.0,1650,21.38,22
+3242,Vehicle Body Builders and Trimmers,3.0,Short now,1,-1.4,6337.0,134,21.15,23
+2534,Psychiatrists,1.0,Short now,1,17.7,6410.0,135,21.06,24
+2533,Specialist Physicians,1.0,Short now,1,18.0,16101.0,339,21.05,25
+3331,Glaziers,3.0,Short now,1,0.1,8343.0,173,20.74,26
+3222,Sheetmetal Trades Workers,3.0,Short now,1,5.3,5693.0,117,20.55,27
+2334,Electronics Engineers,1.0,Not short now,0,12.2,5624.0,111,19.74,28
+2335,"Industrial, Mechanical and Production Engineers",1.0,Not short now,0,12.7,40100.0,781,19.48,29
+3511,Bakers and Pastrycooks,3.0,Short now,1,3.0,34272.0,654,19.08,30
+3211,Automotive Electricians,3.0,Short now,1,3.3,10455.0,189,18.08,31
+1413,Hotel and Motel Managers,2.0,Not short now,0,0.9,18249.0,325,17.81,32
+6392,Retail and Wool Buyers,3.0,Not short now,0,0.2,6866.0,121,17.62,33
+2254,Technical Sales Representatives,1.0,Not short now,0,14.0,27905.0,491,17.6,34
+3122,Civil Engineering Draftspersons and Technicians,2.0,Short now,1,5.2,16035.0,273,17.03,35
+2251,Advertising and Marketing Professionals,1.0,Not short now,0,12.6,102987.0,1617,15.7,36
+2344,"Geologists, Geophysicists and Hydrogeologists",1.0,Short now,1,10.2,14015.0,212,15.13,37
+2535,Surgeons,1.0,Short now,1,18.1,10452.0,150,14.35,38
+3334,Wall and Floor Tilers,3.0,Short now,1,3.0,21093.0,300,14.22,39
+2613,Software and Applications Programmers,1.0,Not short now,0,15.7,186066.0,2503,13.45,40
+2333,Electrical Engineers,1.0,Short now,1,12.0,32250.0,432,13.4,41
+3322,Painting Trades Workers,3.0,Short now,1,3.6,53822.0,721,13.4,41
+3221,"Metal Casting, Forging and Finishing Trades Workers",3.0,Short now,1,0.7,2290.0,28,12.23,43
+4112,"Dental Hygienists, Technicians and Therapists",1.0,Short now,1,9.5,7542.0,92,12.2,44
+1419,Other Accommodation and Hospitality Managers,2.0,Not short now,0,2.1,10481.0,127,12.12,45
+2347,Veterinarians,1.0,Short now,1,9.1,13123.0,159,12.12,45
+2345,Life Scientists,1.0,Not short now,0,10.0,10520.0,124,11.79,47
+3512,Butchers and Smallgoods Makers,3.0,Short now,1,4.5,14529.0,171,11.77,48
+2247,Management and Organisation Analysts,1.0,Not short now,0,16.2,107697.0,1221,11.34,49
+4233,Nursing Support and Personal Care Workers,4.0,Not short now,0,13.8,115049.0,1301,11.31,50
+1332,Engineering Managers,1.0,Not short now,0,8.3,34760.0,384,11.05,51
+2532,Anaesthetists,1.0,Short now,1,18.1,7077.0,76,10.74,52
+2312,Marine Transport Professionals,2.0,Short now,1,5.3,10549.0,113,10.71,53
+3311,Bricklayers and Stonemasons,3.0,Short now,1,5.2,26586.0,283,10.64,54
+3933,Upholsterers,3.0,Short now,1,1.0,2093.0,22,10.51,55
+2331,Chemical and Materials Engineers,1.0,Not short now,0,13.2,7147.0,74,10.35,56
+2336,Mining Engineers,1.0,Short now,1,11.2,15504.0,159,10.26,57
+2525,Physiotherapists,1.0,Short now,1,19.7,46980.0,480,10.22,58
+2612,Multimedia Specialists and Web Developers,1.0,Not short now,0,15.9,13464.0,134,9.95,59
+3991,Boat Builders and Shipwrights,3.0,Short now,1,-2.2,3946.0,39,9.88,60
+1321,Corporate Services Managers,1.0,Not short now,0,12.6,21673.0,213,9.83,61
+3911,Hairdressers,3.0,Short now,1,0.7,64836.0,627,9.67,62
+4314,Hotel Service Managers,2.0,Not short now,0,5.0,11073.0,104,9.39,63
+8992,Deck and Fishing Hands,4.0,Not short now,0,-1.2,6299.0,58,9.21,64
+2332,Civil Engineering Professionals,1.0,Short now,1,11.6,76286.0,700,9.18,65
+4114,Enrolled and Mothercraft Nurses,2.0,Short now,1,10.6,22104.0,202,9.14,66
+3423,Electronics Trades Workers,3.0,Short now,1,1.8,30283.0,275,9.08,67
+2712,Judicial and Other Legal Professionals,1.0,Not short now,0,11.9,12883.0,113,8.77,68
+2249,Other Information and Organisation Professionals,1.0,Not short now,0,16.0,57124.0,470,8.23,69
+2211,Accountants,1.0,Not short now,0,8.4,210295.0,1724,8.2,70
+3321,Floor Finishers,3.0,Short now,1,3.4,10865.0,88,8.1,71
+2231,Human Resource Professionals,1.0,Not short now,0,7.4,89673.0,725,8.08,72
+3424,Telecommunications Trades Workers,3.0,Short now,1,-1.0,16991.0,137,8.06,73
+1411,Cafe and Restaurant Managers,2.0,Not short now,0,1.7,64510.0,519,8.05,74
+3232,Metal Fitters and Machinists,3.0,Short now,1,3.0,122958.0,990,8.05,74
+1336,"Supply, Distribution and Procurement Managers",1.0,Not short now,0,8.1,55476.0,445,8.02,76
+2722,Ministers of Religion,1.0,Not short now,0,9.3,19451.0,153,7.87,77
+2413,Middle School Teachers,1.0,Short now,1,5.5,1162.0,9,7.75,78
+2421,University Lecturers and Tutors,1.0,Not short now,0,8.8,63829.0,492,7.71,79
+2311,Air Transport Professionals,1.0,Short now,1,5.7,15493.0,115,7.42,80
+5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",2.0,Not short now,0,2.3,7928.0,57,7.19,81
+3129,Other Building and Engineering Technicians,2.0,Not short now,0,6.4,39364.0,282,7.16,82
+2524,Occupational Therapists,1.0,Short now,1,18.8,31285.0,222,7.1,83
+2342,"Chemists, and Food and Wine Scientists",1.0,Not short now,0,10.3,10245.0,70,6.83,84
+1112,General Managers,1.0,Not short now,0,6.5,71323.0,451,6.32,85
+2322,Surveyors and Spatial Scientists,1.0,Short now,1,10.2,19559.0,121,6.19,86
+2631,Computer Network Professionals,1.0,Not short now,0,14.8,45040.0,275,6.11,87
+4211,Child Carers,3.0,Short now,1,1.0,172417.0,1053,6.11,87
+2526,Podiatrists,1.0,Short now,1,20.0,6144.0,37,6.02,89
+3421,Airconditioning and Refrigeration Mechanics,3.0,Short now,1,2.3,29234.0,175,5.99,90
+3312,Carpenters and Joiners,3.0,Short now,1,6.4,149259.0,888,5.95,91
+3922,Graphic Pre-press Trades Workers,3.0,Short now,1,1.1,1195.0,7,5.86,92
+3332,Plasterers,3.0,Short now,1,2.3,31431.0,181,5.76,93
+4117,Welfare Support Workers,2.0,Not short now,0,6.0,96486.0,540,5.6,94
+1311,"Advertising, Public Relations and Sales Managers",1.0,Not short now,0,9.4,165395.0,903,5.46,95
+1351,ICT Managers,1.0,Not short now,0,15.0,89883.0,488,5.43,96
+2515,Pharmacists,1.0,Short now,1,10.9,41985.0,224,5.34,97
+3613,Veterinary Nurses,3.0,Short now,1,5.9,17525.0,92,5.25,98
+2621,"Database and Systems Administrators, and ICT Security Specialists",1.0,Not short now,0,14.0,68857.0,355,5.16,99
+3996,Signwriters,3.0,Not short now,0,4.7,6598.0,33,5.0,100
+1322,Finance Managers,1.0,Not short now,0,12.4,76302.0,377,4.94,101
+3124,Electronic Engineering Draftspersons and Technicians,2.0,Short now,1,4.9,6515.0,32,4.91,102
+1399,Other Specialist Managers,1.0,Not short now,0,11.5,68817.0,336,4.88,103
+4116,Massage Therapists,2.0,Not short now,0,10.6,19473.0,95,4.88,103
+3114,Science Technicians,2.0,Not short now,0,3.3,22432.0,109,4.86,105
+6112,Insurance Agents,3.0,Not short now,0,-1.6,16703.0,81,4.85,106
+3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",3.0,Not short now,0,4.0,9539.0,46,4.82,107
+1414,Licensed Club Managers,2.0,Not short now,0,1.7,6452.0,31,4.8,108
+2341,Agricultural and Forestry Scientists,1.0,Short now,1,8.8,9438.0,45,4.77,109
+1111,Chief Executives and Managing Directors,1.0,Not short now,0,6.9,61193.0,291,4.76,110
+5111,"Contract, Program and Project Administrators",2.0,Not short now,0,9.5,164536.0,783,4.76,110
+3921,Print Finishers and Screen Printers,3.0,Not short now,0,-0.2,2998.0,14,4.67,112
+3131,ICT Support Technicians,2.0,Not short now,0,9.4,74771.0,347,4.64,113
+2544,Registered Nurses,1.0,Short now,1,13.7,363766.0,1668,4.59,114
+3923,Printers,3.0,Not short now,0,-0.4,10868.0,48,4.42,115
+3121,"Architectural, Building and Surveying Technicians",2.0,Not short now,0,8.3,84203.0,370,4.39,116
+1335,Production Managers,1.0,Not short now,0,9.0,62231.0,267,4.29,117
+3341,Plumbers,3.0,Short now,1,5.2,103573.0,442,4.27,118
+3624,Nurserypersons,3.0,Not short now,0,2.7,4094.0,17,4.15,119
+4113,Diversional Therapists,3.0,Not short now,0,9.6,6624.0,27,4.08,120
+3941,Cabinetmakers,3.0,Short now,1,2.6,32927.0,132,4.01,121
+1494,Transport Services Managers,2.0,Not short now,0,6.0,20033.0,79,3.94,122
+2325,Interior Designers,2.0,Not short now,0,11.0,18963.0,74,3.9,123
+2343,Environmental Scientists,1.0,Not short now,0,8.9,31524.0,123,3.9,123
+3999,Other Miscellaneous Technicians and Trades Workers,2.0,Not short now,0,6.7,24860.0,97,3.9,123
+2527,Audiologists and Speech Pathologists \ Therapists,1.0,Short now,1,18.5,22103.0,86,3.89,126
+3333,Roof Tilers,3.0,Short now,1,1.1,10272.0,39,3.8,127
+2411,Early Childhood (Pre-primary School) Teachers,1.0,Short now,1,5.7,79788.0,282,3.53,128
+2415,Special Education Teachers,1.0,Short now,1,5.9,29617.0,101,3.41,129
+2513,Occupational and Environmental Health Professionals,1.0,Not short now,0,11.3,40030.0,135,3.37,130
+2253,Public Relations Professionals,1.0,Not short now,0,12.3,30791.0,99,3.22,131
+2414,Secondary School Teachers,1.0,Short now,1,5.4,153486.0,489,3.19,132
+2523,Dental Practitioners,1.0,Short now,1,20.0,24458.0,78,3.19,132
+3234,Toolmakers and Engineering Patternmakers,3.0,Short now,1,4.4,4077.0,13,3.19,132
+3611,Animal Attendants and Trainers,3.0,Not short now,0,5.1,26019.0,83,3.19,132
+1325,Research and Development Managers,1.0,Not short now,0,12.8,19797.0,62,3.13,136
+2633,Telecommunications Engineering Professionals,1.0,Not short now,0,11.4,15424.0,45,2.92,137
+2324,"Graphic and Web Designers, and Illustrators",1.0,Not short now,0,9.9,55688.0,162,2.91,138
+2512,Medical Imaging Professionals,1.0,Short now,1,18.1,22918.0,65,2.84,139
+1331,Construction Managers,1.0,Short now,1,14.9,128188.0,354,2.76,140
+2222,Financial Dealers,1.0,Not short now,0,5.4,21240.0,58,2.73,141
+2349,Other Natural and Physical Science Professionals,1.0,Not short now,0,13.1,14876.0,40,2.69,142
+2519,Other Health Diagnostic and Promotion Professionals,1.0,Not short now,0,15.0,10444.0,28,2.68,143
+4511,Beauty Therapists,3.0,Short now,1,4.2,39264.0,104,2.65,144
+5121,Office Managers,2.0,Not short now,0,3.3,136601.0,360,2.64,145
+1421,Retail Managers,2.0,Not short now,0,2.0,250748.0,652,2.6,146
+2541,Midwives,1.0,Short now,1,13.9,21274.0,54,2.54,147
+2123,"Film, Television, Radio and Stage Directors",1.0,Not short now,0,9.7,15468.0,39,2.52,148
+2221,Financial Brokers,2.0,Not short now,0,6.0,50642.0,126,2.49,149
+4518,Other Personal Service Workers,3.0,Not short now,0,4.9,21044.0,51,2.42,150
+3112,Medical Technicians,2.0,Not short now,0,8.0,41937.0,95,2.27,151
+2245,Land Economists and Valuers,1.0,Not short now,0,18.2,14687.0,33,2.25,152
+3995,Performing Arts Technicians,3.0,Not short now,0,2.7,16279.0,36,2.21,153
+1213,Livestock Farmers,1.0,Not short now,0,-2.9,78871.0,171,2.17,154
+3233,Precision Metal Trades Workers,3.0,Short now,1,3.0,8286.0,18,2.17,154
+4514,"Gallery, Museum and Tour Guides",3.0,Short now,1,3.6,6094.0,13,2.13,156
+1492,Call or Contact Centre and Customer Service Managers,2.0,Not short now,0,6.8,39530.0,81,2.05,157
+7211,"Agricultural, Forestry and Horticultural Plant Operators",4.0,Short now,1,-0.4,16122.0,33,2.05,157
+2223,Financial Investment Advisers and Managers,1.0,Not short now,0,6.1,65810.0,133,2.02,159
+2412,Primary School Teachers,1.0,Short now,1,5.5,168611.0,341,2.02,159
+2124,Journalists and Other Writers,1.0,Not short now,0,9.5,23339.0,47,2.01,161
+1344,Other Education Managers,1.0,Not short now,0,9.7,15743.0,31,1.97,162
+4523,"Sports Coaches, Instructors and Officials",2.0,Not short now,0,5.9,58786.0,113,1.92,163
+8994,Motor Vehicle Parts and Accessories Fitters,4.0,Not short now,0,0.8,14259.0,27,1.89,164
+2725,Social Workers,1.0,Not short now,0,14.6,49846.0,93,1.87,165
+2321,Architects and Landscape Architects,1.0,Not short now,0,10.3,30932.0,57,1.84,166
+2323,"Fashion, Industrial and Jewellery Designers",1.0,Not short now,0,11.2,14601.0,26,1.78,167
+2723,Psychologists,1.0,Short now,1,16.8,51199.0,83,1.62,168
+1211,Aquaculture Farmers,1.0,Not short now,0,8.7,1873.0,3,1.6,169
+2243,Economists,1.0,Not short now,0,15.7,4443.0,7,1.58,170
+2326,Urban and Regional Planners,1.0,Short now,1,9.9,20525.0,31,1.51,171
+7115,Plastics and Rubber Production Machine Operators,4.0,Not short now,0,1.0,7304.0,11,1.51,171
+8217,Structural Steel Construction Workers,4.0,Short now,1,1.3,26377.0,38,1.44,173
+4231,Aged and Disabled Carers,4.0,Short now,1,10.7,370154.0,531,1.43,174
+2713,Solicitors,1.0,Short now,1,11.7,100238.0,139,1.39,175
+5212,Secretaries,2.0,Not short now,0,-7.5,30162.0,41,1.36,176
+1499,"Other Hospitality, Retail and Service Managers",2.0,Not short now,0,6.7,92729.0,119,1.28,177
+1323,Human Resource Managers,1.0,Not short now,0,12.4,92889.0,117,1.26,178
+2721,Counsellors,1.0,Not short now,0,13.0,34045.0,38,1.12,179
+4516,Tourism and Travel Advisers,3.0,Short now,1,3.4,21930.0,24,1.09,180
+1324,Policy and Planning Managers,1.0,Not short now,0,12.1,39317.0,42,1.07,181
+6215,Retail Supervisors,4.0,Not short now,0,2.5,52067.0,55,1.06,182
+2522,Complementary Health Therapists,1.0,Not short now,0,19.0,9489.0,10,1.05,183
+4111,Ambulance Officers and Paramedics,1.0,Short now,1,11.1,28154.0,28,0.99,184
+1493,Conference and Event Organisers,2.0,Not short now,0,5.6,30336.0,28,0.92,185
+2511,Nutrition Professionals,1.0,Not short now,0,16.6,10876.0,10,0.92,185
+3411,Electricians,3.0,Short now,1,6.7,194917.0,168,0.86,187
+7331,Truck Drivers,4.0,Short now,1,0.6,189200.0,161,0.85,188
+3931,Canvas and Leather Goods Makers,3.0,Not short now,0,1.2,1404.0,1,0.71,189
+2233,Training and Development Professionals,1.0,Not short now,0,7.5,31794.0,22,0.69,190
+7117,Textile and Footwear Production Machine Operators,4.0,Not short now,0,-0.7,1683.0,1,0.59,191
+4232,Dental Assistants,4.0,Not short now,0,14.5,26128.0,14,0.54,192
+1342,Health and Welfare Services Managers,1.0,Not short now,0,15.2,44254.0,23,0.52,193
+2492,Private Tutors and Teachers,1.0,Not short now,0,6.2,45432.0,23,0.51,194
+7212,Earthmoving Plant Operators,4.0,Short now,1,1.2,48644.0,25,0.51,194
+2493,Teachers of English to Speakers of Other Languages,1.0,Not short now,0,6.3,4228.0,2,0.47,196
+7312,Bus and Coach Drivers,4.0,Short now,1,4.0,40249.0,19,0.47,196
+7213,Forklift Drivers,4.0,Not short now,0,-0.1,69085.0,32,0.46,198
+2724,Social Professionals,1.0,Not short now,0,11.6,15797.0,7,0.44,199
+7119,Other Machine Operators,4.0,Not short now,0,3.7,13647.0,6,0.44,199
+2514,Optometrists and Orthoptists,1.0,Not short now,0,18.0,10047.0,4,0.4,201
+2113,Photographers,2.0,Not short now,0,6.0,15231.0,6,0.39,202
+4513,Funeral Workers,2.0,Not short now,0,4.0,5123.0,2,0.39,202
+7219,Other Mobile Plant Operators,4.0,Not short now,0,-0.6,13762.0,5,0.36,204
+2121,"Artistic Directors, and Media Producers and Presenters",1.0,Not short now,0,9.7,14329.0,5,0.35,205
+2521,Chiropractors and Osteopaths,1.0,Short now,1,20.1,8936.0,3,0.34,206
+2542,Nurse Educators and Researchers,1.0,Not short now,0,11.7,8826.0,3,0.34,206
+3621,Florists,3.0,Not short now,0,1.1,5895.0,2,0.34,206
+1412,Caravan Park and Camping Ground Managers,2.0,Not short now,0,0.1,3212.0,1,0.31,209
+2422,Vocational Education Teachers,1.0,Short now,1,9.0,35244.0,11,0.31,209
+7129,Other Stationary Plant Operators,4.0,Not short now,0,3.0,25455.0,8,0.31,209
+1491,"Amusement, Fitness and Sports Centre Managers",2.0,Not short now,0,5.7,19703.0,6,0.3,212
+2726,"Welfare, Recreation and Community Arts Workers",1.0,Not short now,0,13.7,40451.0,12,0.3,212
+3623,Greenkeepers,2.0,Not short now,0,1.9,13249.0,4,0.3,212
+1341,Child Care Centre Managers,1.0,Not short now,0,9.0,18859.0,5,0.27,215
+4311,Bar Attendants and Baristas,4.0,Not short now,0,5.2,120351.0,33,0.27,215
+8219,Other Construction and Mining Labourers,4.0,Not short now,0,-0.4,7896.0,2,0.25,217
+2543,Nurse Managers,1.0,Not short now,0,13.6,21871.0,5,0.23,218
+5999,Other Miscellaneous Clerical and Administrative Workers,3.0,Not short now,0,4.1,21864.0,5,0.23,218
+4315,Waiters,4.0,Not short now,0,5.2,126494.0,28,0.22,220
+2112,Music Professionals,1.0,Not short now,0,5.0,10659.0,2,0.19,221
+4524,Sportspersons,3.0,Not short now,0,6.4,16084.0,3,0.19,221
+1212,Crop Farmers,1.0,Not short now,0,-0.8,33157.0,6,0.18,223
+4512,Driving Instructors,3.0,Not short now,0,3.0,6661.0,1,0.15,224
+8116,Other Cleaners,4.0,Not short now,0,0.1,13395.0,2,0.15,224
+3126,Safety Inspectors,2.0,Not short now,0,5.4,7383.0,1,0.14,226
+7122,"Drillers, Miners and Shot Firers",4.0,Short now,1,3.8,64127.0,9,0.14,226
+2111,"Actors, Dancers and Other Entertainers",1.0,Not short now,0,5.2,7887.0,1,0.13,228
+3932,Clothing Trades Workers,3.0,Not short now,0,3.8,7959.0,1,0.13,228
+7121,"Crane, Hoist and Lift Operators",4.0,Short now,1,3.6,15241.0,2,0.13,228
+4422,Security Officers and Guards,3.0,Not short now,0,5.5,65264.0,8,0.12,231
+8412,Crop Farm Workers,5.0,Not short now,0,0.1,24000.0,3,0.12,231
+2711,Barristers,1.0,Not short now,0,11.7,8715.0,1,0.11,233
+6121,Real Estate Sales Agents,2.0,Not short now,0,7.6,114371.0,13,0.11,233
+2242,"Archivists, Curators and Records Managers",1.0,Not short now,0,17.3,10213.0,1,0.1,235
+5122,Practice Managers,2.0,Not short now,0,8.1,31015.0,3,0.1,235
+5991,Conveyancers and Legal Executives,2.0,Not short now,0,3.2,19330.0,2,0.1,235
+2491,Education Advisers and Reviewers,1.0,Not short now,0,6.8,25423.0,2,0.08,238
+7321,Delivery Drivers,4.0,Not short now,0,13.1,91596.0,7,0.08,238
+1343,School Principals,1.0,Not short now,0,8.3,28969.0,2,0.07,240
+5511,Accounting Clerks,4.0,Not short now,0,1.3,138663.0,10,0.07,240
+4412,Fire and Emergency Workers,3.0,Not short now,0,6.3,17137.0,1,0.06,242
+5211,Personal Assistants,2.0,Not short now,0,-7.7,49827.0,3,0.06,242
+5512,Bookkeepers,3.0,Not short now,0,1.3,88258.0,5,0.06,242
+7411,Storepersons,4.0,Not short now,0,7.2,175683.0,11,0.06,242
+5421,Receptionists,4.0,Not short now,0,2.1,190051.0,9,0.05,246
+5522,Credit and Loans Officers,3.0,Not short now,0,2.6,36433.0,2,0.05,246
+6113,Sales Representatives,4.0,Not short now,0,0.0,76535.0,4,0.05,246
+1214,Mixed Crop and Livestock Farmers,1.0,Not short now,0,-2.7,27586.0,1,0.04,249
+5311,General Clerks,4.0,Not short now,0,11.3,297907.0,11,0.04,249
+7123,Engineering Production Workers,4.0,Not short now,0,6.3,23027.0,1,0.04,249
+2346,Medical Laboratory Scientists,1.0,Not short now,0,12.7,32346.0,1,0.03,252
+2244,Intelligence and Policy Analysts,1.0,Not short now,0,16.0,45428.0,1,0.02,253
+5513,Payroll Clerks,4.0,Not short now,0,1.0,52311.0,1,0.02,253
+5911,Purchasing and Supply Logistics Clerks,4.0,Not short now,0,5.4,117522.0,2,0.02,253
+5995,Inspectors and Regulatory Officers,4.0,Not short now,0,3.1,47488.0,1,0.02,253
+1333,"Importers, Exporters and Wholesalers",1.0,Not short now,0,8.3,18648.0,0,0.0,257
+1334,Manufacturers,1.0,Not short now,0,10.1,21678.0,0,0.0,257
+2114,Visual Arts and Crafts Professionals,1.0,Not short now,0,5.6,12283.0,0,0.0,257
+2122,"Authors, and Book and Script Editors",1.0,Not short now,0,9.5,6035.0,0,0.0,257
+2246,Librarians,1.0,Not short now,0,15.7,11259.0,0,0.0,257
+3612,Shearers,3.0,Not short now,0,3.4,2122.0,0,0.0,257
+3993,"Gallery, Library and Museum Technicians",2.0,Not short now,0,3.0,7020.0,0,0.0,257
+3994,Jewellers,3.0,Short now,1,8.3,4606.0,0,0.0,257
+4115,Indigenous Health Workers,2.0,Short now,1,10.0,1193.0,0,0.0,257
+4221,Education Aides,4.0,Not short now,0,5.0,134653.0,0,0.0,257
+4234,Special Care Workers,3.0,Not short now,0,7.9,4156.0,0,0.0,257
+4313,Gaming Workers,4.0,Not short now,0,5.1,5343.0,0,0.0,257
+4413,Police,2.0,Not short now,0,6.2,67454.0,0,0.0,257
+4421,Prison Officers,4.0,Not short now,0,5.3,18553.0,0,0.0,257
+4515,Personal Care Consultants,4.0,Not short now,0,10.8,4669.0,0,0.0,257
+4517,Travel Attendants,3.0,Short now,1,4.4,9999.0,0,0.0,257
+4521,Fitness Instructors,4.0,Not short now,0,6.4,35273.0,0,0.0,257
+4522,Outdoor Adventure Guides,2.0,Short now,1,5.9,4054.0,0,0.0,257
+5321,Keyboard Operators,4.0,Not short now,0,-6.0,46343.0,0,0.0,257
+5411,Call or Contact Centre Workers,3.0,Not short now,0,3.2,32172.0,0,0.0,257
+5412,Information Officers,4.0,Not short now,0,3.5,81828.0,0,0.0,257
+5521,Bank Workers,3.0,Not short now,0,2.3,42302.0,0,0.0,257
+5523,"Insurance, Money Market and Statistical Clerks",4.0,Not short now,0,2.3,40652.0,0,0.0,257
+5912,Transport and Despatch Clerks,4.0,Not short now,0,5.0,46458.0,0,0.0,257
+5992,Court and Legal Clerks,3.0,Not short now,0,3.2,21032.0,0,0.0,257
+5993,Debt Collectors,4.0,Not short now,0,2.6,6915.0,0,0.0,257
+5994,Human Resource Clerks,4.0,Not short now,0,4.3,23483.0,0,0.0,257
+5997,Library Assistants,4.0,Not short now,0,2.4,7048.0,0,0.0,257
+6111,"Auctioneers, and Stock and Station Agents",3.0,Not short now,0,0.1,2682.0,0,0.0,257
+6213,Motor Vehicle and Vehicle Parts Salespersons,4.0,Not short now,0,2.9,35976.0,0,0.0,257
+6214,Pharmacy Sales Assistants,5.0,Not short now,0,2.4,42513.0,0,0.0,257
+6395,Visual Merchandisers,4.0,Not short now,0,0.3,8234.0,0,0.0,257
+6399,Other Sales Support Workers,4.0,Not short now,0,0.0,7272.0,0,0.0,257
+7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",4.0,Not short now,0,1.6,2519.0,0,0.0,257
+7112,Industrial Spraypainters,4.0,Short now,1,1.6,6283.0,0,0.0,257
+7113,Paper and Wood Processing Machine Operators,4.0,Short now,1,-1.6,6154.0,0,0.0,257
+7114,Photographic Developers and Printers,4.0,Not short now,0,0.2,933.0,0,0.0,257
+7116,Sewing Machinists,4.0,Not short now,0,2.1,6048.0,0,0.0,257
+7311,Automobile Drivers,4.0,Not short now,0,3.9,55040.0,0,0.0,257
+7313,Train and Tram Drivers,4.0,Short now,1,3.2,17539.0,0,0.0,257
+8213,Fencers,4.0,Not short now,0,1.8,13854.0,0,0.0,257
+8214,Insulation and Home Improvement Installers,4.0,Not short now,0,3.0,27349.0,0,0.0,257
+8216,Railway Track Workers,4.0,Short now,1,-1.5,5764.0,0,0.0,257
+8312,"Meat Boners and Slicers, and Slaughterers",4.0,Not short now,0,-5.6,5602.0,0,0.0,257
+8393,Product Quality Controllers,4.0,Not short now,0,-1.7,11527.0,0,0.0,257
+8413,Forestry and Logging Workers,4.0,Not short now,0,0.7,2144.0,0,0.0,257
+8415,Livestock Farm Workers,5.0,Not short now,0,-2.3,28346.0,0,0.0,257
+8995,Printing Assistants and Table Workers,4.0,Not short now,0,-4.4,2522.0,0,0.0,257

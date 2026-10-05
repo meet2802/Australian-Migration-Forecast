@@ -1,0 +1,21 @@
+population,arrival_group,participation_pct,employment_to_population_pct,unemployment_rate_pct,employed,median_total_income_aud,receiving_unemployment_payments_pct,higher_education_qualification_pct,proficient_english_pct,home_owner_pct,renting_pct,rent_over_30pct_of_income_pct,australian_citizen_pct
+Permanent Skilled migrants,Arrived within 5 years,81.6,76.0,6.8,107270.0,80417.0,0.1,80.4,94.0,35.9,63.5,15.4,4.1
+Permanent Skilled migrants,5-10 years since arrival,85.6,81.7,4.6,302010.0,84368.0,0.9,74.6,96.8,57.6,41.8,15.2,52.8
+Permanent Skilled migrants,More than 10 years since arrival,86.5,83.0,4.1,833010.0,83783.0,2.4,70.5,96.6,74.2,25.1,22.8,79.9
+Permanent Skilled migrants,Total,85.6,81.8,4.5,1257020.0,83466.0,1.7,71.8,96.2,65.3,34.1,19.1,64.3
+Permanent Family migrants,Arrived within 5 years,64.4,56.9,11.5,68300.0,47216.0,0.5,52.9,76.2,51.0,47.5,29.1,4.2
+Permanent Family migrants,5-10 years since arrival,72.0,66.9,7.0,149180.0,56338.0,2.8,53.3,81.3,59.5,39.0,31.5,34.0
+Permanent Family migrants,More than 10 years since arrival,76.4,72.1,5.6,330340.0,63514.0,6.7,54.1,84.8,68.7,29.9,37.5,66.4
+Permanent Family migrants,Total,73.2,68.2,6.8,557100.0,58926.0,4.6,53.0,82.4,63.2,35.4,34.0,47.7
+Permanent Humanitarian migrants,Arrived within 5 years,34.1,24.6,27.6,8510.0,29010.0,41.3,13.9,55.8,10.0,89.4,55.5,4.5
+Permanent Humanitarian migrants,5-10 years since arrival,47.1,39.3,16.7,22520.0,40720.0,19.4,17.3,66.9,30.1,69.1,45.9,42.4
+Permanent Humanitarian migrants,More than 10 years since arrival,62.2,54.6,12.3,71400.0,49761.0,15.9,28.6,77.2,50.9,48.2,39.8,89.3
+Permanent Humanitarian migrants,Total,54.0,46.0,14.8,105510.0,43910.0,20.6,23.1,70.8,37.5,61.7,46.3,61.3
+Total permanent migrants,Arrived within 5 years,69.0,62.3,9.8,184090.0,61947.0,4.3,61.4,82.3,38.3,60.8,27.0,4.2
+Total permanent migrants,5-10 years since arrival,77.5,72.9,6.0,473740.0,70577.0,3.0,62.2,88.6,55.6,43.5,24.8,45.4
+Total permanent migrants,More than 10 years since arrival,81.6,77.5,5.0,1235570.0,72969.0,5.0,62.3,91.4,70.6,28.5,29.9,76.6
+Total permanent migrants,Total,78.8,74.3,5.8,1920520.0,70762.0,4.3,61.5,89.4,62.0,37.1,27.7,58.7
+Total population,Arrived within 5 years,71.9,65.7,8.6,542900.0,,,60.3,85.4,27.9,71.0,25.1,5.8
+Total population,5-10 years since arrival,77.2,72.3,6.3,650100.0,,,60.6,89.4,47.4,51.5,25.7,35.9
+Total population,More than 10 years since arrival,78.4,74.5,4.9,2466210.0,,,52.6,91.3,74.7,23.8,33.7,80.3
+Total population,Total,77.9,73.9,5.2,11457300.0,64897.0,6.2,38.8,96.4,68.6,29.9,30.4,88.4

@@ -1,0 +1,16 @@
+# Raw downloads stay out of the repository (data_inventory.csv lists each one)
+/*.xlsx
+/*.xls
+/*.zip
+/*.pdf
+/*.csv
+!/data_inventory.csv
+/*.txt
+
+# Python and Node
+__pycache__/
+*.pyc
+node_modules/
+
+# macOS
+.DS_Store

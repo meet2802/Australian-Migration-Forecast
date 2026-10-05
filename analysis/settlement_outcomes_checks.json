@@ -1,0 +1,81 @@
+{
+ "files_written": {
+  "abs_migrant_settlement_outcomes.csv": "abs_migrant_settlement_outcomes.csv",
+  "abs_migrant_settlement_outcomes_footnotes.csv": "abs_migrant_settlement_outcomes_footnotes.csv",
+  "migrant_outcomes_by_stream.csv": "migrant_outcomes_by_stream.csv"
+ },
+ "tables_parsed": [
+  "Table 1",
+  "Table 2a",
+  "Table 2b",
+  "Table 3a",
+  "Table 3b",
+  "Table 3c",
+  "Table 3d",
+  "Table 4",
+  "Table 5a",
+  "Table 5b",
+  "Table 6"
+ ],
+ "populations": [
+  "Permanent Skilled migrants",
+  "Permanent Family migrants",
+  "Permanent Humanitarian migrants",
+  "Total permanent migrants",
+  "Total population"
+ ],
+ "states": [
+  "ACT",
+  "AUS",
+  "NSW",
+  "NT",
+  "QLD",
+  "SA",
+  "TAS",
+  "VIC",
+  "WA"
+ ],
+ "value_notes": {
+  "na": 2610,
+  "np": 379
+ },
+ "employed_states_sum_vs_australia_pct (Other Territories in Australia only)": {
+  "Permanent Skilled migrants": -0.0,
+  "Permanent Family migrants": -0.02,
+  "Permanent Humanitarian migrants": -0.01,
+  "Total permanent migrants": -0.01,
+  "Total population": -0.02
+ },
+ "australia_total_arrivals": {
+  "Permanent Skilled migrants": {
+   "employment_to_population_pct": 81.8,
+   "unemployment_rate_pct": 4.5,
+   "median_total_income_aud": 83466.0
+  },
+  "Permanent Family migrants": {
+   "employment_to_population_pct": 68.2,
+   "unemployment_rate_pct": 6.8,
+   "median_total_income_aud": 58926.0
+  },
+  "Permanent Humanitarian migrants": {
+   "employment_to_population_pct": 46.0,
+   "unemployment_rate_pct": 14.8,
+   "median_total_income_aud": 43910.0
+  },
+  "Total permanent migrants": {
+   "employment_to_population_pct": 74.3,
+   "unemployment_rate_pct": 5.8,
+   "median_total_income_aud": 70762.0
+  },
+  "Total population": {
+   "employment_to_population_pct": 73.9,
+   "unemployment_rate_pct": 5.2,
+   "median_total_income_aud": 64897.0
+  }
+ },
+ "rows": {
+  "abs_migrant_settlement_outcomes.csv": 35820,
+  "abs_migrant_settlement_outcomes_footnotes.csv": 78,
+  "migrant_outcomes_by_stream.csv": 20
+ }
+}

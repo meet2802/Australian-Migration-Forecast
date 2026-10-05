@@ -1,0 +1,30 @@
+{
+ "divisions_in_projections": 19,
+ "projection_total_may2025": 14700990.0,
+ "table5_level1_matches_table1": true,
+ "all_industries_growth_5y_pct": 6.54,
+ "industry_profiles_sum_of_divisions_feb2026": 14783100.0,
+ "visa_reference": {
+  "grants_fy": "2025-26",
+  "grants_prev_fy": "2024-25",
+  "holders_snapshot": "2026-06-30",
+  "holders_prev": "2025-06-30"
+ },
+ "visa_grants_primary_total_check": [
+  69335,
+  69335
+ ],
+ "sponsor_industry_labels_not_matched": [
+  "Not Specified"
+ ],
+ "rows": {
+  "jsa_projections_industry_division.csv": 19,
+  "jsa_projections_industry_group.csv": 416,
+  "jsa_industry_overview_feb2026.csv": 20,
+  "jsa_industry_employment_quarterly.csv": 1539,
+  "jsa_industry_employment_by_sector_feb2026.csv": 214,
+  "jsa_industry_top_occupations.csv": 190,
+  "sector_skills_national.csv": 20,
+  "sector_skills_state.csv": 158
+ }
+}

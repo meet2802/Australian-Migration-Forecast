@@ -1,0 +1,793 @@
+state,sa4_code,sa4_name,region_type,major,occupation_group,employed_latest,employed_1y_ago,employed_5y_ago,change_1y_pct,change_5y_pct,employed_in_shortage_occupations,share_in_shortage_occupations_pct,visa_grants_primary,visa_holders_primary,visa_holders_per_1000_workers,job_ads_latest,job_ads_year_ago,job_ads_per_1000_workers,job_ads_change_12m_pct
+NSW,101,Capital Region,Rest of state,1,Managers,18991,19048,18111,-0.3,4.9,1657,8.7,38,86,4.53,97.0,97.0,5.11,0.0
+NSW,101,Capital Region,Rest of state,2,Professionals,23437,23789,22608,-1.5,3.7,10452,44.6,137,365,15.57,580.0,348.0,24.75,66.7
+NSW,101,Capital Region,Rest of state,3,Technicians and Trades Workers,20367,20139,17615,1.1,15.6,15385,75.5,214,559,27.45,188.0,164.0,9.23,14.6
+NSW,101,Capital Region,Rest of state,4,Community and Personal Service Workers,15307,15196,13811,0.7,10.8,6453,42.2,47,165,10.78,173.0,135.0,11.3,28.1
+NSW,101,Capital Region,Rest of state,5,Clerical and Administrative Workers,18340,18016,15850,1.8,15.7,0,0.0,7,11,0.6,113.0,104.0,6.16,8.7
+NSW,101,Capital Region,Rest of state,6,Sales Workers,10185,10128,9600,0.6,6.1,0,0.0,0,0,0.0,73.0,73.0,7.17,0.0
+NSW,101,Capital Region,Rest of state,7,Machinery Operators and Drivers,6523,6419,6267,1.6,4.1,3928,60.2,7,9,1.38,77.0,62.0,11.8,24.2
+NSW,101,Capital Region,Rest of state,8,Labourers,11330,11228,11502,0.9,-1.5,237,2.1,5,15,1.32,91.0,100.0,8.03,-9.0
+NSW,101,Capital Region,Rest of state,All,All occupations,124480,123963,115364,0.4,7.9,38112,30.6,476,1318,10.59,1393.0,1083.0,11.19,28.6
+NSW,102,Central Coast,Capital city,1,Managers,20792,20988,19405,-0.9,7.1,1512,7.3,16,43,2.07,,,,
+NSW,102,Central Coast,Capital city,2,Professionals,39013,38327,33193,1.8,17.5,18755,48.1,150,226,5.79,,,,
+NSW,102,Central Coast,Capital city,3,Technicians and Trades Workers,26619,26208,23706,1.6,12.3,17560,66.0,127,339,12.74,,,,
+NSW,102,Central Coast,Capital city,4,Community and Personal Service Workers,22320,22505,21736,-0.8,2.7,9677,43.4,58,99,4.44,,,,
+NSW,102,Central Coast,Capital city,5,Clerical and Administrative Workers,22091,21666,22181,2.0,-0.4,0,0.0,4,5,0.23,,,,
+NSW,102,Central Coast,Capital city,6,Sales Workers,14010,14189,13722,-1.3,2.1,0,0.0,1,3,0.21,,,,
+NSW,102,Central Coast,Capital city,7,Machinery Operators and Drivers,9898,9913,9437,-0.2,4.9,3851,38.9,0,0,0.0,,,,
+NSW,102,Central Coast,Capital city,8,Labourers,16778,16658,16371,0.7,2.5,666,4.0,1,1,0.06,,,,
+NSW,102,Central Coast,Capital city,All,All occupations,171521,170454,159751,0.6,7.4,52021,30.3,357,716,4.17,,,,
+NSW,103,Central West,Rest of state,1,Managers,15434,15538,19603,-0.7,-21.3,904,5.9,40,83,5.38,111.0,103.0,7.19,7.8
+NSW,103,Central West,Rest of state,2,Professionals,20603,20788,18574,-0.9,10.9,12296,59.7,131,249,12.09,477.0,368.0,23.15,29.6
+NSW,103,Central West,Rest of state,3,Technicians and Trades Workers,18532,17679,15129,4.8,22.5,13668,73.8,176,417,22.5,204.0,206.0,11.01,-1.0
+NSW,103,Central West,Rest of state,4,Community and Personal Service Workers,15031,14764,12686,1.8,18.5,5803,38.6,57,143,9.51,165.0,159.0,10.98,3.8
+NSW,103,Central West,Rest of state,5,Clerical and Administrative Workers,13486,14022,13507,-3.8,-0.2,0,0.0,4,7,0.52,129.0,129.0,9.57,0.0
+NSW,103,Central West,Rest of state,6,Sales Workers,9742,9428,7696,3.3,26.6,0,0.0,1,3,0.31,93.0,88.0,9.55,5.7
+NSW,103,Central West,Rest of state,7,Machinery Operators and Drivers,8896,9317,8984,-4.5,-1.0,6106,68.6,9,13,1.46,126.0,91.0,14.16,38.5
+NSW,103,Central West,Rest of state,8,Labourers,13527,13252,11979,2.1,12.9,148,1.1,0,2,0.15,101.0,104.0,7.47,-2.9
+NSW,103,Central West,Rest of state,All,All occupations,115251,114788,108158,0.4,6.6,38925,33.8,426,931,8.08,1406.0,1247.0,12.2,12.8
+NSW,104,Coffs Harbour - Grafton,Rest of state,1,Managers,8553,8267,7439,3.5,15.0,551,6.4,3,16,1.87,59.0,50.0,6.9,18.0
+NSW,104,Coffs Harbour - Grafton,Rest of state,2,Professionals,11946,12128,10686,-1.5,11.8,8006,67.0,111,172,14.4,372.0,257.0,31.14,44.7
+NSW,104,Coffs Harbour - Grafton,Rest of state,3,Technicians and Trades Workers,10353,10218,9464,1.3,9.4,8411,81.2,62,139,13.43,85.0,90.0,8.21,-5.6
+NSW,104,Coffs Harbour - Grafton,Rest of state,4,Community and Personal Service Workers,10780,10673,7670,1.0,40.5,5321,49.4,18,65,6.03,125.0,106.0,11.6,17.9
+NSW,104,Coffs Harbour - Grafton,Rest of state,5,Clerical and Administrative Workers,7880,7821,8452,0.8,-6.8,0,0.0,2,3,0.38,77.0,82.0,9.77,-6.1
+NSW,104,Coffs Harbour - Grafton,Rest of state,6,Sales Workers,5365,5376,5848,-0.2,-8.3,0,0.0,0,0,0.0,64.0,68.0,11.93,-5.9
+NSW,104,Coffs Harbour - Grafton,Rest of state,7,Machinery Operators and Drivers,2806,2786,2772,0.7,1.2,1853,66.0,0,0,0.0,38.0,36.0,13.54,5.6
+NSW,104,Coffs Harbour - Grafton,Rest of state,8,Labourers,8256,8240,8584,0.2,-3.8,198,2.4,1,1,0.12,52.0,57.0,6.3,-8.8
+NSW,104,Coffs Harbour - Grafton,Rest of state,All,All occupations,65939,65509,60915,0.7,8.2,24340,36.9,202,405,6.14,871.0,745.0,13.21,16.9
+NSW,105,Far West and Orana,Rest of state,1,Managers,7061,7077,8087,-0.2,-12.7,367,5.2,29,49,6.94,72.0,66.0,10.2,9.1
+NSW,105,Far West and Orana,Rest of state,2,Professionals,9414,9949,9055,-5.4,4.0,6291,66.8,69,143,15.19,350.0,284.0,37.18,23.2
+NSW,105,Far West and Orana,Rest of state,3,Technicians and Trades Workers,9174,9096,7759,0.9,18.2,7437,81.1,137,281,30.63,121.0,123.0,13.19,-1.6
+NSW,105,Far West and Orana,Rest of state,4,Community and Personal Service Workers,10074,9879,8313,2.0,21.2,5043,50.1,47,160,15.88,125.0,119.0,12.41,5.0
+NSW,105,Far West and Orana,Rest of state,5,Clerical and Administrative Workers,6389,6493,7038,-1.6,-9.2,0,0.0,6,16,2.5,87.0,98.0,13.62,-11.2
+NSW,105,Far West and Orana,Rest of state,6,Sales Workers,4418,4196,3890,5.3,13.6,0,0.0,0,1,0.23,71.0,59.0,16.07,20.3
+NSW,105,Far West and Orana,Rest of state,7,Machinery Operators and Drivers,4185,4189,3759,-0.1,11.3,3242,77.5,10,26,6.21,96.0,86.0,22.94,11.6
+NSW,105,Far West and Orana,Rest of state,8,Labourers,5125,5072,6056,1.0,-15.4,102,2.0,5,16,3.12,61.0,63.0,11.9,-3.2
+NSW,105,Far West and Orana,Rest of state,All,All occupations,55840,55951,53957,-0.2,3.5,22482,40.3,381,863,15.45,984.0,899.0,17.62,9.5
+NSW,106,Hunter Valley exc Newcastle,Rest of state,1,Managers,16820,16848,16910,-0.2,-0.5,1015,6.0,23,54,3.21,182.0,169.0,10.82,7.7
+NSW,106,Hunter Valley exc Newcastle,Rest of state,2,Professionals,27842,27280,24722,2.1,12.6,15766,56.6,125,202,7.26,555.0,579.0,19.93,-4.1
+NSW,106,Hunter Valley exc Newcastle,Rest of state,3,Technicians and Trades Workers,24882,25181,23034,-1.2,8.0,18411,74.0,194,532,21.38,335.0,343.0,13.46,-2.3
+NSW,106,Hunter Valley exc Newcastle,Rest of state,4,Community and Personal Service Workers,19804,20064,15470,-1.3,28.0,9575,48.3,35,76,3.84,248.0,240.0,12.52,3.3
+NSW,106,Hunter Valley exc Newcastle,Rest of state,5,Clerical and Administrative Workers,19197,18959,17873,1.3,7.4,0,0.0,2,2,0.1,213.0,232.0,11.1,-8.2
+NSW,106,Hunter Valley exc Newcastle,Rest of state,6,Sales Workers,12467,12207,11074,2.1,12.6,0,0.0,0,0,0.0,145.0,153.0,11.63,-5.2
+NSW,106,Hunter Valley exc Newcastle,Rest of state,7,Machinery Operators and Drivers,13678,12979,11624,5.4,17.7,9386,68.6,0,0,0.0,131.0,130.0,9.58,0.8
+NSW,106,Hunter Valley exc Newcastle,Rest of state,8,Labourers,15276,14767,13014,3.4,17.4,412,2.7,0,3,0.2,156.0,168.0,10.21,-7.1
+NSW,106,Hunter Valley exc Newcastle,Rest of state,All,All occupations,149966,148285,133721,1.1,12.1,54565,36.4,443,1055,7.03,1964.0,2015.0,13.1,-2.5
+NSW,107,Illawarra,Rest of state,1,Managers,19055,18965,17526,0.5,8.7,1121,5.9,20,36,1.89,101.0,113.0,5.3,-10.6
+NSW,107,Illawarra,Rest of state,2,Professionals,41764,42400,38856,-1.5,7.5,20245,48.5,142,244,5.84,431.0,406.0,10.32,6.2
+NSW,107,Illawarra,Rest of state,3,Technicians and Trades Workers,24054,23675,21060,1.6,14.2,18638,77.5,132,343,14.26,223.0,192.0,9.27,16.1
+NSW,107,Illawarra,Rest of state,4,Community and Personal Service Workers,23549,23959,18752,-1.7,25.6,11616,49.3,22,112,4.76,187.0,198.0,7.94,-5.6
+NSW,107,Illawarra,Rest of state,5,Clerical and Administrative Workers,21114,21108,21368,0.0,-1.2,0,0.0,1,1,0.05,161.0,181.0,7.63,-11.0
+NSW,107,Illawarra,Rest of state,6,Sales Workers,13321,12740,12638,4.6,5.4,0,0.0,1,2,0.15,110.0,117.0,8.26,-6.0
+NSW,107,Illawarra,Rest of state,7,Machinery Operators and Drivers,11379,10548,9506,7.9,19.7,6445,56.6,0,0,0.0,63.0,61.0,5.54,3.3
+NSW,107,Illawarra,Rest of state,8,Labourers,14299,13700,12652,4.4,13.0,837,5.9,0,4,0.28,87.0,88.0,6.08,-1.1
+NSW,107,Illawarra,Rest of state,All,All occupations,168535,167095,152358,0.9,10.6,58902,34.9,318,742,4.4,1362.0,1355.0,8.08,0.5
+NSW,108,Mid North Coast,Rest of state,1,Managers,12454,12272,10986,1.5,13.4,903,7.3,15,32,2.57,107.0,105.0,8.59,1.9
+NSW,108,Mid North Coast,Rest of state,2,Professionals,18291,18260,17275,0.2,5.9,11095,60.7,99,209,11.43,707.0,480.0,38.65,47.3
+NSW,108,Mid North Coast,Rest of state,3,Technicians and Trades Workers,17518,17037,15164,2.8,15.5,13961,79.7,93,222,12.67,138.0,141.0,7.88,-2.1
+NSW,108,Mid North Coast,Rest of state,4,Community and Personal Service Workers,14787,15188,13082,-2.6,13.0,7511,50.8,54,87,5.88,196.0,181.0,13.25,8.3
+NSW,108,Mid North Coast,Rest of state,5,Clerical and Administrative Workers,11770,11820,12084,-0.4,-2.6,0,0.0,1,2,0.17,126.0,140.0,10.71,-10.0
+NSW,108,Mid North Coast,Rest of state,6,Sales Workers,9017,8882,7549,1.5,19.4,0,0.0,0,0,0.0,96.0,101.0,10.65,-5.0
+NSW,108,Mid North Coast,Rest of state,7,Machinery Operators and Drivers,5034,5135,5692,-2.0,-11.6,2855,56.7,0,0,0.0,59.0,58.0,11.72,1.7
+NSW,108,Mid North Coast,Rest of state,8,Labourers,11272,10798,10092,4.4,11.7,1138,10.1,0,0,0.0,101.0,118.0,8.96,-14.4
+NSW,108,Mid North Coast,Rest of state,All,All occupations,100143,99392,91924,0.8,8.9,37463,37.4,270,565,5.64,1530.0,1325.0,15.28,15.5
+NSW,109,Murray,Rest of state,1,Managers,9238,9407,10183,-1.8,-9.3,543,5.9,18,33,3.57,96.0,82.0,10.39,17.1
+NSW,109,Murray,Rest of state,2,Professionals,10188,10574,10061,-3.7,1.3,6021,59.1,78,179,17.57,316.0,299.0,31.02,5.7
+NSW,109,Murray,Rest of state,3,Technicians and Trades Workers,10389,10054,9303,3.3,11.7,8724,84.0,149,307,29.55,138.0,128.0,13.28,7.8
+NSW,109,Murray,Rest of state,4,Community and Personal Service Workers,8662,8620,7514,0.5,15.3,3673,42.4,32,83,9.58,118.0,126.0,13.62,-6.3
+NSW,109,Murray,Rest of state,5,Clerical and Administrative Workers,8341,8598,7809,-3.0,6.8,0,0.0,1,2,0.24,112.0,102.0,13.43,9.8
+NSW,109,Murray,Rest of state,6,Sales Workers,6406,6200,5449,3.3,17.6,0,0.0,0,0,0.0,77.0,66.0,12.02,16.7
+NSW,109,Murray,Rest of state,7,Machinery Operators and Drivers,5487,5283,4767,3.9,15.1,2922,53.3,5,5,0.91,64.0,59.0,11.66,8.5
+NSW,109,Murray,Rest of state,8,Labourers,7330,7035,6896,4.2,6.3,51,0.7,0,100,13.64,72.0,73.0,9.82,-1.4
+NSW,109,Murray,Rest of state,All,All occupations,66041,65771,61982,0.4,6.5,21934,33.2,338,851,12.89,992.0,937.0,15.02,5.9
+NSW,110,New England and North West,Rest of state,1,Managers,18677,19142,19662,-2.4,-5.0,872,4.7,19,31,1.66,110.0,100.0,5.89,10.0
+NSW,110,New England and North West,Rest of state,2,Professionals,16156,16048,14008,0.7,15.3,9647,59.7,113,188,11.64,738.0,543.0,45.68,35.9
+NSW,110,New England and North West,Rest of state,3,Technicians and Trades Workers,12069,11659,9860,3.5,22.4,9615,79.7,156,349,28.92,152.0,185.0,12.59,-17.8
+NSW,110,New England and North West,Rest of state,4,Community and Personal Service Workers,12192,12132,10067,0.5,21.1,4471,36.7,57,135,11.07,118.0,142.0,9.68,-16.9
+NSW,110,New England and North West,Rest of state,5,Clerical and Administrative Workers,11082,10990,9382,0.8,18.1,0,0.0,2,3,0.27,98.0,120.0,8.84,-18.3
+NSW,110,New England and North West,Rest of state,6,Sales Workers,8016,8662,6556,-7.5,22.3,0,0.0,0,6,0.75,84.0,96.0,10.48,-12.5
+NSW,110,New England and North West,Rest of state,7,Machinery Operators and Drivers,8642,8283,8305,4.3,4.1,6068,70.2,2,2,0.23,73.0,93.0,8.45,-21.5
+NSW,110,New England and North West,Rest of state,8,Labourers,11337,10774,10460,5.2,8.4,152,1.3,0,0,0.0,97.0,121.0,8.56,-19.8
+NSW,110,New England and North West,Rest of state,All,All occupations,98171,97690,88300,0.5,11.2,30825,31.4,411,974,9.92,1471.0,1400.0,14.98,5.1
+NSW,111,Newcastle and Lake Macquarie,Rest of state,1,Managers,23508,23463,21764,0.2,8.0,1738,7.4,18,51,2.17,253.0,240.0,10.76,5.4
+NSW,111,Newcastle and Lake Macquarie,Rest of state,2,Professionals,61175,60473,54656,1.2,11.9,31857,52.1,273,407,6.65,764.0,779.0,12.49,-1.9
+NSW,111,Newcastle and Lake Macquarie,Rest of state,3,Technicians and Trades Workers,30272,30584,27253,-1.0,11.1,22929,75.7,193,500,16.52,435.0,460.0,14.37,-5.4
+NSW,111,Newcastle and Lake Macquarie,Rest of state,4,Community and Personal Service Workers,28266,28778,22467,-1.8,25.8,14017,49.6,39,95,3.36,359.0,381.0,12.7,-5.8
+NSW,111,Newcastle and Lake Macquarie,Rest of state,5,Clerical and Administrative Workers,26802,26361,26497,1.7,1.2,0,0.0,4,5,0.19,308.0,356.0,11.49,-13.5
+NSW,111,Newcastle and Lake Macquarie,Rest of state,6,Sales Workers,20189,19717,18327,2.4,10.2,0,0.0,3,5,0.25,211.0,218.0,10.45,-3.2
+NSW,111,Newcastle and Lake Macquarie,Rest of state,7,Machinery Operators and Drivers,12189,11824,11782,3.1,3.5,6441,52.8,0,0,0.0,156.0,170.0,12.8,-8.2
+NSW,111,Newcastle and Lake Macquarie,Rest of state,8,Labourers,17046,16372,15726,4.1,8.4,625,3.7,0,0,0.0,208.0,230.0,12.2,-9.6
+NSW,111,Newcastle and Lake Macquarie,Rest of state,All,All occupations,219447,217572,198472,0.9,10.6,77607,35.4,530,1068,4.87,2693.0,2834.0,12.27,-5.0
+NSW,112,Richmond - Tweed,Rest of state,1,Managers,15756,15734,15616,0.1,0.9,1167,7.4,25,84,5.33,115.0,117.0,7.3,-1.7
+NSW,112,Richmond - Tweed,Rest of state,2,Professionals,30250,30275,25285,-0.1,19.6,15861,52.4,269,371,12.26,422.0,408.0,13.95,3.4
+NSW,112,Richmond - Tweed,Rest of state,3,Technicians and Trades Workers,18574,17973,16780,3.3,10.7,14334,77.2,156,348,18.74,170.0,190.0,9.15,-10.5
+NSW,112,Richmond - Tweed,Rest of state,4,Community and Personal Service Workers,17561,17982,15614,-2.3,12.5,7352,41.9,127,194,11.05,204.0,243.0,11.62,-16.0
+NSW,112,Richmond - Tweed,Rest of state,5,Clerical and Administrative Workers,14654,14066,14645,4.2,0.1,0,0.0,5,4,0.27,167.0,175.0,11.4,-4.6
+NSW,112,Richmond - Tweed,Rest of state,6,Sales Workers,12695,12536,12122,1.3,4.7,0,0.0,0,0,0.0,133.0,131.0,10.48,1.5
+NSW,112,Richmond - Tweed,Rest of state,7,Machinery Operators and Drivers,5654,5531,5859,2.2,-3.5,3256,57.6,0,0,0.0,76.0,85.0,13.44,-10.6
+NSW,112,Richmond - Tweed,Rest of state,8,Labourers,14829,14568,14635,1.8,1.3,478,3.2,0,2,0.13,120.0,143.0,8.09,-16.1
+NSW,112,Richmond - Tweed,Rest of state,All,All occupations,129973,128665,120556,1.0,7.8,42448,32.7,584,1063,8.18,1407.0,1493.0,10.83,-5.8
+NSW,113,Riverina,Rest of state,1,Managers,11176,11697,11073,-4.5,0.9,1081,9.7,37,64,5.73,103.0,111.0,9.22,-7.2
+NSW,113,Riverina,Rest of state,2,Professionals,15952,15930,14933,0.1,6.8,9775,61.3,114,211,13.23,374.0,274.0,23.45,36.5
+NSW,113,Riverina,Rest of state,3,Technicians and Trades Workers,12456,12296,11026,1.3,13.0,10494,84.2,355,727,58.37,186.0,205.0,14.93,-9.3
+NSW,113,Riverina,Rest of state,4,Community and Personal Service Workers,10826,10679,9823,1.4,10.2,4879,45.1,37,89,8.22,119.0,132.0,10.99,-9.8
+NSW,113,Riverina,Rest of state,5,Clerical and Administrative Workers,9733,9438,10675,3.1,-8.8,0,0.0,3,4,0.41,112.0,119.0,11.51,-5.9
+NSW,113,Riverina,Rest of state,6,Sales Workers,6548,6442,6930,1.6,-5.5,0,0.0,1,2,0.31,89.0,75.0,13.59,18.7
+NSW,113,Riverina,Rest of state,7,Machinery Operators and Drivers,5919,5765,5615,2.7,5.4,3410,57.6,8,12,2.03,74.0,86.0,12.5,-14.0
+NSW,113,Riverina,Rest of state,8,Labourers,11101,11124,11315,-0.2,-1.9,84,0.8,6,7,0.63,114.0,112.0,10.27,1.8
+NSW,113,Riverina,Rest of state,All,All occupations,83711,83371,81390,0.4,2.9,29723,35.5,674,1451,17.33,1171.0,1114.0,13.99,5.1
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,1,Managers,11128,10932,9586,1.8,16.1,1038,9.3,16,37,3.32,55.0,49.0,4.94,12.2
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,2,Professionals,14791,14717,13167,0.5,12.3,7934,53.6,43,100,6.76,252.0,204.0,17.04,23.5
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,3,Technicians and Trades Workers,11716,11812,11107,-0.8,5.5,8934,76.3,113,287,24.5,108.0,110.0,9.22,-1.8
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,4,Community and Personal Service Workers,10357,10286,9403,0.7,10.1,3841,37.1,34,92,8.88,112.0,101.0,10.81,10.9
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,5,Clerical and Administrative Workers,8134,8222,8849,-1.1,-8.1,0,0.0,0,0,0.0,74.0,73.0,9.1,1.4
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,6,Sales Workers,6446,6254,5866,3.1,9.9,0,0.0,0,0,0.0,60.0,53.0,9.31,13.2
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,7,Machinery Operators and Drivers,3815,3909,3843,-2.4,-0.7,2152,56.4,0,3,0.79,36.0,37.0,9.44,-2.7
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,8,Labourers,6732,6664,6241,1.0,7.9,196,2.9,7,27,4.01,65.0,55.0,9.66,18.2
+NSW,114,Southern Highlands and Shoalhaven,Rest of state,All,All occupations,73119,72796,68062,0.4,7.4,24095,33.0,216,552,7.55,762.0,683.0,10.42,11.6
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,1,Managers,28603,27695,23995,3.3,19.2,1952,6.8,48,78,2.73,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,2,Professionals,50926,50731,42563,0.4,19.6,16671,32.7,147,312,6.13,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,3,Technicians and Trades Workers,18750,18323,17363,2.3,8.0,12390,66.1,193,393,20.96,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,4,Community and Personal Service Workers,13546,13760,12182,-1.6,11.2,4732,34.9,53,88,6.5,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,5,Clerical and Administrative Workers,23287,22985,21178,1.3,10.0,0,0.0,11,15,0.64,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,6,Sales Workers,13068,12375,11469,5.6,13.9,0,0.0,5,7,0.54,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,7,Machinery Operators and Drivers,5489,5533,5699,-0.8,-3.7,2393,43.6,0,0,0.0,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,8,Labourers,8754,8557,6944,2.3,26.1,128,1.5,0,0,0.0,,,,
+NSW,115,Sydney - Baulkham Hills and Hawkesbury,Capital city,All,All occupations,162423,159959,141393,1.5,14.9,38266,23.6,457,893,5.5,,,,
+NSW,116,Sydney - Blacktown,Capital city,1,Managers,26204,25786,21784,1.6,20.3,1708,6.5,85,136,5.19,,,,
+NSW,116,Sydney - Blacktown,Capital city,2,Professionals,62426,62903,53713,-0.8,16.2,21136,33.9,182,346,5.54,,,,
+NSW,116,Sydney - Blacktown,Capital city,3,Technicians and Trades Workers,29241,28361,24276,3.1,20.5,18652,63.8,338,782,26.74,,,,
+NSW,116,Sydney - Blacktown,Capital city,4,Community and Personal Service Workers,27078,26619,18856,1.7,43.6,13756,50.8,33,60,2.22,,,,
+NSW,116,Sydney - Blacktown,Capital city,5,Clerical and Administrative Workers,36746,36062,31608,1.9,16.3,0,0.0,25,34,0.93,,,,
+NSW,116,Sydney - Blacktown,Capital city,6,Sales Workers,18443,17567,15388,5.0,19.9,0,0.0,1,2,0.11,,,,
+NSW,116,Sydney - Blacktown,Capital city,7,Machinery Operators and Drivers,25234,24181,21443,4.4,17.7,6842,27.1,0,2,0.08,,,,
+NSW,116,Sydney - Blacktown,Capital city,8,Labourers,20910,20643,19320,1.3,8.2,729,3.5,5,5,0.24,,,,
+NSW,116,Sydney - Blacktown,Capital city,All,All occupations,246282,242122,206388,1.7,19.3,62823,25.5,669,1367,5.55,,,,
+NSW,117,Sydney - City and Inner South,Capital city,1,Managers,41299,39638,33733,4.2,22.4,1998,4.8,1394,2522,61.07,,,,
+NSW,117,Sydney - City and Inner South,Capital city,2,Professionals,88727,89578,83287,-1.0,6.5,26192,29.5,5386,10211,115.08,,,,
+NSW,117,Sydney - City and Inner South,Capital city,3,Technicians and Trades Workers,19776,19841,16882,-0.3,17.1,9486,48.0,1256,2765,139.82,,,,
+NSW,117,Sydney - City and Inner South,Capital city,4,Community and Personal Service Workers,21845,22654,18123,-3.6,20.5,5299,24.3,103,160,7.32,,,,
+NSW,117,Sydney - City and Inner South,Capital city,5,Clerical and Administrative Workers,28189,28508,27031,-1.1,4.3,0,0.0,184,251,8.9,,,,
+NSW,117,Sydney - City and Inner South,Capital city,6,Sales Workers,16666,15981,16303,4.3,2.2,0,0.0,76,117,7.02,,,,
+NSW,117,Sydney - City and Inner South,Capital city,7,Machinery Operators and Drivers,5779,5810,6241,-0.5,-7.4,1888,32.7,0,0,0.0,,,,
+NSW,117,Sydney - City and Inner South,Capital city,8,Labourers,11181,10804,10041,3.5,11.4,281,2.5,0,2,0.18,,,,
+NSW,117,Sydney - City and Inner South,Capital city,All,All occupations,233462,232814,211641,0.3,10.3,45144,19.3,8440,16147,69.16,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,1,Managers,32135,31553,28227,1.8,13.8,1749,5.4,106,236,7.34,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,2,Professionals,72174,71923,61579,0.3,17.2,23551,32.6,362,602,8.34,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,3,Technicians and Trades Workers,13904,13264,11845,4.8,17.4,7704,55.4,332,842,60.56,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,4,Community and Personal Service Workers,12952,13420,11452,-3.5,13.1,4447,34.3,102,159,12.28,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,5,Clerical and Administrative Workers,18461,18489,18059,-0.2,2.2,0,0.0,24,42,2.28,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,6,Sales Workers,10631,10475,9446,1.5,12.5,0,0.0,2,3,0.28,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,7,Machinery Operators and Drivers,4106,4040,3411,1.6,20.4,1344,32.7,0,0,0.0,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,8,Labourers,6576,6531,5870,0.7,12.0,189,2.9,0,0,0.0,,,,
+NSW,118,Sydney - Eastern Suburbs,Capital city,All,All occupations,170939,169695,149889,0.7,14.0,38984,22.8,937,1910,11.17,,,,
+NSW,119,Sydney - Inner South West,Capital city,1,Managers,39654,39346,34911,0.8,13.6,3281,8.3,101,179,4.51,,,,
+NSW,119,Sydney - Inner South West,Capital city,2,Professionals,86647,87614,75953,-1.1,14.1,32192,37.2,261,476,5.49,,,,
+NSW,119,Sydney - Inner South West,Capital city,3,Technicians and Trades Workers,43228,42344,38047,2.1,13.6,27803,64.3,425,974,22.53,,,,
+NSW,119,Sydney - Inner South West,Capital city,4,Community and Personal Service Workers,39999,41440,29358,-3.5,36.2,19529,48.8,143,239,5.98,,,,
+NSW,119,Sydney - Inner South West,Capital city,5,Clerical and Administrative Workers,46584,45654,46280,2.0,0.7,0,0.0,34,40,0.86,,,,
+NSW,119,Sydney - Inner South West,Capital city,6,Sales Workers,30400,29659,28248,2.5,7.6,0,0.0,3,7,0.23,,,,
+NSW,119,Sydney - Inner South West,Capital city,7,Machinery Operators and Drivers,20577,19845,19925,3.7,3.3,5829,28.3,4,4,0.19,,,,
+NSW,119,Sydney - Inner South West,Capital city,8,Labourers,32927,30982,25712,6.3,28.1,644,2.0,0,0,0.0,,,,
+NSW,119,Sydney - Inner South West,Capital city,All,All occupations,340016,336884,298434,0.9,13.9,89278,26.3,971,1919,5.64,,,,
+NSW,120,Sydney - Inner West,Capital city,1,Managers,32906,32180,28477,2.3,15.6,2285,6.9,91,173,5.26,,,,
+NSW,120,Sydney - Inner West,Capital city,2,Professionals,70708,70643,64461,0.1,9.7,23597,33.4,218,446,6.31,,,,
+NSW,120,Sydney - Inner West,Capital city,3,Technicians and Trades Workers,16791,17280,16385,-2.8,2.5,9414,56.1,259,601,35.79,,,,
+NSW,120,Sydney - Inner West,Capital city,4,Community and Personal Service Workers,18998,18838,16105,0.8,18.0,7651,40.3,94,151,7.95,,,,
+NSW,120,Sydney - Inner West,Capital city,5,Clerical and Administrative Workers,23782,23496,23538,1.2,1.0,0,0.0,25,32,1.35,,,,
+NSW,120,Sydney - Inner West,Capital city,6,Sales Workers,13067,12588,12988,3.8,0.6,0,0.0,14,18,1.38,,,,
+NSW,120,Sydney - Inner West,Capital city,7,Machinery Operators and Drivers,5547,5570,4960,-0.4,11.8,1442,26.0,0,0,0.0,,,,
+NSW,120,Sydney - Inner West,Capital city,8,Labourers,9459,9369,9498,1.0,-0.4,190,2.0,0,0,0.0,,,,
+NSW,120,Sydney - Inner West,Capital city,All,All occupations,191258,189964,176412,0.7,8.4,44579,23.3,706,1428,7.47,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,1,Managers,41800,41841,41325,-0.1,1.1,2089,5.0,344,690,16.51,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,2,Professionals,109617,108485,97989,1.0,11.9,34484,31.5,1825,3617,33.0,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,3,Technicians and Trades Workers,17456,17420,15911,0.2,9.7,8669,49.7,464,1086,62.21,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,4,Community and Personal Service Workers,19459,20199,16844,-3.7,15.5,7531,38.7,121,223,11.46,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,5,Clerical and Administrative Workers,29976,29319,27833,2.2,7.7,0,0.0,59,84,2.8,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,6,Sales Workers,18310,18065,16642,1.4,10.0,0,0.0,12,22,1.2,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,7,Machinery Operators and Drivers,4632,4523,4308,2.4,7.5,1532,33.1,1,14,3.02,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,8,Labourers,8808,8610,7710,2.3,14.2,128,1.5,0,0,0.0,,,,
+NSW,121,Sydney - North Sydney and Hornsby,Capital city,All,All occupations,250058,248462,228562,0.6,9.4,54433,21.8,2831,5753,23.01,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,1,Managers,28208,29025,25889,-2.8,9.0,2458,8.7,72,136,4.82,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,2,Professionals,53227,51933,47985,2.5,10.9,17376,32.6,209,348,6.54,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,3,Technicians and Trades Workers,17508,17330,16038,1.0,9.2,10981,62.7,372,814,46.49,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,4,Community and Personal Service Workers,14928,14756,13614,1.2,9.7,5915,39.6,78,122,8.17,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,5,Clerical and Administrative Workers,17361,17162,17308,1.2,0.3,0,0.0,14,23,1.32,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,6,Sales Workers,12860,13174,12333,-2.4,4.3,0,0.0,3,6,0.47,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,7,Machinery Operators and Drivers,3878,3825,4098,1.4,-5.4,1176,30.3,1,2,0.52,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,8,Labourers,7106,6996,7714,1.6,-7.9,167,2.4,0,4,0.56,,,,
+NSW,122,Sydney - Northern Beaches,Capital city,All,All occupations,155076,154201,144979,0.6,7.0,38073,24.6,751,1459,9.41,,,,
+NSW,123,Sydney - Outer South West,Capital city,1,Managers,21380,20864,18284,2.5,16.9,1262,5.9,29,55,2.57,,,,
+NSW,123,Sydney - Outer South West,Capital city,2,Professionals,34919,34895,28494,0.1,22.5,17192,49.2,123,236,6.76,,,,
+NSW,123,Sydney - Outer South West,Capital city,3,Technicians and Trades Workers,25099,23929,22281,4.9,12.6,18792,74.9,198,530,21.12,,,,
+NSW,123,Sydney - Outer South West,Capital city,4,Community and Personal Service Workers,23034,23333,17011,-1.3,35.4,10933,47.5,27,35,1.52,,,,
+NSW,123,Sydney - Outer South West,Capital city,5,Clerical and Administrative Workers,27114,26602,25231,1.9,7.5,0,0.0,10,11,0.41,,,,
+NSW,123,Sydney - Outer South West,Capital city,6,Sales Workers,12321,12656,13168,-2.6,-6.4,0,0.0,0,0,0.0,,,,
+NSW,123,Sydney - Outer South West,Capital city,7,Machinery Operators and Drivers,13333,13271,13529,0.5,-1.4,4765,35.7,0,0,0.0,,,,
+NSW,123,Sydney - Outer South West,Capital city,8,Labourers,14577,14016,13469,4.0,8.2,512,3.5,0,0,0.0,,,,
+NSW,123,Sydney - Outer South West,Capital city,All,All occupations,171777,169566,151467,1.3,13.4,53456,31.1,387,872,5.08,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,1,Managers,23762,22755,20771,4.4,14.4,1282,5.4,41,80,3.37,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,2,Professionals,41668,42598,38875,-2.2,7.2,18004,43.2,117,191,4.58,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,3,Technicians and Trades Workers,27922,26975,24696,3.5,13.1,19475,69.7,228,555,19.88,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,4,Community and Personal Service Workers,22569,23303,18875,-3.1,19.6,10275,45.5,63,136,6.03,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,5,Clerical and Administrative Workers,28658,28354,26498,1.1,8.2,0,0.0,9,11,0.38,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,6,Sales Workers,14754,14880,13870,-0.8,6.4,0,0.0,0,0,0.0,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,7,Machinery Operators and Drivers,15061,14355,15619,4.9,-3.6,5227,34.7,0,0,0.0,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,8,Labourers,15453,15232,13441,1.5,15.0,576,3.7,0,0,0.0,,,,
+NSW,124,Sydney - Outer West and Blue Mountains,Capital city,All,All occupations,189847,188452,172645,0.7,10.0,54839,28.9,459,975,5.14,,,,
+NSW,125,Sydney - Parramatta,Capital city,1,Managers,31463,31036,28740,1.4,9.5,2420,7.7,171,320,10.17,,,,
+NSW,125,Sydney - Parramatta,Capital city,2,Professionals,85558,83095,69032,3.0,23.9,28533,33.3,578,1011,11.82,,,,
+NSW,125,Sydney - Parramatta,Capital city,3,Technicians and Trades Workers,35646,35498,30785,0.4,15.8,23342,65.5,492,1039,29.15,,,,
+NSW,125,Sydney - Parramatta,Capital city,4,Community and Personal Service Workers,32684,31990,23174,2.2,41.0,17083,52.3,82,147,4.5,,,,
+NSW,125,Sydney - Parramatta,Capital city,5,Clerical and Administrative Workers,34926,35229,35407,-0.9,-1.4,0,0.0,63,73,2.09,,,,
+NSW,125,Sydney - Parramatta,Capital city,6,Sales Workers,22826,22460,18450,1.6,23.7,0,0.0,7,10,0.44,,,,
+NSW,125,Sydney - Parramatta,Capital city,7,Machinery Operators and Drivers,17428,18566,16318,-6.1,6.8,4781,27.4,0,1,0.06,,,,
+NSW,125,Sydney - Parramatta,Capital city,8,Labourers,26377,25194,21872,4.7,20.6,676,2.6,0,1,0.04,,,,
+NSW,125,Sydney - Parramatta,Capital city,All,All occupations,286908,283068,243778,1.4,17.7,76835,26.8,1394,2606,9.08,,,,
+NSW,126,Sydney - Ryde,Capital city,1,Managers,19230,18880,18331,1.9,4.9,1254,6.5,161,292,15.18,,,,
+NSW,126,Sydney - Ryde,Capital city,2,Professionals,45761,46300,41946,-1.2,9.1,12829,28.0,329,713,15.58,,,,
+NSW,126,Sydney - Ryde,Capital city,3,Technicians and Trades Workers,12822,12653,9792,1.3,30.9,6541,51.0,142,299,23.32,,,,
+NSW,126,Sydney - Ryde,Capital city,4,Community and Personal Service Workers,10672,10578,8460,0.9,26.1,4006,37.5,31,68,6.37,,,,
+NSW,126,Sydney - Ryde,Capital city,5,Clerical and Administrative Workers,16842,16211,16474,3.9,2.2,0,0.0,14,16,0.95,,,,
+NSW,126,Sydney - Ryde,Capital city,6,Sales Workers,9697,9577,8712,1.3,11.3,0,0.0,0,3,0.31,,,,
+NSW,126,Sydney - Ryde,Capital city,7,Machinery Operators and Drivers,5505,5182,3529,6.2,56.0,2015,36.6,0,0,0.0,,,,
+NSW,126,Sydney - Ryde,Capital city,8,Labourers,6450,6402,5493,0.7,17.4,73,1.1,0,0,0.0,,,,
+NSW,126,Sydney - Ryde,Capital city,All,All occupations,126979,125783,112737,1.0,12.6,26718,21.0,677,1392,10.96,,,,
+NSW,127,Sydney - South West,Capital city,1,Managers,27898,27081,22815,3.0,22.3,2125,7.6,106,208,7.46,,,,
+NSW,127,Sydney - South West,Capital city,2,Professionals,55761,54930,42085,1.5,32.5,25472,45.7,200,393,7.05,,,,
+NSW,127,Sydney - South West,Capital city,3,Technicians and Trades Workers,37495,36036,29581,4.0,26.8,27302,72.8,370,853,22.75,,,,
+NSW,127,Sydney - South West,Capital city,4,Community and Personal Service Workers,26900,27226,18689,-1.2,43.9,13859,51.5,56,132,4.91,,,,
+NSW,127,Sydney - South West,Capital city,5,Clerical and Administrative Workers,35414,35664,31090,-0.7,13.9,0,0.0,25,38,1.07,,,,
+NSW,127,Sydney - South West,Capital city,6,Sales Workers,21234,20158,18102,5.3,17.3,0,0.0,1,4,0.19,,,,
+NSW,127,Sydney - South West,Capital city,7,Machinery Operators and Drivers,23346,23613,23461,-1.1,-0.5,7464,32.0,1,6,0.26,,,,
+NSW,127,Sydney - South West,Capital city,8,Labourers,24277,23880,22292,1.7,8.9,721,3.0,0,0,0.0,,,,
+NSW,127,Sydney - South West,Capital city,All,All occupations,252325,248588,208115,1.5,21.2,76943,30.5,770,1706,6.76,,,,
+NSW,128,Sydney - Sutherland,Capital city,1,Managers,22454,22477,19834,-0.1,13.2,1933,8.6,30,56,2.49,,,,
+NSW,128,Sydney - Sutherland,Capital city,2,Professionals,38240,38341,34874,-0.3,9.7,14502,37.9,68,115,3.01,,,,
+NSW,128,Sydney - Sutherland,Capital city,3,Technicians and Trades Workers,17825,18085,16019,-1.4,11.3,12663,71.0,182,380,21.32,,,,
+NSW,128,Sydney - Sutherland,Capital city,4,Community and Personal Service Workers,16467,16341,13811,0.8,19.2,6515,39.6,55,105,6.38,,,,
+NSW,128,Sydney - Sutherland,Capital city,5,Clerical and Administrative Workers,20349,19703,20087,3.3,1.3,0,0.0,6,10,0.49,,,,
+NSW,128,Sydney - Sutherland,Capital city,6,Sales Workers,9216,9148,9746,0.7,-5.4,0,0.0,2,2,0.22,,,,
+NSW,128,Sydney - Sutherland,Capital city,7,Machinery Operators and Drivers,4749,4725,5668,0.5,-16.2,1535,32.3,0,0,0.0,,,,
+NSW,128,Sydney - Sutherland,Capital city,8,Labourers,6879,6556,6173,4.9,11.4,174,2.5,0,0,0.0,,,,
+NSW,128,Sydney - Sutherland,Capital city,All,All occupations,136179,135376,126212,0.6,7.9,37322,27.4,344,669,4.91,,,,
+VIC,201,Ballarat,Rest of state,1,Managers,13578,13161,12162,3.2,11.6,827,6.1,26,45,3.31,77.0,85.0,5.67,-9.4
+VIC,201,Ballarat,Rest of state,2,Professionals,19763,19690,16274,0.4,21.4,11721,59.3,97,157,7.94,257.0,249.0,13.0,3.2
+VIC,201,Ballarat,Rest of state,3,Technicians and Trades Workers,12428,12706,12350,-2.2,0.6,9219,74.2,98,329,26.47,127.0,118.0,10.22,7.6
+VIC,201,Ballarat,Rest of state,4,Community and Personal Service Workers,13764,12967,10449,6.1,31.7,5355,38.9,21,37,2.69,131.0,131.0,9.52,0.0
+VIC,201,Ballarat,Rest of state,5,Clerical and Administrative Workers,11421,11835,10424,-3.5,9.6,53,0.5,1,2,0.18,123.0,111.0,10.77,10.8
+VIC,201,Ballarat,Rest of state,6,Sales Workers,6724,6868,7651,-2.1,-12.1,0,0.0,0,0,0.0,83.0,59.0,12.34,40.7
+VIC,201,Ballarat,Rest of state,7,Machinery Operators and Drivers,4581,4387,4963,4.4,-7.7,2224,48.5,0,0,0.0,40.0,39.0,8.73,2.6
+VIC,201,Ballarat,Rest of state,8,Labourers,9354,9463,8307,-1.2,12.6,129,1.4,0,2,0.21,61.0,52.0,6.52,17.3
+VIC,201,Ballarat,Rest of state,All,All occupations,91613,91077,82580,0.6,10.9,29528,32.2,251,587,6.41,899.0,844.0,9.81,6.5
+VIC,202,Bendigo,Rest of state,1,Managers,10291,10387,10108,-0.9,1.8,784,7.6,15,26,2.53,77.0,72.0,7.48,6.9
+VIC,202,Bendigo,Rest of state,2,Professionals,20326,19970,17047,1.8,19.2,11366,55.9,98,184,9.05,291.0,262.0,14.32,11.1
+VIC,202,Bendigo,Rest of state,3,Technicians and Trades Workers,11870,11819,12052,0.4,-1.5,9151,77.1,86,203,17.1,111.0,95.0,9.35,16.8
+VIC,202,Bendigo,Rest of state,4,Community and Personal Service Workers,10545,10559,9909,-0.1,6.4,3947,37.4,46,70,6.64,145.0,135.0,13.75,7.4
+VIC,202,Bendigo,Rest of state,5,Clerical and Administrative Workers,9393,9532,9130,-1.5,2.9,40,0.4,1,2,0.21,97.0,103.0,10.33,-5.8
+VIC,202,Bendigo,Rest of state,6,Sales Workers,7495,7481,6990,0.2,7.2,0,0.0,0,0,0.0,65.0,55.0,8.67,18.2
+VIC,202,Bendigo,Rest of state,7,Machinery Operators and Drivers,6125,5990,4991,2.3,22.7,2545,41.6,0,0,0.0,45.0,38.0,7.35,18.4
+VIC,202,Bendigo,Rest of state,8,Labourers,9621,9754,9369,-1.4,2.7,111,1.2,0,0,0.0,64.0,56.0,6.65,14.3
+VIC,202,Bendigo,Rest of state,All,All occupations,85666,85492,79596,0.2,7.6,27944,32.6,261,506,5.91,896.0,816.0,10.46,9.8
+VIC,203,Geelong,Rest of state,1,Managers,22979,22641,21071,1.5,9.1,2707,11.8,20,49,2.13,164.0,161.0,7.14,1.9
+VIC,203,Geelong,Rest of state,2,Professionals,49013,48531,41144,1.0,19.1,24344,49.7,136,203,4.14,411.0,408.0,8.39,0.7
+VIC,203,Geelong,Rest of state,3,Technicians and Trades Workers,25250,25820,24815,-2.2,1.8,18186,72.0,223,508,20.12,231.0,207.0,9.15,11.6
+VIC,203,Geelong,Rest of state,4,Community and Personal Service Workers,25617,24838,18558,3.1,38.0,10803,42.2,63,94,3.67,237.0,218.0,9.25,8.7
+VIC,203,Geelong,Rest of state,5,Clerical and Administrative Workers,22282,21722,20202,2.6,10.3,99,0.4,1,3,0.13,216.0,201.0,9.69,7.5
+VIC,203,Geelong,Rest of state,6,Sales Workers,13194,13523,12607,-2.4,4.7,0,0.0,0,5,0.38,161.0,137.0,12.2,17.5
+VIC,203,Geelong,Rest of state,7,Machinery Operators and Drivers,10134,9678,9639,4.7,5.1,4509,44.5,0,0,0.0,84.0,68.0,8.29,23.5
+VIC,203,Geelong,Rest of state,8,Labourers,15983,16336,16296,-2.2,-1.9,733,4.6,0,0,0.0,123.0,116.0,7.7,6.0
+VIC,203,Geelong,Rest of state,All,All occupations,184452,183089,164332,0.7,12.2,61381,33.3,444,865,4.69,1625.0,1516.0,8.81,7.2
+VIC,204,Hume,Rest of state,1,Managers,15560,15331,14588,1.5,6.7,2085,13.4,15,45,2.89,81.0,77.0,5.21,5.2
+VIC,204,Hume,Rest of state,2,Professionals,17104,17250,14513,-0.8,17.9,10602,62.0,98,205,11.99,295.0,279.0,17.25,5.7
+VIC,204,Hume,Rest of state,3,Technicians and Trades Workers,14858,14717,14868,1.0,-0.1,11090,74.6,141,282,18.98,135.0,142.0,9.09,-4.9
+VIC,204,Hume,Rest of state,4,Community and Personal Service Workers,12683,12435,10874,2.0,16.6,4674,36.9,42,71,5.6,141.0,122.0,11.12,15.6
+VIC,204,Hume,Rest of state,5,Clerical and Administrative Workers,10902,10852,9936,0.5,9.7,43,0.4,1,2,0.18,104.0,106.0,9.54,-1.9
+VIC,204,Hume,Rest of state,6,Sales Workers,7127,6970,6799,2.3,4.8,0,0.0,0,0,0.0,62.0,62.0,8.7,0.0
+VIC,204,Hume,Rest of state,7,Machinery Operators and Drivers,6929,6901,7097,0.4,-2.4,3433,49.5,8,7,1.01,42.0,45.0,6.06,-6.7
+VIC,204,Hume,Rest of state,8,Labourers,11020,11616,11224,-5.1,-1.8,123,1.1,0,3,0.27,74.0,71.0,6.72,4.2
+VIC,204,Hume,Rest of state,All,All occupations,96183,96072,89899,0.1,7.0,32050,33.3,349,733,7.62,933.0,904.0,9.7,3.2
+VIC,205,Latrobe - Gippsland,Rest of state,1,Managers,20694,20222,20196,2.3,2.5,1892,9.1,25,60,2.9,96.0,90.0,4.64,6.7
+VIC,205,Latrobe - Gippsland,Rest of state,2,Professionals,26327,26610,22917,-1.1,14.9,16998,64.6,228,371,14.09,403.0,382.0,15.31,5.5
+VIC,205,Latrobe - Gippsland,Rest of state,3,Technicians and Trades Workers,22685,22616,22634,0.3,0.2,16385,72.2,135,286,12.61,150.0,152.0,6.61,-1.3
+VIC,205,Latrobe - Gippsland,Rest of state,4,Community and Personal Service Workers,21206,21014,14978,0.9,41.6,8474,40.0,71,179,8.44,206.0,196.0,9.71,5.1
+VIC,205,Latrobe - Gippsland,Rest of state,5,Clerical and Administrative Workers,17767,17898,17171,-0.7,3.5,79,0.4,2,3,0.17,154.0,157.0,8.67,-1.9
+VIC,205,Latrobe - Gippsland,Rest of state,6,Sales Workers,11550,11948,11486,-3.3,0.6,0,0.0,0,0,0.0,81.0,93.0,7.01,-12.9
+VIC,205,Latrobe - Gippsland,Rest of state,7,Machinery Operators and Drivers,10235,10244,10449,-0.1,-2.0,6355,62.1,0,0,0.0,51.0,52.0,4.98,-1.9
+VIC,205,Latrobe - Gippsland,Rest of state,8,Labourers,16390,15921,15981,2.9,2.6,770,4.7,9,26,1.59,96.0,97.0,5.86,-1.0
+VIC,205,Latrobe - Gippsland,Rest of state,All,All occupations,146854,146473,135812,0.3,8.1,50953,34.7,522,1093,7.44,1236.0,1221.0,8.42,1.2
+VIC,206,Melbourne - Inner,Capital city,1,Managers,71420,69674,59693,2.5,19.6,4317,6.0,836,1523,21.32,,,,
+VIC,206,Melbourne - Inner,Capital city,2,Professionals,210688,206128,170231,2.2,23.8,71526,33.9,3303,6605,31.35,,,,
+VIC,206,Melbourne - Inner,Capital city,3,Technicians and Trades Workers,37397,37769,31971,-1.0,17.0,16974,45.4,1160,2755,73.67,,,,
+VIC,206,Melbourne - Inner,Capital city,4,Community and Personal Service Workers,44947,44722,34556,0.5,30.1,10521,23.4,108,194,4.32,,,,
+VIC,206,Melbourne - Inner,Capital city,5,Clerical and Administrative Workers,51221,52165,47616,-1.8,7.6,600,1.2,129,195,3.81,,,,
+VIC,206,Melbourne - Inner,Capital city,6,Sales Workers,29666,29463,25626,0.7,15.8,0,0.0,38,63,2.12,,,,
+VIC,206,Melbourne - Inner,Capital city,7,Machinery Operators and Drivers,9873,9326,8973,5.9,10.0,1842,18.7,0,0,0.0,,,,
+VIC,206,Melbourne - Inner,Capital city,8,Labourers,18661,19393,15210,-3.8,22.7,654,3.5,0,0,0.0,,,,
+VIC,206,Melbourne - Inner,Capital city,All,All occupations,473873,468640,393876,1.1,20.3,106434,22.5,5602,11379,24.01,,,,
+VIC,207,Melbourne - Inner East,Capital city,1,Managers,32422,32567,30937,-0.4,4.8,2323,7.2,55,134,4.13,,,,
+VIC,207,Melbourne - Inner East,Capital city,2,Professionals,95352,92774,82445,2.8,15.7,34472,36.2,257,539,5.65,,,,
+VIC,207,Melbourne - Inner East,Capital city,3,Technicians and Trades Workers,17796,17996,15791,-1.1,12.7,10323,58.0,245,494,27.76,,,,
+VIC,207,Melbourne - Inner East,Capital city,4,Community and Personal Service Workers,20280,19950,15549,1.7,30.4,5971,29.4,32,58,2.86,,,,
+VIC,207,Melbourne - Inner East,Capital city,5,Clerical and Administrative Workers,27671,28310,26334,-2.3,5.1,339,1.2,20,25,0.9,,,,
+VIC,207,Melbourne - Inner East,Capital city,6,Sales Workers,19057,19614,18050,-2.8,5.6,0,0.0,4,12,0.63,,,,
+VIC,207,Melbourne - Inner East,Capital city,7,Machinery Operators and Drivers,5292,5012,4372,5.6,21.0,1499,28.3,0,5,0.94,,,,
+VIC,207,Melbourne - Inner East,Capital city,8,Labourers,8715,9168,9130,-4.9,-4.5,99,1.1,0,0,0.0,,,,
+VIC,207,Melbourne - Inner East,Capital city,All,All occupations,226585,225391,202608,0.5,11.8,55026,24.3,613,1267,5.59,,,,
+VIC,208,Melbourne - Inner South,Capital city,1,Managers,43468,43219,39808,0.6,9.2,3384,7.8,64,113,2.6,,,,
+VIC,208,Melbourne - Inner South,Capital city,2,Professionals,92553,90866,81627,1.9,13.4,32438,35.0,235,383,4.14,,,,
+VIC,208,Melbourne - Inner South,Capital city,3,Technicians and Trades Workers,24083,23791,24356,1.2,-1.1,13345,55.4,355,816,33.88,,,,
+VIC,208,Melbourne - Inner South,Capital city,4,Community and Personal Service Workers,24810,24924,20453,-0.5,21.3,7378,29.7,43,95,3.83,,,,
+VIC,208,Melbourne - Inner South,Capital city,5,Clerical and Administrative Workers,33155,32705,28306,1.4,17.1,340,1.0,13,14,0.42,,,,
+VIC,208,Melbourne - Inner South,Capital city,6,Sales Workers,21274,22393,19930,-5.0,6.7,0,0.0,2,3,0.14,,,,
+VIC,208,Melbourne - Inner South,Capital city,7,Machinery Operators and Drivers,6131,6084,5231,0.8,17.2,1433,23.4,0,2,0.33,,,,
+VIC,208,Melbourne - Inner South,Capital city,8,Labourers,10508,10897,10093,-3.6,4.1,205,2.0,0,0,0.0,,,,
+VIC,208,Melbourne - Inner South,Capital city,All,All occupations,255982,254879,229804,0.4,11.4,58523,22.9,712,1427,5.57,,,,
+VIC,209,Melbourne - North East,Capital city,1,Managers,38068,37167,35820,2.4,6.3,2784,7.3,52,85,2.23,,,,
+VIC,209,Melbourne - North East,Capital city,2,Professionals,99365,98745,81248,0.6,22.3,40775,41.0,288,475,4.78,,,,
+VIC,209,Melbourne - North East,Capital city,3,Technicians and Trades Workers,44425,43668,39990,1.7,11.1,28357,63.8,297,653,14.7,,,,
+VIC,209,Melbourne - North East,Capital city,4,Community and Personal Service Workers,35807,35164,28539,1.8,25.5,14582,40.7,43,79,2.21,,,,
+VIC,209,Melbourne - North East,Capital city,5,Clerical and Administrative Workers,41158,41867,38599,-1.7,6.6,483,1.2,19,21,0.51,,,,
+VIC,209,Melbourne - North East,Capital city,6,Sales Workers,24250,24094,23340,0.6,3.9,0,0.0,2,4,0.16,,,,
+VIC,209,Melbourne - North East,Capital city,7,Machinery Operators and Drivers,17743,17241,16953,2.9,4.7,5940,33.5,1,1,0.06,,,,
+VIC,209,Melbourne - North East,Capital city,8,Labourers,24068,23355,20758,3.1,15.9,683,2.8,0,3,0.12,,,,
+VIC,209,Melbourne - North East,Capital city,All,All occupations,324884,321301,285247,1.1,13.9,93604,28.8,706,1338,4.12,,,,
+VIC,210,Melbourne - North West,Capital city,1,Managers,26243,25786,21387,1.8,22.7,1979,7.5,96,163,6.21,,,,
+VIC,210,Melbourne - North West,Capital city,2,Professionals,64536,63112,47511,2.3,35.8,27768,43.0,241,464,7.19,,,,
+VIC,210,Melbourne - North West,Capital city,3,Technicians and Trades Workers,32853,32997,31097,-0.4,5.6,23066,70.2,517,1036,31.53,,,,
+VIC,210,Melbourne - North West,Capital city,4,Community and Personal Service Workers,26439,26545,21151,-0.4,25.0,9690,36.7,22,35,1.32,,,,
+VIC,210,Melbourne - North West,Capital city,5,Clerical and Administrative Workers,31189,31165,29713,0.1,5.0,145,0.5,17,15,0.48,,,,
+VIC,210,Melbourne - North West,Capital city,6,Sales Workers,18837,18114,17790,4.0,5.9,0,0.0,2,3,0.16,,,,
+VIC,210,Melbourne - North West,Capital city,7,Machinery Operators and Drivers,18148,17598,16413,3.1,10.6,5665,31.2,0,1,0.06,,,,
+VIC,210,Melbourne - North West,Capital city,8,Labourers,18709,19141,20426,-2.3,-8.4,387,2.1,0,0,0.0,,,,
+VIC,210,Melbourne - North West,Capital city,All,All occupations,236954,234458,205488,1.1,15.3,68700,29.0,896,1721,7.26,,,,
+VIC,211,Melbourne - Outer East,Capital city,1,Managers,38302,37954,34567,0.9,10.8,2409,6.3,65,118,3.08,,,,
+VIC,211,Melbourne - Outer East,Capital city,2,Professionals,82070,82527,72369,-0.6,13.4,31207,38.0,175,332,4.05,,,,
+VIC,211,Melbourne - Outer East,Capital city,3,Technicians and Trades Workers,41972,41886,44235,0.2,-5.1,27769,66.2,272,567,13.51,,,,
+VIC,211,Melbourne - Outer East,Capital city,4,Community and Personal Service Workers,32212,31053,25300,3.7,27.3,13484,41.9,56,93,2.89,,,,
+VIC,211,Melbourne - Outer East,Capital city,5,Clerical and Administrative Workers,37540,38472,40194,-2.4,-6.6,458,1.2,9,11,0.29,,,,
+VIC,211,Melbourne - Outer East,Capital city,6,Sales Workers,20983,21103,22586,-0.6,-7.1,0,0.0,0,0,0.0,,,,
+VIC,211,Melbourne - Outer East,Capital city,7,Machinery Operators and Drivers,13282,13264,12647,0.1,5.0,3627,27.3,1,2,0.15,,,,
+VIC,211,Melbourne - Outer East,Capital city,8,Labourers,20993,21260,19739,-1.3,6.4,485,2.3,0,2,0.1,,,,
+VIC,211,Melbourne - Outer East,Capital city,All,All occupations,287354,287519,271637,-0.1,5.8,79439,27.6,580,1128,3.93,,,,
+VIC,212,Melbourne - South East,Capital city,1,Managers,53845,54054,49070,-0.4,9.7,3561,6.6,182,316,5.87,,,,
+VIC,212,Melbourne - South East,Capital city,2,Professionals,131362,126482,106728,3.9,23.1,53057,40.4,610,1081,8.23,,,,
+VIC,212,Melbourne - South East,Capital city,3,Technicians and Trades Workers,68166,70534,65524,-3.4,4.0,45729,67.1,829,1925,28.24,,,,
+VIC,212,Melbourne - South East,Capital city,4,Community and Personal Service Workers,60407,59263,41299,1.9,46.3,27594,45.7,52,79,1.31,,,,
+VIC,212,Melbourne - South East,Capital city,5,Clerical and Administrative Workers,64381,64105,56660,0.4,13.6,565,0.9,44,55,0.85,,,,
+VIC,212,Melbourne - South East,Capital city,6,Sales Workers,37840,38797,37695,-2.5,0.4,0,0.0,4,7,0.18,,,,
+VIC,212,Melbourne - South East,Capital city,7,Machinery Operators and Drivers,41260,39237,35530,5.2,16.1,11675,28.3,0,0,0.0,,,,
+VIC,212,Melbourne - South East,Capital city,8,Labourers,48749,48469,44543,0.6,9.4,871,1.8,0,0,0.0,,,,
+VIC,212,Melbourne - South East,Capital city,All,All occupations,506010,500941,437049,1.0,15.8,143052,28.3,1766,3582,7.08,,,,
+VIC,213,Melbourne - West,Capital city,1,Managers,55565,55090,47536,0.9,16.9,2918,5.3,125,199,3.58,,,,
+VIC,213,Melbourne - West,Capital city,2,Professionals,141713,138952,110592,2.0,28.1,48712,34.4,683,1113,7.85,,,,
+VIC,213,Melbourne - West,Capital city,3,Technicians and Trades Workers,62760,62159,56830,1.0,10.4,36697,58.5,714,1503,23.95,,,,
+VIC,213,Melbourne - West,Capital city,4,Community and Personal Service Workers,59884,58203,41735,2.9,43.5,23752,39.7,47,75,1.25,,,,
+VIC,213,Melbourne - West,Capital city,5,Clerical and Administrative Workers,68548,69470,62397,-1.3,9.9,529,0.8,51,65,0.95,,,,
+VIC,213,Melbourne - West,Capital city,6,Sales Workers,39127,38563,36810,1.5,6.3,0,0.0,2,6,0.15,,,,
+VIC,213,Melbourne - West,Capital city,7,Machinery Operators and Drivers,51794,50305,42803,3.0,21.0,14384,27.8,4,10,0.19,,,,
+VIC,213,Melbourne - West,Capital city,8,Labourers,44940,43972,40578,2.2,10.7,1361,3.0,0,0,0.0,,,,
+VIC,213,Melbourne - West,Capital city,All,All occupations,524331,516714,439281,1.5,19.4,128353,24.5,1638,3089,5.89,,,,
+VIC,214,Mornington Peninsula,Capital city,1,Managers,21379,21678,21488,-1.4,-0.5,1593,7.5,13,43,2.01,,,,
+VIC,214,Mornington Peninsula,Capital city,2,Professionals,37595,37080,34588,1.4,8.7,15553,41.4,126,178,4.73,,,,
+VIC,214,Mornington Peninsula,Capital city,3,Technicians and Trades Workers,24977,25245,25793,-1.1,-3.2,16825,67.4,182,457,18.3,,,,
+VIC,214,Mornington Peninsula,Capital city,4,Community and Personal Service Workers,21381,21349,16762,0.1,27.6,7951,37.2,17,26,1.22,,,,
+VIC,214,Mornington Peninsula,Capital city,5,Clerical and Administrative Workers,21098,21605,19292,-2.3,9.4,103,0.5,0,0,0.0,,,,
+VIC,214,Mornington Peninsula,Capital city,6,Sales Workers,13239,12639,12904,4.7,2.6,0,0.0,0,1,0.08,,,,
+VIC,214,Mornington Peninsula,Capital city,7,Machinery Operators and Drivers,7392,7217,7875,2.4,-6.1,2816,38.1,0,1,0.14,,,,
+VIC,214,Mornington Peninsula,Capital city,8,Labourers,13329,13620,14454,-2.1,-7.8,624,4.7,2,2,0.15,,,,
+VIC,214,Mornington Peninsula,Capital city,All,All occupations,160390,160433,153156,-0.0,4.7,45465,28.3,340,709,4.42,,,,
+VIC,215,North West,Rest of state,1,Managers,11589,11499,12145,0.8,-4.6,1158,10.0,25,60,5.18,90.0,80.0,7.77,12.5
+VIC,215,North West,Rest of state,2,Professionals,11982,12018,11255,-0.3,6.5,8236,68.7,143,286,23.87,285.0,260.0,23.79,9.6
+VIC,215,North West,Rest of state,3,Technicians and Trades Workers,11850,11835,11046,0.1,7.3,9589,80.9,107,275,23.21,111.0,111.0,9.37,0.0
+VIC,215,North West,Rest of state,4,Community and Personal Service Workers,11730,11678,9316,0.4,25.9,3364,28.7,57,69,5.88,122.0,128.0,10.4,-4.7
+VIC,215,North West,Rest of state,5,Clerical and Administrative Workers,9249,9509,9867,-2.7,-6.3,41,0.4,0,2,0.22,100.0,108.0,10.81,-7.4
+VIC,215,North West,Rest of state,6,Sales Workers,5355,5821,5585,-8.0,-4.1,0,0.0,0,0,0.0,73.0,73.0,13.63,0.0
+VIC,215,North West,Rest of state,7,Machinery Operators and Drivers,4765,4642,5733,2.6,-16.9,2939,61.7,11,20,4.2,50.0,50.0,10.49,0.0
+VIC,215,North West,Rest of state,8,Labourers,9826,9988,9755,-1.6,0.7,83,0.8,2,15,1.53,68.0,81.0,6.92,-16.0
+VIC,215,North West,Rest of state,All,All occupations,76346,76990,74702,-0.8,2.2,25410,33.3,414,860,11.26,900.0,892.0,11.79,0.9
+VIC,216,Shepparton,Rest of state,1,Managers,9391,9252,10691,1.5,-12.2,678,7.2,17,53,5.64,84.0,81.0,8.94,3.7
+VIC,216,Shepparton,Rest of state,2,Professionals,10664,10315,9042,3.4,17.9,7271,68.2,121,225,21.1,286.0,249.0,26.82,14.9
+VIC,216,Shepparton,Rest of state,3,Technicians and Trades Workers,11416,11822,11020,-3.4,3.6,9125,79.9,163,329,28.82,110.0,110.0,9.64,0.0
+VIC,216,Shepparton,Rest of state,4,Community and Personal Service Workers,8272,8116,7202,1.9,14.9,2884,34.9,32,54,6.53,108.0,109.0,13.06,-0.9
+VIC,216,Shepparton,Rest of state,5,Clerical and Administrative Workers,9586,9654,7551,-0.7,27.0,26,0.3,5,3,0.31,103.0,102.0,10.74,1.0
+VIC,216,Shepparton,Rest of state,6,Sales Workers,4398,4585,5688,-4.1,-22.7,0,0.0,3,5,1.14,64.0,53.0,14.55,20.8
+VIC,216,Shepparton,Rest of state,7,Machinery Operators and Drivers,4534,4622,3611,-1.9,25.6,2821,62.2,25,59,13.01,45.0,41.0,9.93,9.8
+VIC,216,Shepparton,Rest of state,8,Labourers,8761,8816,10240,-0.6,-14.4,43,0.5,9,26,2.97,74.0,68.0,8.45,8.8
+VIC,216,Shepparton,Rest of state,All,All occupations,67022,67182,65045,-0.2,3.0,22848,34.1,468,1034,15.43,873.0,813.0,13.03,7.4
+VIC,217,Warrnambool and South West,Rest of state,1,Managers,9142,9764,12977,-6.4,-29.6,935,10.2,9,36,3.94,69.0,66.0,7.55,4.5
+VIC,217,Warrnambool and South West,Rest of state,2,Professionals,10818,10959,9605,-1.3,12.6,7310,67.6,77,159,14.7,184.0,192.0,17.01,-4.2
+VIC,217,Warrnambool and South West,Rest of state,3,Technicians and Trades Workers,8959,9089,8525,-1.4,5.1,7212,80.5,81,227,25.34,102.0,87.0,11.39,17.2
+VIC,217,Warrnambool and South West,Rest of state,4,Community and Personal Service Workers,9351,9185,7527,1.8,24.2,4299,46.0,77,123,13.15,106.0,117.0,11.34,-9.4
+VIC,217,Warrnambool and South West,Rest of state,5,Clerical and Administrative Workers,7662,7148,6461,7.2,18.6,27,0.4,1,1,0.13,109.0,104.0,14.23,4.8
+VIC,217,Warrnambool and South West,Rest of state,6,Sales Workers,6065,6010,4963,0.9,22.2,0,0.0,0,1,0.16,68.0,55.0,11.21,23.6
+VIC,217,Warrnambool and South West,Rest of state,7,Machinery Operators and Drivers,4717,4760,4493,-0.9,5.0,2975,63.1,6,19,4.03,42.0,30.0,8.9,40.0
+VIC,217,Warrnambool and South West,Rest of state,8,Labourers,8767,8830,8798,-0.7,-0.4,119,1.4,1,9,1.03,69.0,64.0,7.87,7.8
+VIC,217,Warrnambool and South West,Rest of state,All,All occupations,65481,65745,63349,-0.4,3.4,22877,34.9,327,877,13.39,748.0,717.0,11.42,4.3
+QLD,301,Brisbane - East,Capital city,1,Managers,20225,19836,16574,2.0,22.0,1701,8.4,28,62,3.07,,,,
+QLD,301,Brisbane - East,Capital city,2,Professionals,33404,32618,28055,2.4,19.1,14635,43.8,142,248,7.42,,,,
+QLD,301,Brisbane - East,Capital city,3,Technicians and Trades Workers,20843,21143,19263,-1.4,8.2,14656,70.3,204,448,21.49,,,,
+QLD,301,Brisbane - East,Capital city,4,Community and Personal Service Workers,16115,15644,14045,3.0,14.7,6119,38.0,9,25,1.55,,,,
+QLD,301,Brisbane - East,Capital city,5,Clerical and Administrative Workers,19877,20130,19639,-1.3,1.2,0,0.0,6,7,0.35,,,,
+QLD,301,Brisbane - East,Capital city,6,Sales Workers,11056,10892,12053,1.5,-8.3,484,4.4,0,0,0.0,,,,
+QLD,301,Brisbane - East,Capital city,7,Machinery Operators and Drivers,8731,8187,7964,6.6,9.6,3444,39.4,0,1,0.11,,,,
+QLD,301,Brisbane - East,Capital city,8,Labourers,12793,13215,12236,-3.2,4.6,782,6.1,0,0,0.0,,,,
+QLD,301,Brisbane - East,Capital city,All,All occupations,143044,141665,129829,1.0,10.2,41821,29.2,389,791,5.53,,,,
+QLD,302,Brisbane - North,Capital city,1,Managers,17938,17398,16401,3.1,9.4,1313,7.3,60,105,5.85,,,,
+QLD,302,Brisbane - North,Capital city,2,Professionals,43306,42635,34438,1.6,25.8,19101,44.1,183,330,7.62,,,,
+QLD,302,Brisbane - North,Capital city,3,Technicians and Trades Workers,17268,17667,16860,-2.3,2.4,11380,65.9,321,622,36.02,,,,
+QLD,302,Brisbane - North,Capital city,4,Community and Personal Service Workers,15907,15469,13195,2.8,20.6,5640,35.5,15,31,1.95,,,,
+QLD,302,Brisbane - North,Capital city,5,Clerical and Administrative Workers,20653,20413,20156,1.2,2.5,0,0.0,13,19,0.92,,,,
+QLD,302,Brisbane - North,Capital city,6,Sales Workers,12205,12118,10172,0.7,20.0,366,3.0,2,2,0.16,,,,
+QLD,302,Brisbane - North,Capital city,7,Machinery Operators and Drivers,6079,6287,6528,-3.3,-6.9,1506,24.8,0,2,0.33,,,,
+QLD,302,Brisbane - North,Capital city,8,Labourers,9270,9058,9337,2.3,-0.7,195,2.1,0,0,0.0,,,,
+QLD,302,Brisbane - North,Capital city,All,All occupations,142626,141045,127087,1.1,12.2,39501,27.7,594,1111,7.79,,,,
+QLD,303,Brisbane - South,Capital city,1,Managers,26185,26131,23616,0.2,10.9,2005,7.7,55,110,4.2,,,,
+QLD,303,Brisbane - South,Capital city,2,Professionals,74555,73593,63122,1.3,18.1,31365,42.1,213,396,5.31,,,,
+QLD,303,Brisbane - South,Capital city,3,Technicians and Trades Workers,28836,28594,23298,0.8,23.8,16239,56.3,324,830,28.78,,,,
+QLD,303,Brisbane - South,Capital city,4,Community and Personal Service Workers,25682,24548,19564,4.6,31.3,9340,36.4,126,162,6.31,,,,
+QLD,303,Brisbane - South,Capital city,5,Clerical and Administrative Workers,29981,30721,27826,-2.4,7.7,0,0.0,25,30,1.0,,,,
+QLD,303,Brisbane - South,Capital city,6,Sales Workers,18683,18751,19227,-0.4,-2.8,722,3.9,3,4,0.21,,,,
+QLD,303,Brisbane - South,Capital city,7,Machinery Operators and Drivers,13388,12797,11034,4.6,21.3,5177,38.7,0,0,0.0,,,,
+QLD,303,Brisbane - South,Capital city,8,Labourers,16020,15760,16633,1.6,-3.7,239,1.5,0,0,0.0,,,,
+QLD,303,Brisbane - South,Capital city,All,All occupations,233330,230895,204320,1.1,14.2,65087,27.9,746,1536,6.58,,,,
+QLD,304,Brisbane - West,Capital city,1,Managers,15700,15330,14841,2.4,5.8,1258,8.0,14,30,1.91,,,,
+QLD,304,Brisbane - West,Capital city,2,Professionals,44682,44334,37441,0.8,19.3,18587,41.6,90,126,2.82,,,,
+QLD,304,Brisbane - West,Capital city,3,Technicians and Trades Workers,10194,10045,9033,1.5,12.9,6142,60.3,86,176,17.27,,,,
+QLD,304,Brisbane - West,Capital city,4,Community and Personal Service Workers,11112,10776,9257,3.1,20.0,3678,33.1,9,14,1.26,,,,
+QLD,304,Brisbane - West,Capital city,5,Clerical and Administrative Workers,14718,14611,13293,0.7,10.7,0,0.0,2,2,0.14,,,,
+QLD,304,Brisbane - West,Capital city,6,Sales Workers,7941,8223,7366,-3.4,7.8,127,1.6,0,0,0.0,,,,
+QLD,304,Brisbane - West,Capital city,7,Machinery Operators and Drivers,3398,3245,2795,4.7,21.6,975,28.7,0,0,0.0,,,,
+QLD,304,Brisbane - West,Capital city,8,Labourers,5278,5270,5162,0.2,2.2,83,1.6,0,0,0.0,,,,
+QLD,304,Brisbane - West,Capital city,All,All occupations,113023,111834,99188,1.1,13.9,30850,27.3,201,348,3.08,,,,
+QLD,305,Brisbane Inner City,Capital city,1,Managers,31229,30422,27258,2.7,14.6,1950,6.2,375,704,22.54,,,,
+QLD,305,Brisbane Inner City,Capital city,2,Professionals,91540,90080,73083,1.6,25.3,33134,36.2,1111,2250,24.58,,,,
+QLD,305,Brisbane Inner City,Capital city,3,Technicians and Trades Workers,20057,19817,15753,1.2,27.3,10121,50.5,565,1206,60.13,,,,
+QLD,305,Brisbane Inner City,Capital city,4,Community and Personal Service Workers,22575,21961,18811,2.8,20.0,6064,26.9,62,107,4.74,,,,
+QLD,305,Brisbane Inner City,Capital city,5,Clerical and Administrative Workers,28429,28651,27504,-0.8,3.4,0,0.0,49,70,2.46,,,,
+QLD,305,Brisbane Inner City,Capital city,6,Sales Workers,13810,14008,14106,-1.4,-2.1,670,4.9,7,8,0.58,,,,
+QLD,305,Brisbane Inner City,Capital city,7,Machinery Operators and Drivers,6302,6586,4891,-4.3,28.8,1685,26.7,1,1,0.16,,,,
+QLD,305,Brisbane Inner City,Capital city,8,Labourers,11341,11369,9188,-0.2,23.4,218,1.9,0,1,0.09,,,,
+QLD,305,Brisbane Inner City,Capital city,All,All occupations,225283,222894,190594,1.1,18.2,53842,23.9,2227,4482,19.89,,,,
+QLD,306,Cairns,Rest of state,1,Managers,16954,16483,14891,2.9,13.9,1004,5.9,46,93,5.49,205.0,239.0,12.09,-14.2
+QLD,306,Cairns,Rest of state,2,Professionals,31682,30745,24363,3.0,30.0,18327,57.8,185,279,8.81,532.0,468.0,16.79,13.7
+QLD,306,Cairns,Rest of state,3,Technicians and Trades Workers,22078,22538,19735,-2.0,11.9,17336,78.5,221,482,21.83,337.0,370.0,15.26,-8.9
+QLD,306,Cairns,Rest of state,4,Community and Personal Service Workers,22409,21517,17684,4.1,26.7,9365,41.8,77,146,6.52,255.0,262.0,11.38,-2.7
+QLD,306,Cairns,Rest of state,5,Clerical and Administrative Workers,17134,17693,17289,-3.2,-0.9,0,0.0,3,10,0.58,299.0,296.0,17.45,1.0
+QLD,306,Cairns,Rest of state,6,Sales Workers,12294,12548,13282,-2.0,-7.4,505,4.1,2,7,0.57,189.0,187.0,15.37,1.1
+QLD,306,Cairns,Rest of state,7,Machinery Operators and Drivers,9169,9112,9251,0.6,-0.9,4795,52.3,8,10,1.09,179.0,162.0,19.52,10.5
+QLD,306,Cairns,Rest of state,8,Labourers,13473,13313,14090,1.2,-4.4,425,3.2,5,16,1.19,170.0,172.0,12.62,-1.2
+QLD,306,Cairns,Rest of state,All,All occupations,145193,143949,130585,0.9,11.2,51757,35.6,554,1074,7.4,2165.0,2156.0,14.91,0.4
+QLD,307,Darling Downs - Maranoa,Rest of state,1,Managers,11987,11654,10873,2.9,10.2,732,6.1,44,79,6.59,89.0,88.0,7.42,1.1
+QLD,307,Darling Downs - Maranoa,Rest of state,2,Professionals,9102,8731,7020,4.2,29.7,6548,71.9,45,124,13.62,212.0,233.0,23.29,-9.0
+QLD,307,Darling Downs - Maranoa,Rest of state,3,Technicians and Trades Workers,9405,10086,9718,-6.8,-3.2,7042,74.9,242,534,56.78,170.0,174.0,18.08,-2.3
+QLD,307,Darling Downs - Maranoa,Rest of state,4,Community and Personal Service Workers,7745,7338,6151,5.5,25.9,3788,48.9,20,41,5.29,118.0,129.0,15.24,-8.5
+QLD,307,Darling Downs - Maranoa,Rest of state,5,Clerical and Administrative Workers,8842,9139,8654,-3.2,2.2,0,0.0,0,2,0.23,122.0,132.0,13.8,-7.6
+QLD,307,Darling Downs - Maranoa,Rest of state,6,Sales Workers,4743,4904,5484,-3.3,-13.5,160,3.4,0,0,0.0,76.0,77.0,16.02,-1.3
+QLD,307,Darling Downs - Maranoa,Rest of state,7,Machinery Operators and Drivers,6590,6177,6703,6.7,-1.7,4568,69.3,1,1,0.15,94.0,90.0,14.26,4.4
+QLD,307,Darling Downs - Maranoa,Rest of state,8,Labourers,11033,11277,10257,-2.2,7.6,71,0.6,1,3,0.27,100.0,109.0,9.06,-8.3
+QLD,307,Darling Downs - Maranoa,Rest of state,All,All occupations,69447,69306,64860,0.2,7.1,22909,33.0,466,1211,17.44,982.0,1033.0,14.14,-4.9
+QLD,308,Central Queensland,Rest of state,1,Managers,13067,12844,15725,1.7,-16.9,874,6.7,25,43,3.29,183.0,198.0,14.0,-7.6
+QLD,308,Central Queensland,Rest of state,2,Professionals,20166,20325,16838,-0.8,19.8,11693,58.0,265,427,21.17,479.0,483.0,23.75,-0.8
+QLD,308,Central Queensland,Rest of state,3,Technicians and Trades Workers,23657,23748,20283,-0.4,16.6,18115,76.6,307,733,30.98,405.0,438.0,17.12,-7.5
+QLD,308,Central Queensland,Rest of state,4,Community and Personal Service Workers,17633,16834,13964,4.7,26.3,6834,38.8,39,50,2.84,206.0,226.0,11.68,-8.8
+QLD,308,Central Queensland,Rest of state,5,Clerical and Administrative Workers,15649,15752,14512,-0.7,7.8,0,0.0,3,5,0.32,227.0,247.0,14.51,-8.1
+QLD,308,Central Queensland,Rest of state,6,Sales Workers,8777,8730,9051,0.5,-3.0,617,7.0,0,0,0.0,174.0,171.0,19.82,1.8
+QLD,308,Central Queensland,Rest of state,7,Machinery Operators and Drivers,15603,15494,12325,0.7,26.6,10642,68.2,0,3,0.19,266.0,235.0,17.05,13.2
+QLD,308,Central Queensland,Rest of state,8,Labourers,16308,16143,15969,1.0,2.1,1491,9.1,1,6,0.37,192.0,172.0,11.77,11.6
+QLD,308,Central Queensland,Rest of state,All,All occupations,130860,129870,118667,0.8,10.3,50266,38.4,788,1639,12.52,2132.0,2171.0,16.29,-1.8
+QLD,309,Gold Coast,Rest of state,1,Managers,50474,48964,43265,3.1,16.7,6646,13.2,101,224,4.44,626.0,579.0,12.4,8.1
+QLD,309,Gold Coast,Rest of state,2,Professionals,98475,97712,75921,0.8,29.7,48573,49.3,352,602,6.11,1070.0,1198.0,10.87,-10.7
+QLD,309,Gold Coast,Rest of state,3,Technicians and Trades Workers,58511,59302,52612,-1.3,11.2,45566,77.9,606,1355,23.16,841.0,855.0,14.37,-1.6
+QLD,309,Gold Coast,Rest of state,4,Community and Personal Service Workers,54082,51298,40613,5.4,33.2,22318,41.3,87,136,2.51,580.0,680.0,10.72,-14.7
+QLD,309,Gold Coast,Rest of state,5,Clerical and Administrative Workers,49358,49463,45945,-0.2,7.4,0,0.0,26,33,0.67,757.0,893.0,15.34,-15.2
+QLD,309,Gold Coast,Rest of state,6,Sales Workers,37446,36444,37615,2.7,-0.4,810,2.2,3,11,0.29,536.0,615.0,14.31,-12.8
+QLD,309,Gold Coast,Rest of state,7,Machinery Operators and Drivers,18972,19541,18922,-2.9,0.3,8276,43.6,0,2,0.11,357.0,385.0,18.82,-7.3
+QLD,309,Gold Coast,Rest of state,8,Labourers,33228,33143,28055,0.3,18.4,1716,5.2,4,12,0.36,474.0,561.0,14.27,-15.5
+QLD,309,Gold Coast,Rest of state,All,All occupations,400546,395867,342948,1.2,16.8,133905,33.4,1179,2378,5.94,5241.0,5766.0,13.08,-9.1
+QLD,310,Ipswich,Capital city,1,Managers,22430,22049,19445,1.7,15.4,1262,5.6,46,75,3.34,,,,
+QLD,310,Ipswich,Capital city,2,Professionals,41277,41531,32316,-0.6,27.7,18880,45.7,171,280,6.78,,,,
+QLD,310,Ipswich,Capital city,3,Technicians and Trades Workers,30433,30626,26961,-0.6,12.9,21010,69.0,239,586,19.26,,,,
+QLD,310,Ipswich,Capital city,4,Community and Personal Service Workers,31080,28733,22104,8.2,40.6,15113,48.6,30,33,1.06,,,,
+QLD,310,Ipswich,Capital city,5,Clerical and Administrative Workers,26858,26659,23378,0.7,14.9,0,0.0,5,7,0.26,,,,
+QLD,310,Ipswich,Capital city,6,Sales Workers,15892,15212,14430,4.5,10.1,525,3.3,1,2,0.13,,,,
+QLD,310,Ipswich,Capital city,7,Machinery Operators and Drivers,21544,21131,18026,2.0,19.5,8225,38.2,6,15,0.7,,,,
+QLD,310,Ipswich,Capital city,8,Labourers,20501,20752,21040,-1.2,-2.6,773,3.8,0,0,0.0,,,,
+QLD,310,Ipswich,Capital city,All,All occupations,210015,206693,177700,1.6,18.2,65788,31.3,652,1433,6.82,,,,
+QLD,311,Logan - Beaudesert,Capital city,1,Managers,21242,20391,17322,4.2,22.6,1846,8.7,50,80,3.77,,,,
+QLD,311,Logan - Beaudesert,Capital city,2,Professionals,33562,32831,24789,2.2,35.4,14816,44.1,170,290,8.64,,,,
+QLD,311,Logan - Beaudesert,Capital city,3,Technicians and Trades Workers,37417,37717,30523,-0.8,22.6,27892,74.5,295,571,15.26,,,,
+QLD,311,Logan - Beaudesert,Capital city,4,Community and Personal Service Workers,28731,27074,21097,6.1,36.2,11772,41.0,92,114,3.97,,,,
+QLD,311,Logan - Beaudesert,Capital city,5,Clerical and Administrative Workers,29261,29032,23632,0.8,23.8,0,0.0,19,22,0.75,,,,
+QLD,311,Logan - Beaudesert,Capital city,6,Sales Workers,16333,16040,14635,1.8,11.6,680,4.2,0,1,0.06,,,,
+QLD,311,Logan - Beaudesert,Capital city,7,Machinery Operators and Drivers,21765,20794,20556,4.7,5.9,8042,36.9,1,1,0.05,,,,
+QLD,311,Logan - Beaudesert,Capital city,8,Labourers,22646,23268,21616,-2.7,4.8,844,3.7,3,17,0.75,,,,
+QLD,311,Logan - Beaudesert,Capital city,All,All occupations,210957,207147,174170,1.8,21.1,65892,31.2,646,1147,5.44,,,,
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,1,Managers,10700,10984,10788,-2.6,-0.8,758,7.1,37,71,6.64,201.0,212.0,18.79,-5.2
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,2,Professionals,16400,15957,12139,2.8,35.1,9848,60.0,191,348,21.22,465.0,409.0,28.35,13.7
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,3,Technicians and Trades Workers,23105,23050,19773,0.2,16.9,19299,83.5,394,1111,48.08,557.0,628.0,24.11,-11.3
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,4,Community and Personal Service Workers,13400,13175,10947,1.7,22.4,5262,39.3,30,39,2.91,175.0,175.0,13.06,0.0
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,5,Clerical and Administrative Workers,12970,13031,11782,-0.5,10.1,0,0.0,1,1,0.08,267.0,259.0,20.59,3.1
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,6,Sales Workers,10223,9738,9142,5.0,11.8,471,4.6,0,2,0.2,156.0,160.0,15.26,-2.5
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,7,Machinery Operators and Drivers,12581,12487,13312,0.8,-5.5,9203,73.1,0,0,0.0,349.0,349.0,27.74,0.0
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,8,Labourers,11177,11536,11772,-3.1,-5.1,524,4.7,0,4,0.36,207.0,204.0,18.52,1.5
+QLD,312,Mackay - Isaac - Whitsunday,Rest of state,All,All occupations,110556,109958,99655,0.5,10.9,45365,41.0,658,1621,14.66,2376.0,2396.0,21.49,-0.8
+QLD,313,Moreton Bay - North,Capital city,1,Managers,15616,15318,12926,1.9,20.8,1248,8.0,12,21,1.34,,,,
+QLD,313,Moreton Bay - North,Capital city,2,Professionals,21949,21437,17029,2.4,28.9,11081,50.5,146,227,10.34,,,,
+QLD,313,Moreton Bay - North,Capital city,3,Technicians and Trades Workers,23418,23367,19714,0.2,18.8,16249,69.4,132,266,11.36,,,,
+QLD,313,Moreton Bay - North,Capital city,4,Community and Personal Service Workers,19766,18232,15859,8.4,24.6,8303,42.0,18,23,1.16,,,,
+QLD,313,Moreton Bay - North,Capital city,5,Clerical and Administrative Workers,18204,17746,15595,2.6,16.7,0,0.0,2,4,0.22,,,,
+QLD,313,Moreton Bay - North,Capital city,6,Sales Workers,10793,11023,11004,-2.1,-1.9,787,7.3,1,1,0.09,,,,
+QLD,313,Moreton Bay - North,Capital city,7,Machinery Operators and Drivers,11311,11265,9459,0.4,19.6,5153,45.6,0,0,0.0,,,,
+QLD,313,Moreton Bay - North,Capital city,8,Labourers,15440,16057,14759,-3.8,4.6,428,2.8,2,3,0.19,,,,
+QLD,313,Moreton Bay - North,Capital city,All,All occupations,136497,134445,116345,1.5,17.3,43249,31.7,335,612,4.48,,,,
+QLD,314,Moreton Bay - South,Capital city,1,Managers,16618,16178,14647,2.7,13.5,1264,7.6,11,20,1.2,,,,
+QLD,314,Moreton Bay - South,Capital city,2,Professionals,33970,32924,25503,3.2,33.2,14803,43.6,41,81,2.38,,,,
+QLD,314,Moreton Bay - South,Capital city,3,Technicians and Trades Workers,18951,19202,17607,-1.3,7.6,12251,64.6,100,210,11.08,,,,
+QLD,314,Moreton Bay - South,Capital city,4,Community and Personal Service Workers,16760,16629,14062,0.8,19.2,5651,33.7,12,15,0.89,,,,
+QLD,314,Moreton Bay - South,Capital city,5,Clerical and Administrative Workers,19150,19003,18302,0.8,4.6,0,0.0,7,8,0.42,,,,
+QLD,314,Moreton Bay - South,Capital city,6,Sales Workers,11560,11614,12059,-0.5,-4.1,611,5.3,1,0,0.0,,,,
+QLD,314,Moreton Bay - South,Capital city,7,Machinery Operators and Drivers,8641,8182,7590,5.6,13.8,3446,39.9,0,0,0.0,,,,
+QLD,314,Moreton Bay - South,Capital city,8,Labourers,9261,9617,8435,-3.7,9.8,247,2.7,0,0,0.0,,,,
+QLD,314,Moreton Bay - South,Capital city,All,All occupations,134911,133349,118205,1.2,14.1,38273,28.4,172,334,2.48,,,,
+QLD,315,Queensland - Outback,Rest of state,1,Managers,5679,5763,6804,-1.5,-16.5,446,7.9,13,34,5.99,62.0,73.0,10.92,-15.1
+QLD,315,Queensland - Outback,Rest of state,2,Professionals,6492,6566,5825,-1.1,11.5,4007,61.7,86,144,22.18,233.0,207.0,35.89,12.6
+QLD,315,Queensland - Outback,Rest of state,3,Technicians and Trades Workers,7002,7008,6074,-0.1,15.3,5719,81.7,81,234,33.42,132.0,126.0,18.85,4.8
+QLD,315,Queensland - Outback,Rest of state,4,Community and Personal Service Workers,4312,4226,4626,2.0,-6.8,1435,33.3,11,14,3.25,72.0,81.0,16.7,-11.1
+QLD,315,Queensland - Outback,Rest of state,5,Clerical and Administrative Workers,5268,5132,4703,2.7,12.0,0,0.0,2,5,0.95,101.0,100.0,19.17,1.0
+QLD,315,Queensland - Outback,Rest of state,6,Sales Workers,2627,2606,2698,0.8,-2.6,57,2.2,0,0,0.0,50.0,48.0,19.03,4.2
+QLD,315,Queensland - Outback,Rest of state,7,Machinery Operators and Drivers,4404,4183,3809,5.3,15.6,3666,83.2,0,2,0.45,75.0,60.0,17.03,25.0
+QLD,315,Queensland - Outback,Rest of state,8,Labourers,4372,4713,5264,-7.2,-16.9,205,4.7,5,17,3.89,59.0,54.0,13.49,9.3
+QLD,315,Queensland - Outback,Rest of state,All,All occupations,40156,40197,39803,-0.1,0.9,15535,38.7,224,509,12.68,784.0,749.0,19.52,4.7
+QLD,316,Sunshine Coast,Rest of state,1,Managers,28237,28137,25357,0.4,11.4,2429,8.6,32,87,3.08,278.0,258.0,9.85,7.8
+QLD,316,Sunshine Coast,Rest of state,2,Professionals,57114,55443,45139,3.0,26.5,29429,51.5,216,307,5.38,670.0,710.0,11.73,-5.6
+QLD,316,Sunshine Coast,Rest of state,3,Technicians and Trades Workers,34505,35081,30651,-1.6,12.6,25063,72.6,347,803,23.27,488.0,509.0,14.14,-4.1
+QLD,316,Sunshine Coast,Rest of state,4,Community and Personal Service Workers,31761,30763,25400,3.2,25.0,12582,39.6,89,153,4.82,400.0,441.0,12.59,-9.3
+QLD,316,Sunshine Coast,Rest of state,5,Clerical and Administrative Workers,26887,26220,23788,2.5,13.0,0,0.0,6,7,0.26,414.0,469.0,15.4,-11.7
+QLD,316,Sunshine Coast,Rest of state,6,Sales Workers,18442,18898,17669,-2.4,4.4,512,2.8,0,0,0.0,340.0,344.0,18.44,-1.2
+QLD,316,Sunshine Coast,Rest of state,7,Machinery Operators and Drivers,11197,10888,9733,2.8,15.0,5734,51.2,0,2,0.18,176.0,154.0,15.72,14.3
+QLD,316,Sunshine Coast,Rest of state,8,Labourers,18961,18827,18609,0.7,1.9,536,2.8,3,24,1.27,292.0,276.0,15.4,5.8
+QLD,316,Sunshine Coast,Rest of state,All,All occupations,227104,224257,196346,1.3,15.7,76285,33.6,695,1388,6.11,3058.0,3160.0,13.47,-3.2
+QLD,317,Toowoomba,Rest of state,1,Managers,10600,10272,9360,3.2,13.2,1015,9.6,18,32,3.02,104.0,97.0,9.81,7.2
+QLD,317,Toowoomba,Rest of state,2,Professionals,19347,19147,14941,1.0,29.5,10869,56.2,73,139,7.18,207.0,232.0,10.7,-10.8
+QLD,317,Toowoomba,Rest of state,3,Technicians and Trades Workers,12652,12788,12390,-1.1,2.1,9817,77.6,118,301,23.79,185.0,168.0,14.62,10.1
+QLD,317,Toowoomba,Rest of state,4,Community and Personal Service Workers,10973,10541,8935,4.1,22.8,4708,42.9,10,15,1.37,141.0,152.0,12.85,-7.2
+QLD,317,Toowoomba,Rest of state,5,Clerical and Administrative Workers,11024,11319,9719,-2.6,13.4,0,0.0,4,5,0.45,146.0,139.0,13.24,5.0
+QLD,317,Toowoomba,Rest of state,6,Sales Workers,6681,6493,6227,2.9,7.3,583,8.7,0,0,0.0,97.0,102.0,14.52,-4.9
+QLD,317,Toowoomba,Rest of state,7,Machinery Operators and Drivers,6370,6025,6767,5.7,-5.9,3382,53.1,0,2,0.31,117.0,99.0,18.37,18.2
+QLD,317,Toowoomba,Rest of state,8,Labourers,9970,10285,9833,-3.1,1.4,76,0.8,0,2,0.2,107.0,111.0,10.73,-3.6
+QLD,317,Toowoomba,Rest of state,All,All occupations,87617,86870,78172,0.9,12.1,30450,34.8,341,722,8.24,1103.0,1100.0,12.59,0.3
+QLD,318,Townsville,Rest of state,1,Managers,12866,13032,12966,-1.3,-0.8,957,7.4,22,40,3.11,217.0,230.0,16.87,-5.7
+QLD,318,Townsville,Rest of state,2,Professionals,26536,26065,20591,1.8,28.9,15643,59.0,191,348,13.11,498.0,498.0,18.77,0.0
+QLD,318,Townsville,Rest of state,3,Technicians and Trades Workers,20990,21363,19418,-1.7,8.1,16256,77.4,243,542,25.82,394.0,388.0,18.77,1.5
+QLD,318,Townsville,Rest of state,4,Community and Personal Service Workers,17945,17126,14353,4.8,25.0,7707,42.9,85,115,6.41,252.0,246.0,14.04,2.4
+QLD,318,Townsville,Rest of state,5,Clerical and Administrative Workers,16260,16282,15752,-0.1,3.2,0,0.0,4,3,0.18,265.0,256.0,16.3,3.5
+QLD,318,Townsville,Rest of state,6,Sales Workers,8424,8934,12716,-5.7,-33.8,665,7.9,0,0,0.0,198.0,201.0,23.5,-1.5
+QLD,318,Townsville,Rest of state,7,Machinery Operators and Drivers,10967,10653,9420,2.9,16.4,5842,53.3,18,22,2.01,253.0,196.0,23.07,29.1
+QLD,318,Townsville,Rest of state,8,Labourers,12417,12213,11673,1.7,6.4,776,6.2,1,10,0.81,196.0,195.0,15.78,0.5
+QLD,318,Townsville,Rest of state,All,All occupations,126405,125668,116889,0.6,8.1,47846,37.9,610,1175,9.3,2274.0,2211.0,17.99,2.8
+QLD,319,Wide Bay,Rest of state,1,Managers,15258,15064,17447,1.3,-12.5,1097,7.2,24,49,3.21,145.0,133.0,9.5,9.0
+QLD,319,Wide Bay,Rest of state,2,Professionals,25029,24336,19576,2.8,27.9,15712,62.8,265,464,18.54,475.0,460.0,18.98,3.3
+QLD,319,Wide Bay,Rest of state,3,Technicians and Trades Workers,21857,21573,19047,1.3,14.8,16830,77.0,133,274,12.54,230.0,232.0,10.52,-0.9
+QLD,319,Wide Bay,Rest of state,4,Community and Personal Service Workers,23767,22325,18681,6.5,27.2,11341,47.7,15,37,1.56,277.0,267.0,11.65,3.7
+QLD,319,Wide Bay,Rest of state,5,Clerical and Administrative Workers,16611,17007,16052,-2.3,3.5,0,0.0,0,0,0.0,199.0,204.0,11.98,-2.5
+QLD,319,Wide Bay,Rest of state,6,Sales Workers,13867,13900,10378,-0.2,33.6,453,3.3,1,2,0.14,147.0,133.0,10.6,10.5
+QLD,319,Wide Bay,Rest of state,7,Machinery Operators and Drivers,12135,12258,10415,-1.0,16.5,8223,67.8,2,2,0.16,134.0,109.0,11.04,22.9
+QLD,319,Wide Bay,Rest of state,8,Labourers,17080,17331,16652,-1.4,2.6,331,1.9,2,6,0.35,173.0,141.0,10.13,22.7
+QLD,319,Wide Bay,Rest of state,All,All occupations,145604,143794,128248,1.3,13.5,53987,37.1,473,964,6.62,1781.0,1679.0,12.23,6.1
+SA,401,Adelaide - Central and Hills,Capital city,1,Managers,25484,25836,24087,-1.4,5.8,1920,7.5,110,168,6.59,,,,
+SA,401,Adelaide - Central and Hills,Capital city,2,Professionals,64569,64302,55641,0.4,16.0,32224,49.9,386,671,10.39,,,,
+SA,401,Adelaide - Central and Hills,Capital city,3,Technicians and Trades Workers,22126,21673,19096,2.1,15.9,12947,58.5,211,406,18.35,,,,
+SA,401,Adelaide - Central and Hills,Capital city,4,Community and Personal Service Workers,23510,22654,16491,3.8,42.6,9931,42.2,40,63,2.68,,,,
+SA,401,Adelaide - Central and Hills,Capital city,5,Clerical and Administrative Workers,24546,23455,20820,4.7,17.9,349,1.4,20,26,1.06,,,,
+SA,401,Adelaide - Central and Hills,Capital city,6,Sales Workers,12772,13289,14340,-3.9,-10.9,0,0.0,0,3,0.23,,,,
+SA,401,Adelaide - Central and Hills,Capital city,7,Machinery Operators and Drivers,6652,6396,5576,4.0,19.3,2450,36.8,0,0,0.0,,,,
+SA,401,Adelaide - Central and Hills,Capital city,8,Labourers,12329,12035,12246,2.4,0.7,194,1.6,0,1,0.08,,,,
+SA,401,Adelaide - Central and Hills,Capital city,All,All occupations,191988,189640,168297,1.2,14.1,60015,31.3,769,1343,7.0,,,,
+SA,402,Adelaide - North,Capital city,1,Managers,22077,22901,22048,-3.6,0.1,1496,6.8,36,48,2.17,,,,
+SA,402,Adelaide - North,Capital city,2,Professionals,44391,44016,39704,0.9,11.8,22955,51.7,186,287,6.47,,,,
+SA,402,Adelaide - North,Capital city,3,Technicians and Trades Workers,37171,38481,32537,-3.4,14.2,24641,66.3,167,376,10.12,,,,
+SA,402,Adelaide - North,Capital city,4,Community and Personal Service Workers,37137,35361,27319,5.0,35.9,19458,52.4,38,81,2.18,,,,
+SA,402,Adelaide - North,Capital city,5,Clerical and Administrative Workers,34772,33734,30392,3.1,14.4,144,0.4,7,9,0.26,,,,
+SA,402,Adelaide - North,Capital city,6,Sales Workers,19531,19587,19277,-0.3,1.3,0,0.0,0,0,0.0,,,,
+SA,402,Adelaide - North,Capital city,7,Machinery Operators and Drivers,21941,20360,18258,7.8,20.2,9613,43.8,9,9,0.41,,,,
+SA,402,Adelaide - North,Capital city,8,Labourers,27097,26546,25463,2.1,6.4,686,2.5,1,1,0.04,,,,
+SA,402,Adelaide - North,Capital city,All,All occupations,244117,240986,214998,1.3,13.5,78993,32.4,449,830,3.4,,,,
+SA,403,Adelaide - South,Capital city,1,Managers,23110,23870,23401,-3.2,-1.2,1606,6.9,16,25,1.08,,,,
+SA,403,Adelaide - South,Capital city,2,Professionals,55943,55206,48063,1.3,16.4,30037,53.7,189,246,4.4,,,,
+SA,403,Adelaide - South,Capital city,3,Technicians and Trades Workers,31207,31290,27626,-0.3,13.0,20558,65.9,119,220,7.05,,,,
+SA,403,Adelaide - South,Capital city,4,Community and Personal Service Workers,33279,31316,26256,6.3,26.7,15752,47.3,32,48,1.44,,,,
+SA,403,Adelaide - South,Capital city,5,Clerical and Administrative Workers,29455,29099,25459,1.2,15.7,255,0.9,3,4,0.14,,,,
+SA,403,Adelaide - South,Capital city,6,Sales Workers,15143,15683,16366,-3.4,-7.5,0,0.0,1,2,0.13,,,,
+SA,403,Adelaide - South,Capital city,7,Machinery Operators and Drivers,9962,9277,8533,7.4,16.7,3569,35.8,0,0,0.0,,,,
+SA,403,Adelaide - South,Capital city,8,Labourers,15120,14959,16391,1.1,-7.8,511,3.4,1,10,0.66,,,,
+SA,403,Adelaide - South,Capital city,All,All occupations,213219,210700,192095,1.2,11.0,72288,33.9,362,557,2.61,,,,
+SA,404,Adelaide - West,Capital city,1,Managers,16253,16081,14957,1.1,8.7,1316,8.1,37,62,3.81,,,,
+SA,404,Adelaide - West,Capital city,2,Professionals,36601,36950,32347,-0.9,13.2,19142,52.3,104,180,4.92,,,,
+SA,404,Adelaide - West,Capital city,3,Technicians and Trades Workers,19246,19388,17416,-0.7,10.5,11903,61.8,315,611,31.75,,,,
+SA,404,Adelaide - West,Capital city,4,Community and Personal Service Workers,20646,19815,15420,4.2,33.9,9325,45.2,38,54,2.62,,,,
+SA,404,Adelaide - West,Capital city,5,Clerical and Administrative Workers,21097,20871,18192,1.1,16.0,120,0.6,13,16,0.76,,,,
+SA,404,Adelaide - West,Capital city,6,Sales Workers,11144,11119,11278,0.2,-1.2,0,0.0,0,0,0.0,,,,
+SA,404,Adelaide - West,Capital city,7,Machinery Operators and Drivers,8480,7788,7163,8.9,18.4,2756,32.5,1,1,0.12,,,,
+SA,404,Adelaide - West,Capital city,8,Labourers,12422,11970,12192,3.8,1.9,370,3.0,4,11,0.89,,,,
+SA,404,Adelaide - West,Capital city,All,All occupations,145889,143982,128965,1.3,13.1,44932,30.8,528,964,6.61,,,,
+SA,405,Barossa - Yorke - Mid North,Rest of state,1,Managers,10398,9984,9040,4.1,15.0,740,7.1,8,11,1.06,46.0,37.0,4.42,24.3
+SA,405,Barossa - Yorke - Mid North,Rest of state,2,Professionals,8367,8221,7249,1.8,15.4,5787,69.2,58,78,9.32,181.0,155.0,21.63,16.8
+SA,405,Barossa - Yorke - Mid North,Rest of state,3,Technicians and Trades Workers,8231,8456,7862,-2.7,4.7,6254,76.0,37,79,9.6,72.0,60.0,8.75,20.0
+SA,405,Barossa - Yorke - Mid North,Rest of state,4,Community and Personal Service Workers,6606,6773,6042,-2.5,9.3,3370,51.0,16,21,3.18,91.0,101.0,13.78,-9.9
+SA,405,Barossa - Yorke - Mid North,Rest of state,5,Clerical and Administrative Workers,6280,6098,6069,3.0,3.5,24,0.4,0,0,0.0,60.0,46.0,9.55,30.4
+SA,405,Barossa - Yorke - Mid North,Rest of state,6,Sales Workers,3687,3662,4142,0.7,-11.0,0,0.0,0,0,0.0,32.0,26.0,8.68,23.1
+SA,405,Barossa - Yorke - Mid North,Rest of state,7,Machinery Operators and Drivers,5247,5138,4555,2.1,15.2,3295,62.8,0,0,0.0,34.0,32.0,6.48,6.2
+SA,405,Barossa - Yorke - Mid North,Rest of state,8,Labourers,7588,7592,7651,-0.1,-0.8,56,0.7,0,3,0.4,49.0,54.0,6.46,-9.3
+SA,405,Barossa - Yorke - Mid North,Rest of state,All,All occupations,56404,55924,52610,0.9,7.2,19526,34.6,141,256,4.54,565.0,511.0,10.02,10.6
+SA,406,South Australia - Outback,Rest of state,1,Managers,4826,4900,4394,-1.5,9.8,455,9.4,9,14,2.9,50.0,34.0,10.36,47.1
+SA,406,South Australia - Outback,Rest of state,2,Professionals,5977,5835,5701,2.4,4.8,3987,66.7,50,104,17.4,218.0,170.0,36.47,28.2
+SA,406,South Australia - Outback,Rest of state,3,Technicians and Trades Workers,5705,5738,6357,-0.6,-10.3,4065,71.3,86,229,40.14,106.0,104.0,18.58,1.9
+SA,406,South Australia - Outback,Rest of state,4,Community and Personal Service Workers,6191,6225,4883,-0.5,26.8,2220,35.9,21,44,7.11,99.0,87.0,15.99,13.8
+SA,406,South Australia - Outback,Rest of state,5,Clerical and Administrative Workers,3661,3736,4474,-2.0,-18.2,11,0.3,1,1,0.27,64.0,63.0,17.48,1.6
+SA,406,South Australia - Outback,Rest of state,6,Sales Workers,3723,3822,3464,-2.6,7.5,0,0.0,0,0,0.0,43.0,35.0,11.55,22.9
+SA,406,South Australia - Outback,Rest of state,7,Machinery Operators and Drivers,4987,4916,4350,1.4,14.6,3581,71.8,3,4,0.8,49.0,44.0,9.83,11.4
+SA,406,South Australia - Outback,Rest of state,8,Labourers,5339,5145,5372,3.8,-0.6,190,3.6,14,39,7.3,51.0,49.0,9.55,4.1
+SA,406,South Australia - Outback,Rest of state,All,All occupations,40409,40317,38995,0.2,3.6,14509,35.9,186,437,10.81,679.0,587.0,16.8,15.7
+SA,407,South Australia - South East,Rest of state,1,Managers,17514,16909,15223,3.6,15.0,850,4.9,19,58,3.31,73.0,80.0,4.17,-8.8
+SA,407,South Australia - South East,Rest of state,2,Professionals,12419,12415,11431,0.0,8.6,7634,61.5,55,101,8.13,259.0,207.0,20.86,25.1
+SA,407,South Australia - South East,Rest of state,3,Technicians and Trades Workers,14788,14990,13668,-1.3,8.2,11330,76.6,114,233,15.76,116.0,105.0,7.84,10.5
+SA,407,South Australia - South East,Rest of state,4,Community and Personal Service Workers,13351,12919,10923,3.3,22.2,6441,48.2,29,73,5.47,133.0,119.0,9.96,11.8
+SA,407,South Australia - South East,Rest of state,5,Clerical and Administrative Workers,10169,10422,9674,-2.4,5.1,59,0.6,1,1,0.1,102.0,84.0,10.03,21.4
+SA,407,South Australia - South East,Rest of state,6,Sales Workers,8031,7993,7410,0.5,8.4,0,0.0,0,0,0.0,77.0,80.0,9.59,-3.7
+SA,407,South Australia - South East,Rest of state,7,Machinery Operators and Drivers,7084,7177,7080,-1.3,0.1,4819,68.0,9,21,2.96,54.0,59.0,7.62,-8.5
+SA,407,South Australia - South East,Rest of state,8,Labourers,14469,14132,14700,2.4,-1.6,69,0.5,1,1,0.07,108.0,90.0,7.46,20.0
+SA,407,South Australia - South East,Rest of state,All,All occupations,97825,96957,90109,0.9,8.6,31202,31.9,329,761,7.78,922.0,824.0,9.42,11.9
+WA,501,Bunbury,Rest of state,1,Managers,13870,14202,11787,-2.3,17.7,1156,8.3,28,59,4.25,113.0,106.0,8.15,6.6
+WA,501,Bunbury,Rest of state,2,Professionals,17385,17557,15295,-1.0,13.7,9499,54.6,97,230,13.23,273.0,252.0,15.7,8.3
+WA,501,Bunbury,Rest of state,3,Technicians and Trades Workers,21444,20929,17686,2.5,21.2,16092,75.0,185,506,23.6,235.0,257.0,10.96,-8.6
+WA,501,Bunbury,Rest of state,4,Community and Personal Service Workers,11630,12281,11645,-5.3,-0.1,4728,40.7,69,166,14.27,114.0,110.0,9.8,3.6
+WA,501,Bunbury,Rest of state,5,Clerical and Administrative Workers,12362,11831,12777,4.5,-3.2,610,4.9,2,4,0.32,132.0,145.0,10.68,-9.0
+WA,501,Bunbury,Rest of state,6,Sales Workers,9966,9691,8050,2.8,23.8,0,0.0,13,28,2.81,127.0,111.0,12.74,14.4
+WA,501,Bunbury,Rest of state,7,Machinery Operators and Drivers,12025,11596,10258,3.7,17.2,8745,72.7,14,40,3.33,87.0,83.0,7.23,4.8
+WA,501,Bunbury,Rest of state,8,Labourers,12955,12805,12057,1.2,7.4,1245,9.6,16,51,3.94,119.0,117.0,9.19,1.7
+WA,501,Bunbury,Rest of state,All,All occupations,111637,110892,99555,0.7,12.1,42075,37.7,476,1323,11.85,1200.0,1180.0,10.75,1.7
+WA,502,Mandurah,Capital city,1,Managers,5196,4995,3800,4.0,36.7,1087,20.9,5,12,2.31,,,,
+WA,502,Mandurah,Capital city,2,Professionals,7325,6947,5620,5.4,30.3,4818,65.8,53,83,11.33,,,,
+WA,502,Mandurah,Capital city,3,Technicians and Trades Workers,12546,12385,10111,1.3,24.1,8601,68.6,61,133,10.6,,,,
+WA,502,Mandurah,Capital city,4,Community and Personal Service Workers,7448,7659,6757,-2.8,10.2,3247,43.6,4,4,0.54,,,,
+WA,502,Mandurah,Capital city,5,Clerical and Administrative Workers,5977,6184,5922,-3.3,0.9,737,12.3,2,2,0.33,,,,
+WA,502,Mandurah,Capital city,6,Sales Workers,4816,4653,3872,3.5,24.4,0,0.0,0,0,0.0,,,,
+WA,502,Mandurah,Capital city,7,Machinery Operators and Drivers,6995,6798,6171,2.9,13.4,2371,33.9,0,0,0.0,,,,
+WA,502,Mandurah,Capital city,8,Labourers,6020,5877,5211,2.4,15.5,391,6.5,1,1,0.17,,,,
+WA,502,Mandurah,Capital city,All,All occupations,56323,55498,47464,1.5,18.7,21252,37.7,127,243,4.31,,,,
+WA,503,Perth - Inner,Capital city,1,Managers,16994,17236,15563,-1.4,9.2,1361,8.0,342,608,35.78,,,,
+WA,503,Perth - Inner,Capital city,2,Professionals,56353,54659,44465,3.1,26.7,27400,48.6,1253,2281,40.48,,,,
+WA,503,Perth - Inner,Capital city,3,Technicians and Trades Workers,11932,11628,10380,2.6,15.0,5728,48.0,502,976,81.8,,,,
+WA,503,Perth - Inner,Capital city,4,Community and Personal Service Workers,12210,12532,9935,-2.6,22.9,4454,36.5,64,96,7.86,,,,
+WA,503,Perth - Inner,Capital city,5,Clerical and Administrative Workers,13738,13741,11923,-0.0,15.2,2011,14.6,58,78,5.68,,,,
+WA,503,Perth - Inner,Capital city,6,Sales Workers,6861,7081,5487,-3.1,25.0,0,0.0,4,16,2.33,,,,
+WA,503,Perth - Inner,Capital city,7,Machinery Operators and Drivers,4273,4145,3174,3.1,34.6,758,17.7,2,4,0.94,,,,
+WA,503,Perth - Inner,Capital city,8,Labourers,6412,6352,7005,0.9,-8.5,251,3.9,0,17,2.65,,,,
+WA,503,Perth - Inner,Capital city,All,All occupations,128773,127374,107932,1.1,19.3,41963,32.6,2225,4078,31.67,,,,
+WA,504,Perth - North East,Capital city,1,Managers,18850,18922,17146,-0.4,9.9,1317,7.0,33,65,3.45,,,,
+WA,504,Perth - North East,Capital city,2,Professionals,41952,40483,32105,3.6,30.7,18137,43.2,204,325,7.75,,,,
+WA,504,Perth - North East,Capital city,3,Technicians and Trades Workers,30077,29421,25402,2.2,18.4,18738,62.3,438,1150,38.24,,,,
+WA,504,Perth - North East,Capital city,4,Community and Personal Service Workers,20720,21079,17253,-1.7,20.1,9411,45.4,20,37,1.79,,,,
+WA,504,Perth - North East,Capital city,5,Clerical and Administrative Workers,24793,24515,22237,1.1,11.5,1850,7.5,5,7,0.28,,,,
+WA,504,Perth - North East,Capital city,6,Sales Workers,12957,13030,11156,-0.6,16.1,0,0.0,1,1,0.08,,,,
+WA,504,Perth - North East,Capital city,7,Machinery Operators and Drivers,15273,15049,12918,1.5,18.2,5182,33.9,4,4,0.26,,,,
+WA,504,Perth - North East,Capital city,8,Labourers,16080,15971,14734,0.7,9.1,822,5.1,3,5,0.31,,,,
+WA,504,Perth - North East,Capital city,All,All occupations,180702,178470,152951,1.3,18.1,55457,30.7,708,1596,8.83,,,,
+WA,505,Perth - North West,Capital city,1,Managers,41217,40291,36890,2.3,11.7,3934,9.5,66,133,3.23,,,,
+WA,505,Perth - North West,Capital city,2,Professionals,92936,92051,74016,1.0,25.6,44738,48.1,286,479,5.15,,,,
+WA,505,Perth - North West,Capital city,3,Technicians and Trades Workers,63824,62550,54230,2.0,17.7,43669,68.4,779,1615,25.3,,,,
+WA,505,Perth - North West,Capital city,4,Community and Personal Service Workers,41689,42789,34934,-2.6,19.3,17124,41.1,76,99,2.37,,,,
+WA,505,Perth - North West,Capital city,5,Clerical and Administrative Workers,49256,48001,46548,2.6,5.8,5443,11.1,32,37,0.75,,,,
+WA,505,Perth - North West,Capital city,6,Sales Workers,27681,28754,27425,-3.7,0.9,0,0.0,3,5,0.18,,,,
+WA,505,Perth - North West,Capital city,7,Machinery Operators and Drivers,24414,23774,20773,2.7,17.5,7321,30.0,6,5,0.2,,,,
+WA,505,Perth - North West,Capital city,8,Labourers,30070,30222,28533,-0.5,5.4,2467,8.2,23,48,1.6,,,,
+WA,505,Perth - North West,Capital city,All,All occupations,371087,368432,323349,0.7,14.8,124696,33.6,1271,2421,6.52,,,,
+WA,506,Perth - South East,Capital city,1,Managers,33425,32309,28117,3.5,18.9,2753,8.2,144,246,7.36,,,,
+WA,506,Perth - South East,Capital city,2,Professionals,83774,81712,65873,2.5,27.2,40654,48.5,417,740,8.83,,,,
+WA,506,Perth - South East,Capital city,3,Technicians and Trades Workers,56736,55578,48422,2.1,17.2,37848,66.7,1107,2756,48.58,,,,
+WA,506,Perth - South East,Capital city,4,Community and Personal Service Workers,40379,41164,30061,-1.9,34.3,16472,40.8,128,178,4.41,,,,
+WA,506,Perth - South East,Capital city,5,Clerical and Administrative Workers,40471,40543,37875,-0.2,6.9,3078,7.6,32,37,0.91,,,,
+WA,506,Perth - South East,Capital city,6,Sales Workers,25734,25431,25040,1.2,2.8,0,0.0,4,5,0.19,,,,
+WA,506,Perth - South East,Capital city,7,Machinery Operators and Drivers,28413,28829,23934,-1.4,18.7,8741,30.8,28,56,1.97,,,,
+WA,506,Perth - South East,Capital city,8,Labourers,30687,30403,29463,0.9,4.2,994,3.2,0,39,1.27,,,,
+WA,506,Perth - South East,Capital city,All,All occupations,339619,335969,288785,1.1,17.6,110540,32.5,1865,4065,11.97,,,,
+WA,507,Perth - South West,Capital city,1,Managers,29821,30149,24630,-1.1,21.1,2617,8.8,81,153,5.13,,,,
+WA,507,Perth - South West,Capital city,2,Professionals,78558,77018,59028,2.0,33.1,38525,49.0,572,861,10.96,,,,
+WA,507,Perth - South West,Capital city,3,Technicians and Trades Workers,48263,46473,41675,3.9,15.8,32348,67.0,1020,1951,40.42,,,,
+WA,507,Perth - South West,Capital city,4,Community and Personal Service Workers,32181,32964,27062,-2.4,18.9,12140,37.7,27,49,1.52,,,,
+WA,507,Perth - South West,Capital city,5,Clerical and Administrative Workers,34790,33918,32222,2.6,8.0,4176,12.0,11,18,0.52,,,,
+WA,507,Perth - South West,Capital city,6,Sales Workers,20076,19926,20950,0.8,-4.2,0,0.0,1,5,0.25,,,,
+WA,507,Perth - South West,Capital city,7,Machinery Operators and Drivers,20487,20685,19195,-1.0,6.7,6459,31.5,11,21,1.03,,,,
+WA,507,Perth - South West,Capital city,8,Labourers,22190,21755,19433,2.0,14.2,2078,9.4,3,15,0.68,,,,
+WA,507,Perth - South West,Capital city,All,All occupations,286366,282888,244195,1.2,17.3,98343,34.3,1729,3078,10.75,,,,
+WA,509,Western Australia - Wheat Belt,Rest of state,1,Managers,14723,15136,13190,-2.7,11.6,858,5.8,26,71,4.82,63.0,78.0,4.28,-19.2
+WA,509,Western Australia - Wheat Belt,Rest of state,2,Professionals,9840,9610,8298,2.4,18.6,6231,63.3,79,178,18.09,143.0,141.0,14.53,1.4
+WA,509,Western Australia - Wheat Belt,Rest of state,3,Technicians and Trades Workers,11022,10797,11479,2.1,-4.0,8216,74.5,206,588,53.35,126.0,114.0,11.43,10.5
+WA,509,Western Australia - Wheat Belt,Rest of state,4,Community and Personal Service Workers,9076,9066,7903,0.1,14.8,4042,44.5,16,54,5.95,65.0,67.0,7.16,-3.0
+WA,509,Western Australia - Wheat Belt,Rest of state,5,Clerical and Administrative Workers,8440,7847,8512,7.6,-0.8,628,7.4,1,1,0.12,83.0,78.0,9.83,6.4
+WA,509,Western Australia - Wheat Belt,Rest of state,6,Sales Workers,5929,5830,4978,1.7,19.1,0,0.0,0,0,0.0,58.0,66.0,9.78,-12.1
+WA,509,Western Australia - Wheat Belt,Rest of state,7,Machinery Operators and Drivers,7648,7917,6801,-3.4,12.5,5737,75.0,14,31,4.05,61.0,52.0,7.98,17.3
+WA,509,Western Australia - Wheat Belt,Rest of state,8,Labourers,9556,9919,10210,-3.7,-6.4,619,6.5,7,10,1.05,73.0,78.0,7.64,-6.4
+WA,509,Western Australia - Wheat Belt,Rest of state,All,All occupations,76234,76122,71371,0.1,6.8,26331,34.5,467,1137,14.91,673.0,673.0,8.83,0.0
+WA,510,Western Australia - Outback (North),Rest of state,1,Managers,6274,6288,5867,-0.2,6.9,456,7.3,67,101,16.1,128.0,132.0,20.4,-3.0
+WA,510,Western Australia - Outback (North),Rest of state,2,Professionals,8017,8091,8195,-0.9,-2.2,4748,59.2,234,395,49.27,332.0,366.0,41.41,-9.3
+WA,510,Western Australia - Outback (North),Rest of state,3,Technicians and Trades Workers,11465,11233,10216,2.1,12.2,8421,73.4,629,1219,106.32,486.0,471.0,42.39,3.2
+WA,510,Western Australia - Outback (North),Rest of state,4,Community and Personal Service Workers,4746,5062,4936,-6.2,-3.8,1940,40.9,66,139,29.29,135.0,147.0,28.45,-8.2
+WA,510,Western Australia - Outback (North),Rest of state,5,Clerical and Administrative Workers,5771,5530,5903,4.4,-2.2,431,7.5,19,29,5.03,182.0,189.0,31.54,-3.7
+WA,510,Western Australia - Outback (North),Rest of state,6,Sales Workers,3782,3875,3188,-2.4,18.6,0,0.0,16,48,12.69,87.0,76.0,23.0,14.5
+WA,510,Western Australia - Outback (North),Rest of state,7,Machinery Operators and Drivers,8028,7886,6053,1.8,32.6,6617,82.4,47,126,15.7,191.0,187.0,23.79,2.1
+WA,510,Western Australia - Outback (North),Rest of state,8,Labourers,5385,5518,5829,-2.4,-7.6,518,9.6,48,69,12.81,152.0,171.0,28.23,-11.1
+WA,510,Western Australia - Outback (North),Rest of state,All,All occupations,53468,53483,50187,-0.0,6.5,23131,43.3,1132,2136,39.95,1693.0,1739.0,31.66,-2.6
+WA,511,Western Australia - Outback (South),Rest of state,1,Managers,8461,8507,7745,-0.5,9.2,535,6.3,40,100,11.82,132.0,101.0,15.6,30.7
+WA,511,Western Australia - Outback (South),Rest of state,2,Professionals,9655,9717,10057,-0.6,-4.0,5862,60.7,304,587,60.8,312.0,285.0,32.31,9.5
+WA,511,Western Australia - Outback (South),Rest of state,3,Technicians and Trades Workers,14033,13778,12518,1.9,12.1,10630,75.8,425,1017,72.47,400.0,367.0,28.5,9.0
+WA,511,Western Australia - Outback (South),Rest of state,4,Community and Personal Service Workers,6197,6585,6370,-5.9,-2.7,2569,41.5,58,96,15.49,78.0,82.0,12.59,-4.9
+WA,511,Western Australia - Outback (South),Rest of state,5,Clerical and Administrative Workers,7395,7113,7606,4.0,-2.8,443,6.0,5,9,1.22,154.0,145.0,20.82,6.2
+WA,511,Western Australia - Outback (South),Rest of state,6,Sales Workers,5110,5249,4341,-2.6,17.7,0,0.0,4,6,1.17,93.0,85.0,18.2,9.4
+WA,511,Western Australia - Outback (South),Rest of state,7,Machinery Operators and Drivers,10095,9920,7538,1.8,33.9,8150,80.7,13,56,5.55,253.0,194.0,25.06,30.4
+WA,511,Western Australia - Outback (South),Rest of state,8,Labourers,6784,6902,7380,-1.7,-8.1,505,7.4,17,39,5.75,110.0,93.0,16.21,18.3
+WA,511,Western Australia - Outback (South),Rest of state,All,All occupations,67730,67771,63555,-0.1,6.6,28694,42.4,871,1915,28.27,1533.0,1352.0,22.63,13.4
+TAS,601,Hobart,Capital city,1,Managers,14334,14794,15266,-3.1,-6.1,0,0.0,11,29,2.02,,,,
+TAS,601,Hobart,Capital city,2,Professionals,34323,34765,31602,-1.3,8.6,14808,43.1,100,225,6.56,,,,
+TAS,601,Hobart,Capital city,3,Technicians and Trades Workers,18221,17421,18131,4.6,0.5,11361,62.4,54,144,7.9,,,,
+TAS,601,Hobart,Capital city,4,Community and Personal Service Workers,19216,19008,15563,1.1,23.5,7259,37.8,3,7,0.36,,,,
+TAS,601,Hobart,Capital city,5,Clerical and Administrative Workers,17812,17662,17518,0.8,1.7,51,0.3,1,0,0.0,,,,
+TAS,601,Hobart,Capital city,6,Sales Workers,9586,10202,10490,-6.0,-8.6,272,2.8,0,1,0.1,,,,
+TAS,601,Hobart,Capital city,7,Machinery Operators and Drivers,5476,5360,6105,2.2,-10.3,1944,35.5,0,0,0.0,,,,
+TAS,601,Hobart,Capital city,8,Labourers,11183,11204,12341,-0.2,-9.4,64,0.6,4,4,0.36,,,,
+TAS,601,Hobart,Capital city,All,All occupations,130151,130416,127016,-0.2,2.5,35759,27.5,177,414,3.18,,,,
+TAS,602,Launceston and North East,Rest of state,1,Managers,9323,9724,9168,-4.1,1.7,1767,19.0,8,17,1.82,79.0,81.0,8.47,-2.5
+TAS,602,Launceston and North East,Rest of state,2,Professionals,15359,15753,14976,-2.5,2.6,7939,51.7,114,148,9.64,231.0,238.0,15.04,-2.9
+TAS,602,Launceston and North East,Rest of state,3,Technicians and Trades Workers,12691,11960,11177,6.1,13.5,9234,72.8,37,67,5.28,107.0,98.0,8.43,9.2
+TAS,602,Launceston and North East,Rest of state,4,Community and Personal Service Workers,9753,9760,9137,-0.1,6.7,4011,41.1,4,5,0.51,89.0,86.0,9.13,3.5
+TAS,602,Launceston and North East,Rest of state,5,Clerical and Administrative Workers,8865,8603,8838,3.0,0.3,12,0.1,2,2,0.23,94.0,104.0,10.6,-9.6
+TAS,602,Launceston and North East,Rest of state,6,Sales Workers,6195,6738,6724,-8.1,-7.9,265,4.3,0,0,0.0,80.0,76.0,12.91,5.3
+TAS,602,Launceston and North East,Rest of state,7,Machinery Operators and Drivers,5391,5411,5532,-0.4,-2.5,2753,51.1,1,1,0.19,62.0,54.0,11.5,14.8
+TAS,602,Launceston and North East,Rest of state,8,Labourers,9067,8812,9200,2.9,-1.4,73,0.8,0,1,0.11,84.0,97.0,9.26,-13.4
+TAS,602,Launceston and North East,Rest of state,All,All occupations,76644,76761,74752,-0.2,2.5,26054,34.0,177,280,3.65,825.0,834.0,10.76,-1.1
+TAS,603,South East,Rest of state,1,Managers,2948,2956,3083,-0.3,-4.4,416,14.1,1,4,1.36,7.0,10.0,2.37,-30.0
+TAS,603,South East,Rest of state,2,Professionals,3358,3351,2949,0.2,13.9,1367,40.7,9,23,6.85,17.0,16.0,5.06,6.2
+TAS,603,South East,Rest of state,3,Technicians and Trades Workers,3592,3461,3256,3.8,10.3,2402,66.9,7,11,3.06,23.0,24.0,6.4,-4.2
+TAS,603,South East,Rest of state,4,Community and Personal Service Workers,2732,2723,2361,0.3,15.7,1069,39.1,0,0,0.0,8.0,9.0,2.93,-11.1
+TAS,603,South East,Rest of state,5,Clerical and Administrative Workers,2305,2246,2019,2.6,14.2,10,0.4,0,0,0.0,8.0,10.0,3.47,-20.0
+TAS,603,South East,Rest of state,6,Sales Workers,1155,1188,1407,-2.8,-17.9,18,1.6,0,0,0.0,5.0,7.0,4.33,-28.6
+TAS,603,South East,Rest of state,7,Machinery Operators and Drivers,1632,1650,1525,-1.1,7.0,987,60.5,0,0,0.0,5.0,4.0,3.06,25.0
+TAS,603,South East,Rest of state,8,Labourers,3117,3195,3084,-2.4,1.1,20,0.6,0,0,0.0,12.0,10.0,3.85,20.0
+TAS,603,South East,Rest of state,All,All occupations,20839,20770,19684,0.3,5.9,6289,30.2,17,38,1.82,86.0,90.0,4.13,-4.4
+TAS,604,West and North West,Rest of state,1,Managers,6151,6032,7078,2.0,-13.1,944,15.3,2,13,2.11,45.0,35.0,7.32,28.6
+TAS,604,West and North West,Rest of state,2,Professionals,8575,8521,8105,0.6,5.8,4638,54.1,33,75,8.75,178.0,176.0,20.76,1.1
+TAS,604,West and North West,Rest of state,3,Technicians and Trades Workers,9719,9744,9277,-0.3,4.8,7259,74.7,20,55,5.66,95.0,81.0,9.77,17.3
+TAS,604,West and North West,Rest of state,4,Community and Personal Service Workers,8653,8528,6993,1.5,23.7,4084,47.2,6,5,0.58,74.0,69.0,8.55,7.2
+TAS,604,West and North West,Rest of state,5,Clerical and Administrative Workers,5908,5925,5743,-0.3,2.9,26,0.4,1,1,0.17,66.0,69.0,11.17,-4.3
+TAS,604,West and North West,Rest of state,6,Sales Workers,4687,4971,4759,-5.7,-1.5,156,3.3,0,0,0.0,41.0,34.0,8.75,20.6
+TAS,604,West and North West,Rest of state,7,Machinery Operators and Drivers,4462,4683,4744,-4.7,-5.9,2869,64.3,2,2,0.45,50.0,40.0,11.21,25.0
+TAS,604,West and North West,Rest of state,8,Labourers,7937,7789,7617,1.9,4.2,30,0.4,0,1,0.13,54.0,63.0,6.8,-14.3
+TAS,604,West and North West,Rest of state,All,All occupations,56092,56193,54316,-0.2,3.3,20006,35.7,72,213,3.8,604.0,566.0,10.77,6.7
+NT,701,Darwin,Capital city,1,Managers,10698,10464,10063,2.2,6.3,2881,26.9,27,40,3.74,,,,
+NT,701,Darwin,Capital city,2,Professionals,21093,21718,19297,-2.9,9.3,13110,62.2,238,332,15.74,,,,
+NT,701,Darwin,Capital city,3,Technicians and Trades Workers,15184,14648,13026,3.7,16.6,11925,78.5,244,508,33.46,,,,
+NT,701,Darwin,Capital city,4,Community and Personal Service Workers,12658,12539,10354,0.9,22.3,8020,63.4,60,177,13.98,,,,
+NT,701,Darwin,Capital city,5,Clerical and Administrative Workers,13657,13450,12294,1.5,11.1,1324,9.7,14,34,2.49,,,,
+NT,701,Darwin,Capital city,6,Sales Workers,6379,6468,6193,-1.4,3.0,642,10.1,10,30,4.7,,,,
+NT,701,Darwin,Capital city,7,Machinery Operators and Drivers,4603,4775,5109,-3.6,-9.9,2159,46.9,11,19,4.13,,,,
+NT,701,Darwin,Capital city,8,Labourers,7423,6968,6790,6.5,9.3,196,2.6,13,35,4.72,,,,
+NT,701,Darwin,Capital city,All,All occupations,91695,91030,83126,0.7,10.3,40257,43.9,630,1210,13.2,,,,
+NT,702,Northern Territory - Outback,Rest of state,1,Managers,6852,6663,6262,2.8,9.4,3108,45.4,18,37,5.4,99.0,88.0,14.45,12.5
+NT,702,Northern Territory - Outback,Rest of state,2,Professionals,13528,13587,11588,-0.4,16.7,9109,67.3,181,256,18.92,308.0,333.0,22.77,-7.5
+NT,702,Northern Territory - Outback,Rest of state,3,Technicians and Trades Workers,6866,6562,6370,4.6,7.8,5225,76.1,134,342,49.81,143.0,114.0,20.83,25.4
+NT,702,Northern Territory - Outback,Rest of state,4,Community and Personal Service Workers,10655,10687,9631,-0.3,10.6,6658,62.5,77,166,15.58,115.0,125.0,10.79,-8.0
+NT,702,Northern Territory - Outback,Rest of state,5,Clerical and Administrative Workers,7474,7586,6674,-1.5,12.0,753,10.1,12,21,2.81,139.0,132.0,18.6,5.3
+NT,702,Northern Territory - Outback,Rest of state,6,Sales Workers,3106,3137,2765,-1.0,12.3,440,14.2,9,20,6.44,41.0,46.0,13.2,-10.9
+NT,702,Northern Territory - Outback,Rest of state,7,Machinery Operators and Drivers,2482,2407,2359,3.1,5.2,1313,52.9,14,49,19.74,39.0,43.0,15.71,-9.3
+NT,702,Northern Territory - Outback,Rest of state,8,Labourers,4445,4397,4814,1.1,-7.7,31,0.7,4,23,5.17,82.0,64.0,18.45,28.1
+NT,702,Northern Territory - Outback,Rest of state,All,All occupations,55408,55026,50463,0.7,9.8,26637,48.1,468,949,17.13,967.0,945.0,17.45,2.3
+ACT,801,Australian Capital Territory,Capital city,1,Managers,38183,37228,31219,2.6,22.3,2749,7.2,66,145,3.8,,,,
+ACT,801,Australian Capital Territory,Capital city,2,Professionals,95940,93928,85624,2.1,12.0,28011,29.2,290,531,5.53,,,,
+ACT,801,Australian Capital Territory,Capital city,3,Technicians and Trades Workers,29676,29853,26424,-0.6,12.3,19042,64.2,338,726,24.46,,,,
+ACT,801,Australian Capital Territory,Capital city,4,Community and Personal Service Workers,29790,28997,25959,2.7,14.8,10955,36.8,94,160,5.37,,,,
+ACT,801,Australian Capital Territory,Capital city,5,Clerical and Administrative Workers,46737,47889,43153,-2.4,8.3,0,0.0,14,21,0.45,,,,
+ACT,801,Australian Capital Territory,Capital city,6,Sales Workers,15269,15067,16071,1.3,-5.0,0,0.0,0,2,0.13,,,,
+ACT,801,Australian Capital Territory,Capital city,7,Machinery Operators and Drivers,6965,6978,6787,-0.2,2.6,2859,41.0,0,1,0.14,,,,
+ACT,801,Australian Capital Territory,Capital city,8,Labourers,14204,15066,13500,-5.7,5.2,460,3.2,0,1,0.07,,,,
+ACT,801,Australian Capital Territory,Capital city,All,All occupations,276764,275006,248737,0.6,11.3,64076,23.2,804,1590,5.74,,,,

@@ -1,0 +1,203 @@
+sector_id,sector_name,state,employed_state_est,share_of_state_jobs_pct,share_of_sector_jobs_in_state_pct,jobs_in_state_shortage_pct,jobs_assessed_pct,job_ads_latest,job_ads_year_ago,job_ads_change_12m_pct,apprentice_commencements,apprentice_completions,visa_grants_primary,visa_holders_primary,visa_holders_primary_year_ago,visa_grants_per_1000_workers
+nurses,Nurses and midwives,NSW,116829,2.6,26.5,91.7,99.3,2883,2044,41.0,0,0,702,1262,1009,6.0
+nurses,Nurses and midwives,VIC,119987,3.1,27.2,94.9,99.3,2206,1941,13.7,20,40,497,995,1022,4.1
+nurses,Nurses and midwives,QLD,99707,3.3,22.6,92.2,99.5,1694,1760,-3.7,0,0,264,566,529,2.6
+nurses,Nurses and midwives,SA,35383,3.6,8.0,99.5,99.5,926,969,-4.4,0,0,197,281,159,5.6
+nurses,Nurses and midwives,WA,47760,2.9,10.8,93.8,99.4,698,654,6.7,0,0,163,337,280,3.4
+nurses,Nurses and midwives,TAS,9655,3.4,2.2,88.5,99.5,174,194,-10.3,0,0,27,95,104,2.8
+nurses,Nurses and midwives,NT,5476,3.7,1.2,93.9,99.5,144,126,14.3,5,0,64,104,75,11.7
+nurses,Nurses and midwives,ACT,5802,2.1,1.3,94.4,98.9,156,147,6.1,0,0,18,43,33,3.1
+doctors,Doctors,NSW,43668,1.0,28.4,97.8,97.8,3321,2575,29.0,0,0,1167,1458,1192,26.7
+doctors,Doctors,VIC,43852,1.1,28.5,97.9,97.9,1235,1021,21.0,0,0,868,1132,1011,19.8
+doctors,Doctors,QLD,30617,1.0,19.9,97.9,97.9,1109,912,21.6,0,0,1389,1963,1653,45.4
+doctors,Doctors,SA,12483,1.3,8.1,98.1,98.1,348,283,23.0,0,0,294,405,327,23.6
+doctors,Doctors,WA,16051,1.0,10.4,97.9,97.9,424,350,21.1,0,0,903,1113,1032,56.3
+doctors,Doctors,TAS,2715,0.9,1.8,97.9,97.9,223,166,34.3,0,0,148,211,161,54.5
+doctors,Doctors,NT,2177,1.5,1.4,98.1,98.1,79,77,2.6,0,0,173,189,101,79.5
+doctors,Doctors,ACT,2437,0.9,1.6,97.6,97.6,122,102,19.6,0,0,106,146,123,43.5
+other_health,Other health workers,NSW,150629,3.3,29.9,58.8,98.9,2369,2381,-0.5,478,406,494,809,710,3.3
+other_health,Other health workers,VIC,139666,3.7,27.7,66.6,98.9,2375,2408,-1.4,446,349,415,709,646,3.0
+other_health,Other health workers,QLD,109091,3.6,21.7,56.6,99.0,2056,2111,-2.6,565,360,417,672,488,3.8
+other_health,Other health workers,SA,33740,3.5,6.7,57.7,98.8,737,722,2.1,177,54,65,124,91,1.9
+other_health,Other health workers,WA,48555,2.9,9.6,59.2,98.4,941,968,-2.8,204,207,215,380,342,4.4
+other_health,Other health workers,TAS,8304,2.9,1.6,57.3,98.4,195,205,-4.9,135,79,29,42,36,3.5
+other_health,Other health workers,NT,5450,3.6,1.1,68.0,98.7,142,209,-32.1,14,11,32,50,45,5.9
+other_health,Other health workers,ACT,8246,2.9,1.6,56.6,98.5,207,210,-1.4,44,13,11,39,39,1.3
+aged_disability,Aged and disability care,NSW,139748,3.1,28.2,72.6,99.2,1792,1629,10.0,1635,1320,808,2019,1449,5.8
+aged_disability,Aged and disability care,VIC,121505,3.2,24.5,74.6,99.3,1242,1192,4.2,560,455,322,656,444,2.7
+aged_disability,Aged and disability care,QLD,114851,3.8,23.2,74.1,99.3,1250,1283,-2.6,955,680,353,538,216,3.1
+aged_disability,Aged and disability care,SA,43074,4.4,8.7,84.2,99.3,414,399,3.8,360,150,131,249,130,3.0
+aged_disability,Aged and disability care,WA,51309,3.1,10.4,72.9,99.2,321,360,-10.8,195,175,147,234,110,2.9
+aged_disability,Aged and disability care,TAS,14565,5.1,2.9,76.2,99.3,107,103,3.9,110,115,2,2,0,0.1
+aged_disability,Aged and disability care,NT,4561,3.0,0.9,96.3,99.2,48,52,-7.7,65,35,47,92,57,10.3
+aged_disability,Aged and disability care,ACT,5900,2.1,1.2,75.3,99.1,67,71,-5.6,35,25,49,93,46,8.3
+child_care,Child care,NSW,68165,1.5,35.4,90.3,99.5,1041,1314,-20.8,3950,4110,420,578,199,6.2
+child_care,Child care,VIC,42634,1.1,22.2,90.6,99.3,660,859,-23.2,1630,1395,137,194,74,3.2
+child_care,Child care,QLD,45563,1.5,23.7,89.7,99.4,1112,1263,-12.0,2665,1995,254,349,120,5.6
+child_care,Child care,SA,12592,1.3,6.5,84.9,99.3,170,167,1.8,555,375,31,55,24,2.5
+child_care,Child care,WA,14513,0.9,7.5,99.1,99.1,225,336,-33.0,1270,1065,156,308,180,10.7
+child_care,Child care,TAS,2152,0.7,1.1,88.2,98.7,27,26,3.8,210,145,7,6,1,3.3
+child_care,Child care,NT,1925,1.3,1.0,99.4,99.4,36,46,-21.7,145,85,29,126,121,15.1
+child_care,Child care,ACT,4756,1.7,2.5,79.8,99.6,78,73,6.8,305,175,24,32,11,5.0
+teaching,Teaching and education,NSW,296693,6.6,31.8,52.8,87.3,1607,1881,-14.6,120,60,415,625,476,1.4
+teaching,Teaching and education,VIC,254957,6.7,27.4,49.5,87.9,1516,1823,-16.8,285,240,787,1084,942,3.1
+teaching,Teaching and education,QLD,172688,5.7,18.5,51.3,87.5,1472,1477,-0.3,30,15,184,273,192,1.1
+teaching,Teaching and education,SA,58120,6.0,6.2,49.5,88.0,272,341,-20.2,20,25,57,64,37,1.0
+teaching,Teaching and education,WA,101843,6.2,10.9,45.4,89.2,584,748,-21.9,0,0,235,441,342,2.3
+teaching,Teaching and education,TAS,17878,6.2,1.9,47.9,88.6,95,90,5.6,30,10,2,6,6,0.1
+teaching,Teaching and education,NT,10877,7.3,1.2,49.7,88.0,90,115,-21.7,45,10,74,92,38,6.8
+teaching,Teaching and education,ACT,18675,6.6,2.0,42.7,89.2,130,124,4.8,20,20,53,94,83,2.8
+community,Community and social services,NSW,68530,1.5,26.2,0.0,99.4,1524,1630,-6.5,385,180,338,670,532,4.9
+community,Community and social services,VIC,65735,1.7,25.1,40.6,99.4,1282,1296,-1.1,285,70,188,438,352,2.9
+community,Community and social services,QLD,61258,2.0,23.4,0.0,99.5,1346,1485,-9.4,330,35,131,251,189,2.1
+community,Community and social services,SA,21806,2.2,8.3,21.5,99.6,406,409,-0.7,160,50,23,39,26,1.1
+community,Community and social services,WA,28097,1.7,10.7,47.0,99.5,611,642,-4.8,295,110,123,213,160,4.4
+community,Community and social services,TAS,5796,2.0,2.2,0.0,99.5,120,139,-13.7,160,105,4,13,13,0.7
+community,Community and social services,NT,5695,3.8,2.2,75.4,99.7,143,192,-25.5,205,60,19,38,33,3.3
+community,Community and social services,ACT,4935,1.7,1.9,16.2,99.4,111,117,-5.1,70,55,17,40,34,3.4
+police_security,"Police, fire and security",NSW,48757,1.1,27.5,44.4,95.5,282,246,14.6,25,50,4,6,2,0.1
+police_security,"Police, fire and security",VIC,40469,1.1,22.8,0.0,97.4,234,195,20.0,80,25,0,0,0,0.0
+police_security,"Police, fire and security",QLD,38653,1.3,21.8,0.0,93.1,231,213,8.5,95,50,0,0,0,0.0
+police_security,"Police, fire and security",SA,12886,1.3,7.3,38.5,95.6,69,64,7.8,10,20,0,0,0,0.0
+police_security,"Police, fire and security",WA,21772,1.3,12.3,0.0,96.9,123,108,13.9,225,170,3,7,4,0.1
+police_security,"Police, fire and security",TAS,3624,1.3,2.0,0.0,93.4,20,18,11.1,30,20,0,0,0,0.0
+police_security,"Police, fire and security",NT,5957,4.0,3.4,25.2,92.2,23,30,-23.3,0,0,2,2,0,0.3
+police_security,"Police, fire and security",ACT,5353,1.9,3.0,0.0,76.3,77,65,18.5,0,5,0,0,0,0.0
+construction,Building and construction,NSW,386920,8.6,30.9,74.6,88.4,4746,4515,5.1,12495,9055,1794,4375,3935,4.6
+construction,Building and construction,VIC,311423,8.2,24.9,74.9,89.2,3242,2839,14.2,9645,7850,752,1817,1553,2.4
+construction,Building and construction,QLD,271424,9.0,21.7,77.1,90.0,5156,4732,9.0,12105,7975,800,1834,1528,2.9
+construction,Building and construction,SA,77461,8.0,6.2,74.9,88.4,1263,1145,10.3,2985,2040,189,435,413,2.4
+construction,Building and construction,WA,151342,9.1,12.1,76.8,91.2,3622,3202,13.1,5530,3485,1326,2780,2114,8.8
+construction,Building and construction,TAS,24609,8.6,2.0,67.8,90.1,207,196,5.6,935,1000,24,56,53,1.0
+construction,Building and construction,NT,11864,7.9,0.9,84.3,90.8,274,274,0.0,440,255,133,266,201,11.2
+construction,Building and construction,ACT,15847,5.6,1.3,77.1,89.0,389,325,19.7,920,555,27,108,107,1.7
+mechanics_metal,Mechanics and metal trades,NSW,100139,2.2,25.0,95.1,98.1,2072,2172,-4.6,5890,4055,1789,4522,3732,17.9
+mechanics_metal,Mechanics and metal trades,VIC,83801,2.2,20.9,94.0,98.1,1514,1542,-1.8,3280,2290,1803,4318,3577,21.5
+mechanics_metal,Mechanics and metal trades,QLD,93355,3.1,23.3,93.8,98.3,2583,2583,0.0,5800,4130,1587,4309,3572,17.0
+mechanics_metal,Mechanics and metal trades,SA,28071,2.9,7.0,93.8,98.2,680,618,10.0,1365,1000,353,749,548,12.6
+mechanics_metal,Mechanics and metal trades,WA,78238,4.7,19.5,95.5,98.4,2437,2261,7.8,3295,3020,1989,5421,4700,25.4
+mechanics_metal,Mechanics and metal trades,TAS,9194,3.2,2.3,94.9,98.2,127,121,5.0,455,385,40,117,105,4.4
+mechanics_metal,Mechanics and metal trades,NT,5419,3.6,1.4,91.8,98.3,144,163,-11.7,270,135,114,314,267,21.0
+mechanics_metal,Mechanics and metal trades,ACT,2793,1.0,0.7,94.0,97.6,67,75,-10.7,250,85,75,161,127,26.9
+engineering,Engineering,NSW,81729,1.8,25.6,56.4,91.2,1552,1490,4.2,70,70,1345,3373,3139,16.5
+engineering,Engineering,VIC,80438,2.1,25.2,44.7,90.8,980,863,13.6,20,5,930,2160,1996,11.6
+engineering,Engineering,QLD,68857,2.3,21.6,42.4,91.8,1567,1313,19.3,25,35,920,1999,1817,13.4
+engineering,Engineering,SA,20505,2.1,6.4,67.2,92.1,368,342,7.6,5,5,293,553,418,14.3
+engineering,Engineering,WA,58169,3.5,18.2,47.7,92.0,1196,1051,13.8,15,25,1470,2666,2566,25.3
+engineering,Engineering,TAS,3902,1.4,1.2,42.7,91.5,58,66,-12.1,15,0,25,45,40,6.4
+engineering,Engineering,NT,2816,1.9,0.9,67.2,92.3,70,68,2.9,0,0,78,139,137,27.7
+engineering,Engineering,ACT,2929,1.0,0.9,51.0,90.5,74,74,0.0,0,0,33,46,48,11.3
+engineering,Engineering,Not specified,,,,,,,,,0,0,1,1,0,
+farming,"Farming, gardening and animals",NSW,124796,2.8,26.2,12.4,45.2,760,816,-6.9,1846,941,384,884,837,3.1
+farming,"Farming, gardening and animals",VIC,114956,3.0,24.1,10.8,42.4,625,598,4.5,1344,1087,274,767,815,2.4
+farming,"Farming, gardening and animals",QLD,107190,3.6,22.5,11.9,36.7,701,782,-10.4,1938,1280,248,571,542,2.3
+farming,"Farming, gardening and animals",SA,50448,5.2,10.6,9.9,31.5,213,213,0.0,387,176,78,182,173,1.5
+farming,"Farming, gardening and animals",WA,50735,3.1,10.6,12.1,33.4,406,360,12.8,457,319,274,589,505,5.4
+farming,"Farming, gardening and animals",TAS,17701,6.2,3.7,11.7,45.8,93,91,2.2,122,181,15,51,46,0.8
+farming,"Farming, gardening and animals",NT,5315,3.5,1.1,16.4,37.4,48,56,-14.3,166,16,23,77,77,4.3
+farming,"Farming, gardening and animals",ACT,5747,2.0,1.2,16.2,37.2,44,47,-6.4,56,40,8,13,11,1.4
+mining,Mining,NSW,14737,0.3,13.8,79.2,93.6,265,210,26.2,695,555,33,95,109,2.2
+mining,Mining,VIC,7104,0.2,6.6,34.9,86.4,70,58,20.7,15,7,13,29,41,1.8
+mining,Mining,QLD,27416,0.9,25.7,74.7,97.2,560,434,29.0,549,406,65,179,218,2.4
+mining,Mining,SA,6005,0.6,5.6,73.3,95.9,95,80,18.8,292,100,12,29,31,2.0
+mining,Mining,WA,47813,2.9,44.8,95.3,98.6,1160,973,19.2,1025,715,290,568,563,6.1
+mining,Mining,TAS,1908,0.7,1.8,66.2,96.4,22,16,37.5,98,89,4,6,11,2.1
+mining,Mining,NT,1316,0.9,1.2,23.4,97.1,30,33,-9.1,10,0,9,24,26,6.8
+mining,Mining,ACT,538,0.2,0.5,56.3,91.3,8,3,166.7,0,0,0,0,0,0.0
+manufacturing,Manufacturing and factory work,NSW,129136,2.9,27.3,11.5,61.4,1854,1949,-4.9,1295,875,248,471,362,1.9
+manufacturing,Manufacturing and factory work,VIC,131719,3.4,27.9,10.1,59.0,1549,1644,-5.8,500,718,190,325,256,1.4
+manufacturing,Manufacturing and factory work,QLD,93966,3.1,19.9,14.6,65.0,1717,1750,-1.9,2401,1465,147,249,168,1.6
+manufacturing,Manufacturing and factory work,SA,40206,4.1,8.5,12.1,62.1,524,509,2.9,378,310,37,56,46,0.9
+manufacturing,Manufacturing and factory work,WA,55673,3.4,11.8,14.6,74.2,897,833,7.7,735,745,139,340,278,2.5
+manufacturing,Manufacturing and factory work,TAS,12004,4.2,2.5,10.9,62.1,100,102,-2.0,156,178,12,21,17,1.0
+manufacturing,Manufacturing and factory work,NT,4327,2.9,0.9,23.6,71.6,68,71,-4.2,15,5,6,21,24,1.4
+manufacturing,Manufacturing and factory work,ACT,5424,1.9,1.1,21.8,69.6,94,94,0.0,40,20,3,11,13,0.6
+tech,Tech and IT,NSW,223657,4.9,35.5,2.6,95.4,2562,3082,-16.9,405,445,3865,7619,8133,17.3
+tech,Tech and IT,VIC,205451,5.4,32.6,1.4,94.8,2005,2177,-7.9,145,170,1981,3979,4273,9.6
+tech,Tech and IT,QLD,89962,3.0,14.3,4.3,94.9,1284,1400,-8.3,285,220,541,1106,1086,6.0
+tech,Tech and IT,SA,27856,2.9,4.4,3.5,95.0,415,437,-5.0,180,160,142,239,245,5.1
+tech,Tech and IT,WA,45612,2.8,7.2,5.7,94.8,623,651,-4.3,120,135,369,679,733,8.1
+tech,Tech and IT,TAS,6792,2.4,1.1,3.5,94.3,76,68,11.8,45,45,6,11,12,0.9
+tech,Tech and IT,NT,3558,2.4,0.6,40.4,93.7,51,50,2.0,35,20,6,17,22,1.7
+tech,Tech and IT,ACT,26513,9.4,4.2,0.7,95.4,541,639,-15.3,45,50,44,76,62,1.7
+science,Science,NSW,30088,0.7,24.2,5.6,95.4,288,322,-10.6,126,63,228,485,441,7.6
+science,Science,VIC,30607,0.8,24.6,5.5,95.0,228,230,-0.9,40,29,125,323,315,4.1
+science,Science,QLD,24618,0.8,19.8,11.7,95.5,254,254,0.0,257,105,94,230,200,3.8
+science,Science,SA,9594,1.0,7.7,30.9,95.5,73,86,-15.1,35,10,14,37,41,1.5
+science,Science,WA,19824,1.2,15.9,5.2,95.3,231,219,5.5,94,94,101,238,219,5.1
+science,Science,TAS,4216,1.5,3.4,16.6,96.1,21,20,5.0,18,10,2,22,29,0.5
+science,Science,NT,2226,1.5,1.8,13.0,96.1,27,24,12.5,5,3,4,6,10,1.8
+science,Science,ACT,3415,1.2,2.7,6.1,96.2,21,21,0.0,5,2,5,26,34,1.5
+hospitality,Hospitality and food,NSW,250542,5.5,29.8,25.6,70.7,3347,3126,7.1,1960,1100,3166,7474,6023,12.6
+hospitality,Hospitality and food,VIC,214300,5.6,25.5,25.7,71.2,2390,2104,13.6,2335,1205,2528,5615,4435,11.8
+hospitality,Hospitality and food,QLD,185841,6.2,22.1,24.7,68.2,2496,2563,-2.6,2770,1925,1976,4181,3141,10.6
+hospitality,Hospitality and food,SA,53103,5.5,6.3,29.2,64.5,729,626,16.5,330,270,351,689,437,6.6
+hospitality,Hospitality and food,WA,94622,5.7,11.3,26.8,63.3,1150,975,17.9,1115,590,1106,2455,1990,11.7
+hospitality,Hospitality and food,TAS,19637,6.8,2.3,31.6,64.0,201,182,10.4,175,160,30,66,62,1.5
+hospitality,Hospitality and food,NT,8479,5.7,1.0,61.0,72.6,129,129,0.0,140,80,90,186,177,10.6
+hospitality,Hospitality and food,ACT,13421,4.8,1.6,34.6,74.2,190,197,-3.6,260,110,209,457,344,15.6
+transport,Transport and logistics,NSW,265718,5.9,29.8,31.7,90.4,3045,2727,11.7,765,515,292,494,363,1.1
+transport,Transport and logistics,VIC,239692,6.3,26.9,26.8,91.3,1983,1851,7.1,800,350,227,364,264,0.9
+transport,Transport and logistics,QLD,198134,6.6,22.2,33.1,91.6,3364,3144,7.0,1270,875,163,277,161,0.8
+transport,Transport and logistics,SA,54407,5.6,6.1,36.5,89.3,815,734,11.0,65,60,35,50,35,0.6
+transport,Transport and logistics,WA,103749,6.3,11.6,39.3,91.2,1809,1421,27.3,235,230,211,344,259,2.0
+transport,Transport and logistics,TAS,15285,5.3,1.7,37.1,89.0,155,138,12.3,50,70,11,13,7,0.7
+transport,Transport and logistics,NT,6941,4.6,0.8,49.0,90.1,172,178,-3.4,20,0,43,74,51,6.2
+transport,Transport and logistics,ACT,7842,2.8,0.9,29.7,84.3,137,113,21.2,0,0,5,6,3,0.6
+retail,Retail and sales,NSW,481315,10.6,31.5,0.0,44.8,6220,6464,-3.8,1735,1655,646,825,419,1.3
+retail,Retail and sales,VIC,385845,10.1,25.3,0.0,41.7,4632,4618,0.3,190,415,274,377,233,0.7
+retail,Retail and sales,QLD,325302,10.8,21.3,2.6,44.6,5303,5397,-1.7,605,895,211,251,112,0.6
+retail,Retail and sales,SA,104131,10.7,6.8,0.0,41.6,1401,1347,4.0,255,270,31,41,24,0.3
+retail,Retail and sales,WA,165032,10.0,10.8,0.0,42.1,2503,2409,3.9,345,490,199,278,157,1.2
+retail,Retail and sales,TAS,31317,10.9,2.1,17.9,39.2,301,316,-4.7,170,190,2,6,5,0.1
+retail,Retail and sales,NT,12958,8.6,0.8,26.1,41.8,201,229,-12.2,125,0,26,65,45,2.0
+retail,Retail and sales,ACT,20406,7.2,1.3,0.0,43.0,370,456,-18.9,175,80,31,35,14,1.5
+business,"Business, finance and law",NSW,616681,13.6,35.2,7.4,99.1,8740,9241,-5.4,145,75,5701,10127,9255,9.2
+business,"Business, finance and law",VIC,479186,12.6,27.3,8.5,99.1,6670,7006,-4.8,10,10,2491,4466,4072,5.2
+business,"Business, finance and law",QLD,310232,10.3,17.7,6.2,99.0,5681,5743,-1.1,35,30,1046,1890,1564,3.4
+business,"Business, finance and law",SA,87097,9.0,5.0,7.8,98.8,1379,1404,-1.8,55,5,207,358,290,2.4
+business,"Business, finance and law",WA,165996,10.0,9.5,8.0,98.9,2881,2761,4.3,55,50,904,1522,1339,5.4
+business,"Business, finance and law",TAS,23969,8.4,1.4,7.5,98.5,262,288,-9.0,170,145,20,40,37,0.8
+business,"Business, finance and law",NT,13250,8.8,0.8,13.9,98.1,261,291,-10.3,0,0,31,60,63,2.3
+business,"Business, finance and law",ACT,56890,20.1,3.2,7.5,99.1,636,711,-10.5,100,40,41,92,83,0.7
+office,Office and admin,NSW,549796,12.2,31.3,0.0,98.4,8537,9208,-7.3,3260,2065,585,881,615,1.1
+office,Office and admin,VIC,449802,11.8,25.6,0.0,98.1,6852,7121,-3.8,960,845,337,501,334,0.7
+office,Office and admin,QLD,357831,11.9,20.4,0.0,98.4,6820,7322,-6.9,3580,2300,182,276,194,0.5
+office,Office and admin,SA,118742,12.2,6.8,0.0,97.4,2007,2127,-5.6,465,420,48,61,35,0.4
+office,Office and admin,WA,182292,11.0,10.4,11.2,97.6,3716,3549,4.7,540,530,177,259,186,1.0
+office,Office and admin,TAS,32047,11.2,1.8,0.0,97.3,389,455,-14.5,715,690,4,3,1,0.1
+office,Office and admin,NT,19632,13.1,1.1,13.3,95.5,385,413,-6.8,205,15,27,59,45,1.4
+office,Office and admin,ACT,47385,16.8,2.7,0.0,97.5,668,724,-7.7,85,60,14,25,21,0.3
+arts_media,"Arts, design and media",NSW,90283,2.0,35.9,0.0,97.9,750,768,-2.3,15,10,202,413,402,2.2
+arts_media,"Arts, design and media",VIC,77929,2.0,30.9,0.0,98.0,613,573,7.0,5,5,121,238,240,1.6
+arts_media,"Arts, design and media",QLD,39829,1.3,15.8,0.0,97.6,460,464,-0.9,135,34,44,102,88,1.1
+arts_media,"Arts, design and media",SA,11813,1.2,4.7,0.0,97.5,135,118,14.4,5,5,8,20,23,0.7
+arts_media,"Arts, design and media",WA,19384,1.2,7.7,3.3,97.6,243,216,12.5,0,0,21,53,53,1.1
+arts_media,"Arts, design and media",TAS,4286,1.5,1.7,0.0,97.6,29,27,7.4,6,22,1,1,0,0.2
+arts_media,"Arts, design and media",NT,2222,1.5,0.9,0.0,97.5,17,25,-32.0,0,0,1,8,7,0.5
+arts_media,"Arts, design and media",ACT,6068,2.1,2.4,0.0,98.1,103,96,7.3,0,0,1,5,4,0.2
+personal_services,"Sport, travel and personal services",NSW,117643,2.6,35.1,38.7,99.7,1067,1081,-1.3,1675,1045,314,639,608,2.7
+personal_services,"Sport, travel and personal services",VIC,84052,2.2,25.1,38.2,99.6,815,846,-3.7,920,720,208,406,344,2.5
+personal_services,"Sport, travel and personal services",QLD,62357,2.1,18.6,43.4,99.6,860,925,-7.0,1475,725,203,348,269,3.3
+personal_services,"Sport, travel and personal services",SA,21091,2.2,6.3,46.5,99.6,244,245,-0.4,335,190,24,50,45,1.1
+personal_services,"Sport, travel and personal services",WA,36456,2.2,10.9,43.7,99.6,399,400,-0.2,655,455,160,298,260,4.4
+personal_services,"Sport, travel and personal services",TAS,5339,1.9,1.6,52.4,99.6,53,61,-13.1,120,80,5,10,7,0.9
+personal_services,"Sport, travel and personal services",NT,2713,1.8,0.8,45.3,99.6,41,40,2.5,40,25,30,81,78,11.1
+personal_services,"Sport, travel and personal services",ACT,5388,1.9,1.6,26.4,99.6,84,85,-1.2,150,50,28,40,41,5.2
+cleaning_labouring,Cleaning and other labouring,NSW,125750,2.8,30.9,0.0,2.9,2170,2173,-0.1,475,240,0,0,0,0.0
+cleaning_labouring,Cleaning and other labouring,VIC,92956,2.4,22.8,0.0,3.5,1455,1334,9.1,60,25,0,0,0,0.0
+cleaning_labouring,Cleaning and other labouring,QLD,89319,3.0,21.9,0.0,3.5,2390,2311,3.4,75,60,2,4,2,0.0
+cleaning_labouring,Cleaning and other labouring,SA,29340,3.0,7.2,0.0,2.8,660,581,13.6,40,55,0,0,0,0.0
+cleaning_labouring,Cleaning and other labouring,WA,49494,3.0,12.1,0.0,3.8,957,892,7.3,205,115,27,42,17,0.5
+cleaning_labouring,Cleaning and other labouring,TAS,10149,3.5,2.5,0.0,2.4,123,144,-14.6,15,15,0,0,0,0.0
+cleaning_labouring,Cleaning and other labouring,NT,4680,3.1,1.1,0.0,4.0,117,110,6.4,5,0,5,3,0,1.1
+cleaning_labouring,Cleaning and other labouring,ACT,5703,2.0,1.4,0.0,3.8,106,104,1.9,0,0,0,0,0,0.0
+not_recorded,Occupation not recorded (visa data only),NSW,,,,,,,,,,,495,1567,1129,
+not_recorded,Occupation not recorded (visa data only),VIC,,,,,,,,,,,449,1348,1006,
+not_recorded,Occupation not recorded (visa data only),QLD,,,,,,,,,,,745,2086,1493,
+not_recorded,Occupation not recorded (visa data only),SA,,,,,,,,,,,150,395,334,
+not_recorded,Occupation not recorded (visa data only),WA,,,,,,,,,,,191,484,373,
+not_recorded,Occupation not recorded (visa data only),TAS,,,,,,,,,,,23,104,83,
+not_recorded,Occupation not recorded (visa data only),NT,,,,,,,,,,,32,70,52,
+not_recorded,Occupation not recorded (visa data only),ACT,,,,,,,,,,,2,3,1,
+not_recorded,Occupation not recorded (visa data only),Not specified,,,,,,,,,,,2,58,21,

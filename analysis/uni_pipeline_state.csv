@@ -1,0 +1,64 @@
+year,state,course_code,course,maps_to,maps_to_name,completions,suppressed_cells
+2024,ACT,8.01,Initial registration as a nurse,2544,Registered Nurses,281.0,0
+2024,Multi-state,8.01,Initial registration as a nurse,2544,Registered Nurses,1812.0,0
+2024,NSW,8.01,Initial registration as a nurse,2544,Registered Nurses,4187.0,0
+2024,NT,8.01,Initial registration as a nurse,2544,Registered Nurses,953.0,0
+2024,QLD,8.01,Initial registration as a nurse,2544,Registered Nurses,3963.0,0
+2024,SA,8.01,Initial registration as a nurse,2544,Registered Nurses,1581.0,0
+2024,TAS,8.01,Initial registration as a nurse,2544,Registered Nurses,465.0,0
+2024,VIC,8.01,Initial registration as a nurse,2544,Registered Nurses,3862.0,0
+2024,WA,8.01,Initial registration as a nurse,2544,Registered Nurses,2257.0,0
+2024,ACT,8.02,Initial teacher education,G241,School teachers (all levels),277.0,0
+2024,Multi-state,8.02,Initial teacher education,G241,School teachers (all levels),1562.0,0
+2024,NSW,8.02,Initial teacher education,G241,School teachers (all levels),4827.0,0
+2024,NT,8.02,Initial teacher education,G241,School teachers (all levels),322.0,0
+2024,QLD,8.02,Initial teacher education,G241,School teachers (all levels),2383.0,0
+2024,SA,8.02,Initial teacher education,G241,School teachers (all levels),1171.0,0
+2024,TAS,8.02,Initial teacher education,G241,School teachers (all levels),274.0,0
+2024,VIC,8.02,Initial teacher education,G241,School teachers (all levels),4162.0,0
+2024,WA,8.02,Initial teacher education,G241,School teachers (all levels),2461.0,0
+2024,ACT,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,92.0,0
+2024,Multi-state,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,0.0,0
+2024,NSW,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,1067.0,1
+2024,NT,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,0.0,0
+2024,QLD,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,1159.0,0
+2024,SA,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,480.0,0
+2024,TAS,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,102.0,0
+2024,VIC,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,1015.0,0
+2024,WA,8.03,Provisional registration as a medical practitioner,G253,Medical practitioners,279.0,0
+2024,ACT,8.04,Registration as a veterinary practitioner,2347,Veterinarians,0.0,0
+2024,Multi-state,8.04,Registration as a veterinary practitioner,2347,Veterinarians,0.0,0
+2024,NSW,8.04,Registration as a veterinary practitioner,2347,Veterinarians,161.0,0
+2024,NT,8.04,Registration as a veterinary practitioner,2347,Veterinarians,0.0,0
+2024,QLD,8.04,Registration as a veterinary practitioner,2347,Veterinarians,221.0,0
+2024,SA,8.04,Registration as a veterinary practitioner,2347,Veterinarians,66.0,0
+2024,TAS,8.04,Registration as a veterinary practitioner,2347,Veterinarians,0.0,0
+2024,VIC,8.04,Registration as a veterinary practitioner,2347,Veterinarians,128.0,0
+2024,WA,8.04,Registration as a veterinary practitioner,2347,Veterinarians,89.0,0
+2024,ACT,8.05,Registration as a dentist,2523,Dental Practitioners,0.0,0
+2024,Multi-state,8.05,Registration as a dentist,2523,Dental Practitioners,0.0,0
+2024,NSW,8.05,Registration as a dentist,2523,Dental Practitioners,150.0,0
+2024,NT,8.05,Registration as a dentist,2523,Dental Practitioners,0.0,0
+2024,QLD,8.05,Registration as a dentist,2523,Dental Practitioners,256.0,0
+2024,SA,8.05,Registration as a dentist,2523,Dental Practitioners,63.0,0
+2024,TAS,8.05,Registration as a dentist,2523,Dental Practitioners,0.0,0
+2024,VIC,8.05,Registration as a dentist,2523,Dental Practitioners,134.0,0
+2024,WA,8.05,Registration as a dentist,2523,Dental Practitioners,49.0,0
+2024,ACT,8.06,Clinical psychology,2723,Psychologists,33.0,0
+2024,Multi-state,8.06,Clinical psychology,2723,Psychologists,68.0,0
+2024,NSW,8.06,Clinical psychology,2723,Psychologists,289.0,0
+2024,NT,8.06,Clinical psychology,2723,Psychologists,21.0,0
+2024,QLD,8.06,Clinical psychology,2723,Psychologists,266.0,0
+2024,SA,8.06,Clinical psychology,2723,Psychologists,45.0,0
+2024,TAS,8.06,Clinical psychology,2723,Psychologists,67.0,0
+2024,VIC,8.06,Clinical psychology,2723,Psychologists,438.0,0
+2024,WA,8.06,Clinical psychology,2723,Psychologists,98.0,0
+2024,ACT,8.07,Aviation,2311,Air Transport Professionals,0.0,0
+2024,Multi-state,8.07,Aviation,2311,Air Transport Professionals,0.0,0
+2024,NSW,8.07,Aviation,2311,Air Transport Professionals,90.0,0
+2024,NT,8.07,Aviation,2311,Air Transport Professionals,0.0,0
+2024,QLD,8.07,Aviation,2311,Air Transport Professionals,49.0,0
+2024,SA,8.07,Aviation,2311,Air Transport Professionals,74.0,0
+2024,TAS,8.07,Aviation,2311,Air Transport Professionals,0.0,0
+2024,VIC,8.07,Aviation,2311,Air Transport Professionals,97.0,0
+2024,WA,8.07,Aviation,2311,Air Transport Professionals,16.0,0

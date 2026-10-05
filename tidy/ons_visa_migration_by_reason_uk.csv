@@ -1,0 +1,811 @@
+flow,year_ending,reason,persons,provisional
+Emigration,2019-06,All reasons,167000,False
+Emigration,2019-06,Work (all),44000,False
+Emigration,2019-06,Work: main applicant,30000,False
+Emigration,2019-06,Work: dependant,14000,False
+Emigration,2019-06,Study (all),103000,False
+Emigration,2019-06,Study: main applicant,96000,False
+Emigration,2019-06,Study: dependant,7000,False
+Emigration,2019-06,Family,10000,False
+Emigration,2019-06,Humanitarian and asylum,2000,False
+Emigration,2019-06,Other,8000,False
+Emigration,2019-09,All reasons,180000,False
+Emigration,2019-09,Work (all),52000,False
+Emigration,2019-09,Work: main applicant,36000,False
+Emigration,2019-09,Work: dependant,16000,False
+Emigration,2019-09,Study (all),106000,False
+Emigration,2019-09,Study: main applicant,100000,False
+Emigration,2019-09,Study: dependant,7000,False
+Emigration,2019-09,Family,11000,False
+Emigration,2019-09,Humanitarian and asylum,2000,False
+Emigration,2019-09,Other,8000,False
+Emigration,2019-12,All reasons,182000,False
+Emigration,2019-12,Work (all),52000,False
+Emigration,2019-12,Work: main applicant,35000,False
+Emigration,2019-12,Work: dependant,17000,False
+Emigration,2019-12,Study (all),108000,False
+Emigration,2019-12,Study: main applicant,101000,False
+Emigration,2019-12,Study: dependant,7000,False
+Emigration,2019-12,Family,11000,False
+Emigration,2019-12,Humanitarian and asylum,2000,False
+Emigration,2019-12,Other,9000,False
+Emigration,2020-03,All reasons,222000,False
+Emigration,2020-03,Work (all),54000,False
+Emigration,2020-03,Work: main applicant,36000,False
+Emigration,2020-03,Work: dependant,18000,False
+Emigration,2020-03,Study (all),142000,False
+Emigration,2020-03,Study: main applicant,134000,False
+Emigration,2020-03,Study: dependant,8000,False
+Emigration,2020-03,Family,13000,False
+Emigration,2020-03,Humanitarian and asylum,2000,False
+Emigration,2020-03,Other,11000,False
+Emigration,2020-06,All reasons,216000,False
+Emigration,2020-06,Work (all),48000,False
+Emigration,2020-06,Work: main applicant,33000,False
+Emigration,2020-06,Work: dependant,15000,False
+Emigration,2020-06,Study (all),142000,False
+Emigration,2020-06,Study: main applicant,134000,False
+Emigration,2020-06,Study: dependant,8000,False
+Emigration,2020-06,Family,14000,False
+Emigration,2020-06,Humanitarian and asylum,1000,False
+Emigration,2020-06,Other,11000,False
+Emigration,2020-09,All reasons,199000,False
+Emigration,2020-09,Work (all),42000,False
+Emigration,2020-09,Work: main applicant,28000,False
+Emigration,2020-09,Work: dependant,14000,False
+Emigration,2020-09,Study (all),131000,False
+Emigration,2020-09,Study: main applicant,124000,False
+Emigration,2020-09,Study: dependant,7000,False
+Emigration,2020-09,Family,16000,False
+Emigration,2020-09,Humanitarian and asylum,1000,False
+Emigration,2020-09,Other,10000,False
+Emigration,2020-12,All reasons,192000,False
+Emigration,2020-12,Work (all),42000,False
+Emigration,2020-12,Work: main applicant,28000,False
+Emigration,2020-12,Work: dependant,15000,False
+Emigration,2020-12,Study (all),122000,False
+Emigration,2020-12,Study: main applicant,116000,False
+Emigration,2020-12,Study: dependant,6000,False
+Emigration,2020-12,Family,18000,False
+Emigration,2020-12,Humanitarian and asylum,1000,False
+Emigration,2020-12,Other,9000,False
+Emigration,2021-03,All reasons,147000,False
+Emigration,2021-03,Work (all),38000,False
+Emigration,2021-03,Work: main applicant,24000,False
+Emigration,2021-03,Work: dependant,14000,False
+Emigration,2021-03,Study (all),83000,False
+Emigration,2021-03,Study: main applicant,77000,False
+Emigration,2021-03,Study: dependant,6000,False
+Emigration,2021-03,Family,18000,False
+Emigration,2021-03,Humanitarian and asylum,1000,False
+Emigration,2021-03,Other,6000,False
+Emigration,2021-06,All reasons,120000,False
+Emigration,2021-06,Work (all),36000,False
+Emigration,2021-06,Work: main applicant,24000,False
+Emigration,2021-06,Work: dependant,12000,False
+Emigration,2021-06,Study (all),73000,False
+Emigration,2021-06,Study: main applicant,69000,False
+Emigration,2021-06,Study: dependant,4000,False
+Emigration,2021-06,Family,9000,False
+Emigration,2021-06,Humanitarian and asylum,0,False
+Emigration,2021-06,Other,2000,False
+Emigration,2021-09,All reasons,98000,False
+Emigration,2021-09,Work (all),32000,False
+Emigration,2021-09,Work: main applicant,21000,False
+Emigration,2021-09,Work: dependant,11000,False
+Emigration,2021-09,Study (all),55000,False
+Emigration,2021-09,Study: main applicant,50000,False
+Emigration,2021-09,Study: dependant,5000,False
+Emigration,2021-09,Family,9000,False
+Emigration,2021-09,Humanitarian and asylum,0,False
+Emigration,2021-09,Other,2000,False
+Emigration,2021-12,All reasons,88000,False
+Emigration,2021-12,Work (all),28000,False
+Emigration,2021-12,Work: main applicant,19000,False
+Emigration,2021-12,Work: dependant,10000,False
+Emigration,2021-12,Study (all),49000,False
+Emigration,2021-12,Study: main applicant,44000,False
+Emigration,2021-12,Study: dependant,4000,False
+Emigration,2021-12,Family,9000,False
+Emigration,2021-12,Humanitarian and asylum,0,False
+Emigration,2021-12,Other,2000,False
+Emigration,2022-03,All reasons,85000,False
+Emigration,2022-03,Work (all),26000,False
+Emigration,2022-03,Work: main applicant,17000,False
+Emigration,2022-03,Work: dependant,9000,False
+Emigration,2022-03,Study (all),47000,False
+Emigration,2022-03,Study: main applicant,42000,False
+Emigration,2022-03,Study: dependant,4000,False
+Emigration,2022-03,Family,10000,False
+Emigration,2022-03,Humanitarian and asylum,0,False
+Emigration,2022-03,Other,2000,False
+Emigration,2022-06,All reasons,88000,False
+Emigration,2022-06,Work (all),26000,False
+Emigration,2022-06,Work: main applicant,17000,False
+Emigration,2022-06,Work: dependant,9000,False
+Emigration,2022-06,Study (all),50000,False
+Emigration,2022-06,Study: main applicant,45000,False
+Emigration,2022-06,Study: dependant,5000,False
+Emigration,2022-06,Family,10000,False
+Emigration,2022-06,Humanitarian and asylum,0,False
+Emigration,2022-06,Other,2000,False
+Emigration,2022-09,All reasons,99000,False
+Emigration,2022-09,Work (all),25000,False
+Emigration,2022-09,Work: main applicant,16000,False
+Emigration,2022-09,Work: dependant,9000,False
+Emigration,2022-09,Study (all),61000,False
+Emigration,2022-09,Study: main applicant,55000,False
+Emigration,2022-09,Study: dependant,5000,False
+Emigration,2022-09,Family,11000,False
+Emigration,2022-09,Humanitarian and asylum,0,False
+Emigration,2022-09,Other,2000,False
+Emigration,2022-12,All reasons,112000,False
+Emigration,2022-12,Work (all),27000,False
+Emigration,2022-12,Work: main applicant,17000,False
+Emigration,2022-12,Work: dependant,9000,False
+Emigration,2022-12,Study (all),72000,False
+Emigration,2022-12,Study: main applicant,67000,False
+Emigration,2022-12,Study: dependant,6000,False
+Emigration,2022-12,Family,10000,False
+Emigration,2022-12,Humanitarian and asylum,0,False
+Emigration,2022-12,Other,2000,False
+Emigration,2023-03,All reasons,125000,False
+Emigration,2023-03,Work (all),29000,False
+Emigration,2023-03,Work: main applicant,19000,False
+Emigration,2023-03,Work: dependant,10000,False
+Emigration,2023-03,Study (all),83000,False
+Emigration,2023-03,Study: main applicant,77000,False
+Emigration,2023-03,Study: dependant,7000,False
+Emigration,2023-03,Family,10000,False
+Emigration,2023-03,Humanitarian and asylum,1000,False
+Emigration,2023-03,Other,2000,False
+Emigration,2023-06,All reasons,142000,False
+Emigration,2023-06,Work (all),33000,False
+Emigration,2023-06,Work: main applicant,21000,False
+Emigration,2023-06,Work: dependant,11000,False
+Emigration,2023-06,Study (all),93000,False
+Emigration,2023-06,Study: main applicant,85000,False
+Emigration,2023-06,Study: dependant,8000,False
+Emigration,2023-06,Family,11000,False
+Emigration,2023-06,Humanitarian and asylum,2000,False
+Emigration,2023-06,Other,2000,False
+Emigration,2023-09,All reasons,169000,False
+Emigration,2023-09,Work (all),39000,False
+Emigration,2023-09,Work: main applicant,24000,False
+Emigration,2023-09,Work: dependant,13000,False
+Emigration,2023-09,Study (all),109000,False
+Emigration,2023-09,Study: main applicant,100000,False
+Emigration,2023-09,Study: dependant,9000,False
+Emigration,2023-09,Family,13000,False
+Emigration,2023-09,Humanitarian and asylum,5000,False
+Emigration,2023-09,Other,3000,False
+Emigration,2023-12,All reasons,189000,False
+Emigration,2023-12,Work (all),45000,False
+Emigration,2023-12,Work: main applicant,29000,False
+Emigration,2023-12,Work: dependant,16000,False
+Emigration,2023-12,Study (all),118000,False
+Emigration,2023-12,Study: main applicant,107000,False
+Emigration,2023-12,Study: dependant,10000,False
+Emigration,2023-12,Family,16000,False
+Emigration,2023-12,Humanitarian and asylum,8000,False
+Emigration,2023-12,Other,3000,False
+Emigration,2024-03,All reasons,220000,False
+Emigration,2024-03,Work (all),51000,False
+Emigration,2024-03,Work: main applicant,34000,False
+Emigration,2024-03,Work: dependant,19000,False
+Emigration,2024-03,Study (all),134000,False
+Emigration,2024-03,Study: main applicant,120000,False
+Emigration,2024-03,Study: dependant,14000,False
+Emigration,2024-03,Family,19000,False
+Emigration,2024-03,Humanitarian and asylum,11000,False
+Emigration,2024-03,Other,4000,False
+Emigration,2024-06,All reasons,248000,False
+Emigration,2024-06,Work (all),60000,False
+Emigration,2024-06,Work: main applicant,38000,False
+Emigration,2024-06,Work: dependant,22000,False
+Emigration,2024-06,Study (all),147000,False
+Emigration,2024-06,Study: main applicant,128000,False
+Emigration,2024-06,Study: dependant,18000,False
+Emigration,2024-06,Family,23000,False
+Emigration,2024-06,Humanitarian and asylum,13000,False
+Emigration,2024-06,Other,5000,False
+Emigration,2024-09,All reasons,259000,False
+Emigration,2024-09,Work (all),66000,False
+Emigration,2024-09,Work: main applicant,43000,False
+Emigration,2024-09,Work: dependant,23000,False
+Emigration,2024-09,Study (all),158000,False
+Emigration,2024-09,Study: main applicant,138000,False
+Emigration,2024-09,Study: dependant,20000,False
+Emigration,2024-09,Family,15000,False
+Emigration,2024-09,Humanitarian and asylum,15000,False
+Emigration,2024-09,Other,5000,False
+Emigration,2024-12,All reasons,282000,False
+Emigration,2024-12,Work (all),75000,False
+Emigration,2024-12,Work: main applicant,48000,False
+Emigration,2024-12,Work: dependant,26000,False
+Emigration,2024-12,Study (all),166000,False
+Emigration,2024-12,Study: main applicant,144000,False
+Emigration,2024-12,Study: dependant,23000,False
+Emigration,2024-12,Family,17000,False
+Emigration,2024-12,Humanitarian and asylum,18000,False
+Emigration,2024-12,Other,7000,False
+Emigration,2025-03,All reasons,292000,True
+Emigration,2025-03,Work (all),74000,True
+Emigration,2025-03,Work: main applicant,49000,True
+Emigration,2025-03,Work: dependant,26000,True
+Emigration,2025-03,Study (all),172000,True
+Emigration,2025-03,Study: main applicant,145000,True
+Emigration,2025-03,Study: dependant,27000,True
+Emigration,2025-03,Family,19000,True
+Emigration,2025-03,Humanitarian and asylum,19000,True
+Emigration,2025-03,Other,7000,True
+Emigration,2025-06,All reasons,293000,True
+Emigration,2025-06,Work (all),73000,True
+Emigration,2025-06,Work: main applicant,48000,True
+Emigration,2025-06,Work: dependant,25000,True
+Emigration,2025-06,Study (all),166000,True
+Emigration,2025-06,Study: main applicant,141000,True
+Emigration,2025-06,Study: dependant,25000,True
+Emigration,2025-06,Family,23000,True
+Emigration,2025-06,Humanitarian and asylum,23000,True
+Emigration,2025-06,Other,7000,True
+Emigration,2025-09,All reasons,291000,True
+Emigration,2025-09,Work (all),72000,True
+Emigration,2025-09,Work: main applicant,48000,True
+Emigration,2025-09,Work: dependant,24000,True
+Emigration,2025-09,Study (all),164000,True
+Emigration,2025-09,Study: main applicant,141000,True
+Emigration,2025-09,Study: dependant,24000,True
+Emigration,2025-09,Family,25000,True
+Emigration,2025-09,Humanitarian and asylum,25000,True
+Emigration,2025-09,Other,7000,True
+Emigration,2025-12,All reasons,292000,True
+Emigration,2025-12,Work (all),68000,True
+Emigration,2025-12,Work: main applicant,44000,True
+Emigration,2025-12,Work: dependant,23000,True
+Emigration,2025-12,Study (all),166000,True
+Emigration,2025-12,Study: main applicant,143000,True
+Emigration,2025-12,Study: dependant,23000,True
+Emigration,2025-12,Family,26000,True
+Emigration,2025-12,Humanitarian and asylum,25000,True
+Emigration,2025-12,Other,6000,True
+Immigration,2019-06,All reasons,347000,False
+Immigration,2019-06,Work (all),89000,False
+Immigration,2019-06,Work: main applicant,56000,False
+Immigration,2019-06,Work: dependant,33000,False
+Immigration,2019-06,Study (all),126000,False
+Immigration,2019-06,Study: main applicant,119000,False
+Immigration,2019-06,Study: dependant,7000,False
+Immigration,2019-06,Family,65000,False
+Immigration,2019-06,Humanitarian and asylum,45000,False
+Immigration,2019-06,Other,22000,False
+Immigration,2019-09,All reasons,351000,False
+Immigration,2019-09,Work (all),95000,False
+Immigration,2019-09,Work: main applicant,59000,False
+Immigration,2019-09,Work: dependant,35000,False
+Immigration,2019-09,Study (all),116000,False
+Immigration,2019-09,Study: main applicant,109000,False
+Immigration,2019-09,Study: dependant,8000,False
+Immigration,2019-09,Family,71000,False
+Immigration,2019-09,Humanitarian and asylum,47000,False
+Immigration,2019-09,Other,22000,False
+Immigration,2019-12,All reasons,368000,False
+Immigration,2019-12,Work (all),99000,False
+Immigration,2019-12,Work: main applicant,62000,False
+Immigration,2019-12,Work: dependant,37000,False
+Immigration,2019-12,Study (all),120000,False
+Immigration,2019-12,Study: main applicant,112000,False
+Immigration,2019-12,Study: dependant,9000,False
+Immigration,2019-12,Family,78000,False
+Immigration,2019-12,Humanitarian and asylum,48000,False
+Immigration,2019-12,Other,23000,False
+Immigration,2020-03,All reasons,388000,False
+Immigration,2020-03,Work (all),102000,False
+Immigration,2020-03,Work: main applicant,63000,False
+Immigration,2020-03,Work: dependant,39000,False
+Immigration,2020-03,Study (all),135000,False
+Immigration,2020-03,Study: main applicant,124000,False
+Immigration,2020-03,Study: dependant,11000,False
+Immigration,2020-03,Family,82000,False
+Immigration,2020-03,Humanitarian and asylum,47000,False
+Immigration,2020-03,Other,23000,False
+Immigration,2020-06,All reasons,331000,False
+Immigration,2020-06,Work (all),80000,False
+Immigration,2020-06,Work: main applicant,49000,False
+Immigration,2020-06,Work: dependant,30000,False
+Immigration,2020-06,Study (all),124000,False
+Immigration,2020-06,Study: main applicant,114000,False
+Immigration,2020-06,Study: dependant,10000,False
+Immigration,2020-06,Family,68000,False
+Immigration,2020-06,Humanitarian and asylum,42000,False
+Immigration,2020-06,Other,17000,False
+Immigration,2020-09,All reasons,260000,False
+Immigration,2020-09,Work (all),68000,False
+Immigration,2020-09,Work: main applicant,42000,False
+Immigration,2020-09,Work: dependant,26000,False
+Immigration,2020-09,Study (all),77000,False
+Immigration,2020-09,Study: main applicant,69000,False
+Immigration,2020-09,Study: dependant,8000,False
+Immigration,2020-09,Family,59000,False
+Immigration,2020-09,Humanitarian and asylum,39000,False
+Immigration,2020-09,Other,16000,False
+Immigration,2020-12,All reasons,294000,False
+Immigration,2020-12,Work (all),71000,False
+Immigration,2020-12,Work: main applicant,42000,False
+Immigration,2020-12,Work: dependant,29000,False
+Immigration,2020-12,Study (all),112000,False
+Immigration,2020-12,Study: main applicant,100000,False
+Immigration,2020-12,Study: dependant,12000,False
+Immigration,2020-12,Family,56000,False
+Immigration,2020-12,Humanitarian and asylum,36000,False
+Immigration,2020-12,Other,20000,False
+Immigration,2021-03,All reasons,297000,False
+Immigration,2021-03,Work (all),70000,False
+Immigration,2021-03,Work: main applicant,40000,False
+Immigration,2021-03,Work: dependant,30000,False
+Immigration,2021-03,Study (all),124000,False
+Immigration,2021-03,Study: main applicant,109000,False
+Immigration,2021-03,Study: dependant,15000,False
+Immigration,2021-03,Family,51000,False
+Immigration,2021-03,Humanitarian and asylum,31000,False
+Immigration,2021-03,Other,21000,False
+Immigration,2021-06,All reasons,368000,False
+Immigration,2021-06,Work (all),100000,False
+Immigration,2021-06,Work: main applicant,59000,False
+Immigration,2021-06,Work: dependant,41000,False
+Immigration,2021-06,Study (all),133000,False
+Immigration,2021-06,Study: main applicant,115000,False
+Immigration,2021-06,Study: dependant,18000,False
+Immigration,2021-06,Family,64000,False
+Immigration,2021-06,Humanitarian and asylum,46000,False
+Immigration,2021-06,Other,25000,False
+Immigration,2021-09,All reasons,551000,False
+Immigration,2021-09,Work (all),131000,False
+Immigration,2021-09,Work: main applicant,77000,False
+Immigration,2021-09,Work: dependant,55000,False
+Immigration,2021-09,Study (all),234000,False
+Immigration,2021-09,Study: main applicant,208000,False
+Immigration,2021-09,Study: dependant,26000,False
+Immigration,2021-09,Family,69000,False
+Immigration,2021-09,Humanitarian and asylum,87000,False
+Immigration,2021-09,Other,28000,False
+Immigration,2021-12,All reasons,635000,False
+Immigration,2021-12,Work (all),159000,False
+Immigration,2021-12,Work: main applicant,94000,False
+Immigration,2021-12,Work: dependant,66000,False
+Immigration,2021-12,Study (all),269000,False
+Immigration,2021-12,Study: main applicant,233000,False
+Immigration,2021-12,Study: dependant,36000,False
+Immigration,2021-12,Family,68000,False
+Immigration,2021-12,Humanitarian and asylum,112000,False
+Immigration,2021-12,Other,26000,False
+Immigration,2022-03,All reasons,749000,False
+Immigration,2022-03,Work (all),197000,False
+Immigration,2022-03,Work: main applicant,117000,False
+Immigration,2022-03,Work: dependant,80000,False
+Immigration,2022-03,Study (all),315000,False
+Immigration,2022-03,Study: main applicant,263000,False
+Immigration,2022-03,Study: dependant,52000,False
+Immigration,2022-03,Family,72000,False
+Immigration,2022-03,Humanitarian and asylum,139000,False
+Immigration,2022-03,Other,26000,False
+Immigration,2022-06,All reasons,868000,False
+Immigration,2022-06,Work (all),227000,False
+Immigration,2022-06,Work: main applicant,134000,False
+Immigration,2022-06,Work: dependant,93000,False
+Immigration,2022-06,Study (all),326000,False
+Immigration,2022-06,Study: main applicant,269000,False
+Immigration,2022-06,Study: dependant,57000,False
+Immigration,2022-06,Family,65000,False
+Immigration,2022-06,Humanitarian and asylum,221000,False
+Immigration,2022-06,Other,28000,False
+Immigration,2022-09,All reasons,1031000,False
+Immigration,2022-09,Work (all),272000,False
+Immigration,2022-09,Work: main applicant,158000,False
+Immigration,2022-09,Work: dependant,113000,False
+Immigration,2022-09,Study (all),413000,False
+Immigration,2022-09,Study: main applicant,337000,False
+Immigration,2022-09,Study: dependant,76000,False
+Immigration,2022-09,Family,63000,False
+Immigration,2022-09,Humanitarian and asylum,255000,False
+Immigration,2022-09,Other,28000,False
+Immigration,2022-12,All reasons,1123000,False
+Immigration,2022-12,Work (all),310000,False
+Immigration,2022-12,Work: main applicant,177000,False
+Immigration,2022-12,Work: dependant,134000,False
+Immigration,2022-12,Study (all),441000,False
+Immigration,2022-12,Study: main applicant,337000,False
+Immigration,2022-12,Study: dependant,104000,False
+Immigration,2022-12,Family,68000,False
+Immigration,2022-12,Humanitarian and asylum,276000,False
+Immigration,2022-12,Other,27000,False
+Immigration,2023-03,All reasons,1202000,False
+Immigration,2023-03,Work (all),352000,False
+Immigration,2023-03,Work: main applicant,196000,False
+Immigration,2023-03,Work: dependant,155000,False
+Immigration,2023-03,Study (all),472000,False
+Immigration,2023-03,Study: main applicant,348000,False
+Immigration,2023-03,Study: dependant,124000,False
+Immigration,2023-03,Family,77000,False
+Immigration,2023-03,Humanitarian and asylum,276000,False
+Immigration,2023-03,Other,25000,False
+Immigration,2023-06,All reasons,1214000,False
+Immigration,2023-06,Work (all),407000,False
+Immigration,2023-06,Work: main applicant,220000,False
+Immigration,2023-06,Work: dependant,187000,False
+Immigration,2023-06,Study (all),484000,False
+Immigration,2023-06,Study: main applicant,352000,False
+Immigration,2023-06,Study: dependant,131000,False
+Immigration,2023-06,Family,90000,False
+Immigration,2023-06,Humanitarian and asylum,211000,False
+Immigration,2023-06,Other,21000,False
+Immigration,2023-09,All reasons,1225000,False
+Immigration,2023-09,Work (all),443000,False
+Immigration,2023-09,Work: main applicant,231000,False
+Immigration,2023-09,Work: dependant,212000,False
+Immigration,2023-09,Study (all),498000,False
+Immigration,2023-09,Study: main applicant,361000,False
+Immigration,2023-09,Study: dependant,137000,False
+Immigration,2023-09,Family,95000,False
+Immigration,2023-09,Humanitarian and asylum,170000,False
+Immigration,2023-09,Other,18000,False
+Immigration,2023-12,All reasons,1219000,False
+Immigration,2023-12,Work (all),488000,False
+Immigration,2023-12,Work: main applicant,244000,False
+Immigration,2023-12,Work: dependant,244000,False
+Immigration,2023-12,Study (all),473000,False
+Immigration,2023-12,Study: main applicant,339000,False
+Immigration,2023-12,Study: dependant,133000,False
+Immigration,2023-12,Family,91000,False
+Immigration,2023-12,Humanitarian and asylum,150000,False
+Immigration,2023-12,Other,16000,False
+Immigration,2024-03,All reasons,1146000,False
+Immigration,2024-03,Work (all),484000,False
+Immigration,2024-03,Work: main applicant,225000,False
+Immigration,2024-03,Work: dependant,259000,False
+Immigration,2024-03,Study (all),413000,False
+Immigration,2024-03,Study: main applicant,312000,False
+Immigration,2024-03,Study: dependant,101000,False
+Immigration,2024-03,Family,87000,False
+Immigration,2024-03,Humanitarian and asylum,146000,False
+Immigration,2024-03,Other,15000,False
+Immigration,2024-06,All reasons,1094000,False
+Immigration,2024-06,Work (all),451000,False
+Immigration,2024-06,Work: main applicant,202000,False
+Immigration,2024-06,Work: dependant,249000,False
+Immigration,2024-06,Study (all),398000,False
+Immigration,2024-06,Study: main applicant,310000,False
+Immigration,2024-06,Study: dependant,87000,False
+Immigration,2024-06,Family,87000,False
+Immigration,2024-06,Humanitarian and asylum,143000,False
+Immigration,2024-06,Other,15000,False
+Immigration,2024-09,All reasons,957000,False
+Immigration,2024-09,Work (all),383000,False
+Immigration,2024-09,Work: main applicant,167000,False
+Immigration,2024-09,Work: dependant,216000,False
+Immigration,2024-09,Study (all),335000,False
+Immigration,2024-09,Study: main applicant,277000,False
+Immigration,2024-09,Study: dependant,57000,False
+Immigration,2024-09,Family,89000,False
+Immigration,2024-09,Humanitarian and asylum,135000,False
+Immigration,2024-09,Other,14000,False
+Immigration,2024-12,All reasons,814000,False
+Immigration,2024-12,Work (all),288000,False
+Immigration,2024-12,Work: main applicant,127000,False
+Immigration,2024-12,Work: dependant,161000,False
+Immigration,2024-12,Study (all),288000,False
+Immigration,2024-12,Study: main applicant,268000,False
+Immigration,2024-12,Study: dependant,20000,False
+Immigration,2024-12,Family,87000,False
+Immigration,2024-12,Humanitarian and asylum,136000,False
+Immigration,2024-12,Other,14000,False
+Immigration,2025-03,All reasons,752000,True
+Immigration,2025-03,Work (all),232000,True
+Immigration,2025-03,Work: main applicant,112000,True
+Immigration,2025-03,Work: dependant,120000,True
+Immigration,2025-03,Study (all),296000,True
+Immigration,2025-03,Study: main applicant,280000,True
+Immigration,2025-03,Study: dependant,16000,True
+Immigration,2025-03,Family,76000,True
+Immigration,2025-03,Humanitarian and asylum,135000,True
+Immigration,2025-03,Other,13000,True
+Immigration,2025-06,All reasons,710000,True
+Immigration,2025-06,Work (all),194000,True
+Immigration,2025-06,Work: main applicant,99000,True
+Immigration,2025-06,Work: dependant,94000,True
+Immigration,2025-06,Study (all),305000,True
+Immigration,2025-06,Study: main applicant,289000,True
+Immigration,2025-06,Study: dependant,14000,True
+Immigration,2025-06,Family,65000,True
+Immigration,2025-06,Humanitarian and asylum,134000,True
+Immigration,2025-06,Other,13000,True
+Immigration,2025-09,All reasons,694000,True
+Immigration,2025-09,Work (all),176000,True
+Immigration,2025-09,Work: main applicant,91000,True
+Immigration,2025-09,Work: dependant,86000,True
+Immigration,2025-09,Study (all),314000,True
+Immigration,2025-09,Study: main applicant,297000,True
+Immigration,2025-09,Study: dependant,16000,True
+Immigration,2025-09,Family,55000,True
+Immigration,2025-09,Humanitarian and asylum,131000,True
+Immigration,2025-09,Other,16000,True
+Immigration,2025-12,All reasons,661000,True
+Immigration,2025-12,Work (all),162000,True
+Immigration,2025-12,Work: main applicant,83000,True
+Immigration,2025-12,Work: dependant,78000,True
+Immigration,2025-12,Study (all),308000,True
+Immigration,2025-12,Study: main applicant,291000,True
+Immigration,2025-12,Study: dependant,17000,True
+Immigration,2025-12,Family,50000,True
+Immigration,2025-12,Humanitarian and asylum,122000,True
+Immigration,2025-12,Other,19000,True
+Net migration,2019-06,All reasons,179000,False
+Net migration,2019-06,Work (all),45000,False
+Net migration,2019-06,Work: main applicant,26000,False
+Net migration,2019-06,Work: dependant,19000,False
+Net migration,2019-06,Study (all),24000,False
+Net migration,2019-06,Study: main applicant,23000,False
+Net migration,2019-06,Study: dependant,0,False
+Net migration,2019-06,Family,55000,False
+Net migration,2019-06,Humanitarian and asylum,42000,False
+Net migration,2019-06,Other,14000,False
+Net migration,2019-09,All reasons,171000,False
+Net migration,2019-09,Work (all),43000,False
+Net migration,2019-09,Work: main applicant,24000,False
+Net migration,2019-09,Work: dependant,19000,False
+Net migration,2019-09,Study (all),10000,False
+Net migration,2019-09,Study: main applicant,9000,False
+Net migration,2019-09,Study: dependant,1000,False
+Net migration,2019-09,Family,60000,False
+Net migration,2019-09,Humanitarian and asylum,45000,False
+Net migration,2019-09,Other,14000,False
+Net migration,2019-12,All reasons,186000,False
+Net migration,2019-12,Work (all),47000,False
+Net migration,2019-12,Work: main applicant,27000,False
+Net migration,2019-12,Work: dependant,21000,False
+Net migration,2019-12,Study (all),12000,False
+Net migration,2019-12,Study: main applicant,10000,False
+Net migration,2019-12,Study: dependant,2000,False
+Net migration,2019-12,Family,66000,False
+Net migration,2019-12,Humanitarian and asylum,46000,False
+Net migration,2019-12,Other,14000,False
+Net migration,2020-03,All reasons,166000,False
+Net migration,2020-03,Work (all),48000,False
+Net migration,2020-03,Work: main applicant,27000,False
+Net migration,2020-03,Work: dependant,21000,False
+Net migration,2020-03,Study (all),-7000,False
+Net migration,2020-03,Study: main applicant,-10000,False
+Net migration,2020-03,Study: dependant,3000,False
+Net migration,2020-03,Family,69000,False
+Net migration,2020-03,Humanitarian and asylum,45000,False
+Net migration,2020-03,Other,11000,False
+Net migration,2020-06,All reasons,115000,False
+Net migration,2020-06,Work (all),32000,False
+Net migration,2020-06,Work: main applicant,17000,False
+Net migration,2020-06,Work: dependant,15000,False
+Net migration,2020-06,Study (all),-18000,False
+Net migration,2020-06,Study: main applicant,-20000,False
+Net migration,2020-06,Study: dependant,2000,False
+Net migration,2020-06,Family,54000,False
+Net migration,2020-06,Humanitarian and asylum,41000,False
+Net migration,2020-06,Other,6000,False
+Net migration,2020-09,All reasons,60000,False
+Net migration,2020-09,Work (all),26000,False
+Net migration,2020-09,Work: main applicant,14000,False
+Net migration,2020-09,Work: dependant,12000,False
+Net migration,2020-09,Study (all),-53000,False
+Net migration,2020-09,Study: main applicant,-55000,False
+Net migration,2020-09,Study: dependant,2000,False
+Net migration,2020-09,Family,43000,False
+Net migration,2020-09,Humanitarian and asylum,38000,False
+Net migration,2020-09,Other,6000,False
+Net migration,2020-12,All reasons,101000,False
+Net migration,2020-12,Work (all),29000,False
+Net migration,2020-12,Work: main applicant,15000,False
+Net migration,2020-12,Work: dependant,14000,False
+Net migration,2020-12,Study (all),-11000,False
+Net migration,2020-12,Study: main applicant,-16000,False
+Net migration,2020-12,Study: dependant,6000,False
+Net migration,2020-12,Family,38000,False
+Net migration,2020-12,Humanitarian and asylum,35000,False
+Net migration,2020-12,Other,11000,False
+Net migration,2021-03,All reasons,150000,False
+Net migration,2021-03,Work (all),32000,False
+Net migration,2021-03,Work: main applicant,16000,False
+Net migration,2021-03,Work: dependant,16000,False
+Net migration,2021-03,Study (all),41000,False
+Net migration,2021-03,Study: main applicant,32000,False
+Net migration,2021-03,Study: dependant,9000,False
+Net migration,2021-03,Family,32000,False
+Net migration,2021-03,Humanitarian and asylum,30000,False
+Net migration,2021-03,Other,15000,False
+Net migration,2021-06,All reasons,247000,False
+Net migration,2021-06,Work (all),64000,False
+Net migration,2021-06,Work: main applicant,35000,False
+Net migration,2021-06,Work: dependant,28000,False
+Net migration,2021-06,Study (all),59000,False
+Net migration,2021-06,Study: main applicant,46000,False
+Net migration,2021-06,Study: dependant,14000,False
+Net migration,2021-06,Family,54000,False
+Net migration,2021-06,Humanitarian and asylum,46000,False
+Net migration,2021-06,Other,24000,False
+Net migration,2021-09,All reasons,452000,False
+Net migration,2021-09,Work (all),99000,False
+Net migration,2021-09,Work: main applicant,56000,False
+Net migration,2021-09,Work: dependant,44000,False
+Net migration,2021-09,Study (all),180000,False
+Net migration,2021-09,Study: main applicant,158000,False
+Net migration,2021-09,Study: dependant,22000,False
+Net migration,2021-09,Family,60000,False
+Net migration,2021-09,Humanitarian and asylum,87000,False
+Net migration,2021-09,Other,26000,False
+Net migration,2021-12,All reasons,547000,False
+Net migration,2021-12,Work (all),131000,False
+Net migration,2021-12,Work: main applicant,75000,False
+Net migration,2021-12,Work: dependant,56000,False
+Net migration,2021-12,Study (all),221000,False
+Net migration,2021-12,Study: main applicant,189000,False
+Net migration,2021-12,Study: dependant,32000,False
+Net migration,2021-12,Family,59000,False
+Net migration,2021-12,Humanitarian and asylum,112000,False
+Net migration,2021-12,Other,24000,False
+Net migration,2022-03,All reasons,663000,False
+Net migration,2022-03,Work (all),171000,False
+Net migration,2022-03,Work: main applicant,99000,False
+Net migration,2022-03,Work: dependant,71000,False
+Net migration,2022-03,Study (all),268000,False
+Net migration,2022-03,Study: main applicant,221000,False
+Net migration,2022-03,Study: dependant,48000,False
+Net migration,2022-03,Family,61000,False
+Net migration,2022-03,Humanitarian and asylum,139000,False
+Net migration,2022-03,Other,24000,False
+Net migration,2022-06,All reasons,780000,False
+Net migration,2022-06,Work (all),202000,False
+Net migration,2022-06,Work: main applicant,117000,False
+Net migration,2022-06,Work: dependant,84000,False
+Net migration,2022-06,Study (all),276000,False
+Net migration,2022-06,Study: main applicant,224000,False
+Net migration,2022-06,Study: dependant,53000,False
+Net migration,2022-06,Family,55000,False
+Net migration,2022-06,Humanitarian and asylum,221000,False
+Net migration,2022-06,Other,26000,False
+Net migration,2022-09,All reasons,932000,False
+Net migration,2022-09,Work (all),247000,False
+Net migration,2022-09,Work: main applicant,143000,False
+Net migration,2022-09,Work: dependant,104000,False
+Net migration,2022-09,Study (all),353000,False
+Net migration,2022-09,Study: main applicant,282000,False
+Net migration,2022-09,Study: dependant,71000,False
+Net migration,2022-09,Family,52000,False
+Net migration,2022-09,Humanitarian and asylum,255000,False
+Net migration,2022-09,Other,27000,False
+Net migration,2022-12,All reasons,1011000,False
+Net migration,2022-12,Work (all),284000,False
+Net migration,2022-12,Work: main applicant,160000,False
+Net migration,2022-12,Work: dependant,124000,False
+Net migration,2022-12,Study (all),369000,False
+Net migration,2022-12,Study: main applicant,270000,False
+Net migration,2022-12,Study: dependant,98000,False
+Net migration,2022-12,Family,58000,False
+Net migration,2022-12,Humanitarian and asylum,274000,False
+Net migration,2022-12,Other,25000,False
+Net migration,2023-03,All reasons,1076000,False
+Net migration,2023-03,Work (all),322000,False
+Net migration,2023-03,Work: main applicant,177000,False
+Net migration,2023-03,Work: dependant,145000,False
+Net migration,2023-03,Study (all),388000,False
+Net migration,2023-03,Study: main applicant,272000,False
+Net migration,2023-03,Study: dependant,117000,False
+Net migration,2023-03,Family,67000,False
+Net migration,2023-03,Humanitarian and asylum,274000,False
+Net migration,2023-03,Other,23000,False
+Net migration,2023-06,All reasons,1072000,False
+Net migration,2023-06,Work (all),375000,False
+Net migration,2023-06,Work: main applicant,200000,False
+Net migration,2023-06,Work: dependant,176000,False
+Net migration,2023-06,Study (all),391000,False
+Net migration,2023-06,Study: main applicant,268000,False
+Net migration,2023-06,Study: dependant,123000,False
+Net migration,2023-06,Family,79000,False
+Net migration,2023-06,Humanitarian and asylum,209000,False
+Net migration,2023-06,Other,19000,False
+Net migration,2023-09,All reasons,1057000,False
+Net migration,2023-09,Work (all),405000,False
+Net migration,2023-09,Work: main applicant,207000,False
+Net migration,2023-09,Work: dependant,198000,False
+Net migration,2023-09,Study (all),390000,False
+Net migration,2023-09,Study: main applicant,261000,False
+Net migration,2023-09,Study: dependant,128000,False
+Net migration,2023-09,Family,81000,False
+Net migration,2023-09,Humanitarian and asylum,164000,False
+Net migration,2023-09,Other,15000,False
+Net migration,2023-12,All reasons,1029000,False
+Net migration,2023-12,Work (all),443000,False
+Net migration,2023-12,Work: main applicant,215000,False
+Net migration,2023-12,Work: dependant,228000,False
+Net migration,2023-12,Study (all),356000,False
+Net migration,2023-12,Study: main applicant,233000,False
+Net migration,2023-12,Study: dependant,123000,False
+Net migration,2023-12,Family,75000,False
+Net migration,2023-12,Humanitarian and asylum,143000,False
+Net migration,2023-12,Other,12000,False
+Net migration,2024-03,All reasons,926000,False
+Net migration,2024-03,Work (all),433000,False
+Net migration,2024-03,Work: main applicant,193000,False
+Net migration,2024-03,Work: dependant,241000,False
+Net migration,2024-03,Study (all),280000,False
+Net migration,2024-03,Study: main applicant,193000,False
+Net migration,2024-03,Study: dependant,86000,False
+Net migration,2024-03,Family,67000,False
+Net migration,2024-03,Humanitarian and asylum,135000,False
+Net migration,2024-03,Other,11000,False
+Net migration,2024-06,All reasons,846000,False
+Net migration,2024-06,Work (all),392000,False
+Net migration,2024-06,Work: main applicant,164000,False
+Net migration,2024-06,Work: dependant,228000,False
+Net migration,2024-06,Study (all),251000,False
+Net migration,2024-06,Study: main applicant,182000,False
+Net migration,2024-06,Study: dependant,69000,False
+Net migration,2024-06,Family,64000,False
+Net migration,2024-06,Humanitarian and asylum,129000,False
+Net migration,2024-06,Other,10000,False
+Net migration,2024-09,All reasons,697000,False
+Net migration,2024-09,Work (all),317000,False
+Net migration,2024-09,Work: main applicant,124000,False
+Net migration,2024-09,Work: dependant,193000,False
+Net migration,2024-09,Study (all),177000,False
+Net migration,2024-09,Study: main applicant,140000,False
+Net migration,2024-09,Study: dependant,37000,False
+Net migration,2024-09,Family,74000,False
+Net migration,2024-09,Humanitarian and asylum,121000,False
+Net migration,2024-09,Other,9000,False
+Net migration,2024-12,All reasons,531000,False
+Net migration,2024-12,Work (all),214000,False
+Net migration,2024-12,Work: main applicant,79000,False
+Net migration,2024-12,Work: dependant,135000,False
+Net migration,2024-12,Study (all),121000,False
+Net migration,2024-12,Study: main applicant,123000,False
+Net migration,2024-12,Study: dependant,-2000,False
+Net migration,2024-12,Family,69000,False
+Net migration,2024-12,Humanitarian and asylum,119000,False
+Net migration,2024-12,Other,7000,False
+Net migration,2025-03,All reasons,459000,True
+Net migration,2025-03,Work (all),157000,True
+Net migration,2025-03,Work: main applicant,63000,True
+Net migration,2025-03,Work: dependant,94000,True
+Net migration,2025-03,Study (all),123000,True
+Net migration,2025-03,Study: main applicant,134000,True
+Net migration,2025-03,Study: dependant,-11000,True
+Net migration,2025-03,Family,57000,True
+Net migration,2025-03,Humanitarian and asylum,116000,True
+Net migration,2025-03,Other,6000,True
+Net migration,2025-06,All reasons,418000,True
+Net migration,2025-06,Work (all),120000,True
+Net migration,2025-06,Work: main applicant,51000,True
+Net migration,2025-06,Work: dependant,70000,True
+Net migration,2025-06,Study (all),138000,True
+Net migration,2025-06,Study: main applicant,149000,True
+Net migration,2025-06,Study: dependant,-11000,True
+Net migration,2025-06,Family,43000,True
+Net migration,2025-06,Humanitarian and asylum,109000,True
+Net migration,2025-06,Other,6000,True
+Net migration,2025-09,All reasons,402000,True
+Net migration,2025-09,Work (all),105000,True
+Net migration,2025-09,Work: main applicant,43000,True
+Net migration,2025-09,Work: dependant,62000,True
+Net migration,2025-09,Study (all),150000,True
+Net migration,2025-09,Study: main applicant,157000,True
+Net migration,2025-09,Study: dependant,-7000,True
+Net migration,2025-09,Family,31000,True
+Net migration,2025-09,Humanitarian and asylum,106000,True
+Net migration,2025-09,Other,9000,True
+Net migration,2025-12,All reasons,371000,True
+Net migration,2025-12,Work (all),94000,True
+Net migration,2025-12,Work: main applicant,39000,True
+Net migration,2025-12,Work: dependant,55000,True
+Net migration,2025-12,Study (all),142000,True
+Net migration,2025-12,Study: main applicant,148000,True
+Net migration,2025-12,Study: dependant,-6000,True
+Net migration,2025-12,Family,24000,True
+Net migration,2025-12,Humanitarian and asylum,99000,True
+Net migration,2025-12,Other,12000,True

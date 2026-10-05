@@ -1,0 +1,765 @@
+{
+ "reference_periods": {
+  "projections_base": "May 2025 (projected to May 2030 and May 2035), ANZSCO 2013 v1.3",
+  "shortage_list": "2025 Occupation Shortage List (unit group, ANZSCO 2022)",
+  "occupation_profiles": "February 2026",
+  "job_ads": "3-month average to 2026-08-01 (year ago: 2025-08-01)",
+  "apprentices": "12 months ending 31 March 2026",
+  "visa_holders": "snapshot 2026-06-30 (year ago: 2025-06-30)",
+  "visa_grants": "financial year 2025-26",
+  "university_completions": "calendar year 2024 (Section 14)"
+ },
+ "all_jobs_growth_5y_pct": 6.54,
+ "growth_band_rule": "More than 2 points above/below 6.5% = faster/slower than average",
+ "outlook_groups": [
+  {
+   "outlook_group": "Not assessed",
+   "occupations": 192,
+   "visa_holders_primary": 7022,
+   "visa_grants_primary": 2551,
+   "projected_growth_per_year": 10375,
+   "visa_holders_primary_share_pct": 5.0,
+   "visa_grants_primary_share_pct": 3.7
+  },
+  {
+   "outlook_group": "Not short now, about average growth",
+   "occupations": 53,
+   "visa_holders_primary": 13210,
+   "visa_grants_primary": 6724,
+   "projected_growth_per_year": 34080,
+   "visa_holders_primary_share_pct": 9.4,
+   "visa_grants_primary_share_pct": 9.7
+  },
+  {
+   "outlook_group": "Not short now, faster than average growth",
+   "occupations": 73,
+   "visa_holders_primary": 33859,
+   "visa_grants_primary": 18371,
+   "projected_growth_per_year": 76509,
+   "visa_holders_primary_share_pct": 24.1,
+   "visa_grants_primary_share_pct": 26.5
+  },
+  {
+   "outlook_group": "Not short now, slower than average growth",
+   "occupations": 77,
+   "visa_holders_primary": 6461,
+   "visa_grants_primary": 3238,
+   "projected_growth_per_year": 5593,
+   "visa_holders_primary_share_pct": 4.6,
+   "visa_grants_primary_share_pct": 4.7
+  },
+  {
+   "outlook_group": "Short now, about average growth",
+   "occupations": 23,
+   "visa_holders_primary": 28641,
+   "visa_grants_primary": 13589,
+   "projected_growth_per_year": 14317,
+   "visa_holders_primary_share_pct": 20.4,
+   "visa_grants_primary_share_pct": 19.6
+  },
+  {
+   "outlook_group": "Short now, faster than average growth",
+   "occupations": 34,
+   "visa_holders_primary": 20545,
+   "visa_grants_primary": 11756,
+   "projected_growth_per_year": 45672,
+   "visa_holders_primary_share_pct": 14.6,
+   "visa_grants_primary_share_pct": 17.0
+  },
+  {
+   "outlook_group": "Short now, slower than average growth",
+   "occupations": 44,
+   "visa_holders_primary": 30648,
+   "visa_grants_primary": 13106,
+   "projected_growth_per_year": 5646,
+   "visa_holders_primary_share_pct": 21.8,
+   "visa_grants_primary_share_pct": 18.9
+  }
+ ],
+ "match_to_projection_unit_groups": {
+  "shortage_list": {
+   "unit_groups": 311,
+   "matched_to_projections": 298
+  },
+  "occupation_profiles": {
+   "unit_groups": 358,
+   "matched_to_projections": 358
+  },
+  "job_ads": {
+   "unit_groups": 351,
+   "matched_to_projections": 351,
+   "job_ads_latest_total": 213540.0,
+   "job_ads_latest_share_matched_pct": 100.0
+  },
+  "apprentices": {
+   "unit_groups": 228,
+   "matched_to_projections": 212,
+   "apprentice_completions_total": 97475.0,
+   "apprentice_completions_share_matched_pct": 96.5
+  },
+  "visa_holders_primary": {
+   "unit_groups": 306,
+   "matched_to_projections": 288,
+   "visa_holders_primary_total": 140386.0,
+   "visa_holders_primary_share_matched_pct": 95.27
+  },
+  "visa_grants_primary": {
+   "unit_groups": 306,
+   "matched_to_projections": 288,
+   "visa_grants_primary_total": 69335.0,
+   "visa_grants_primary_share_matched_pct": 96.47
+  }
+ },
+ "visa_codes_not_in_projections": [
+  {
+   "unit_group_code": "(Not Specified)",
+   "visa_title": "Not Specified",
+   "visa_holders_primary": 6115.0,
+   "visa_grants_primary": 2089.0
+  },
+  {
+   "unit_group_code": "3627",
+   "visa_title": "Landscape Gardeners and Irrigation Technicians",
+   "visa_holders_primary": 249.0,
+   "visa_grants_primary": 195.0
+  },
+  {
+   "unit_group_code": "3431",
+   "visa_title": "Senior Aquaculture, Crop and Forestry Workers",
+   "visa_holders_primary": 148.0,
+   "visa_grants_primary": 48.0
+  },
+  {
+   "unit_group_code": "3625",
+   "visa_title": "Arboriculture Workers",
+   "visa_holders_primary": 42.0,
+   "visa_grants_primary": 42.0
+  },
+  {
+   "unit_group_code": "8422",
+   "visa_title": "Crop Farm Workers",
+   "visa_holders_primary": 25.0,
+   "visa_grants_primary": 19.0
+  },
+  {
+   "unit_group_code": "1216",
+   "visa_title": "Horticultural Crop Growers",
+   "visa_holders_primary": 12.0,
+   "visa_grants_primary": 12.0
+  },
+  {
+   "unit_group_code": "3631",
+   "visa_title": "Senior Aquaculture, Crop and Forestry Workers",
+   "visa_holders_primary": 10.0,
+   "visa_grants_primary": 8.0
+  },
+  {
+   "unit_group_code": "8424",
+   "visa_title": "Mixed Production Farm Workers",
+   "visa_holders_primary": 8.0,
+   "visa_grants_primary": 3.0
+  },
+  {
+   "unit_group_code": "8439",
+   "visa_title": "Other Forestry and Garden Workers",
+   "visa_holders_primary": 8.0,
+   "visa_grants_primary": 7.0
+  },
+  {
+   "unit_group_code": "8421",
+   "visa_title": "Aquaculture Workers",
+   "visa_holders_primary": 7.0,
+   "visa_grants_primary": 8.0
+  },
+  {
+   "unit_group_code": "1217",
+   "visa_title": "Mixed Production Farmers",
+   "visa_holders_primary": 6.0,
+   "visa_grants_primary": 4.0
+  },
+  {
+   "unit_group_code": "8423",
+   "visa_title": "Livestock Farm Workers",
+   "visa_holders_primary": 4.0,
+   "visa_grants_primary": 4.0
+  },
+  {
+   "unit_group_code": "1215",
+   "visa_title": "Crop Farmers",
+   "visa_holders_primary": 3.0,
+   "visa_grants_primary": 2.0
+  },
+  {
+   "unit_group_code": "3632",
+   "visa_title": "Senior Livestock Farm Workers",
+   "visa_holders_primary": 1.0,
+   "visa_grants_primary": 1.0
+  },
+  {
+   "unit_group_code": "8431",
+   "visa_title": "Forestry and Logging Workers",
+   "visa_holders_primary": 1.0,
+   "visa_grants_primary": 1.0
+  },
+  {
+   "unit_group_code": "8432",
+   "visa_title": "Garden Labourers",
+   "visa_holders_primary": 1.0,
+   "visa_grants_primary": 1.0
+  },
+  {
+   "unit_group_code": "(Not Applicable)",
+   "visa_title": "Not Applicable",
+   "visa_holders_primary": 0.0,
+   "visa_grants_primary": 0.0
+  },
+  {
+   "unit_group_code": "8434",
+   "visa_title": "Forestry and Garden Workers",
+   "visa_holders_primary": 0.0,
+   "visa_grants_primary": 1.0
+  }
+ ],
+ "same_code_different_title": {
+  "shortage_list": [
+   "2241: 'Mathematical Science Professionals' vs projections 'Actuaries, Mathematicians and Statisticians'",
+   "2341: 'Agricultural, Fisheries and Forestry Scientists' vs projections 'Agricultural and Forestry Scientists'",
+   "2346: 'Medical Scientists' vs projections 'Medical Laboratory Scientists'",
+   "2413: 'Middle School Teachers / Intermediate School Teachers' vs projections 'Middle School Teachers'",
+   "2422: 'Vocational Education Teachers / Polytechnic Teachers' vs projections 'Vocational Education Teachers'",
+   "3111: 'Agricultural, Agritech and Aquaculture Technicians' vs projections 'Agricultural Technicians'",
+   "3113: 'Primary Products Assurance and Inspection Officers' vs projections 'Primary Products Inspectors'",
+   "3322: 'Painters' vs projections 'Painting Trades Workers'",
+   "3332: 'Plasterers and Renderers' vs projections 'Plasterers'",
+   "3623: 'Sports Turf Managers and Trades Workers' vs projections 'Greenkeepers'",
+   "3941: 'Cabinet and Furniture Makers' vs projections 'Cabinetmakers'"
+  ],
+  "apprentices": [
+   "2341: 'Agricultural, Fisheries and Forestry Scientists' vs projections 'Agricultural and Forestry Scientists'",
+   "2422: 'Vocational Education Teachers / Polytechnic Teachers' vs projections 'Vocational Education Teachers'",
+   "3113: 'Primary Products Assurance and Inspection Officers' vs projections 'Primary Products Inspectors'",
+   "3322: 'Painters' vs projections 'Painting Trades Workers'",
+   "3332: 'Plasterers and Renderers' vs projections 'Plasterers'",
+   "3623: 'Sports Turf Managers and Trades Workers' vs projections 'Greenkeepers'",
+   "3941: 'Cabinet and Furniture Makers' vs projections 'Cabinetmakers'",
+   "5522: 'Credit and Loans Officers (Aus) / Finance Clerks (NZ)' vs projections 'Credit and Loans Officers'"
+  ],
+  "visas": [
+   "1336: 'Supply and Distribution Managers' vs projections 'Supply, Distribution and Procurement Managers'",
+   "2413: 'Middle School Teachers (Aus) / Intermediate School Teachers (NZ)' vs projections 'Middle School Teachers'",
+   "2422: 'Vocational Education Teachers (Aus) / Polytechnic Teachers (NZ)' vs projections 'Vocational Education Teachers'",
+   "2511: 'Dietitians' vs projections 'Nutrition Professionals'",
+   "2527: 'Speech Professionals and Audiologists' vs projections 'Audiologists and Speech Pathologists \\ Therapists'",
+   "5522: 'Credit and Loans Officers (Aus)/Finance Clerks (NZ)' vs projections 'Credit and Loans Officers'"
+  ],
+  "job_ads": [
+   "1311: 'Advertising and Sales Managers' vs projections 'Advertising, Public Relations and Sales Managers'",
+   "2344: 'Geologists and Geophysicists' vs projections 'Geologists, Geophysicists and Hydrogeologists'",
+   "2413: 'Middle School Teachers (Aus) / Intermediate School Teachers (NZ)' vs projections 'Middle School Teachers'",
+   "2422: 'Vocational Education Teachers (Aus) / Polytechnic Teachers (NZ)' vs projections 'Vocational Education Teachers'",
+   "3921: 'Binders, Finishers and Screen Printers' vs projections 'Print Finishers and Screen Printers'"
+  ]
+ },
+ "training_coding_flags": [
+  {
+   "rule": "25%+ of minor group completions coded nfd",
+   "code": "3110",
+   "completions": 725,
+   "share_pct": 74.4,
+   "in_comparison_group": "G311"
+  },
+  {
+   "rule": "25%+ of minor group completions coded nfd",
+   "code": "3230",
+   "completions": 2215,
+   "share_pct": 67.2,
+   "in_comparison_group": "G323"
+  },
+  {
+   "rule": "25%+ of minor group completions coded nfd",
+   "code": "3930",
+   "completions": 50,
+   "share_pct": 76.9,
+   "in_comparison_group": "G393"
+  },
+  {
+   "rule": "25%+ of minor group completions coded nfd",
+   "code": "4310",
+   "completions": 2200,
+   "share_pct": 85.9,
+   "in_comparison_group": "G431"
+  },
+  {
+   "rule": "25%+ of minor group completions coded nfd",
+   "code": "5520",
+   "completions": 100,
+   "share_pct": 95.2,
+   "in_comparison_group": "G552"
+  },
+  {
+   "rule": "completions above 25% of the workforce",
+   "code": "3222",
+   "completions": 3140,
+   "share_pct": 55.2,
+   "in_comparison_group": "G322"
+  }
+ ],
+ "shortage_rating_carried_to_anzsco_2013_codes": {
+  "1212": [
+   "1215",
+   "1216"
+  ],
+  "1214": [
+   "1217"
+  ],
+  "3612": [
+   "3633"
+  ],
+  "3622": "not carried: successor ratings 3625=S, 3626=NS, 3627=S",
+  "8411": "not carried: successor ratings 8421=none",
+  "8412": [
+   "8422"
+  ],
+  "8413": [
+   "8431"
+  ],
+  "8414": "not carried: successor ratings 8432=none, 8433=none",
+  "8415": [
+   "8423"
+  ],
+  "8416": "not carried: successor ratings 8424=none",
+  "8419": "not carried: successor ratings 8434=NS, 8439=none"
+ },
+ "replacement_demand": {
+  "method": "Retirement only. The ABS national count of people who retired in a year is shared across occupations in proportion to employed_may2025 x sum(age share x weight) over the age bands below. Age profiles are ABS Census 2021 (latest by occupation). Weights are PROVISIONAL assumptions until official age-specific retirement rates are added.",
+  "national_retirements_per_year": 155600,
+  "weights": {
+   "55_59": 0.25,
+   "60_64": 1.0,
+   "65_plus": 1.0
+  },
+  "implied_annual_retirement_rate_pct_by_band": {
+   "55_59": 1.97,
+   "60_64": 7.89,
+   "65_plus": 7.89
+  },
+  "implied_retirements_by_band": {
+   "55_59": 25164,
+   "60_64": 75015,
+   "65_plus": 55422
+  },
+  "implied_share_of_retirements_by_band_pct": {
+   "55_59": 16.2,
+   "60_64": 48.2,
+   "65_plus": 35.6
+  },
+  "retirements_in_national_table": 155596,
+  "age_profile_source_rows": {
+   "Own": 358,
+   "minor group average": 67,
+   "sub-major group average": 29,
+   "comparison group average": 12,
+   "major group average": 8
+  },
+  "age_profile_source_employment": {
+   "Own": 14360002,
+   "comparison group average": 135532,
+   "major group average": 47926,
+   "minor group average": 98745,
+   "sub-major group average": 58781
+  },
+  "top_by_retirements_per_year": [
+   {
+    "unit_group_code": "4231",
+    "occupation": "Aged and Disabled Carers",
+    "retirements_per_year_est": 4920,
+    "share_aged_55_plus_pct": 25.4
+   },
+   {
+    "unit_group_code": "6211",
+    "occupation": "Sales Assistants (General)",
+    "retirements_per_year_est": 4245,
+    "share_aged_55_plus_pct": 13.8
+   },
+   {
+    "unit_group_code": "2544",
+    "occupation": "Registered Nurses",
+    "retirements_per_year_est": 4110,
+    "share_aged_55_plus_pct": 21.0
+   },
+   {
+    "unit_group_code": "5311",
+    "occupation": "General Clerks",
+    "retirements_per_year_est": 4001,
+    "share_aged_55_plus_pct": 25.5
+   },
+   {
+    "unit_group_code": "7331",
+    "occupation": "Truck Drivers",
+    "retirements_per_year_est": 3201,
+    "share_aged_55_plus_pct": 32.1
+   },
+   {
+    "unit_group_code": "1213",
+    "occupation": "Livestock Farmers",
+    "retirements_per_year_est": 3111,
+    "share_aged_55_plus_pct": 58.4
+   },
+   {
+    "unit_group_code": "1421",
+    "occupation": "Retail Managers",
+    "retirements_per_year_est": 2799,
+    "share_aged_55_plus_pct": 20.9
+   },
+   {
+    "unit_group_code": "8112",
+    "occupation": "Commercial Cleaners",
+    "retirements_per_year_est": 2746,
+    "share_aged_55_plus_pct": 31.9
+   },
+   {
+    "unit_group_code": "5421",
+    "occupation": "Receptionists",
+    "retirements_per_year_est": 2440,
+    "share_aged_55_plus_pct": 24.0
+   },
+   {
+    "unit_group_code": "5121",
+    "occupation": "Office Managers",
+    "retirements_per_year_est": 2139,
+    "share_aged_55_plus_pct": 29.9
+   }
+  ],
+  "new_workers_needed_per_year_total": 349531,
+  "net_growth_per_year_total": 192192
+ },
+ "career_moves": {
+  "method": "ABS Job Mobility (Feb 2026) gives, per major group, the % of workers who changed employer leaving that group's jobs, the % entering it, and the % of leavers who stayed in the same group. Moves out = leavers who changed group; moves in = enterers minus within-group movers, with both sides scaled to the same total of job changers. Inside each group, moves out are scaled by the job's age mix (ABS job mobility by age) and moves in are shared by employment.",
+  "by_major_group": [
+   {
+    "major_group": "1",
+    "left_pct": 5.6,
+    "entered_pct": 5.3,
+    "stayed_pct": 56.0,
+    "employed": 1872740.0,
+    "changed_jobs_left": 103377.0,
+    "changed_jobs_entered": 100713.0,
+    "stayed_in_group": 57891.0,
+    "moved_out": 45486.0,
+    "moved_in": 42821.0
+   },
+   {
+    "major_group": "2",
+    "left_pct": 6.2,
+    "entered_pct": 6.4,
+    "stayed_pct": 81.1,
+    "employed": 3953283.0,
+    "changed_jobs_left": 241607.0,
+    "changed_jobs_entered": 256725.0,
+    "stayed_in_group": 195943.0,
+    "moved_out": 45664.0,
+    "moved_in": 60782.0
+   },
+   {
+    "major_group": "3",
+    "left_pct": 8.0,
+    "entered_pct": 8.0,
+    "stayed_pct": 75.2,
+    "employed": 1994066.0,
+    "changed_jobs_left": 157250.0,
+    "changed_jobs_entered": 161868.0,
+    "stayed_in_group": 118252.0,
+    "moved_out": 38998.0,
+    "moved_in": 43616.0
+   },
+   {
+    "major_group": "4",
+    "left_pct": 8.0,
+    "entered_pct": 7.2,
+    "stayed_pct": 57.7,
+    "employed": 1725403.0,
+    "changed_jobs_left": 136063.0,
+    "changed_jobs_entered": 126053.0,
+    "stayed_in_group": 78508.0,
+    "moved_out": 57555.0,
+    "moved_in": 47545.0
+   },
+   {
+    "major_group": "5",
+    "left_pct": 6.8,
+    "entered_pct": 7.8,
+    "stayed_pct": 62.0,
+    "employed": 1870832.0,
+    "changed_jobs_left": 125402.0,
+    "changed_jobs_entered": 148068.0,
+    "stayed_in_group": 77749.0,
+    "moved_out": 47653.0,
+    "moved_in": 70319.0
+   },
+   {
+    "major_group": "6",
+    "left_pct": 9.9,
+    "entered_pct": 7.5,
+    "stayed_pct": 44.4,
+    "employed": 1154656.0,
+    "changed_jobs_left": 112680.0,
+    "changed_jobs_entered": 87871.0,
+    "stayed_in_group": 50030.0,
+    "moved_out": 62650.0,
+    "moved_in": 37841.0
+   },
+   {
+    "major_group": "7",
+    "left_pct": 8.8,
+    "entered_pct": 9.5,
+    "stayed_pct": 74.6,
+    "employed": 909653.0,
+    "changed_jobs_left": 78908.0,
+    "changed_jobs_entered": 87686.0,
+    "stayed_in_group": 58865.0,
+    "moved_out": 20043.0,
+    "moved_in": 28821.0
+   },
+   {
+    "major_group": "8",
+    "left_pct": 10.3,
+    "entered_pct": 8.9,
+    "stayed_pct": 58.1,
+    "employed": 1220353.0,
+    "changed_jobs_left": 123903.0,
+    "changed_jobs_entered": 110206.0,
+    "stayed_in_group": 71988.0,
+    "moved_out": 51915.0,
+    "moved_in": 38219.0
+   }
+  ],
+  "changed_jobs_left_minus_entered_before_balancing": 31236,
+  "national_net_after_balancing": 2,
+  "top_net_losers": [
+   {
+    "unit_group_code": "6211",
+    "occupation": "Sales Assistants (General)",
+    "career_moves_net_loss_per_year_est": 14569
+   },
+   {
+    "unit_group_code": "6311",
+    "occupation": "Checkout Operators and Office Cashiers",
+    "career_moves_net_loss_per_year_est": 3695
+   },
+   {
+    "unit_group_code": "8513",
+    "occupation": "Kitchenhands",
+    "career_moves_net_loss_per_year_est": 3084
+   },
+   {
+    "unit_group_code": "4315",
+    "occupation": "Waiters",
+    "career_moves_net_loss_per_year_est": 2153
+   },
+   {
+    "unit_group_code": "4311",
+    "occupation": "Bar Attendants and Baristas",
+    "career_moves_net_loss_per_year_est": 1780
+   },
+   {
+    "unit_group_code": "8912",
+    "occupation": "Shelf Fillers",
+    "career_moves_net_loss_per_year_est": 1496
+   },
+   {
+    "unit_group_code": "8511",
+    "occupation": "Fast Food Cooks",
+    "career_moves_net_loss_per_year_est": 1444
+   },
+   {
+    "unit_group_code": "4211",
+    "occupation": "Child Carers",
+    "career_moves_net_loss_per_year_est": 1356
+   },
+   {
+    "unit_group_code": "6215",
+    "occupation": "Retail Supervisors",
+    "career_moves_net_loss_per_year_est": 1080
+   },
+   {
+    "unit_group_code": "6214",
+    "occupation": "Pharmacy Sales Assistants",
+    "career_moves_net_loss_per_year_est": 1065
+   }
+  ],
+  "top_net_gainers": [
+   {
+    "unit_group_code": "5311",
+    "occupation": "General Clerks",
+    "career_moves_net_loss_per_year_est": -3687
+   },
+   {
+    "unit_group_code": "7331",
+    "occupation": "Truck Drivers",
+    "career_moves_net_loss_per_year_est": -2248
+   },
+   {
+    "unit_group_code": "5121",
+    "occupation": "Office Managers",
+    "career_moves_net_loss_per_year_est": -2028
+   },
+   {
+    "unit_group_code": "5111",
+    "occupation": "Contract, Program and Project Administrators",
+    "career_moves_net_loss_per_year_est": -1990
+   },
+   {
+    "unit_group_code": "5511",
+    "occupation": "Accounting Clerks",
+    "career_moves_net_loss_per_year_est": -1857
+   },
+   {
+    "unit_group_code": "5421",
+    "occupation": "Receptionists",
+    "career_moves_net_loss_per_year_est": -1833
+   },
+   {
+    "unit_group_code": "5512",
+    "occupation": "Bookkeepers",
+    "career_moves_net_loss_per_year_est": -1459
+   },
+   {
+    "unit_group_code": "2544",
+    "occupation": "Registered Nurses",
+    "career_moves_net_loss_per_year_est": -1422
+   },
+   {
+    "unit_group_code": "5911",
+    "occupation": "Purchasing and Supply Logistics Clerks",
+    "career_moves_net_loss_per_year_est": -1299
+   },
+   {
+    "unit_group_code": "7411",
+    "occupation": "Storepersons",
+    "career_moves_net_loss_per_year_est": -1113
+   }
+  ]
+ },
+ "state_employment_check": {
+  "NSW": {
+   "our_estimate": 4521954,
+   "jsa_projections_table_4": 4555421,
+   "difference_pct": -0.73
+  },
+  "VIC": {
+   "our_estimate": 3818078,
+   "jsa_projections_table_4": 3783517,
+   "difference_pct": 0.91
+  },
+  "QLD": {
+   "our_estimate": 3018058,
+   "jsa_projections_table_4": 3015616,
+   "difference_pct": 0.08
+  },
+  "SA": {
+   "our_estimate": 969945,
+   "jsa_projections_table_4": 969293,
+   "difference_pct": 0.07
+  },
+  "WA": {
+   "our_estimate": 1654331,
+   "jsa_projections_table_4": 1673963,
+   "difference_pct": -1.17
+  },
+  "TAS": {
+   "our_estimate": 287043,
+   "jsa_projections_table_4": 285369,
+   "difference_pct": 0.59
+  },
+  "NT": {
+   "our_estimate": 149843,
+   "jsa_projections_table_4": 144235,
+   "difference_pct": 3.89
+  },
+  "ACT": {
+   "our_estimate": 282412,
+   "jsa_projections_table_4": 273575,
+   "difference_pct": 3.23
+  }
+ },
+ "university_pipeline": {
+  "courses_not_mapped_to_a_row": [],
+  "by_course": [
+   {
+    "course_code": "8.01",
+    "course": "Initial registration as a nurse",
+    "maps_to": "2544",
+    "table_14_19_2024": 19361.0,
+    "table_14_20_total_row": 19361.0,
+    "sum_of_institutions": 19361.0,
+    "suppressed_cells": 0
+   },
+   {
+    "course_code": "8.02",
+    "course": "Initial teacher education",
+    "maps_to": "G241",
+    "table_14_19_2024": 17439.0,
+    "table_14_20_total_row": 17439.0,
+    "sum_of_institutions": 17439.0,
+    "suppressed_cells": 0
+   },
+   {
+    "course_code": "8.03",
+    "course": "Provisional registration as a medical practitioner",
+    "maps_to": "G253",
+    "table_14_19_2024": 4260.0,
+    "table_14_20_total_row": 4260.0,
+    "sum_of_institutions": 4194.0,
+    "suppressed_cells": 1
+   },
+   {
+    "course_code": "8.04",
+    "course": "Registration as a veterinary practitioner",
+    "maps_to": "2347",
+    "table_14_19_2024": 665.0,
+    "table_14_20_total_row": 665.0,
+    "sum_of_institutions": 665.0,
+    "suppressed_cells": 0
+   },
+   {
+    "course_code": "8.05",
+    "course": "Registration as a dentist",
+    "maps_to": "2523",
+    "table_14_19_2024": 652.0,
+    "table_14_20_total_row": 652.0,
+    "sum_of_institutions": 652.0,
+    "suppressed_cells": 0
+   },
+   {
+    "course_code": "8.06",
+    "course": "Clinical psychology",
+    "maps_to": "2723",
+    "table_14_19_2024": 1325.0,
+    "table_14_20_total_row": 1325.0,
+    "sum_of_institutions": 1325.0,
+    "suppressed_cells": 0
+   },
+   {
+    "course_code": "8.07",
+    "course": "Aviation",
+    "maps_to": "2311",
+    "table_14_19_2024": 326.0,
+    "table_14_20_total_row": 326.0,
+    "sum_of_institutions": 326.0,
+    "suppressed_cells": 0
+   }
+  ]
+ },
+ "totals_preserved": {
+  "visa_holders_primary_source": 140386,
+  "visa_holders_primary_national_table": 140386,
+  "visa_holders_primary_state_table": 140386,
+  "visa_grants_primary_groups": 69335,
+  "visa_grants_primary_national_table": 69335,
+  "apprentice_completions_source": 97475,
+  "apprentice_completions_national_table": 97475,
+  "apprentice_completions_groups": 97475,
+  "uni_completions_2024_source": 44028.0,
+  "uni_completions_2024_groups": 44028.0
+ }
+}

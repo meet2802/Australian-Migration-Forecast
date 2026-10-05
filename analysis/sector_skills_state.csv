@@ -1,0 +1,159 @@
+anzsic_division,industry,industry_plain_name,state,visa_grants_primary,visa_grants_primary_prev_year,visa_holders_primary,visa_holders_primary_year_ago
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",ACT,0.0,1.0,2.0,3.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",NSW,559.0,489.0,1355.0,1091.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",NT,42.0,25.0,117.0,94.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",QLD,598.0,618.0,1631.0,1417.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",SA,150.0,116.0,382.0,370.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",TAS,45.0,75.0,161.0,135.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",VIC,605.0,585.0,1721.0,1537.0
+A,"Agriculture, Forestry and Fishing","Farming, forestry and fishing",WA,389.0,326.0,958.0,866.0
+B,Mining,Mining,ACT,2.0,1.0,2.0,1.0
+B,Mining,Mining,NSW,131.0,150.0,351.0,352.0
+B,Mining,Mining,NT,20.0,16.0,44.0,43.0
+B,Mining,Mining,QLD,346.0,434.0,822.0,817.0
+B,Mining,Mining,SA,48.0,35.0,74.0,65.0
+B,Mining,Mining,TAS,9.0,8.0,20.0,23.0
+B,Mining,Mining,VIC,43.0,57.0,105.0,91.0
+B,Mining,Mining,WA,1259.0,1318.0,2688.0,2480.0
+C,Manufacturing,Manufacturing,ACT,6.0,17.0,29.0,31.0
+C,Manufacturing,Manufacturing,NSW,1595.0,1482.0,3892.0,3252.0
+C,Manufacturing,Manufacturing,NT,51.0,58.0,137.0,118.0
+C,Manufacturing,Manufacturing,QLD,1364.0,1331.0,3447.0,2727.0
+C,Manufacturing,Manufacturing,SA,266.0,240.0,626.0,493.0
+C,Manufacturing,Manufacturing,TAS,34.0,64.0,108.0,94.0
+C,Manufacturing,Manufacturing,VIC,1282.0,1313.0,3051.0,2562.0
+C,Manufacturing,Manufacturing,WA,893.0,892.0,2267.0,1909.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",ACT,8.0,3.0,27.0,28.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",NSW,362.0,361.0,867.0,900.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",NT,18.0,12.0,33.0,37.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",QLD,120.0,145.0,271.0,237.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",SA,28.0,37.0,79.0,59.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",TAS,18.0,10.0,29.0,28.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",VIC,209.0,178.0,412.0,358.0
+D,"Electricity, Gas, Water and Waste Services","Electricity, gas, water and waste",WA,360.0,224.0,610.0,558.0
+E,Construction,Construction,ACT,37.0,75.0,113.0,113.0
+E,Construction,Construction,NSW,2259.0,2004.0,5143.0,4325.0
+E,Construction,Construction,NT,116.0,159.0,223.0,202.0
+E,Construction,Construction,QLD,826.0,830.0,1843.0,1552.0
+E,Construction,Construction,SA,261.0,222.0,531.0,434.0
+E,Construction,Construction,TAS,11.0,3.0,28.0,34.0
+E,Construction,Construction,VIC,991.0,900.0,2127.0,1819.0
+E,Construction,Construction,WA,1346.0,1312.0,2771.0,2195.0
+F,Wholesale Trade,Wholesale trade,ACT,1.0,0.0,2.0,1.0
+F,Wholesale Trade,Wholesale trade,NSW,369.0,374.0,755.0,602.0
+F,Wholesale Trade,Wholesale trade,NT,5.0,3.0,8.0,4.0
+F,Wholesale Trade,Wholesale trade,QLD,96.0,94.0,226.0,176.0
+F,Wholesale Trade,Wholesale trade,SA,20.0,18.0,31.0,28.0
+F,Wholesale Trade,Wholesale trade,TAS,1.0,3.0,2.0,0.0
+F,Wholesale Trade,Wholesale trade,VIC,312.0,281.0,698.0,563.0
+F,Wholesale Trade,Wholesale trade,WA,91.0,94.0,196.0,157.0
+G,Retail Trade,Retail trade,ACT,47.0,43.0,93.0,77.0
+G,Retail Trade,Retail trade,NSW,1175.0,1036.0,2362.0,1848.0
+G,Retail Trade,Retail trade,NT,48.0,54.0,138.0,114.0
+G,Retail Trade,Retail trade,QLD,714.0,480.0,1567.0,1137.0
+G,Retail Trade,Retail trade,SA,93.0,90.0,204.0,152.0
+G,Retail Trade,Retail trade,TAS,17.0,10.0,30.0,34.0
+G,Retail Trade,Retail trade,VIC,909.0,672.0,1830.0,1521.0
+G,Retail Trade,Retail trade,WA,404.0,290.0,763.0,540.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",ACT,208.0,244.0,441.0,319.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",NSW,3270.0,3819.0,7557.0,6059.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",NT,119.0,114.0,256.0,228.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",QLD,1924.0,2032.0,4048.0,3021.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",SA,329.0,345.0,656.0,423.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",TAS,25.0,37.0,59.0,57.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",VIC,2462.0,2793.0,5442.0,4288.0
+H,Accommodation and Food Services,"Hotels, cafes and restaurants",WA,1117.0,1381.0,2476.0,2004.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",ACT,11.0,6.0,18.0,10.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",NSW,460.0,383.0,890.0,719.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",NT,33.0,24.0,71.0,65.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",QLD,273.0,239.0,562.0,395.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",SA,50.0,39.0,96.0,71.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",TAS,1.0,4.0,4.0,4.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",VIC,455.0,299.0,928.0,736.0
+I,"Transport, Postal and Warehousing","Transport, post and warehousing",WA,285.0,285.0,761.0,666.0
+J,Information Media and Telecommunications,Media and telecommunications,ACT,11.0,10.0,23.0,25.0
+J,Information Media and Telecommunications,Media and telecommunications,NSW,1738.0,1995.0,3266.0,3405.0
+J,Information Media and Telecommunications,Media and telecommunications,NT,9.0,3.0,18.0,12.0
+J,Information Media and Telecommunications,Media and telecommunications,QLD,198.0,235.0,401.0,404.0
+J,Information Media and Telecommunications,Media and telecommunications,SA,61.0,54.0,105.0,114.0
+J,Information Media and Telecommunications,Media and telecommunications,TAS,5.0,3.0,7.0,4.0
+J,Information Media and Telecommunications,Media and telecommunications,VIC,767.0,721.0,1324.0,1333.0
+J,Information Media and Telecommunications,Media and telecommunications,WA,108.0,86.0,197.0,213.0
+K,Financial and Insurance Services,Finance and insurance,ACT,6.0,7.0,13.0,8.0
+K,Financial and Insurance Services,Finance and insurance,NSW,1332.0,1206.0,2557.0,2344.0
+K,Financial and Insurance Services,Finance and insurance,NT,5.0,1.0,5.0,1.0
+K,Financial and Insurance Services,Finance and insurance,QLD,127.0,102.0,234.0,187.0
+K,Financial and Insurance Services,Finance and insurance,SA,22.0,7.0,29.0,15.0
+K,Financial and Insurance Services,Finance and insurance,TAS,4.0,0.0,3.0,0.0
+K,Financial and Insurance Services,Finance and insurance,VIC,336.0,319.0,700.0,676.0
+K,Financial and Insurance Services,Finance and insurance,WA,51.0,54.0,105.0,98.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",ACT,1.0,1.0,2.0,3.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",NSW,140.0,137.0,300.0,221.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",NT,1.0,3.0,4.0,6.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",QLD,41.0,36.0,77.0,61.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",SA,7.0,7.0,16.0,13.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",TAS,0.0,0.0,1.0,1.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",VIC,77.0,49.0,160.0,134.0
+L,"Rental, Hiring and Real Estate Services","Rental, hiring and real estate",WA,45.0,70.0,120.0,113.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,ACT,82.0,77.0,146.0,139.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,NSW,4148.0,3996.0,8062.0,8061.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,NT,72.0,63.0,130.0,127.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,Not specified,1.0,0.0,1.0,0.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,QLD,1167.0,1038.0,2438.0,2126.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,SA,279.0,236.0,479.0,469.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,TAS,17.0,21.0,40.0,49.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,VIC,2084.0,2080.0,4258.0,4336.0
+M,"Professional, Scientific and Technical Services",Professional and technical services,WA,1398.0,1177.0,2759.0,2503.0
+N,Administrative and Support Services,Admin and support services,ACT,1.0,3.0,4.0,3.0
+N,Administrative and Support Services,Admin and support services,NSW,140.0,131.0,237.0,189.0
+N,Administrative and Support Services,Admin and support services,NT,4.0,3.0,7.0,3.0
+N,Administrative and Support Services,Admin and support services,QLD,37.0,33.0,55.0,38.0
+N,Administrative and Support Services,Admin and support services,SA,5.0,7.0,9.0,10.0
+N,Administrative and Support Services,Admin and support services,TAS,4.0,5.0,3.0,2.0
+N,Administrative and Support Services,Admin and support services,VIC,62.0,75.0,109.0,97.0
+N,Administrative and Support Services,Admin and support services,WA,38.0,42.0,60.0,48.0
+Not Specified,Not Specified,Not Specified,NSW,6.0,0.0,9.0,11.0
+Not Specified,Not Specified,Not Specified,Not specified,2.0,1.0,58.0,21.0
+Not Specified,Not Specified,Not Specified,QLD,0.0,0.0,2.0,1.0
+Not Specified,Not Specified,Not Specified,VIC,7.0,0.0,8.0,3.0
+Not Specified,Not Specified,Not Specified,WA,0.0,1.0,0.0,0.0
+O,Public Administration and Safety,Government and public safety,ACT,1.0,2.0,1.0,0.0
+O,Public Administration and Safety,Government and public safety,NSW,36.0,21.0,60.0,45.0
+O,Public Administration and Safety,Government and public safety,NT,1.0,2.0,3.0,4.0
+O,Public Administration and Safety,Government and public safety,QLD,10.0,7.0,14.0,8.0
+O,Public Administration and Safety,Government and public safety,SA,2.0,1.0,1.0,1.0
+O,Public Administration and Safety,Government and public safety,TAS,0.0,1.0,0.0,0.0
+O,Public Administration and Safety,Government and public safety,VIC,16.0,45.0,106.0,101.0
+O,Public Administration and Safety,Government and public safety,WA,21.0,14.0,35.0,27.0
+P,Education and Training,Education and training,ACT,75.0,61.0,130.0,99.0
+P,Education and Training,Education and training,NSW,934.0,565.0,1451.0,913.0
+P,Education and Training,Education and training,NT,61.0,62.0,146.0,118.0
+P,Education and Training,Education and training,QLD,474.0,218.0,697.0,387.0
+P,Education and Training,Education and training,SA,90.0,49.0,134.0,75.0
+P,Education and Training,Education and training,TAS,8.0,7.0,13.0,11.0
+P,Education and Training,Education and training,VIC,1044.0,805.0,1469.0,1179.0
+P,Education and Training,Education and training,WA,382.0,328.0,710.0,514.0
+Q,Health Care and Social Assistance,Health care and social assistance,ACT,205.0,196.0,361.0,275.0
+Q,Health Care and Social Assistance,Health care and social assistance,NSW,3699.0,3498.0,6527.0,5132.0
+Q,Health Care and Social Assistance,Health care and social assistance,NT,377.0,282.0,556.0,351.0
+Q,Health Care and Social Assistance,Health care and social assistance,QLD,2544.0,2312.0,3988.0,3085.0
+Q,Health Care and Social Assistance,Health care and social assistance,SA,725.0,583.0,1117.0,740.0
+Q,Health Care and Social Assistance,Health care and social assistance,TAS,204.0,211.0,357.0,303.0
+Q,Health Care and Social Assistance,Health care and social assistance,VIC,2418.0,2241.0,4054.0,3551.0
+Q,Health Care and Social Assistance,Health care and social assistance,WA,1577.0,1541.0,2340.0,1954.0
+R,Arts and Recreation Services,"Arts, sport and recreation",ACT,5.0,2.0,5.0,4.0
+R,Arts and Recreation Services,"Arts, sport and recreation",NSW,228.0,186.0,366.0,289.0
+R,Arts and Recreation Services,"Arts, sport and recreation",NT,0.0,2.0,2.0,3.0
+R,Arts and Recreation Services,"Arts, sport and recreation",QLD,42.0,69.0,100.0,90.0
+R,Arts and Recreation Services,"Arts, sport and recreation",SA,11.0,10.0,16.0,18.0
+R,Arts and Recreation Services,"Arts, sport and recreation",TAS,1.0,0.0,1.0,1.0
+R,Arts and Recreation Services,"Arts, sport and recreation",VIC,63.0,106.0,148.0,150.0
+R,Arts and Recreation Services,"Arts, sport and recreation",WA,23.0,27.0,49.0,40.0
+S,Other Services,"Repairs, personal and other services",ACT,97.0,78.0,179.0,143.0
+S,Other Services,"Repairs, personal and other services",NSW,2854.0,3847.0,5664.0,5313.0
+S,Other Services,"Repairs, personal and other services",NT,116.0,136.0,265.0,222.0
+S,Other Services,"Repairs, personal and other services",QLD,1065.0,961.0,2081.0,1676.0
+S,Other Services,"Repairs, personal and other services",SA,323.0,258.0,576.0,382.0
+S,Other Services,"Repairs, personal and other services",TAS,39.0,25.0,81.0,56.0
+S,Other Services,"Repairs, personal and other services",VIC,1775.0,2369.0,3591.0,3210.0
+S,Other Services,"Repairs, personal and other services",WA,1112.0,1262.0,2184.0,1877.0

@@ -1,0 +1,55 @@
+{
+ "files_written": {
+  "visas_vs_shortages.csv": "visas_vs_shortages.csv",
+  "model_sensitivity.csv": "model_sensitivity.csv"
+ },
+ "a1_occupations": 304,
+ "a1_plain_words": "58% of temporary skilled visas went to jobs on the shortage list, which hold 35% of workers in the jobs rated. Short jobs got 8.8 visas per 1,000 workers, other jobs 3.5. Projected growth made no clear difference once shortages and skill level are allowed for.",
+ "a1_spearman_growth": {
+  "rho": 0.221,
+  "n": 304,
+  "p_approx": 8.3e-05
+ },
+ "a1_spearman_short": {
+  "rho": 0.393,
+  "n": 304,
+  "p_approx": 1.1e-13
+ },
+ "a2": {
+  "people_per_home_range": [
+   2.3,
+   2.8
+  ],
+  "homes_completed_reference": 173523,
+  "homes_needed_range_by_plan": {
+   "Coalition (Liberal-National)": [
+    97898,
+    119180
+   ],
+   "Government (Labor)": [
+    118068,
+    143735
+   ],
+   "One Nation": [
+    13336,
+    16235
+   ],
+   "Reference: latest year held flat (not a plan)": [
+    140260,
+    170751
+   ]
+  },
+  "every_central_plan_below_completions_across_range": true,
+  "late_start_population_2030_difference": {
+   "Coalition (Liberal-National)": 71477,
+   "Government (Labor)": 0,
+   "One Nation": 115000,
+   "Reference: latest year held flat (not a plan)": 0
+  }
+ },
+ "working_age_share_central": 0.829,
+ "rows": {
+  "visas_vs_shortages.csv": 304,
+  "model_sensitivity.csv": 112
+ }
+}

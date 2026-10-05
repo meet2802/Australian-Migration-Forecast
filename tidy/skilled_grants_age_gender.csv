@@ -1,0 +1,1272 @@
+fy_label,fy,fy_complete,data_to,applicant_type,gender,age_group,count
+2005-06,2005-06,True,,Primary,Female,45 - 49,359
+2005-06,2005-06,True,,Primary,Female,30 - 34,2559
+2005-06,2005-06,True,,Primary,Female,50 - 54,194
+2005-06,2005-06,True,,Primary,Male,40 - 44,3399
+2005-06,2005-06,True,,Primary,Female,Not Specified,6
+2005-06,2005-06,True,,Primary,Male,60 - 64,204
+2005-06,2005-06,True,,Primary,Male,35 - 39,5323
+2005-06,2005-06,True,,Primary,Male,45 - 49,1881
+2005-06,2005-06,True,,Primary,Male,50 - 54,986
+2005-06,2005-06,True,,Primary,Male,55 - 59,581
+2005-06,2005-06,True,,Primary,Female,20 - 24,1201
+2005-06,2005-06,True,,Primary,Male,20 - 24,1922
+2005-06,2005-06,True,,Primary,Male,30 - 34,7372
+2005-06,2005-06,True,,Primary,Female,25 - 29,3854
+2005-06,2005-06,True,,Primary,Female,35 - 39,1167
+2005-06,2005-06,True,,Primary,Male,25 - 29,7321
+2005-06,2005-06,True,,Primary,Male,18 - 19,35
+2005-06,2005-06,True,,Primary,Female,65 +,7
+2005-06,2005-06,True,,Primary,Not Specified,Not Specified,314
+2005-06,2005-06,True,,Primary,Female,40 - 44,725
+2005-06,2005-06,True,,Primary,Male,65 +,77
+2005-06,2005-06,True,,Primary,Female,60 - 64,16
+2005-06,2005-06,True,,Primary,Female,55 - 59,74
+2005-06,2005-06,True,,Primary,Female,18 - 19,14
+2005-06,2005-06,True,,Secondary,Female,35 - 39,2449
+2005-06,2005-06,True,,Secondary,Female,40 - 44,1564
+2005-06,2005-06,True,,Secondary,Female,50 - 54,414
+2005-06,2005-06,True,,Secondary,Female,05 - 11,2986
+2005-06,2005-06,True,,Secondary,Female,25 - 29,3031
+2005-06,2005-06,True,,Secondary,Male,12 - 15,1290
+2005-06,2005-06,True,,Secondary,Male,25 - 29,530
+2005-06,2005-06,True,,Secondary,Male,16 - 17,449
+2005-06,2005-06,True,,Secondary,Female,30 - 34,3245
+2005-06,2005-06,True,,Secondary,Female,12 - 15,1230
+2005-06,2005-06,True,,Secondary,Female,00 - 04,2794
+2005-06,2005-06,True,,Secondary,Female,45 - 49,791
+2005-06,2005-06,True,,Secondary,Female,20 - 24,1074
+2005-06,2005-06,True,,Secondary,Not Specified,Not Specified,321
+2005-06,2005-06,True,,Secondary,Female,16 - 17,418
+2005-06,2005-06,True,,Secondary,Male,50 - 54,91
+2005-06,2005-06,True,,Secondary,Male,00 - 04,2908
+2005-06,2005-06,True,,Secondary,Male,20 - 24,277
+2005-06,2005-06,True,,Secondary,Female,18 - 19,282
+2005-06,2005-06,True,,Secondary,Male,35 - 39,568
+2005-06,2005-06,True,,Secondary,Male,30 - 34,655
+2005-06,2005-06,True,,Secondary,Male,05 - 11,3233
+2005-06,2005-06,True,,Secondary,Female,60 - 64,92
+2005-06,2005-06,True,,Secondary,Male,40 - 44,407
+2005-06,2005-06,True,,Secondary,Female,55 - 59,242
+2005-06,2005-06,True,,Secondary,Male,45 - 49,215
+2005-06,2005-06,True,,Secondary,Male,55 - 59,58
+2005-06,2005-06,True,,Secondary,Female,65 +,65
+2005-06,2005-06,True,,Secondary,Male,18 - 19,279
+2005-06,2005-06,True,,Secondary,Male,60 - 64,28
+2005-06,2005-06,True,,Secondary,Not Specified,00 - 04,5
+2005-06,2005-06,True,,Primary,Not Specified,20 - 24,2
+2005-06,2005-06,True,,Primary,Not Specified,40 - 44,6
+2005-06,2005-06,True,,Primary,Not Specified,35 - 39,3
+2005-06,2005-06,True,,Secondary,Male,65 +,12
+2005-06,2005-06,True,,Primary,Not Specified,30 - 34,6
+2005-06,2005-06,True,,Primary,Not Specified,25 - 29,6
+2005-06,2005-06,True,,Secondary,Female,Not Specified,10
+2005-06,2005-06,True,,Primary,Male,16 - 17,1
+2005-06,2005-06,True,,Primary,Not Specified,55 - 59,2
+2005-06,2005-06,True,,Primary,Male,Not Specified,52
+2005-06,2005-06,True,,Primary,Not Specified,45 - 49,3
+2005-06,2005-06,True,,Secondary,Not Specified,05 - 11,3
+2005-06,2005-06,True,,Secondary,Not Specified,30 - 34,1
+2005-06,2005-06,True,,Secondary,Male,Not Specified,3
+2005-06,2005-06,True,,Secondary,Not Specified,12 - 15,1
+2005-06,2005-06,True,,Secondary,Not Specified,25 - 29,2
+2005-06,2005-06,True,,Secondary,Not Specified,16 - 17,1
+2006-07,2006-07,True,,Primary,Female,55 - 59,114
+2006-07,2006-07,True,,Primary,Male,65 +,72
+2006-07,2006-07,True,,Primary,Male,45 - 49,2312
+2006-07,2006-07,True,,Primary,Male,25 - 29,8769
+2006-07,2006-07,True,,Primary,Male,30 - 34,8890
+2006-07,2006-07,True,,Primary,Female,45 - 49,459
+2006-07,2006-07,True,,Primary,Male,35 - 39,6398
+2006-07,2006-07,True,,Primary,Female,20 - 24,1331
+2006-07,2006-07,True,,Primary,Female,25 - 29,4532
+2006-07,2006-07,True,,Primary,Female,30 - 34,3051
+2006-07,2006-07,True,,Primary,Female,35 - 39,1566
+2006-07,2006-07,True,,Primary,Male,20 - 24,2078
+2006-07,2006-07,True,,Primary,Female,50 - 54,230
+2006-07,2006-07,True,,Primary,Male,40 - 44,4106
+2006-07,2006-07,True,,Primary,Male,60 - 64,214
+2006-07,2006-07,True,,Primary,Male,50 - 54,1201
+2006-07,2006-07,True,,Primary,Male,55 - 59,634
+2006-07,2006-07,True,,Primary,Female,40 - 44,797
+2006-07,2006-07,True,,Primary,Male,18 - 19,17
+2006-07,2006-07,True,,Primary,Not Specified,35 - 39,2
+2006-07,2006-07,True,,Secondary,Female,40 - 44,1886
+2006-07,2006-07,True,,Secondary,Female,60 - 64,115
+2006-07,2006-07,True,,Secondary,Male,12 - 15,1595
+2006-07,2006-07,True,,Secondary,Female,00 - 04,3778
+2006-07,2006-07,True,,Secondary,Male,16 - 17,558
+2006-07,2006-07,True,,Secondary,Female,05 - 11,3775
+2006-07,2006-07,True,,Secondary,Male,60 - 64,35
+2006-07,2006-07,True,,Secondary,Female,18 - 19,361
+2006-07,2006-07,True,,Secondary,Female,25 - 29,3981
+2006-07,2006-07,True,,Secondary,Female,35 - 39,3192
+2006-07,2006-07,True,,Secondary,Male,00 - 04,4147
+2006-07,2006-07,True,,Secondary,Male,05 - 11,4125
+2006-07,2006-07,True,,Secondary,Male,18 - 19,343
+2006-07,2006-07,True,,Secondary,Male,20 - 24,391
+2006-07,2006-07,True,,Secondary,Female,45 - 49,976
+2006-07,2006-07,True,,Secondary,Female,20 - 24,1443
+2006-07,2006-07,True,,Secondary,Female,12 - 15,1383
+2006-07,2006-07,True,,Secondary,Male,30 - 34,937
+2006-07,2006-07,True,,Secondary,Female,55 - 59,249
+2006-07,2006-07,True,,Secondary,Female,16 - 17,564
+2006-07,2006-07,True,,Secondary,Female,30 - 34,4080
+2006-07,2006-07,True,,Secondary,Female,50 - 54,459
+2006-07,2006-07,True,,Secondary,Male,40 - 44,561
+2006-07,2006-07,True,,Secondary,Male,35 - 39,805
+2006-07,2006-07,True,,Secondary,Male,25 - 29,632
+2006-07,2006-07,True,,Secondary,Female,65 +,75
+2006-07,2006-07,True,,Secondary,Male,50 - 54,167
+2006-07,2006-07,True,,Secondary,Male,65 +,19
+2006-07,2006-07,True,,Secondary,Male,55 - 59,91
+2006-07,2006-07,True,,Secondary,Male,45 - 49,295
+2006-07,2006-07,True,,Primary,Male,Not Specified,23
+2006-07,2006-07,True,,Primary,Female,18 - 19,9
+2006-07,2006-07,True,,Secondary,Female,Not Specified,24
+2006-07,2006-07,True,,Primary,Female,60 - 64,30
+2006-07,2006-07,True,,Secondary,Not Specified,05 - 11,4
+2006-07,2006-07,True,,Primary,Female,Not Specified,10
+2006-07,2006-07,True,,Secondary,Male,Not Specified,8
+2006-07,2006-07,True,,Primary,Female,65 +,11
+2006-07,2006-07,True,,Secondary,Not Specified,00 - 04,4
+2006-07,2006-07,True,,Primary,Not Specified,40 - 44,2
+2006-07,2006-07,True,,Primary,Male,16 - 17,1
+2006-07,2006-07,True,,Primary,Not Specified,30 - 34,1
+2006-07,2006-07,True,,Primary,Not Specified,25 - 29,4
+2006-07,2006-07,True,,Secondary,Not Specified,35 - 39,2
+2006-07,2006-07,True,,Primary,Not Specified,45 - 49,2
+2006-07,2006-07,True,,Primary,Not Specified,50 - 54,2
+2006-07,2006-07,True,,Secondary,Not Specified,12 - 15,1
+2006-07,2006-07,True,,Primary,Not Specified,20 - 24,1
+2006-07,2006-07,True,,Secondary,Not Specified,25 - 29,1
+2006-07,2006-07,True,,Primary,Female,16 - 17,1
+2006-07,2006-07,True,,Secondary,Not Specified,30 - 34,1
+2007-08,2007-08,True,,Primary,Female,40 - 44,1033
+2007-08,2007-08,True,,Primary,Male,35 - 39,7620
+2007-08,2007-08,True,,Primary,Male,45 - 49,2691
+2007-08,2007-08,True,,Primary,Male,50 - 54,1512
+2007-08,2007-08,True,,Primary,Male,65 +,89
+2007-08,2007-08,True,,Primary,Male,40 - 44,4983
+2007-08,2007-08,True,,Primary,Female,50 - 54,324
+2007-08,2007-08,True,,Primary,Female,45 - 49,565
+2007-08,2007-08,True,,Primary,Male,30 - 34,10916
+2007-08,2007-08,True,,Primary,Female,20 - 24,1760
+2007-08,2007-08,True,,Primary,Female,30 - 34,3765
+2007-08,2007-08,True,,Primary,Female,35 - 39,1938
+2007-08,2007-08,True,,Primary,Female,25 - 29,5616
+2007-08,2007-08,True,,Primary,Male,25 - 29,11261
+2007-08,2007-08,True,,Primary,Female,55 - 59,126
+2007-08,2007-08,True,,Primary,Male,20 - 24,2831
+2007-08,2007-08,True,,Primary,Male,55 - 59,747
+2007-08,2007-08,True,,Primary,Male,60 - 64,317
+2007-08,2007-08,True,,Primary,Female,18 - 19,10
+2007-08,2007-08,True,,Primary,Female,60 - 64,32
+2007-08,2007-08,True,,Secondary,Female,30 - 34,5157
+2007-08,2007-08,True,,Secondary,Female,20 - 24,1797
+2007-08,2007-08,True,,Secondary,Female,45 - 49,1151
+2007-08,2007-08,True,,Secondary,Female,50 - 54,615
+2007-08,2007-08,True,,Secondary,Female,55 - 59,331
+2007-08,2007-08,True,,Secondary,Female,40 - 44,2421
+2007-08,2007-08,True,,Secondary,Male,20 - 24,485
+2007-08,2007-08,True,,Secondary,Male,05 - 11,5220
+2007-08,2007-08,True,,Secondary,Male,12 - 15,1981
+2007-08,2007-08,True,,Secondary,Male,18 - 19,417
+2007-08,2007-08,True,,Secondary,Male,50 - 54,224
+2007-08,2007-08,True,,Secondary,Male,30 - 34,1224
+2007-08,2007-08,True,,Secondary,Male,00 - 04,5305
+2007-08,2007-08,True,,Secondary,Female,12 - 15,1952
+2007-08,2007-08,True,,Secondary,Female,00 - 04,4972
+2007-08,2007-08,True,,Secondary,Female,25 - 29,5222
+2007-08,2007-08,True,,Secondary,Male,45 - 49,416
+2007-08,2007-08,True,,Secondary,Female,35 - 39,3984
+2007-08,2007-08,True,,Secondary,Male,35 - 39,1063
+2007-08,2007-08,True,,Secondary,Female,05 - 11,4871
+2007-08,2007-08,True,,Secondary,Female,65 +,125
+2007-08,2007-08,True,,Secondary,Male,40 - 44,746
+2007-08,2007-08,True,,Secondary,Female,16 - 17,659
+2007-08,2007-08,True,,Secondary,Female,18 - 19,459
+2007-08,2007-08,True,,Secondary,Male,55 - 59,90
+2007-08,2007-08,True,,Secondary,Female,60 - 64,153
+2007-08,2007-08,True,,Secondary,Male,16 - 17,800
+2007-08,2007-08,True,,Secondary,Male,25 - 29,895
+2007-08,2007-08,True,,Secondary,Male,65 +,30
+2007-08,2007-08,True,,Secondary,Male,60 - 64,48
+2007-08,2007-08,True,,Secondary,Male,Not Specified,2
+2007-08,2007-08,True,,Primary,Female,65 +,11
+2007-08,2007-08,True,,Primary,Not Specified,30 - 34,3
+2007-08,2007-08,True,,Secondary,Not Specified,35 - 39,1
+2007-08,2007-08,True,,Primary,Male,Not Specified,9
+2007-08,2007-08,True,,Primary,Male,18 - 19,18
+2007-08,2007-08,True,,Secondary,Not Specified,12 - 15,2
+2007-08,2007-08,True,,Secondary,Female,Not Specified,10
+2007-08,2007-08,True,,Primary,Not Specified,35 - 39,3
+2007-08,2007-08,True,,Primary,Not Specified,50 - 54,2
+2007-08,2007-08,True,,Secondary,Not Specified,05 - 11,2
+2007-08,2007-08,True,,Primary,Not Specified,45 - 49,3
+2007-08,2007-08,True,,Secondary,Not Specified,20 - 24,1
+2007-08,2007-08,True,,Primary,Female,Not Specified,1
+2007-08,2007-08,True,,Secondary,Not Specified,45 - 49,1
+2007-08,2007-08,True,,Primary,Not Specified,25 - 29,1
+2008-09,2008-09,True,,Primary,Male,65 +,114
+2008-09,2008-09,True,,Primary,Male,50 - 54,1394
+2008-09,2008-09,True,,Primary,Male,35 - 39,6661
+2008-09,2008-09,True,,Primary,Female,30 - 34,3255
+2008-09,2008-09,True,,Primary,Male,30 - 34,9145
+2008-09,2008-09,True,,Primary,Female,20 - 24,1609
+2008-09,2008-09,True,,Primary,Female,25 - 29,5208
+2008-09,2008-09,True,,Primary,Male,25 - 29,9471
+2008-09,2008-09,True,,Primary,Female,55 - 59,96
+2008-09,2008-09,True,,Primary,Male,60 - 64,347
+2008-09,2008-09,True,,Primary,Female,40 - 44,950
+2008-09,2008-09,True,,Primary,Male,40 - 44,4166
+2008-09,2008-09,True,,Primary,Male,20 - 24,2400
+2008-09,2008-09,True,,Primary,Male,45 - 49,2518
+2008-09,2008-09,True,,Primary,Female,60 - 64,24
+2008-09,2008-09,True,,Primary,Female,50 - 54,244
+2008-09,2008-09,True,,Primary,Female,35 - 39,1776
+2008-09,2008-09,True,,Primary,Male,55 - 59,737
+2008-09,2008-09,True,,Primary,Female,65 +,9
+2008-09,2008-09,True,,Primary,Female,45 - 49,481
+2008-09,2008-09,True,,Secondary,Female,20 - 24,1804
+2008-09,2008-09,True,,Secondary,Female,45 - 49,1159
+2008-09,2008-09,True,,Secondary,Male,45 - 49,356
+2008-09,2008-09,True,,Secondary,Male,20 - 24,479
+2008-09,2008-09,True,,Secondary,Male,50 - 54,185
+2008-09,2008-09,True,,Secondary,Male,16 - 17,662
+2008-09,2008-09,True,,Secondary,Male,05 - 11,5041
+2008-09,2008-09,True,,Secondary,Female,65 +,118
+2008-09,2008-09,True,,Secondary,Female,12 - 15,1832
+2008-09,2008-09,True,,Secondary,Female,00 - 04,5074
+2008-09,2008-09,True,,Secondary,Female,50 - 54,563
+2008-09,2008-09,True,,Secondary,Male,12 - 15,1825
+2008-09,2008-09,True,,Secondary,Female,30 - 34,4680
+2008-09,2008-09,True,,Secondary,Male,35 - 39,1094
+2008-09,2008-09,True,,Secondary,Male,30 - 34,1182
+2008-09,2008-09,True,,Secondary,Male,00 - 04,5347
+2008-09,2008-09,True,,Secondary,Female,05 - 11,4628
+2008-09,2008-09,True,,Secondary,Female,25 - 29,5000
+2008-09,2008-09,True,,Secondary,Female,40 - 44,2119
+2008-09,2008-09,True,,Secondary,Female,35 - 39,3659
+2008-09,2008-09,True,,Secondary,Female,Not Specified,26
+2008-09,2008-09,True,,Secondary,Female,18 - 19,480
+2008-09,2008-09,True,,Secondary,Female,16 - 17,672
+2008-09,2008-09,True,,Secondary,Female,60 - 64,158
+2008-09,2008-09,True,,Secondary,Female,55 - 59,294
+2008-09,2008-09,True,,Secondary,Male,18 - 19,427
+2008-09,2008-09,True,,Secondary,Male,65 +,25
+2008-09,2008-09,True,,Secondary,Male,40 - 44,763
+2008-09,2008-09,True,,Secondary,Male,25 - 29,939
+2008-09,2008-09,True,,Secondary,Male,Not Specified,1
+2008-09,2008-09,True,,Secondary,Male,60 - 64,43
+2008-09,2008-09,True,,Secondary,Male,55 - 59,84
+2008-09,2008-09,True,,Primary,Not Specified,30 - 34,3
+2008-09,2008-09,True,,Primary,Not Specified,35 - 39,3
+2008-09,2008-09,True,,Primary,Female,18 - 19,9
+2008-09,2008-09,True,,Secondary,Not Specified,05 - 11,3
+2008-09,2008-09,True,,Secondary,Not Specified,00 - 04,2
+2008-09,2008-09,True,,Primary,Male,Not Specified,46
+2008-09,2008-09,True,,Primary,Male,18 - 19,26
+2008-09,2008-09,True,,Primary,Not Specified,25 - 29,4
+2008-09,2008-09,True,,Secondary,Not Specified,12 - 15,1
+2008-09,2008-09,True,,Secondary,Not Specified,18 - 19,1
+2008-09,2008-09,True,,Primary,Not Specified,45 - 49,2
+2008-09,2008-09,True,,Primary,Female,Not Specified,3
+2008-09,2008-09,True,,Primary,Male,16 - 17,1
+2008-09,2008-09,True,,Primary,Not Specified,50 - 54,1
+2008-09,2008-09,True,,Secondary,Not Specified,30 - 34,1
+2008-09,2008-09,True,,Secondary,Not Specified,25 - 29,1
+2008-09,2008-09,True,,Secondary,Not Specified,35 - 39,1
+2009-10,2009-10,True,,Primary,Male,25 - 29,7052
+2009-10,2009-10,True,,Primary,Male,40 - 44,2436
+2009-10,2009-10,True,,Primary,Male,45 - 49,1588
+2009-10,2009-10,True,,Primary,Male,30 - 34,6112
+2009-10,2009-10,True,,Primary,Female,40 - 44,586
+2009-10,2009-10,True,,Primary,Female,30 - 34,2393
+2009-10,2009-10,True,,Primary,Male,35 - 39,3876
+2009-10,2009-10,True,,Primary,Female,35 - 39,1178
+2009-10,2009-10,True,,Primary,Female,25 - 29,4220
+2009-10,2009-10,True,,Primary,Male,20 - 24,1501
+2009-10,2009-10,True,,Primary,Male,60 - 64,315
+2009-10,2009-10,True,,Primary,Female,50 - 54,194
+2009-10,2009-10,True,,Primary,Female,55 - 59,77
+2009-10,2009-10,True,,Primary,Female,20 - 24,1156
+2009-10,2009-10,True,,Primary,Male,50 - 54,1058
+2009-10,2009-10,True,,Primary,Female,45 - 49,296
+2009-10,2009-10,True,,Primary,Male,65 +,99
+2009-10,2009-10,True,,Primary,Male,55 - 59,604
+2009-10,2009-10,True,,Secondary,Female,12 - 15,1007
+2009-10,2009-10,True,,Secondary,Female,35 - 39,2225
+2009-10,2009-10,True,,Secondary,Male,00 - 04,3780
+2009-10,2009-10,True,,Secondary,Female,25 - 29,3649
+2009-10,2009-10,True,,Secondary,Female,30 - 34,3146
+2009-10,2009-10,True,,Secondary,Male,20 - 24,304
+2009-10,2009-10,True,,Secondary,Male,05 - 11,2888
+2009-10,2009-10,True,,Secondary,Female,00 - 04,3613
+2009-10,2009-10,True,,Secondary,Male,12 - 15,1019
+2009-10,2009-10,True,,Secondary,Female,05 - 11,2772
+2009-10,2009-10,True,,Secondary,Female,20 - 24,1245
+2009-10,2009-10,True,,Secondary,Female,50 - 54,431
+2009-10,2009-10,True,,Secondary,Male,30 - 34,966
+2009-10,2009-10,True,,Secondary,Male,35 - 39,652
+2009-10,2009-10,True,,Secondary,Male,25 - 29,861
+2009-10,2009-10,True,,Secondary,Female,18 - 19,248
+2009-10,2009-10,True,,Secondary,Male,40 - 44,435
+2009-10,2009-10,True,,Secondary,Female,45 - 49,710
+2009-10,2009-10,True,,Secondary,Female,60 - 64,109
+2009-10,2009-10,True,,Secondary,Male,16 - 17,387
+2009-10,2009-10,True,,Secondary,Male,18 - 19,233
+2009-10,2009-10,True,,Secondary,Female,40 - 44,1376
+2009-10,2009-10,True,,Secondary,Female,55 - 59,236
+2009-10,2009-10,True,,Secondary,Female,65 +,90
+2009-10,2009-10,True,,Secondary,Male,55 - 59,59
+2009-10,2009-10,True,,Secondary,Male,45 - 49,270
+2009-10,2009-10,True,,Primary,Female,60 - 64,26
+2009-10,2009-10,True,,Secondary,Female,16 - 17,332
+2009-10,2009-10,True,,Secondary,Male,50 - 54,118
+2009-10,2009-10,True,,Primary,Male,18 - 19,9
+2009-10,2009-10,True,,Secondary,Male,60 - 64,34
+2009-10,2009-10,True,,Secondary,Male,65 +,26
+2009-10,2009-10,True,,Primary,Female,65 +,10
+2009-10,2009-10,True,,Secondary,Female,Not Specified,3
+2009-10,2009-10,True,,Primary,Male,Not Specified,5
+2009-10,2009-10,True,,Primary,Female,18 - 19,2
+2009-10,2009-10,True,,Primary,Not Specified,45 - 49,1
+2009-10,2009-10,True,,Primary,Male,16 - 17,1
+2009-10,2009-10,True,,Primary,Female,Not Specified,2
+2009-10,2009-10,True,,Secondary,Not Specified,05 - 11,1
+2009-10,2009-10,True,,Primary,Not Specified,30 - 34,1
+2010-11,2010-11,True,,Primary,Male,25 - 29,10568
+2010-11,2010-11,True,,Primary,Male,20 - 24,2325
+2010-11,2010-11,True,,Primary,Female,30 - 34,3066
+2010-11,2010-11,True,,Primary,Female,25 - 29,5391
+2010-11,2010-11,True,,Primary,Male,55 - 59,844
+2010-11,2010-11,True,,Primary,Female,40 - 44,712
+2010-11,2010-11,True,,Primary,Female,20 - 24,1358
+2010-11,2010-11,True,,Primary,Male,45 - 49,2138
+2010-11,2010-11,True,,Primary,Male,30 - 34,8753
+2010-11,2010-11,True,,Primary,Male,35 - 39,5311
+2010-11,2010-11,True,,Primary,Male,60 - 64,451
+2010-11,2010-11,True,,Primary,Male,40 - 44,3454
+2010-11,2010-11,True,,Primary,Female,45 - 49,381
+2010-11,2010-11,True,,Primary,Female,35 - 39,1400
+2010-11,2010-11,True,,Primary,Female,50 - 54,192
+2010-11,2010-11,True,,Primary,Male,65 +,145
+2010-11,2010-11,True,,Primary,Male,50 - 54,1418
+2010-11,2010-11,True,,Primary,Female,60 - 64,37
+2010-11,2010-11,True,,Primary,Female,65 +,13
+2010-11,2010-11,True,,Secondary,Female,16 - 17,365
+2010-11,2010-11,True,,Secondary,Female,45 - 49,980
+2010-11,2010-11,True,,Secondary,Female,20 - 24,1589
+2010-11,2010-11,True,,Secondary,Male,00 - 04,4824
+2010-11,2010-11,True,,Secondary,Male,25 - 29,1131
+2010-11,2010-11,True,,Secondary,Female,25 - 29,4848
+2010-11,2010-11,True,,Secondary,Female,05 - 11,3471
+2010-11,2010-11,True,,Secondary,Female,00 - 04,4484
+2010-11,2010-11,True,,Secondary,Male,40 - 44,503
+2010-11,2010-11,True,,Secondary,Female,12 - 15,1237
+2010-11,2010-11,True,,Secondary,Female,40 - 44,1817
+2010-11,2010-11,True,,Secondary,Male,30 - 34,1164
+2010-11,2010-11,True,,Secondary,Male,05 - 11,3661
+2010-11,2010-11,True,,Secondary,Male,16 - 17,397
+2010-11,2010-11,True,,Secondary,Male,35 - 39,782
+2010-11,2010-11,True,,Secondary,Female,30 - 34,4028
+2010-11,2010-11,True,,Secondary,Female,50 - 54,569
+2010-11,2010-11,True,,Secondary,Female,55 - 59,334
+2010-11,2010-11,True,,Secondary,Female,35 - 39,2852
+2010-11,2010-11,True,,Secondary,Female,65 +,86
+2010-11,2010-11,True,,Secondary,Female,18 - 19,293
+2010-11,2010-11,True,,Secondary,Male,12 - 15,1272
+2010-11,2010-11,True,,Secondary,Male,20 - 24,392
+2010-11,2010-11,True,,Secondary,Female,60 - 64,141
+2010-11,2010-11,True,,Secondary,Male,18 - 19,285
+2010-11,2010-11,True,,Secondary,Male,50 - 54,143
+2010-11,2010-11,True,,Secondary,Male,45 - 49,290
+2010-11,2010-11,True,,Secondary,Male,55 - 59,68
+2010-11,2010-11,True,,Primary,Female,55 - 59,99
+2010-11,2010-11,True,,Secondary,Male,65 +,20
+2010-11,2010-11,True,,Primary,Male,Not Specified,6
+2010-11,2010-11,True,,Secondary,Male,60 - 64,32
+2010-11,2010-11,True,,Primary,Female,18 - 19,9
+2010-11,2010-11,True,,Primary,Male,18 - 19,10
+2010-11,2010-11,True,,Secondary,Not Specified,40 - 44,1
+2010-11,2010-11,True,,Primary,Female,Not Specified,1
+2010-11,2010-11,True,,Primary,Not Specified,30 - 34,1
+2010-11,2010-11,True,,Secondary,Female,Not Specified,2
+2010-11,2010-11,True,,Secondary,Not Specified,00 - 04,1
+2011-12,2011-12,True,,Primary,Male,40 - 44,5190
+2011-12,2011-12,True,,Primary,Male,35 - 39,7541
+2011-12,2011-12,True,,Primary,Male,30 - 34,12551
+2011-12,2011-12,True,,Primary,Male,25 - 29,14774
+2011-12,2011-12,True,,Primary,Female,30 - 34,4091
+2011-12,2011-12,True,,Primary,Female,35 - 39,1683
+2011-12,2011-12,True,,Primary,Male,65 +,233
+2011-12,2011-12,True,,Primary,Male,45 - 49,3190
+2011-12,2011-12,True,,Primary,Female,25 - 29,7012
+2011-12,2011-12,True,,Primary,Male,50 - 54,2012
+2011-12,2011-12,True,,Primary,Male,20 - 24,4179
+2011-12,2011-12,True,,Primary,Female,20 - 24,2033
+2011-12,2011-12,True,,Primary,Male,55 - 59,1310
+2011-12,2011-12,True,,Primary,Female,40 - 44,937
+2011-12,2011-12,True,,Primary,Male,60 - 64,634
+2011-12,2011-12,True,,Primary,Female,45 - 49,471
+2011-12,2011-12,True,,Primary,Female,50 - 54,235
+2011-12,2011-12,True,,Primary,Male,18 - 19,24
+2011-12,2011-12,True,,Primary,Female,55 - 59,131
+2011-12,2011-12,True,,Primary,Female,60 - 64,54
+2011-12,2011-12,True,,Secondary,Female,45 - 49,1289
+2011-12,2011-12,True,,Secondary,Female,20 - 24,2427
+2011-12,2011-12,True,,Secondary,Female,00 - 04,5938
+2011-12,2011-12,True,,Secondary,Female,65 +,102
+2011-12,2011-12,True,,Secondary,Male,00 - 04,6157
+2011-12,2011-12,True,,Secondary,Female,12 - 15,1539
+2011-12,2011-12,True,,Secondary,Female,18 - 19,357
+2011-12,2011-12,True,,Secondary,Female,25 - 29,6621
+2011-12,2011-12,True,,Secondary,Female,35 - 39,3640
+2011-12,2011-12,True,,Secondary,Male,16 - 17,597
+2011-12,2011-12,True,,Secondary,Female,30 - 34,5651
+2011-12,2011-12,True,,Secondary,Male,25 - 29,1653
+2011-12,2011-12,True,,Secondary,Male,12 - 15,1713
+2011-12,2011-12,True,,Secondary,Female,05 - 11,4587
+2011-12,2011-12,True,,Secondary,Male,35 - 39,1064
+2011-12,2011-12,True,,Secondary,Male,05 - 11,4854
+2011-12,2011-12,True,,Secondary,Male,40 - 44,689
+2011-12,2011-12,True,,Secondary,Male,30 - 34,1647
+2011-12,2011-12,True,,Secondary,Female,50 - 54,762
+2011-12,2011-12,True,,Secondary,Female,40 - 44,2422
+2011-12,2011-12,True,,Secondary,Female,60 - 64,207
+2011-12,2011-12,True,,Secondary,Female,16 - 17,629
+2011-12,2011-12,True,,Secondary,Male,20 - 24,591
+2011-12,2011-12,True,,Secondary,Male,50 - 54,164
+2011-12,2011-12,True,,Secondary,Female,55 - 59,464
+2011-12,2011-12,True,,Primary,Female,18 - 19,8
+2011-12,2011-12,True,,Secondary,Male,45 - 49,395
+2011-12,2011-12,True,,Secondary,Male,18 - 19,419
+2011-12,2011-12,True,,Secondary,Male,65 +,35
+2011-12,2011-12,True,,Secondary,Male,60 - 64,58
+2011-12,2011-12,True,,Secondary,Male,55 - 59,86
+2011-12,2011-12,True,,Primary,Female,65 +,15
+2011-12,2011-12,True,,Secondary,Female,Not Specified,2
+2011-12,2011-12,True,,Primary,Male,Not Specified,5
+2011-12,2011-12,True,,Secondary,Not Specified,00 - 04,1
+2011-12,2011-12,True,,Secondary,Not Specified,18 - 19,1
+2011-12,2011-12,True,,Primary,Female,Not Specified,1
+2012-13,2012-13,True,,Primary,Male,40 - 44,4555
+2012-13,2012-13,True,,Primary,Male,30 - 34,12056
+2012-13,2012-13,True,,Primary,Male,25 - 29,15610
+2012-13,2012-13,True,,Primary,Male,35 - 39,6997
+2012-13,2012-13,True,,Primary,Female,30 - 34,4493
+2012-13,2012-13,True,,Primary,Female,20 - 24,2371
+2012-13,2012-13,True,,Primary,Female,35 - 39,1828
+2012-13,2012-13,True,,Primary,Female,40 - 44,1009
+2012-13,2012-13,True,,Primary,Male,55 - 59,1077
+2012-13,2012-13,True,,Primary,Male,Not Specified,22
+2012-13,2012-13,True,,Primary,Male,20 - 24,4690
+2012-13,2012-13,True,,Primary,Female,25 - 29,7811
+2012-13,2012-13,True,,Primary,Female,45 - 49,453
+2012-13,2012-13,True,,Primary,Male,50 - 54,1700
+2012-13,2012-13,True,,Primary,Male,45 - 49,2718
+2012-13,2012-13,True,,Primary,Female,55 - 59,115
+2012-13,2012-13,True,,Primary,Female,Not Specified,1
+2012-13,2012-13,True,,Primary,Male,60 - 64,494
+2012-13,2012-13,True,,Primary,Male,65 +,176
+2012-13,2012-13,True,,Primary,Male,18 - 19,26
+2012-13,2012-13,True,,Primary,Female,50 - 54,230
+2012-13,2012-13,True,,Primary,Female,60 - 64,36
+2012-13,2012-13,True,,Secondary,Female,25 - 29,7561
+2012-13,2012-13,True,,Secondary,Female,00 - 04,5922
+2012-13,2012-13,True,,Secondary,Male,00 - 04,6251
+2012-13,2012-13,True,,Secondary,Male,30 - 34,2242
+2012-13,2012-13,True,,Secondary,Female,30 - 34,5477
+2012-13,2012-13,True,,Secondary,Female,05 - 11,4371
+2012-13,2012-13,True,,Secondary,Male,05 - 11,4622
+2012-13,2012-13,True,,Secondary,Female,12 - 15,1510
+2012-13,2012-13,True,,Secondary,Female,18 - 19,385
+2012-13,2012-13,True,,Secondary,Male,25 - 29,2402
+2012-13,2012-13,True,,Secondary,Female,55 - 59,347
+2012-13,2012-13,True,,Secondary,Male,35 - 39,1244
+2012-13,2012-13,True,,Secondary,Female,35 - 39,3324
+2012-13,2012-13,True,,Secondary,Female,40 - 44,2098
+2012-13,2012-13,True,,Secondary,Male,16 - 17,563
+2012-13,2012-13,True,,Secondary,Female,20 - 24,3041
+2012-13,2012-13,True,,Secondary,Male,45 - 49,399
+2012-13,2012-13,True,,Secondary,Male,40 - 44,740
+2012-13,2012-13,True,,Secondary,Male,20 - 24,734
+2012-13,2012-13,True,,Secondary,Female,45 - 49,1068
+2012-13,2012-13,True,,Secondary,Male,55 - 59,90
+2012-13,2012-13,True,,Secondary,Female,16 - 17,514
+2012-13,2012-13,True,,Secondary,Male,12 - 15,1594
+2012-13,2012-13,True,,Secondary,Female,65 +,86
+2012-13,2012-13,True,,Secondary,Female,50 - 54,572
+2012-13,2012-13,True,,Secondary,Female,60 - 64,146
+2012-13,2012-13,True,,Secondary,Female,Not Specified,12
+2012-13,2012-13,True,,Secondary,Male,18 - 19,311
+2012-13,2012-13,True,,Secondary,Male,60 - 64,44
+2012-13,2012-13,True,,Primary,Female,65 +,16
+2012-13,2012-13,True,,Secondary,Male,50 - 54,177
+2012-13,2012-13,True,,Secondary,Male,65 +,28
+2012-13,2012-13,True,,Primary,Female,18 - 19,2
+2013-14,2013-14,True,,Primary,Male,30 - 34,9229
+2013-14,2013-14,True,,Primary,Female,40 - 44,760
+2013-14,2013-14,True,,Primary,Male,40 - 44,3287
+2013-14,2013-14,True,,Primary,Male,25 - 29,11870
+2013-14,2013-14,True,,Primary,Female,35 - 39,1421
+2013-14,2013-14,True,,Primary,Female,20 - 24,1801
+2013-14,2013-14,True,,Primary,Female,30 - 34,3691
+2013-14,2013-14,True,,Primary,Male,65 +,159
+2013-14,2013-14,True,,Primary,Male,50 - 54,1254
+2013-14,2013-14,True,,Primary,Male,55 - 59,871
+2013-14,2013-14,True,,Primary,Male,35 - 39,4928
+2013-14,2013-14,True,,Primary,Male,20 - 24,3236
+2013-14,2013-14,True,,Primary,Female,25 - 29,6506
+2013-14,2013-14,True,,Primary,Male,45 - 49,1919
+2013-14,2013-14,True,,Primary,Female,45 - 49,343
+2013-14,2013-14,True,,Primary,Female,50 - 54,166
+2013-14,2013-14,True,,Primary,Female,18 - 19,5
+2013-14,2013-14,True,,Primary,Male,60 - 64,360
+2013-14,2013-14,True,,Primary,Female,60 - 64,24
+2013-14,2013-14,True,,Primary,Female,55 - 59,84
+2013-14,2013-14,True,,Primary,Female,65 +,16
+2013-14,2013-14,True,,Secondary,Female,25 - 29,6210
+2013-14,2013-14,True,,Secondary,Female,40 - 44,1589
+2013-14,2013-14,True,,Secondary,Male,20 - 24,522
+2013-14,2013-14,True,,Secondary,Female,30 - 34,4549
+2013-14,2013-14,True,,Secondary,Male,00 - 04,5368
+2013-14,2013-14,True,,Secondary,Female,18 - 19,327
+2013-14,2013-14,True,,Secondary,Female,35 - 39,2473
+2013-14,2013-14,True,,Secondary,Female,00 - 04,5137
+2013-14,2013-14,True,,Secondary,Female,16 - 17,397
+2013-14,2013-14,True,,Secondary,Female,20 - 24,2644
+2013-14,2013-14,True,,Secondary,Male,25 - 29,2011
+2013-14,2013-14,True,,Secondary,Male,30 - 34,1933
+2013-14,2013-14,True,,Secondary,Male,05 - 11,3543
+2013-14,2013-14,True,,Secondary,Male,35 - 39,994
+2013-14,2013-14,True,,Secondary,Female,05 - 11,3258
+2013-14,2013-14,True,,Secondary,Male,16 - 17,412
+2013-14,2013-14,True,,Secondary,Male,40 - 44,606
+2013-14,2013-14,True,,Secondary,Male,45 - 49,314
+2013-14,2013-14,True,,Secondary,Female,45 - 49,782
+2013-14,2013-14,True,,Secondary,Female,12 - 15,1032
+2013-14,2013-14,True,,Secondary,Female,50 - 54,453
+2013-14,2013-14,True,,Secondary,Female,55 - 59,240
+2013-14,2013-14,True,,Secondary,Male,12 - 15,1103
+2013-14,2013-14,True,,Secondary,Male,18 - 19,247
+2013-14,2013-14,True,,Secondary,Male,50 - 54,150
+2013-14,2013-14,True,,Secondary,Male,55 - 59,59
+2013-14,2013-14,True,,Secondary,Female,60 - 64,128
+2013-14,2013-14,True,,Primary,Male,18 - 19,8
+2013-14,2013-14,True,,Secondary,Female,Not Specified,5
+2013-14,2013-14,True,,Secondary,Female,65 +,83
+2013-14,2013-14,True,,Secondary,Male,60 - 64,37
+2013-14,2013-14,True,,Secondary,Male,65 +,25
+2013-14,2013-14,True,,Primary,Not Specified,30 - 34,1
+2013-14,2013-14,True,,Secondary,Male,Not Specified,1
+2014-15,2014-15,True,,Primary,Male,20 - 24,2710
+2014-15,2014-15,True,,Primary,Female,25 - 29,6183
+2014-15,2014-15,True,,Primary,Male,30 - 34,9732
+2014-15,2014-15,True,,Primary,Female,65 +,7
+2014-15,2014-15,True,,Primary,Male,50 - 54,1231
+2014-15,2014-15,True,,Primary,Male,40 - 44,3162
+2014-15,2014-15,True,,Primary,Male,25 - 29,11576
+2014-15,2014-15,True,,Primary,Male,65 +,125
+2014-15,2014-15,True,,Primary,Male,35 - 39,5139
+2014-15,2014-15,True,,Primary,Male,45 - 49,1818
+2014-15,2014-15,True,,Primary,Male,Not Specified,3
+2014-15,2014-15,True,,Primary,Male,60 - 64,387
+2014-15,2014-15,True,,Primary,Female,40 - 44,771
+2014-15,2014-15,True,,Primary,Female,35 - 39,1443
+2014-15,2014-15,True,,Primary,Female,20 - 24,1561
+2014-15,2014-15,True,,Primary,Male,55 - 59,752
+2014-15,2014-15,True,,Primary,Female,30 - 34,3835
+2014-15,2014-15,True,,Primary,Female,50 - 54,184
+2014-15,2014-15,True,,Primary,Female,45 - 49,357
+2014-15,2014-15,True,,Primary,Female,55 - 59,108
+2014-15,2014-15,True,,Primary,Female,60 - 64,26
+2014-15,2014-15,True,,Primary,Male,18 - 19,9
+2014-15,2014-15,True,,Secondary,Male,20 - 24,519
+2014-15,2014-15,True,,Secondary,Male,00 - 04,5322
+2014-15,2014-15,True,,Secondary,Male,35 - 39,942
+2014-15,2014-15,True,,Secondary,Male,05 - 11,3344
+2014-15,2014-15,True,,Secondary,Female,35 - 39,2442
+2014-15,2014-15,True,,Secondary,Male,16 - 17,354
+2014-15,2014-15,True,,Secondary,Male,12 - 15,1022
+2014-15,2014-15,True,,Secondary,Female,20 - 24,2324
+2014-15,2014-15,True,,Secondary,Female,25 - 29,6242
+2014-15,2014-15,True,,Secondary,Female,30 - 34,4622
+2014-15,2014-15,True,,Secondary,Female,05 - 11,3018
+2014-15,2014-15,True,,Secondary,Female,00 - 04,5091
+2014-15,2014-15,True,,Secondary,Male,25 - 29,1726
+2014-15,2014-15,True,,Secondary,Male,30 - 34,1780
+2014-15,2014-15,True,,Secondary,Female,60 - 64,128
+2014-15,2014-15,True,,Secondary,Male,45 - 49,298
+2014-15,2014-15,True,,Secondary,Female,45 - 49,770
+2014-15,2014-15,True,,Secondary,Male,60 - 64,34
+2014-15,2014-15,True,,Secondary,Female,16 - 17,376
+2014-15,2014-15,True,,Secondary,Female,40 - 44,1452
+2014-15,2014-15,True,,Secondary,Female,50 - 54,465
+2014-15,2014-15,True,,Secondary,Male,40 - 44,588
+2014-15,2014-15,True,,Secondary,Female,12 - 15,971
+2014-15,2014-15,True,,Secondary,Male,18 - 19,214
+2014-15,2014-15,True,,Secondary,Male,50 - 54,157
+2014-15,2014-15,True,,Secondary,Female,65 +,46
+2014-15,2014-15,True,,Secondary,Female,55 - 59,284
+2014-15,2014-15,True,,Secondary,Female,18 - 19,321
+2014-15,2014-15,True,,Secondary,Male,55 - 59,72
+2014-15,2014-15,True,,Secondary,Male,65 +,26
+2014-15,2014-15,True,,Secondary,Male,Not Specified,3
+2014-15,2014-15,True,,Secondary,Female,Not Specified,3
+2014-15,2014-15,True,,Primary,Female,18 - 19,5
+2014-15,2014-15,True,,Secondary,Not Specified,00 - 04,2
+2014-15,2014-15,True,,Primary,Female,Not Specified,1
+2014-15,2014-15,True,,Secondary,Not Specified,05 - 11,1
+2015-16,2015-16,True,,Primary,Male,30 - 34,8695
+2015-16,2015-16,True,,Primary,Female,50 - 54,159
+2015-16,2015-16,True,,Primary,Female,25 - 29,5711
+2015-16,2015-16,True,,Primary,Female,35 - 39,1376
+2015-16,2015-16,True,,Primary,Male,25 - 29,10064
+2015-16,2015-16,True,,Primary,Male,35 - 39,4822
+2015-16,2015-16,True,,Primary,Male,45 - 49,1600
+2015-16,2015-16,True,,Primary,Male,50 - 54,921
+2015-16,2015-16,True,,Primary,Male,20 - 24,2245
+2015-16,2015-16,True,,Primary,Female,20 - 24,1346
+2015-16,2015-16,True,,Primary,Male,40 - 44,2793
+2015-16,2015-16,True,,Primary,Male,55 - 59,602
+2015-16,2015-16,True,,Primary,Male,60 - 64,291
+2015-16,2015-16,True,,Primary,Female,30 - 34,3463
+2015-16,2015-16,True,,Primary,Female,40 - 44,687
+2015-16,2015-16,True,,Primary,Female,45 - 49,336
+2015-16,2015-16,True,,Primary,Female,18 - 19,6
+2015-16,2015-16,True,,Primary,Male,65 +,118
+2015-16,2015-16,True,,Primary,Female,55 - 59,105
+2015-16,2015-16,True,,Primary,Female,60 - 64,34
+2015-16,2015-16,True,,Secondary,Female,30 - 34,4433
+2015-16,2015-16,True,,Secondary,Male,25 - 29,1326
+2015-16,2015-16,True,,Secondary,Female,05 - 11,2919
+2015-16,2015-16,True,,Secondary,Male,45 - 49,274
+2015-16,2015-16,True,,Secondary,Female,00 - 04,4429
+2015-16,2015-16,True,,Secondary,Male,00 - 04,4653
+2015-16,2015-16,True,,Secondary,Female,65 +,65
+2015-16,2015-16,True,,Secondary,Female,25 - 29,5467
+2015-16,2015-16,True,,Secondary,Female,40 - 44,1313
+2015-16,2015-16,True,,Secondary,Male,05 - 11,2986
+2015-16,2015-16,True,,Secondary,Female,35 - 39,2372
+2015-16,2015-16,True,,Secondary,Female,20 - 24,1860
+2015-16,2015-16,True,,Secondary,Male,30 - 34,1550
+2015-16,2015-16,True,,Secondary,Male,40 - 44,504
+2015-16,2015-16,True,,Secondary,Female,60 - 64,121
+2015-16,2015-16,True,,Secondary,Female,12 - 15,907
+2015-16,2015-16,True,,Secondary,Female,50 - 54,427
+2015-16,2015-16,True,,Secondary,Male,50 - 54,141
+2015-16,2015-16,True,,Secondary,Female,45 - 49,694
+2015-16,2015-16,True,,Secondary,Male,35 - 39,882
+2015-16,2015-16,True,,Secondary,Female,16 - 17,307
+2015-16,2015-16,True,,Secondary,Female,55 - 59,238
+2015-16,2015-16,True,,Secondary,Female,18 - 19,234
+2015-16,2015-16,True,,Secondary,Male,20 - 24,391
+2015-16,2015-16,True,,Secondary,Male,12 - 15,961
+2015-16,2015-16,True,,Secondary,Male,65 +,24
+2015-16,2015-16,True,,Secondary,Male,18 - 19,241
+2015-16,2015-16,True,,Secondary,Male,16 - 17,368
+2015-16,2015-16,True,,Secondary,Male,60 - 64,44
+2015-16,2015-16,True,,Secondary,Male,55 - 59,80
+2015-16,2015-16,True,,Primary,Male,Not Specified,3
+2015-16,2015-16,True,,Primary,Female,65 +,6
+2015-16,2015-16,True,,Secondary,Not Specified,00 - 04,2
+2015-16,2015-16,True,,Primary,Male,18 - 19,11
+2015-16,2015-16,True,,Primary,Not Specified,40 - 44,1
+2015-16,2015-16,True,,Secondary,Not Specified,30 - 34,1
+2015-16,2015-16,True,,Secondary,Female,Not Specified,2
+2016-17,2016-17,True,,Primary,Male,45 - 49,1732
+2016-17,2016-17,True,,Primary,Female,25 - 29,5852
+2016-17,2016-17,True,,Primary,Female,45 - 49,388
+2016-17,2016-17,True,,Primary,Male,30 - 34,8760
+2016-17,2016-17,True,,Primary,Male,25 - 29,9915
+2016-17,2016-17,True,,Primary,Male,55 - 59,637
+2016-17,2016-17,True,,Primary,Male,35 - 39,5104
+2016-17,2016-17,True,,Primary,Female,60 - 64,47
+2016-17,2016-17,True,,Primary,Male,18 - 19,27
+2016-17,2016-17,True,,Primary,Male,20 - 24,2338
+2016-17,2016-17,True,,Primary,Female,30 - 34,3474
+2016-17,2016-17,True,,Primary,Female,50 - 54,179
+2016-17,2016-17,True,,Primary,Female,35 - 39,1474
+2016-17,2016-17,True,,Primary,Female,20 - 24,1380
+2016-17,2016-17,True,,Primary,Female,40 - 44,725
+2016-17,2016-17,True,,Primary,Male,40 - 44,2883
+2016-17,2016-17,True,,Primary,Female,55 - 59,103
+2016-17,2016-17,True,,Primary,Male,50 - 54,1062
+2016-17,2016-17,True,,Primary,Male,60 - 64,288
+2016-17,2016-17,True,,Primary,Male,65 +,89
+2016-17,2016-17,True,,Secondary,Female,05 - 11,3052
+2016-17,2016-17,True,,Secondary,Male,20 - 24,386
+2016-17,2016-17,True,,Secondary,Female,35 - 39,2685
+2016-17,2016-17,True,,Secondary,Female,40 - 44,1416
+2016-17,2016-17,True,,Secondary,Female,45 - 49,759
+2016-17,2016-17,True,,Secondary,Female,30 - 34,4590
+2016-17,2016-17,True,,Secondary,Female,00 - 04,4444
+2016-17,2016-17,True,,Secondary,Male,25 - 29,1319
+2016-17,2016-17,True,,Secondary,Female,16 - 17,330
+2016-17,2016-17,True,,Secondary,Male,05 - 11,3340
+2016-17,2016-17,True,,Secondary,Female,12 - 15,972
+2016-17,2016-17,True,,Secondary,Female,18 - 19,252
+2016-17,2016-17,True,,Secondary,Male,16 - 17,348
+2016-17,2016-17,True,,Secondary,Female,20 - 24,1736
+2016-17,2016-17,True,,Secondary,Male,30 - 34,1530
+2016-17,2016-17,True,,Secondary,Female,25 - 29,5407
+2016-17,2016-17,True,,Secondary,Male,35 - 39,837
+2016-17,2016-17,True,,Secondary,Male,00 - 04,4574
+2016-17,2016-17,True,,Secondary,Male,50 - 54,143
+2016-17,2016-17,True,,Secondary,Male,45 - 49,298
+2016-17,2016-17,True,,Secondary,Male,12 - 15,984
+2016-17,2016-17,True,,Secondary,Female,55 - 59,237
+2016-17,2016-17,True,,Secondary,Female,50 - 54,411
+2016-17,2016-17,True,,Secondary,Male,40 - 44,532
+2016-17,2016-17,True,,Secondary,Male,18 - 19,226
+2016-17,2016-17,True,,Secondary,Female,60 - 64,103
+2016-17,2016-17,True,,Secondary,Female,65 +,39
+2016-17,2016-17,True,,Secondary,Male,60 - 64,35
+2016-17,2016-17,True,,Secondary,Male,65 +,28
+2016-17,2016-17,True,,Primary,Female,65 +,13
+2016-17,2016-17,True,,Secondary,Male,55 - 59,81
+2016-17,2016-17,True,,Secondary,Not Specified,00 - 04,2
+2016-17,2016-17,True,,Primary,Not Specified,45 - 49,2
+2016-17,2016-17,True,,Primary,Male,16 - 17,1
+2016-17,2016-17,True,,Secondary,Female,Not Specified,3
+2016-17,2016-17,True,,Primary,Male,Not Specified,5
+2016-17,2016-17,True,,Secondary,Not Specified,30 - 34,1
+2016-17,2016-17,True,,Primary,Not Specified,30 - 34,1
+2016-17,2016-17,True,,Primary,Female,18 - 19,1
+2017-18,2017-18,True,,Primary,Female,30 - 34,2788
+2017-18,2017-18,True,,Primary,Female,25 - 29,4447
+2017-18,2017-18,True,,Primary,Male,35 - 39,4048
+2017-18,2017-18,True,,Primary,Male,30 - 34,6726
+2017-18,2017-18,True,,Primary,Male,25 - 29,7125
+2017-18,2017-18,True,,Primary,Male,40 - 44,2184
+2017-18,2017-18,True,,Primary,Male,55 - 59,450
+2017-18,2017-18,True,,Primary,Male,60 - 64,193
+2017-18,2017-18,True,,Primary,Female,50 - 54,142
+2017-18,2017-18,True,,Primary,Male,45 - 49,1145
+2017-18,2017-18,True,,Primary,Male,20 - 24,1338
+2017-18,2017-18,True,,Primary,Male,50 - 54,725
+2017-18,2017-18,True,,Primary,Female,35 - 39,1187
+2017-18,2017-18,True,,Primary,Female,40 - 44,572
+2017-18,2017-18,True,,Primary,Female,20 - 24,894
+2017-18,2017-18,True,,Primary,Male,65 +,68
+2017-18,2017-18,True,,Primary,Female,45 - 49,277
+2017-18,2017-18,True,,Primary,Female,65 +,14
+2017-18,2017-18,True,,Primary,Female,55 - 59,84
+2017-18,2017-18,True,,Secondary,Female,00 - 04,3166
+2017-18,2017-18,True,,Secondary,Female,25 - 29,3631
+2017-18,2017-18,True,,Secondary,Male,12 - 15,756
+2017-18,2017-18,True,,Secondary,Male,00 - 04,3397
+2017-18,2017-18,True,,Secondary,Female,12 - 15,688
+2017-18,2017-18,True,,Secondary,Female,20 - 24,965
+2017-18,2017-18,True,,Secondary,Female,05 - 11,2424
+2017-18,2017-18,True,,Secondary,Male,55 - 59,63
+2017-18,2017-18,True,,Secondary,Female,30 - 34,3473
+2017-18,2017-18,True,,Secondary,Male,35 - 39,752
+2017-18,2017-18,True,,Secondary,Male,20 - 24,208
+2017-18,2017-18,True,,Secondary,Male,16 - 17,247
+2017-18,2017-18,True,,Secondary,Female,50 - 54,302
+2017-18,2017-18,True,,Secondary,Male,40 - 44,401
+2017-18,2017-18,True,,Secondary,Male,05 - 11,2583
+2017-18,2017-18,True,,Secondary,Female,45 - 49,520
+2017-18,2017-18,True,,Secondary,Female,55 - 59,185
+2017-18,2017-18,True,,Secondary,Male,30 - 34,1159
+2017-18,2017-18,True,,Secondary,Female,35 - 39,2134
+2017-18,2017-18,True,,Secondary,Male,25 - 29,893
+2017-18,2017-18,True,,Secondary,Female,16 - 17,233
+2017-18,2017-18,True,,Secondary,Female,40 - 44,1038
+2017-18,2017-18,True,,Secondary,Female,18 - 19,178
+2017-18,2017-18,True,,Secondary,Female,60 - 64,76
+2017-18,2017-18,True,,Secondary,Male,45 - 49,222
+2017-18,2017-18,True,,Secondary,Male,50 - 54,132
+2017-18,2017-18,True,,Primary,Male,18 - 19,10
+2017-18,2017-18,True,,Primary,Female,60 - 64,24
+2017-18,2017-18,True,,Secondary,Male,18 - 19,131
+2017-18,2017-18,True,,Secondary,Male,60 - 64,32
+2017-18,2017-18,True,,Secondary,Female,65 +,12
+2017-18,2017-18,True,,Secondary,Male,65 +,19
+2017-18,2017-18,True,,Secondary,Not Specified,30 - 34,1
+2017-18,2017-18,True,,Primary,Not Specified,25 - 29,2
+2017-18,2017-18,True,,Secondary,Male,Not Specified,1
+2017-18,2017-18,True,,Secondary,Female,Not Specified,1
+2017-18,2017-18,True,,Primary,Male,Not Specified,1
+2017-18,2017-18,True,,Secondary,Not Specified,00 - 04,1
+2017-18,2017-18,True,,Primary,Not Specified,30 - 34,1
+2017-18,2017-18,True,,Primary,Not Specified,20 - 24,1
+2018-19,2018-19,True,,Primary,Female,25 - 29,5160
+2018-19,2018-19,True,,Primary,Male,30 - 34,8361
+2018-19,2018-19,True,,Primary,Male,40 - 44,2736
+2018-19,2018-19,True,,Primary,Male,25 - 29,8889
+2018-19,2018-19,True,,Primary,Male,45 - 49,1336
+2018-19,2018-19,True,,Primary,Male,35 - 39,5184
+2018-19,2018-19,True,,Primary,Male,20 - 24,1251
+2018-19,2018-19,True,,Primary,Female,30 - 34,3232
+2018-19,2018-19,True,,Primary,Female,40 - 44,683
+2018-19,2018-19,True,,Primary,Male,55 - 59,518
+2018-19,2018-19,True,,Primary,Male,50 - 54,841
+2018-19,2018-19,True,,Primary,Female,20 - 24,710
+2018-19,2018-19,True,,Primary,Male,Not Specified,1
+2018-19,2018-19,True,,Primary,Female,35 - 39,1470
+2018-19,2018-19,True,,Primary,Female,45 - 49,291
+2018-19,2018-19,True,,Primary,Male,65 +,55
+2018-19,2018-19,True,,Primary,Male,60 - 64,226
+2018-19,2018-19,True,,Primary,Female,55 - 59,96
+2018-19,2018-19,True,,Secondary,Female,25 - 29,5667
+2018-19,2018-19,True,,Secondary,Female,00 - 04,4317
+2018-19,2018-19,True,,Secondary,Female,35 - 39,2856
+2018-19,2018-19,True,,Secondary,Male,05 - 11,3447
+2018-19,2018-19,True,,Secondary,Male,00 - 04,4558
+2018-19,2018-19,True,,Secondary,Female,05 - 11,3239
+2018-19,2018-19,True,,Secondary,Female,40 - 44,1369
+2018-19,2018-19,True,,Secondary,Female,30 - 34,4850
+2018-19,2018-19,True,,Secondary,Male,16 - 17,293
+2018-19,2018-19,True,,Secondary,Male,25 - 29,1214
+2018-19,2018-19,True,,Secondary,Female,20 - 24,1384
+2018-19,2018-19,True,,Secondary,Male,20 - 24,272
+2018-19,2018-19,True,,Secondary,Female,45 - 49,675
+2018-19,2018-19,True,,Secondary,Male,40 - 44,488
+2018-19,2018-19,True,,Secondary,Male,12 - 15,866
+2018-19,2018-19,True,,Secondary,Male,35 - 39,952
+2018-19,2018-19,True,,Secondary,Female,60 - 64,68
+2018-19,2018-19,True,,Secondary,Male,30 - 34,1489
+2018-19,2018-19,True,,Secondary,Female,55 - 59,233
+2018-19,2018-19,True,,Secondary,Male,18 - 19,170
+2018-19,2018-19,True,,Secondary,Female,16 - 17,267
+2018-19,2018-19,True,,Primary,Male,18 - 19,2
+2018-19,2018-19,True,,Secondary,Male,45 - 49,291
+2018-19,2018-19,True,,Secondary,Female,50 - 54,384
+2018-19,2018-19,True,,Secondary,Female,12 - 15,924
+2018-19,2018-19,True,,Primary,Female,50 - 54,133
+2018-19,2018-19,True,,Primary,Female,65 +,7
+2018-19,2018-19,True,,Secondary,Male,50 - 54,121
+2018-19,2018-19,True,,Secondary,Female,65 +,24
+2018-19,2018-19,True,,Secondary,Female,18 - 19,226
+2018-19,2018-19,True,,Secondary,Male,55 - 59,62
+2018-19,2018-19,True,,Primary,Female,18 - 19,4
+2018-19,2018-19,True,,Secondary,Male,60 - 64,29
+2018-19,2018-19,True,,Primary,Female,60 - 64,30
+2018-19,2018-19,True,,Secondary,Male,65 +,14
+2018-19,2018-19,True,,Secondary,Not Specified,30 - 34,2
+2018-19,2018-19,True,,Secondary,Male,Not Specified,1
+2018-19,2018-19,True,,Primary,Not Specified,30 - 34,2
+2018-19,2018-19,True,,Primary,Not Specified,25 - 29,2
+2018-19,2018-19,True,,Secondary,Female,Not Specified,1
+2018-19,2018-19,True,,Primary,Female,Not Specified,1
+2018-19,2018-19,True,,Secondary,Not Specified,40 - 44,1
+2019-20,2019-20,True,,Primary,Male,35 - 39,3609
+2019-20,2019-20,True,,Primary,Male,25 - 29,5669
+2019-20,2019-20,True,,Primary,Female,25 - 29,3892
+2019-20,2019-20,True,,Primary,Male,45 - 49,951
+2019-20,2019-20,True,,Primary,Male,30 - 34,5703
+2019-20,2019-20,True,,Primary,Female,35 - 39,1090
+2019-20,2019-20,True,,Secondary,Male,00 - 04,3012
+2019-20,2019-20,True,,Secondary,Female,00 - 04,2809
+2019-20,2019-20,True,,Secondary,Male,45 - 49,203
+2019-20,2019-20,True,,Secondary,Female,05 - 11,2236
+2019-20,2019-20,True,,Secondary,Male,05 - 11,2353
+2019-20,2019-20,True,,Primary,Male,20 - 24,678
+2019-20,2019-20,True,,Primary,Male,40 - 44,1995
+2019-20,2019-20,True,,Primary,Female,30 - 34,2403
+2019-20,2019-20,True,,Primary,Male,60 - 64,134
+2019-20,2019-20,True,,Primary,Male,50 - 54,564
+2019-20,2019-20,True,,Primary,Female,40 - 44,490
+2019-20,2019-20,True,,Primary,Male,65 +,50
+2019-20,2019-20,True,,Primary,Female,55 - 59,53
+2019-20,2019-20,True,,Primary,Male,55 - 59,347
+2019-20,2019-20,True,,Primary,Female,65 +,8
+2019-20,2019-20,True,,Primary,Female,20 - 24,420
+2019-20,2019-20,True,,Primary,Female,50 - 54,111
+2019-20,2019-20,True,,Primary,Female,45 - 49,215
+2019-20,2019-20,True,,Secondary,Female,45 - 49,454
+2019-20,2019-20,True,,Secondary,Male,18 - 19,135
+2019-20,2019-20,True,,Secondary,Female,25 - 29,3361
+2019-20,2019-20,True,,Secondary,Male,20 - 24,156
+2019-20,2019-20,True,,Secondary,Female,12 - 15,638
+2019-20,2019-20,True,,Secondary,Male,30 - 34,1023
+2019-20,2019-20,True,,Secondary,Female,30 - 34,3135
+2019-20,2019-20,True,,Secondary,Male,40 - 44,354
+2019-20,2019-20,True,,Secondary,Female,35 - 39,1968
+2019-20,2019-20,True,,Secondary,Female,20 - 24,737
+2019-20,2019-20,True,,Secondary,Female,40 - 44,928
+2019-20,2019-20,True,,Secondary,Male,12 - 15,635
+2019-20,2019-20,True,,Secondary,Male,25 - 29,801
+2019-20,2019-20,True,,Secondary,Male,35 - 39,606
+2019-20,2019-20,True,,Secondary,Female,16 - 17,177
+2019-20,2019-20,True,,Secondary,Female,50 - 54,258
+2019-20,2019-20,True,,Secondary,Female,18 - 19,110
+2019-20,2019-20,True,,Secondary,Male,16 - 17,181
+2019-20,2019-20,True,,Secondary,Female,55 - 59,131
+2019-20,2019-20,True,,Secondary,Female,60 - 64,59
+2019-20,2019-20,True,,Secondary,Male,50 - 54,91
+2019-20,2019-20,True,,Secondary,Male,55 - 59,47
+2019-20,2019-20,True,,Primary,Not Specified,30 - 34,2
+2019-20,2019-20,True,,Secondary,Male,65 +,12
+2019-20,2019-20,True,,Primary,Female,60 - 64,26
+2019-20,2019-20,True,,Secondary,Male,60 - 64,19
+2019-20,2019-20,True,,Secondary,Female,65 +,14
+2019-20,2019-20,True,,Primary,Female,18 - 19,2
+2019-20,2019-20,True,,Primary,Male,18 - 19,2
+2019-20,2019-20,True,,Secondary,Male,Not Specified,1
+2019-20,2019-20,True,,Secondary,Female,Not Specified,2
+2020-21,2020-21,True,,Primary,Male,25 - 29,4320
+2020-21,2020-21,True,,Secondary,Female,00 - 04,1886
+2020-21,2020-21,True,,Secondary,Male,00 - 04,2023
+2020-21,2020-21,True,,Secondary,Female,40 - 44,831
+2020-21,2020-21,True,,Primary,Male,40 - 44,1614
+2020-21,2020-21,True,,Primary,Female,25 - 29,2979
+2020-21,2020-21,True,,Primary,Male,55 - 59,388
+2020-21,2020-21,True,,Primary,Male,30 - 34,4709
+2020-21,2020-21,True,,Primary,Male,35 - 39,2920
+2020-21,2020-21,True,,Primary,Female,30 - 34,2194
+2020-21,2020-21,True,,Primary,Male,20 - 24,425
+2020-21,2020-21,True,,Primary,Female,35 - 39,955
+2020-21,2020-21,True,,Primary,Male,45 - 49,857
+2020-21,2020-21,True,,Primary,Female,45 - 49,173
+2020-21,2020-21,True,,Primary,Male,50 - 54,518
+2020-21,2020-21,True,,Primary,Male,60 - 64,141
+2020-21,2020-21,True,,Primary,Female,20 - 24,282
+2020-21,2020-21,True,,Primary,Male,65 +,57
+2020-21,2020-21,True,,Primary,Female,40 - 44,434
+2020-21,2020-21,True,,Primary,Female,50 - 54,95
+2020-21,2020-21,True,,Secondary,Male,30 - 34,772
+2020-21,2020-21,True,,Secondary,Male,40 - 44,296
+2020-21,2020-21,True,,Secondary,Female,20 - 24,436
+2020-21,2020-21,True,,Secondary,Male,12 - 15,518
+2020-21,2020-21,True,,Secondary,Male,05 - 11,1806
+2020-21,2020-21,True,,Secondary,Female,05 - 11,1716
+2020-21,2020-21,True,,Secondary,Female,50 - 54,254
+2020-21,2020-21,True,,Secondary,Female,25 - 29,2273
+2020-21,2020-21,True,,Secondary,Male,35 - 39,509
+2020-21,2020-21,True,,Secondary,Male,25 - 29,552
+2020-21,2020-21,True,,Secondary,Female,30 - 34,2517
+2020-21,2020-21,True,,Secondary,Female,35 - 39,1526
+2020-21,2020-21,True,,Secondary,Male,20 - 24,126
+2020-21,2020-21,True,,Secondary,Male,18 - 19,120
+2020-21,2020-21,True,,Secondary,Female,45 - 49,415
+2020-21,2020-21,True,,Secondary,Female,65 +,23
+2020-21,2020-21,True,,Secondary,Female,12 - 15,488
+2020-21,2020-21,True,,Secondary,Female,60 - 64,57
+2020-21,2020-21,True,,Secondary,Male,60 - 64,17
+2020-21,2020-21,True,,Secondary,Male,16 - 17,182
+2020-21,2020-21,True,,Secondary,Female,55 - 59,146
+2020-21,2020-21,True,,Secondary,Male,65 +,15
+2020-21,2020-21,True,,Primary,Female,55 - 59,49
+2020-21,2020-21,True,,Secondary,Female,18 - 19,107
+2020-21,2020-21,True,,Secondary,Female,16 - 17,157
+2020-21,2020-21,True,,Secondary,Male,50 - 54,70
+2020-21,2020-21,True,,Secondary,Male,45 - 49,140
+2020-21,2020-21,True,,Secondary,Male,55 - 59,54
+2020-21,2020-21,True,,Primary,Female,60 - 64,31
+2020-21,2020-21,True,,Primary,Male,18 - 19,2
+2020-21,2020-21,True,,Secondary,Female,Not Specified,1
+2020-21,2020-21,True,,Secondary,Not Specified,30 - 34,3
+2020-21,2020-21,True,,Primary,Not Specified,25 - 29,1
+2020-21,2020-21,True,,Primary,Female,65 +,12
+2020-21,2020-21,True,,Secondary,Not Specified,25 - 29,1
+2020-21,2020-21,True,,Primary,Not Specified,30 - 34,2
+2021-22,2021-22,True,,Primary,Male,25 - 29,5723
+2021-22,2021-22,True,,Primary,Female,40 - 44,647
+2021-22,2021-22,True,,Primary,Female,25 - 29,3912
+2021-22,2021-22,True,,Primary,Female,35 - 39,1441
+2021-22,2021-22,True,,Primary,Female,30 - 34,3134
+2021-22,2021-22,True,,Primary,Male,35 - 39,4453
+2021-22,2021-22,True,,Primary,Male,30 - 34,6762
+2021-22,2021-22,True,,Secondary,Female,18 - 19,142
+2021-22,2021-22,True,,Secondary,Male,12 - 15,791
+2021-22,2021-22,True,,Secondary,Male,18 - 19,147
+2021-22,2021-22,True,,Secondary,Female,30 - 34,3828
+2021-22,2021-22,True,,Secondary,Female,05 - 11,2746
+2021-22,2021-22,True,,Secondary,Male,05 - 11,2925
+2021-22,2021-22,True,,Secondary,Male,00 - 04,2972
+2021-22,2021-22,True,,Primary,Male,45 - 49,1138
+2021-22,2021-22,True,,Primary,Male,40 - 44,2464
+2021-22,2021-22,True,,Primary,Male,60 - 64,147
+2021-22,2021-22,True,,Primary,Male,20 - 24,520
+2021-22,2021-22,True,,Primary,Female,50 - 54,152
+2021-22,2021-22,True,,Primary,Male,50 - 54,558
+2021-22,2021-22,True,,Primary,Female,20 - 24,312
+2021-22,2021-22,True,,Primary,Female,60 - 64,27
+2021-22,2021-22,True,,Primary,Female,45 - 49,234
+2021-22,2021-22,True,,Primary,Male,65 +,55
+2021-22,2021-22,True,,Primary,Male,55 - 59,316
+2021-22,2021-22,True,,Primary,Female,55 - 59,47
+2021-22,2021-22,True,,Secondary,Female,00 - 04,2890
+2021-22,2021-22,True,,Secondary,Female,25 - 29,3088
+2021-22,2021-22,True,,Secondary,Female,12 - 15,796
+2021-22,2021-22,True,,Secondary,Female,50 - 54,275
+2021-22,2021-22,True,,Secondary,Female,45 - 49,505
+2021-22,2021-22,True,,Secondary,Male,50 - 54,111
+2021-22,2021-22,True,,Secondary,Male,30 - 34,1252
+2021-22,2021-22,True,,Secondary,Female,40 - 44,1215
+2021-22,2021-22,True,,Secondary,Female,35 - 39,2421
+2021-22,2021-22,True,,Secondary,Male,16 - 17,249
+2021-22,2021-22,True,,Secondary,Female,55 - 59,147
+2021-22,2021-22,True,,Secondary,Female,60 - 64,61
+2021-22,2021-22,True,,Secondary,Male,35 - 39,896
+2021-22,2021-22,True,,Secondary,Female,20 - 24,551
+2021-22,2021-22,True,,Secondary,Male,45 - 49,228
+2021-22,2021-22,True,,Secondary,Male,55 - 59,51
+2021-22,2021-22,True,,Secondary,Male,20 - 24,155
+2021-22,2021-22,True,,Secondary,Female,16 - 17,245
+2021-22,2021-22,True,,Secondary,Male,65 +,12
+2021-22,2021-22,True,,Secondary,Male,25 - 29,708
+2021-22,2021-22,True,,Secondary,Male,40 - 44,467
+2021-22,2021-22,True,,Secondary,Female,65 +,17
+2021-22,2021-22,True,,Secondary,Male,60 - 64,30
+2021-22,2021-22,True,,Primary,Female,65 +,16
+2021-22,2021-22,True,,Primary,Not Specified,25 - 29,2
+2021-22,2021-22,True,,Secondary,Not Specified,35 - 39,1
+2021-22,2021-22,True,,Primary,Male,Not Specified,1
+2021-22,2021-22,True,,Secondary,Not Specified,05 - 11,1
+2021-22,2021-22,True,,Secondary,Female,Not Specified,2
+2021-22,2021-22,True,,Primary,Not Specified,30 - 34,1
+2022-23,2022-23,True,,Primary,Male,35 - 39,8245
+2022-23,2022-23,True,,Primary,Female,35 - 39,2706
+2022-23,2022-23,True,,Primary,Male,25 - 29,7987
+2022-23,2022-23,True,,Primary,Male,30 - 34,10858
+2022-23,2022-23,True,,Primary,Male,45 - 49,2111
+2022-23,2022-23,True,,Secondary,Female,30 - 34,6159
+2022-23,2022-23,True,,Secondary,Female,35 - 39,4255
+2022-23,2022-23,True,,Secondary,Female,40 - 44,2171
+2022-23,2022-23,True,,Secondary,Female,00 - 04,4881
+2022-23,2022-23,True,,Primary,Male,40 - 44,4763
+2022-23,2022-23,True,,Primary,Female,30 - 34,4784
+2022-23,2022-23,True,,Primary,Female,40 - 44,1159
+2022-23,2022-23,True,,Primary,Male,60 - 64,254
+2022-23,2022-23,True,,Primary,Female,25 - 29,5067
+2022-23,2022-23,True,,Primary,Female,60 - 64,36
+2022-23,2022-23,True,,Primary,Male,20 - 24,792
+2022-23,2022-23,True,,Primary,Male,55 - 59,558
+2022-23,2022-23,True,,Primary,Male,65 +,78
+2022-23,2022-23,True,,Primary,Female,20 - 24,424
+2022-23,2022-23,True,,Primary,Male,50 - 54,999
+2022-23,2022-23,True,,Primary,Female,55 - 59,94
+2022-23,2022-23,True,,Primary,Female,50 - 54,203
+2022-23,2022-23,True,,Primary,Female,45 - 49,468
+2022-23,2022-23,True,,Secondary,Male,00 - 04,4992
+2022-23,2022-23,True,,Secondary,Male,30 - 34,1896
+2022-23,2022-23,True,,Secondary,Male,05 - 11,5255
+2022-23,2022-23,True,,Secondary,Female,05 - 11,4998
+2022-23,2022-23,True,,Secondary,Male,16 - 17,432
+2022-23,2022-23,True,,Secondary,Male,18 - 19,304
+2022-23,2022-23,True,,Secondary,Female,25 - 29,4713
+2022-23,2022-23,True,,Secondary,Female,45 - 49,882
+2022-23,2022-23,True,,Secondary,Male,40 - 44,946
+2022-23,2022-23,True,,Secondary,Male,12 - 15,1551
+2022-23,2022-23,True,,Secondary,Male,45 - 49,450
+2022-23,2022-23,True,,Secondary,Female,12 - 15,1434
+2022-23,2022-23,True,,Secondary,Male,55 - 59,69
+2022-23,2022-23,True,,Secondary,Male,35 - 39,1659
+2022-23,2022-23,True,,Secondary,Female,60 - 64,97
+2022-23,2022-23,True,,Secondary,Male,25 - 29,1039
+2022-23,2022-23,True,,Secondary,Male,50 - 54,186
+2022-23,2022-23,True,,Secondary,Female,18 - 19,302
+2022-23,2022-23,True,,Secondary,Male,60 - 64,41
+2022-23,2022-23,True,,Secondary,Female,20 - 24,890
+2022-23,2022-23,True,,Secondary,Female,50 - 54,418
+2022-23,2022-23,True,,Secondary,Male,20 - 24,247
+2022-23,2022-23,True,,Secondary,Female,16 - 17,420
+2022-23,2022-23,True,,Secondary,Female,55 - 59,226
+2022-23,2022-23,True,,Primary,Female,65 +,7
+2022-23,2022-23,True,,Secondary,Not Specified,30 - 34,2
+2022-23,2022-23,True,,Secondary,Female,65 +,24
+2022-23,2022-23,True,,Primary,Not Specified,25 - 29,4
+2022-23,2022-23,True,,Secondary,Male,Not Specified,1
+2022-23,2022-23,True,,Secondary,Male,65 +,17
+2022-23,2022-23,True,,Secondary,Not Specified,00 - 04,1
+2022-23,2022-23,True,,Primary,Not Specified,35 - 39,2
+2022-23,2022-23,True,,Primary,Not Specified,30 - 34,4
+2022-23,2022-23,True,,Secondary,Not Specified,25 - 29,1
+2022-23,2022-23,True,,Secondary,Not Specified,40 - 44,1
+2022-23,2022-23,True,,Primary,Male,Not Specified,1
+2022-23,2022-23,True,,Primary,Male,18 - 19,1
+2023-24,2023-24,True,,Primary,Male,35 - 39,8191
+2023-24,2023-24,True,,Primary,Female,20 - 24,490
+2023-24,2023-24,True,,Primary,Female,25 - 29,5569
+2023-24,2023-24,True,,Primary,Male,25 - 29,8163
+2023-24,2023-24,True,,Primary,Female,30 - 34,4633
+2023-24,2023-24,True,,Primary,Male,55 - 59,485
+2023-24,2023-24,True,,Primary,Male,30 - 34,10442
+2023-24,2023-24,True,,Primary,Female,35 - 39,2576
+2023-24,2023-24,True,,Primary,Male,45 - 49,2133
+2023-24,2023-24,True,,Primary,Male,50 - 54,1061
+2023-24,2023-24,True,,Primary,Male,60 - 64,213
+2023-24,2023-24,True,,Primary,Male,40 - 44,5035
+2023-24,2023-24,True,,Primary,Male,20 - 24,836
+2023-24,2023-24,True,,Primary,Female,40 - 44,1311
+2023-24,2023-24,True,,Primary,Female,45 - 49,475
+2023-24,2023-24,True,,Primary,Female,50 - 54,262
+2023-24,2023-24,True,,Primary,Not Specified,25 - 29,6
+2023-24,2023-24,True,,Primary,Female,65 +,22
+2023-24,2023-24,True,,Primary,Female,55 - 59,79
+2023-24,2023-24,True,,Primary,Male,65 +,72
+2023-24,2023-24,True,,Secondary,Male,00 - 04,4737
+2023-24,2023-24,True,,Secondary,Female,35 - 39,4074
+2023-24,2023-24,True,,Secondary,Male,30 - 34,1889
+2023-24,2023-24,True,,Secondary,Male,25 - 29,1261
+2023-24,2023-24,True,,Secondary,Female,18 - 19,314
+2023-24,2023-24,True,,Secondary,Male,18 - 19,279
+2023-24,2023-24,True,,Secondary,Female,30 - 34,5547
+2023-24,2023-24,True,,Secondary,Female,05 - 11,4861
+2023-24,2023-24,True,,Secondary,Male,05 - 11,5064
+2023-24,2023-24,True,,Secondary,Male,40 - 44,998
+2023-24,2023-24,True,,Secondary,Female,00 - 04,4405
+2023-24,2023-24,True,,Secondary,Female,20 - 24,914
+2023-24,2023-24,True,,Secondary,Female,25 - 29,4477
+2023-24,2023-24,True,,Secondary,Male,12 - 15,1696
+2023-24,2023-24,True,,Secondary,Female,40 - 44,2122
+2023-24,2023-24,True,,Secondary,Male,45 - 49,432
+2023-24,2023-24,True,,Secondary,Male,35 - 39,1649
+2023-24,2023-24,True,,Secondary,Female,45 - 49,830
+2023-24,2023-24,True,,Secondary,Female,16 - 17,486
+2023-24,2023-24,True,,Secondary,Female,55 - 59,165
+2023-24,2023-24,True,,Secondary,Female,50 - 54,377
+2023-24,2023-24,True,,Secondary,Female,12 - 15,1612
+2023-24,2023-24,True,,Secondary,Male,65 +,20
+2023-24,2023-24,True,,Secondary,Male,50 - 54,215
+2023-24,2023-24,True,,Secondary,Male,20 - 24,270
+2023-24,2023-24,True,,Secondary,Male,16 - 17,515
+2023-24,2023-24,True,,Secondary,Female,60 - 64,67
+2023-24,2023-24,True,,Secondary,Male,55 - 59,82
+2023-24,2023-24,True,,Primary,Female,60 - 64,34
+2023-24,2023-24,True,,Secondary,Male,60 - 64,43
+2023-24,2023-24,True,,Secondary,Female,65 +,25
+2023-24,2023-24,True,,Primary,Not Specified,45 - 49,1
+2023-24,2023-24,True,,Primary,Not Specified,30 - 34,5
+2023-24,2023-24,True,,Primary,Male,18 - 19,2
+2023-24,2023-24,True,,Secondary,Not Specified,35 - 39,2
+2023-24,2023-24,True,,Primary,Female,18 - 19,3
+2023-24,2023-24,True,,Secondary,Male,Not Specified,1
+2023-24,2023-24,True,,Secondary,Female,Not Specified,1
+2023-24,2023-24,True,,Secondary,Not Specified,30 - 34,1
+2023-24,2023-24,True,,Secondary,Not Specified,25 - 29,1
+2023-24,2023-24,True,,Primary,Not Specified,35 - 39,1
+2023-24,2023-24,True,,Primary,Not Specified,40 - 44,1
+2024-25,2024-25,True,,Primary,Male,35 - 39,9746
+2024-25,2024-25,True,,Primary,Female,35 - 39,4117
+2024-25,2024-25,True,,Primary,Female,25 - 29,7454
+2024-25,2024-25,True,,Primary,Female,30 - 34,6874
+2024-25,2024-25,True,,Primary,Female,20 - 24,956
+2024-25,2024-25,True,,Primary,Male,30 - 34,12997
+2024-25,2024-25,True,,Primary,Male,25 - 29,11316
+2024-25,2024-25,True,,Primary,Male,45 - 49,2359
+2024-25,2024-25,True,,Primary,Male,40 - 44,5786
+2024-25,2024-25,True,,Primary,Female,45 - 49,642
+2024-25,2024-25,True,,Primary,Male,20 - 24,1629
+2024-25,2024-25,True,,Primary,Female,55 - 59,133
+2024-25,2024-25,True,,Primary,Female,40 - 44,1876
+2024-25,2024-25,True,,Primary,Female,50 - 54,268
+2024-25,2024-25,True,,Primary,Male,50 - 54,1108
+2024-25,2024-25,True,,Primary,Male,60 - 64,258
+2024-25,2024-25,True,,Primary,Male,55 - 59,541
+2024-25,2024-25,True,,Primary,Female,60 - 64,52
+2024-25,2024-25,True,,Primary,Male,65 +,63
+2024-25,2024-25,True,,Secondary,Female,00 - 04,5028
+2024-25,2024-25,True,,Primary,Female,65 +,9
+2024-25,2024-25,True,,Secondary,Female,20 - 24,1345
+2024-25,2024-25,True,,Secondary,Male,30 - 34,3064
+2024-25,2024-25,True,,Secondary,Male,00 - 04,5200
+2024-25,2024-25,True,,Secondary,Male,35 - 39,2489
+2024-25,2024-25,True,,Secondary,Female,30 - 34,7219
+2024-25,2024-25,True,,Secondary,Male,05 - 11,6079
+2024-25,2024-25,True,,Secondary,Male,12 - 15,2080
+2024-25,2024-25,True,,Secondary,Male,25 - 29,1778
+2024-25,2024-25,True,,Secondary,Female,50 - 54,398
+2024-25,2024-25,True,,Secondary,Female,05 - 11,5839
+2024-25,2024-25,True,,Secondary,Female,12 - 15,2063
+2024-25,2024-25,True,,Secondary,Female,35 - 39,4988
+2024-25,2024-25,True,,Secondary,Female,45 - 49,1003
+2024-25,2024-25,True,,Secondary,Male,40 - 44,1520
+2024-25,2024-25,True,,Secondary,Female,25 - 29,5895
+2024-25,2024-25,True,,Secondary,Female,16 - 17,662
+2024-25,2024-25,True,,Secondary,Female,65 +,20
+2024-25,2024-25,True,,Secondary,Male,16 - 17,620
+2024-25,2024-25,True,,Secondary,Male,18 - 19,414
+2024-25,2024-25,True,,Secondary,Male,55 - 59,120
+2024-25,2024-25,True,,Secondary,Male,50 - 54,263
+2024-25,2024-25,True,,Secondary,Female,40 - 44,2504
+2024-25,2024-25,True,,Secondary,Male,45 - 49,694
+2024-25,2024-25,True,,Secondary,Female,55 - 59,182
+2024-25,2024-25,True,,Secondary,Female,18 - 19,358
+2024-25,2024-25,True,,Secondary,Female,60 - 64,85
+2024-25,2024-25,True,,Secondary,Male,20 - 24,395
+2024-25,2024-25,True,,Secondary,Male,60 - 64,44
+2024-25,2024-25,True,,Primary,Not Specified,45 - 49,1
+2024-25,2024-25,True,,Secondary,Male,65 +,20
+2024-25,2024-25,True,,Primary,Not Specified,55 - 59,1
+2024-25,2024-25,True,,Primary,Not Specified,35 - 39,2
+2024-25,2024-25,True,,Primary,Female,18 - 19,3
+2024-25,2024-25,True,,Secondary,Female,Not Specified,1
+2024-25,2024-25,True,,Primary,Not Specified,30 - 34,2
+2024-25,2024-25,True,,Primary,Male,18 - 19,2
+2024-25,2024-25,True,,Secondary,Not Specified,18 - 19,1
+2024-25,2024-25,True,,Secondary,Not Specified,12 - 15,1
+2024-25,2024-25,True,,Secondary,Not Specified,50 - 54,1
+2024-25,2024-25,True,,Secondary,Not Specified,00 - 04,1
+2024-25,2024-25,True,,Primary,Not Specified,40 - 44,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,18 - 19,514
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,25 - 29,11664
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,35 - 39,9628
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,30 - 34,12977
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,40 - 44,5712
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,25 - 29,7755
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,40 - 44,2002
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,45 - 49,705
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,30 - 34,7061
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,55 - 59,568
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,20 - 24,1572
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,35 - 39,4174
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,45 - 49,2565
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,20 - 24,901
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,55 - 59,126
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,50 - 54,310
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,50 - 54,1211
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,40 - 44,2862
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,60 - 64,248
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,65 +,90
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,05 - 11,6887
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,00 - 04,6001
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,35 - 39,5676
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,25 - 29,2064
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,30 - 34,3344
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,30 - 34,7786
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,35 - 39,2698
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,20 - 24,1798
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,12 - 15,2381
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,00 - 04,5770
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,25 - 29,6939
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,50 - 54,525
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,16 - 17,835
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,40 - 44,1682
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,45 - 49,1252
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,05 - 11,6345
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,12 - 15,2534
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,20 - 24,552
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,45 - 49,784
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,50 - 54,334
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,18 - 19,525
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,65 +,16
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,16 - 17,836
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,60 - 64,106
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,65 +,30
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,55 - 59,141
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,60 - 64,56
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Female,55 - 59,200
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,60 - 64,39
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Male,65 +,22
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,18 - 19,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,40 - 44,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,25 - 29,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,18 - 19,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,45 - 49,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Not Specified,35 - 39,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,30 - 34,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,35 - 39,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,05 - 11,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Not Specified,45 - 49,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Not Specified,30 - 34,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Not Specified,25 - 29,2
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Secondary,Not Specified,16 - 17,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Male,Not Specified,1
+2025-26 to 30 June 2026,2025-26,True,30 June 2026,Primary,Female,18 - 19,1

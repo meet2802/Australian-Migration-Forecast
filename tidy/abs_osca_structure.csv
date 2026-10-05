@@ -1,0 +1,1750 @@
+osca_code,title,level,skill_level,major_group,sub_major_group,minor_group,unit_group
+1,Managers,Major group,1; 2,1,,,
+11,"Business Administration and Promotion, and ICT Managers",Sub-major group,1,1,11,,
+111,Business Administration Managers,Minor group,1,1,11,111,
+1111,Corporate Services Managers,Unit group,1,1,11,111,1111
+111131,Corporate Services Manager,Occupation,1,1,11,111,1111
+1112,Finance Managers,Unit group,1,1,11,111,1112
+111231,Finance Manager,Occupation,1,1,11,111,1112
+1113,Human Resources Managers,Unit group,1,1,11,111,1113
+111331,Human Resources Manager,Occupation,1,1,11,111,1113
+1114,Policy and Planning Managers,Unit group,1,1,11,111,1114
+111431,Policy and Planning Manager,Occupation,1,1,11,111,1114
+1115,Research and Development Managers,Unit group,1,1,11,111,1115
+111531,Research and Development Manager,Occupation,1,1,11,111,1115
+1116,Workplace Compliance Managers,Unit group,1,1,11,111,1116
+111631,Quality Assurance Manager,Occupation,1,1,11,111,1116
+111632,Regulatory Affairs Manager,Occupation,1,1,11,111,1116
+111633,Work Health and Safety Manager,Occupation,1,1,11,111,1116
+112,Business Promotion and Communications Managers,Minor group,1,1,11,112,
+1121,Business Promotion Managers,Unit group,1,1,11,112,1121
+112131,Advertising Manager,Occupation,1,1,11,112,1121
+112132,Business Development Manager,Occupation,1,1,11,112,1121
+112133,Sales and Marketing Manager,Occupation,1,1,11,112,1121
+1122,Communications Managers (Public Relations),Unit group,1,1,11,112,1122
+112231,Communications Manager (Public Relations),Occupation,1,1,11,112,1122
+113,Chief Information Officers and ICT Managers,Minor group,1,1,11,113,
+1131,Chief Information and Chief Information Security Officers,Unit group,1,1,11,113,1131
+113131,Chief Information Officer,Occupation,1,1,11,113,1131
+113132,Chief Information Security Officer,Occupation,1,1,11,113,1131
+1132,ICT Managers,Unit group,1,1,11,113,1132
+113231,ICT Operations Manager,Occupation,1,1,11,113,1132
+113232,ICT Project Manager,Occupation,1,1,11,113,1132
+113233,ICT Service Delivery Manager,Occupation,1,1,11,113,1132
+113299,ICT Managers nec,Occupation,1,1,11,113,1132
+12,"Chief Executives, General Managers and Legislators",Sub-major group,1,1,12,,
+121,"Chief Executives, General Managers and Legislators",Minor group,1,1,12,121,
+1211,Chief Executives and Managing Directors,Unit group,1,1,12,121,1211
+121131,Chief Executive or Managing Director,Occupation,1,1,12,121,1211
+1212,General Managers and Defence Force Senior Officers,Unit group,1,1,12,121,1212
+121231,Corporate General Manager,Occupation,1,1,12,121,1212
+121232,Defence Force Senior Officer,Occupation,1,1,12,121,1212
+1213,Legislators,Unit group,1,1,12,121,1213
+121331,Local Government Legislator,Occupation,1,1,12,121,1213
+121332,Member of Parliament,Occupation,1,1,12,121,1213
+121399,Legislators nec,Occupation,1,1,12,121,1213
+13,"Construction, Production and Distribution Managers",Sub-major group,1,1,13,,
+131,Construction and Engineering Managers,Minor group,1,1,13,131,
+1311,Construction Project Managers,Unit group,1,1,13,131,1311
+131131,Construction Project Manager,Occupation,1,1,13,131,1311
+1312,Engineering Managers,Unit group,1,1,13,131,1312
+131231,Engineering Manager,Occupation,1,1,13,131,1312
+1313,Project Builders,Unit group,1,1,13,131,1313
+131331,Project Builder,Occupation,1,1,13,131,1313
+1314,Property Developers,Unit group,1,1,13,131,1314
+131431,Property Developer,Occupation,1,1,13,131,1314
+1319,Other Construction and Engineering Managers,Unit group,1,1,13,131,1319
+131931,Surveying Manager,Occupation,1,1,13,131,1319
+131999,Construction and Engineering Managers nec,Occupation,1,1,13,131,1319
+132,Manufacturers and Production Managers,Minor group,1,1,13,132,
+1321,Manufacturers,Unit group,1,1,13,132,1321
+132131,Manufacturer,Occupation,1,1,13,132,1321
+1322,Production Managers,Unit group,1,1,13,132,1322
+132231,Forest Manager,Occupation,1,1,13,132,1322
+132232,Production Manager (Manufacturing),Occupation,1,1,13,132,1322
+132233,Production Manager (Mining),Occupation,1,1,13,132,1322
+133,"Wholesaling, Distribution and Procurement Managers",Minor group,1,1,13,133,
+1331,"Importers, Exporters and Wholesalers",Unit group,1,1,13,133,1331
+133131,Importer or Exporter,Occupation,1,1,13,133,1331
+133132,Wholesaler,Occupation,1,1,13,133,1331
+1332,Procurement Managers,Unit group,1,1,13,133,1332
+133231,Procurement Manager,Occupation,1,1,13,133,1332
+1333,Supply and Distribution Managers,Unit group,1,1,13,133,1333
+133331,Supply and Distribution Manager,Occupation,1,1,13,133,1333
+14,"Education, Health, Welfare and Other Specialist Managers",Sub-major group,1,1,14,,
+141,"Education, Health and Welfare Service Managers",Minor group,1,1,14,141,
+1411,Assistant School Principals and School Principals,Unit group,1,1,14,141,1411
+141131,Assistant School Principal,Occupation,1,1,14,141,1411
+141132,School Principal,Occupation,1,1,14,141,1411
+1412,Children's Education and Care Service Directors,Unit group,1,1,14,141,1412
+141231,Children's Education and Care Service Director,Occupation,1,1,14,141,1412
+1413,Health and Welfare Service Managers,Unit group,1,1,14,141,1413
+141331,Aged Care Manager,Occupation,1,1,14,141,1413
+141332,Director of Nursing / Midwifery,Occupation,1,1,14,141,1413
+141333,Medical Administrator,Occupation,1,1,14,141,1413
+141334,Paramedic Manager,Occupation,1,1,14,141,1413
+141335,Welfare Centre Manager,Occupation,1,1,14,141,1413
+141399,Health and Welfare Service Managers nec,Occupation,1,1,14,141,1413
+1414,Other Education Managers,Unit group,1,1,14,141,1414
+141431,Faculty Manager,Occupation,1,1,14,141,1414
+141432,Regional Education Manager,Occupation,1,1,14,141,1414
+141499,Education Managers nec,Occupation,1,1,14,141,1414
+149,Miscellaneous Specialist Managers,Minor group,1,1,14,149,
+1491,"Arts, Culture and Sports Administrators",Unit group,1,1,14,149,1491
+149131,Arts Administrator or Manager,Occupation,1,1,14,149,1491
+149132,Library Services Manager,Occupation,1,1,14,149,1491
+149133,Sports Administrator,Occupation,1,1,14,149,1491
+149199,"Arts, Culture and Sports Administrators nec",Occupation,1,1,14,149,1491
+1492,Commissioned Officers (Management),Unit group,1,1,14,149,1492
+149231,Commissioned Defence Force Officer,Occupation,1,1,14,149,1492
+149232,Commissioned Fire Officer,Occupation,1,1,14,149,1492
+149233,Commissioned Police Officer,Occupation,1,1,14,149,1492
+1493,Scientific and Environmental Managers,Unit group,1,1,14,149,1493
+149331,Environmental Manager,Occupation,1,1,14,149,1493
+149332,Exploration Manager,Occupation,1,1,14,149,1493
+149333,Laboratory Manager,Occupation,1,1,14,149,1493
+149399,Scientific and Environmental Managers nec,Occupation,1,1,14,149,1493
+1494,Senior Non-commissioned Defence Force Members,Unit group,1,1,14,149,1494
+149431,Senior Non-commissioned Defence Force Member,Occupation,1,1,14,149,1494
+1499,Other Specialist Managers,Unit group,1,1,14,149,1499
+149931,Airport Manager,Occupation,1,1,14,149,1499
+149932,Correctional Facility Manager,Occupation,1,1,14,149,1499
+149933,Emergency Management Officer,Occupation,1,1,14,149,1499
+149999,Specialist Managers nec,Occupation,1,1,14,149,1499
+15,Farmers and Farm Managers,Sub-major group,1,1,15,,
+151,"Broadacre, Horticultural and Mixed Production Farmers",Minor group,1,1,15,151,
+1511,Broadacre Crop Growers,Unit group,1,1,15,151,1511
+151131,Cotton Grower,Occupation,1,1,15,151,1511
+151132,"Grain, Oilseed, Pulse or Pasture Grower",Occupation,1,1,15,151,1511
+151133,Sugar Cane Grower,Occupation,1,1,15,151,1511
+151199,Broadacre Crop Growers nec,Occupation,1,1,15,151,1511
+1512,Horticultural Crop Growers,Unit group,1,1,15,151,1512
+151231,Flower Grower,Occupation,1,1,15,151,1512
+151232,Fruit Grower,Occupation,1,1,15,151,1512
+151233,Nut Grower,Occupation,1,1,15,151,1512
+151234,Production Nursery Grower,Occupation,1,1,15,151,1512
+151235,Turf Grower,Occupation,1,1,15,151,1512
+151236,Vegetable Grower,Occupation,1,1,15,151,1512
+151237,Wine Grape Grower,Occupation,1,1,15,151,1512
+151299,Horticultural Crop Growers nec,Occupation,1,1,15,151,1512
+1513,Mixed Production and Aquaculture Farmers,Unit group,1,1,15,151,1513
+151331,Aquaculture Farmer,Occupation,1,1,15,151,1513
+151332,Broadacre Crop and Livestock Farmer,Occupation,1,1,15,151,1513
+151399,Mixed Production and Aquaculture Farmers nec,Occupation,1,1,15,151,1513
+152,Livestock Farmers,Minor group,1,1,15,152,
+1521,Beef Cattle Farmers,Unit group,1,1,15,152,1521
+152131,Beef Cattle Farmer,Occupation,1,1,15,152,1521
+1522,Dairy Cattle Farmers,Unit group,1,1,15,152,1522
+152231,Dairy Cattle Farmer,Occupation,1,1,15,152,1522
+1523,Mixed Cattle and Sheep Farmers,Unit group,1,1,15,152,1523
+152331,Mixed Cattle and Sheep Farmer,Occupation,1,1,15,152,1523
+1524,Sheep Farmers,Unit group,1,1,15,152,1524
+152431,Sheep Farmer,Occupation,1,1,15,152,1524
+1529,Other Livestock Farmers,Unit group,1,1,15,152,1529
+152931,Apiarist,Occupation,1,1,15,152,1529
+152932,Goat Farmer,Occupation,1,1,15,152,1529
+152933,Horse Breeder,Occupation,1,1,15,152,1529
+152934,Pig Farmer,Occupation,1,1,15,152,1529
+152935,Poultry Farmer,Occupation,1,1,15,152,1529
+152999,Livestock Farmers nec,Occupation,1,1,15,152,1529
+16,Hospitality and Retail Managers,Sub-major group,2,1,16,,
+161,"Hospitality, Tourism and Venue Managers",Minor group,2,1,16,161,
+1611,Accommodation Service Managers,Unit group,2,1,16,161,1611
+161131,Accommodation Service Manager,Occupation,2,1,16,161,1611
+1612,"Cafe, Restaurant and Catering Managers",Unit group,2,1,16,161,1612
+161231,Cafe or Restaurant Manager,Occupation,2,1,16,161,1612
+161232,Catering Manager,Occupation,2,1,16,161,1612
+1613,"Entertainment, Fitness and Sports Venue Managers",Unit group,2,1,16,161,1613
+161331,Amusement Centre Manager,Occupation,2,1,16,161,1613
+161332,Betting Agency Manager,Occupation,2,1,16,161,1613
+161333,Cinema or Theatre Manager,Occupation,2,1,16,161,1613
+161334,Fitness Centre Manager,Occupation,2,1,16,161,1613
+161335,Sports Centre Manager,Occupation,2,1,16,161,1613
+161399,"Entertainment, Fitness and Sports Venue Managers nec",Occupation,2,1,16,161,1613
+1614,Hotel and Motel Managers,Unit group,2,1,16,161,1614
+161431,Hotel or Motel Manager,Occupation,2,1,16,161,1614
+1615,Licensed Club Managers,Unit group,2,1,16,161,1615
+161531,Licensed Club Manager,Occupation,2,1,16,161,1615
+1616,Senior Chefs,Unit group,2,1,16,161,1616
+161631,Senior Chef,Occupation,2,1,16,161,1616
+1619,"Other Hospitality, Tourism and Venue Managers",Unit group,2,1,16,161,1619
+161931,Caravan Park and Camping Ground Manager,Occupation,2,1,16,161,1619
+161932,Hosted Accommodation Operator,Occupation,2,1,16,161,1619
+161933,Travel Agency Manager,Occupation,2,1,16,161,1619
+161999,"Hospitality, Tourism and Venue Managers nec",Occupation,2,1,16,161,1619
+162,Retail Managers,Minor group,2,1,16,162,
+1621,Retail Managers,Unit group,2,1,16,162,1621
+162131,Retail Manager (General),Occupation,2,1,16,162,1621
+162132,Antique Dealer,Occupation,2,1,16,162,1621
+162133,Post Office Manager,Occupation,2,1,16,162,1621
+17,Office Administration and Service Managers,Sub-major group,2,1,17,,
+171,Office Administration and Practice Managers,Minor group,2,1,17,171,
+1711,Financial Institution Managers,Unit group,2,1,17,171,1711
+171131,Financial Institution Manager,Occupation,2,1,17,171,1711
+1712,Office and Payroll Managers,Unit group,2,1,17,171,1712
+171231,Office Manager,Occupation,2,1,17,171,1712
+171232,Payroll Manager,Occupation,2,1,17,171,1712
+1713,Practice Managers,Unit group,2,1,17,171,1713
+171331,Health Practice Manager,Occupation,2,1,17,171,1713
+171332,Legal Practice Manager,Occupation,2,1,17,171,1713
+171333,Veterinary Practice Manager,Occupation,2,1,17,171,1713
+171399,Practice Managers nec,Occupation,2,1,17,171,1713
+1714,Real Estate Agency Principals,Unit group,2,1,17,171,1714
+171431,Real Estate Agency Principal,Occupation,2,1,17,171,1714
+172,Service Managers,Minor group,2,1,17,172,
+1721,Call Centre and Customer Service Managers,Unit group,2,1,17,172,1721
+172131,Call or Contact Centre Manager,Occupation,2,1,17,172,1721
+172132,Customer Service Manager,Occupation,2,1,17,172,1721
+1722,Event Managers,Unit group,2,1,17,172,1722
+172231,Event Manager,Occupation,2,1,17,172,1722
+1723,Facilities Managers,Unit group,2,1,17,172,1723
+172331,Facilities Manager,Occupation,2,1,17,172,1723
+1724,"Hair, Body and Beauty Service Managers",Unit group,2,1,17,172,1724
+172431,Hair or Beauty Salon Manager,Occupation,2,1,17,172,1724
+172499,"Hair, Body and Beauty Service Managers nec",Occupation,2,1,17,172,1724
+1725,Transport Service Managers,Unit group,2,1,17,172,1725
+172531,Fleet Manager,Occupation,2,1,17,172,1725
+172532,Railway Station Manager,Occupation,2,1,17,172,1725
+172533,Transport Company Manager,Occupation,2,1,17,172,1725
+1729,Other Service Managers,Unit group,2,1,17,172,1729
+172931,Boarding Kennel or Cattery Operator,Occupation,2,1,17,172,1729
+172932,Equipment Hire Manager,Occupation,2,1,17,172,1729
+172933,Retirement Village Manager,Occupation,2,1,17,172,1729
+172934,Security Manager (Non-ICT),Occupation,2,1,17,172,1729
+172999,Service Managers nec,Occupation,2,1,17,172,1729
+2,Professionals,Major group,1,2,,,
+21,Accounting and Finance Professionals,Sub-major group,1,2,21,,
+211,Accountants and Auditors,Minor group,1,2,21,211,
+2111,Accountants and Corporate Treasurers,Unit group,1,2,21,211,2111
+211131,Accountant (General),Occupation,1,2,21,211,2111
+211132,Corporate Treasurer,Occupation,1,2,21,211,2111
+211133,Forensic Accountant,Occupation,1,2,21,211,2111
+211134,Management Accountant,Occupation,1,2,21,211,2111
+211135,Taxation Accountant,Occupation,1,2,21,211,2111
+2112,Auditors,Unit group,1,2,21,211,2112
+211231,External Auditor,Occupation,1,2,21,211,2112
+211232,Internal Auditor,Occupation,1,2,21,211,2112
+212,Financial Services and Investment Specialists,Minor group,1,2,21,212,
+2121,Financial Advisers,Unit group,1,2,21,212,2121
+212131,Financial Adviser,Occupation,1,2,21,212,2121
+2122,Financial Dealers,Unit group,1,2,21,212,2122
+212231,Financial Market Dealer,Occupation,1,2,21,212,2122
+212232,Stockbroker,Occupation,1,2,21,212,2122
+2123,Investment Specialists,Unit group,1,2,21,212,2123
+212331,Capital Markets Specialist,Occupation,1,2,21,212,2123
+212332,Investment Analyst,Occupation,1,2,21,212,2123
+212333,Investment Manager,Occupation,1,2,21,212,2123
+2129,Other Financial Services and Investment Specialists,Unit group,1,2,21,212,2129
+212931,Credit Risk Manager,Occupation,1,2,21,212,2129
+212999,Financial Services and Investment Specialists nec,Occupation,1,2,21,212,2129
+22,Business Professionals,Sub-major group,1,2,22,,
+221,Business Promotion and Communications Professionals,Minor group,1,2,22,221,
+2211,Advertising Specialists,Unit group,1,2,22,221,2211
+221131,Advertising Specialist,Occupation,1,2,22,221,2211
+2212,Communications Officers (Public Relations),Unit group,1,2,22,221,2212
+221231,Communications Officer (Public Relations),Occupation,1,2,22,221,2212
+2213,Electorate and Liaison Officers,Unit group,1,2,22,221,2213
+221331,Electorate Officer,Occupation,1,2,22,221,2213
+221332,Liaison Officer,Occupation,1,2,22,221,2213
+2214,ICT Business Development Managers,Unit group,1,2,22,221,2214
+221431,ICT Business Development Manager,Occupation,1,2,22,221,2214
+2215,Marketing Professionals,Unit group,1,2,22,221,2215
+221531,Content Creator (Marketing),Occupation,1,2,22,221,2215
+221532,Digital Marketing Analyst,Occupation,1,2,22,221,2215
+221533,Market Research Analyst,Occupation,1,2,22,221,2215
+221534,Marketing Specialist,Occupation,1,2,22,221,2215
+2216,Technical Sales Representatives,Unit group,1,2,22,221,2216
+221631,ICT Account Manager,Occupation,1,2,22,221,2216
+221632,ICT Sales Representative,Occupation,1,2,22,221,2216
+221633,Sales Representative (Industrial Products),Occupation,1,2,22,221,2216
+221634,Sales Representative (Medical and Pharmaceutical Products),Occupation,1,2,22,221,2216
+221699,Technical Sales Representatives nec,Occupation,1,2,22,221,2216
+222,"Human Resources, Work Health and Safety and Training Professionals",Minor group,1,2,22,222,
+2221,Human Resources and Workplace Relations Advisers,Unit group,1,2,22,222,2221
+222131,Human Resources Adviser,Occupation,1,2,22,222,2221
+222132,Workplace Relations Adviser,Occupation,1,2,22,222,2221
+2222,Recruitment Consultants,Unit group,1,2,22,222,2222
+222231,Recruitment Consultant,Occupation,1,2,22,222,2222
+2223,Rehabilitation Consultants and Work Health and Safety Advisers,Unit group,1,2,22,222,2223
+222331,Rehabilitation Consultant,Occupation,1,2,22,222,2223
+222332,Work Health and Safety Adviser,Occupation,1,2,22,222,2223
+2224,Training and Development Professionals,Unit group,1,2,22,222,2224
+222431,Training and Development Professional,Occupation,1,2,22,222,2224
+223,Information and Organisation Professionals,Minor group,1,2,22,223,
+2231,"Actuaries, Mathematicians and Statisticians",Unit group,1,2,22,223,2231
+223131,Actuary,Occupation,1,2,22,223,2231
+223132,Mathematician,Occupation,1,2,22,223,2231
+223133,Statistician,Occupation,1,2,22,223,2231
+2232,Data Professionals,Unit group,1,2,22,223,2232
+223231,Data Analyst,Occupation,1,2,22,223,2232
+223232,Data Architect,Occupation,1,2,22,223,2232
+223233,Data Engineer,Occupation,1,2,22,223,2232
+223234,Data Scientist,Occupation,1,2,22,223,2232
+2233,Intelligence and Policy Analysts,Unit group,1,2,22,223,2233
+223331,Intelligence Analyst,Occupation,1,2,22,223,2233
+223332,Policy Analyst,Occupation,1,2,22,223,2233
+2234,Management and Organisation Analysts,Unit group,1,2,22,223,2234
+223431,Enterprise Architect,Occupation,1,2,22,223,2234
+223432,Management Consultant,Occupation,1,2,22,223,2234
+223433,Organisation and Methods Analyst,Occupation,1,2,22,223,2234
+223434,Supply Chain Analyst,Occupation,1,2,22,223,2234
+2235,Property and Valuation Professionals,Unit group,1,2,22,223,2235
+223531,Asset Manager (Property),Occupation,1,2,22,223,2235
+223532,Valuer,Occupation,1,2,22,223,2235
+2239,Other Information and Organisation Professionals,Unit group,1,2,22,223,2239
+223931,Company Secretary,Occupation,1,2,22,223,2239
+223932,Cost Controller,Occupation,1,2,22,223,2239
+223933,Health Information Manager,Occupation,1,2,22,223,2239
+223934,Patents Examiner,Occupation,1,2,22,223,2239
+223935,Records or Information Manager,Occupation,1,2,22,223,2239
+223999,Information and Organisation Professionals nec,Occupation,1,2,22,223,2239
+23,Cultural and Social Professionals,Sub-major group,1,2,23,,
+231,Arts and Media Professionals,Minor group,1,2,23,231,
+2311,"Actors, Dancers and Other Entertainers",Unit group,1,2,23,231,2311
+231131,Actor,Occupation,1,2,23,231,2311
+231132,Circus Performer or Trainer,Occupation,1,2,23,231,2311
+231133,Content Creator (Social Media),Occupation,1,2,23,231,2311
+231134,Dancer or Choreographer,Occupation,1,2,23,231,2311
+231135,Entertainer or Variety Performer,Occupation,1,2,23,231,2311
+231199,"Actors, Dancers and Other Entertainers nec",Occupation,1,2,23,231,2311
+2312,"Authors, and Book and Script Editors",Unit group,1,2,23,231,2312
+231231,Author,Occupation,1,2,23,231,2312
+231232,Book or Script Editor,Occupation,1,2,23,231,2312
+2313,Journalists and Other Writers,Unit group,1,2,23,231,2313
+231331,Copywriter,Occupation,1,2,23,231,2313
+231332,Journalist,Occupation,1,2,23,231,2313
+231333,Print or Digital Content Editor,Occupation,1,2,23,231,2313
+231334,Technical Writer,Occupation,1,2,23,231,2313
+231399,Journalists and Other Writers nec,Occupation,1,2,23,231,2313
+2314,Media Directors and Designers,Unit group,1,2,23,231,2314
+231431,Artistic Director,Occupation,1,2,23,231,2314
+231432,Audio or Live Performance Director,Occupation,1,2,23,231,2314
+231433,Cinematographer,Occupation,1,2,23,231,2314
+231434,Film and Video Editor,Occupation,1,2,23,231,2314
+231435,Production Manager (Screen or Live Performance),Occupation,1,2,23,231,2314
+231436,Screen Director,Occupation,1,2,23,231,2314
+231437,Screen or Live Performance Designer,Occupation,1,2,23,231,2314
+231438,Technical Director,Occupation,1,2,23,231,2314
+231499,Media Directors and Designers nec,Occupation,1,2,23,231,2314
+2315,Media Producers,Unit group,1,2,23,231,2315
+231531,Audio Producer,Occupation,1,2,23,231,2315
+231532,Live Performance Producer,Occupation,1,2,23,231,2315
+231533,Screen Producer,Occupation,1,2,23,231,2315
+2316,Music Professionals,Unit group,1,2,23,231,2316
+231631,Composer,Occupation,1,2,23,231,2316
+231632,Music Director,Occupation,1,2,23,231,2316
+231633,Musician (Instrumental),Occupation,1,2,23,231,2316
+231634,Singer,Occupation,1,2,23,231,2316
+231699,Music Professionals nec,Occupation,1,2,23,231,2316
+2317,Visual Arts and Crafts Professionals,Unit group,1,2,23,231,2317
+231731,Painter (Visual Arts),Occupation,1,2,23,231,2317
+231732,Potter or Ceramic Artist,Occupation,1,2,23,231,2317
+231733,Sculptor,Occupation,1,2,23,231,2317
+231799,Visual Arts and Crafts Professionals nec,Occupation,1,2,23,231,2317
+2319,Other Arts and Media Professionals,Unit group,1,2,23,231,2319
+231931,Community Arts Worker,Occupation,1,2,23,231,2319
+231932,Media Presenter,Occupation,1,2,23,231,2319
+232,Social Professionals,Minor group,1,2,23,232,
+2321,Librarians,Unit group,1,2,23,232,2321
+232131,Librarian,Occupation,1,2,23,232,2321
+2322,Religious Leaders,Unit group,1,2,23,232,2322
+232231,Religious Leader,Occupation,1,2,23,232,2322
+2323,Social Science and Related Professionals,Unit group,1,2,23,232,2323
+232331,Archaeologist,Occupation,1,2,23,232,2323
+232332,Archivist,Occupation,1,2,23,232,2323
+232333,Economist,Occupation,1,2,23,232,2323
+232334,Gallery or Museum Curator,Occupation,1,2,23,232,2323
+232335,Heritage Consultant,Occupation,1,2,23,232,2323
+232336,Historian,Occupation,1,2,23,232,2323
+232399,Social Science and Related Professionals nec,Occupation,1,2,23,232,2323
+24,"Design, Engineering and Science Professionals",Sub-major group,1,2,24,,
+241,"Architects, Planners and Surveyors",Minor group,1,2,24,241,
+2411,"Architects, Landscape Architects and Urban Designers",Unit group,1,2,24,241,2411
+241131,Architect,Occupation,1,2,24,241,2411
+241132,Landscape Architect,Occupation,1,2,24,241,2411
+241133,Urban Designer,Occupation,1,2,24,241,2411
+2412,Geospatial Information Professionals and Surveyors,Unit group,1,2,24,241,2412
+241231,Cartographer,Occupation,1,2,24,241,2412
+241232,Engineering Surveyor,Occupation,1,2,24,241,2412
+241233,Geospatial Specialist,Occupation,1,2,24,241,2412
+241234,Land Surveyor,Occupation,1,2,24,241,2412
+241235,Mine Surveyor,Occupation,1,2,24,241,2412
+241299,Geospatial Information Professionals and Surveyors nec,Occupation,1,2,24,241,2412
+2413,Urban and Regional Planners,Unit group,1,2,24,241,2413
+241331,Urban and Regional Planner,Occupation,1,2,24,241,2413
+2419,"Other Architects, Planners and Surveyors",Unit group,1,2,24,241,2419
+241931,Building Surveyor,Occupation,1,2,24,241,2419
+241932,Quantity Surveyor,Occupation,1,2,24,241,2419
+242,Design Professionals,Minor group,1,2,24,242,
+2421,Digital Designers,Unit group,1,2,24,242,2421
+242131,Multimedia Designer,Occupation,1,2,24,242,2421
+242132,UI / UX Designer,Occupation,1,2,24,242,2421
+242133,Web Designer,Occupation,1,2,24,242,2421
+2422,"Fashion, Industrial, Jewellery and Textile Designers",Unit group,1,2,24,242,2422
+242231,Fashion Designer,Occupation,1,2,24,242,2422
+242232,Industrial Designer,Occupation,1,2,24,242,2422
+242233,Jewellery Designer,Occupation,1,2,24,242,2422
+242234,Textile Designer,Occupation,1,2,24,242,2422
+2423,Graphic and Visual Content Designers,Unit group,1,2,24,242,2423
+242331,Animator or Visual Effects Artist,Occupation,1,2,24,242,2423
+242332,Graphic Designer,Occupation,1,2,24,242,2423
+242333,Illustrator,Occupation,1,2,24,242,2423
+2424,Interior Designers,Unit group,1,2,24,242,2424
+242431,Interior Designer,Occupation,1,2,24,242,2424
+243,Engineering Professionals,Minor group,1,2,24,243,
+2431,Chemical and Materials Engineering Professionals,Unit group,1,2,24,243,2431
+243131,Chemical Engineer,Occupation,1,2,24,243,2431
+243132,Extractive Metallurgist,Occupation,1,2,24,243,2431
+243133,Materials Engineer,Occupation,1,2,24,243,2431
+2432,Civil Engineering Professionals,Unit group,1,2,24,243,2432
+243231,Civil Engineer,Occupation,1,2,24,243,2432
+243232,Geotechnical Engineer,Occupation,1,2,24,243,2432
+243233,Rail Engineer,Occupation,1,2,24,243,2432
+243234,Structural Engineer,Occupation,1,2,24,243,2432
+243235,Transport Engineer,Occupation,1,2,24,243,2432
+243236,Water Engineer,Occupation,1,2,24,243,2432
+2433,Electrical Engineering Professionals,Unit group,1,2,24,243,2433
+243331,Electrical Engineer,Occupation,1,2,24,243,2433
+243332,Rail Signalling Engineer,Occupation,1,2,24,243,2433
+2434,Electronics Engineers,Unit group,1,2,24,243,2434
+243431,Electronics Engineer,Occupation,1,2,24,243,2434
+2435,"Industrial, Mechanical and Production Engineers",Unit group,1,2,24,243,2435
+243531,Industrial Engineer,Occupation,1,2,24,243,2435
+243532,Mechanical Engineer,Occupation,1,2,24,243,2435
+243533,Production or Plant Engineer,Occupation,1,2,24,243,2435
+2436,Mining Engineers,Unit group,1,2,24,243,2436
+243631,Mining Engineer (excluding Petroleum),Occupation,1,2,24,243,2436
+243632,Petroleum Engineer,Occupation,1,2,24,243,2436
+2439,Other Engineering Professionals,Unit group,1,2,24,243,2439
+243931,Acoustic Engineer,Occupation,1,2,24,243,2439
+243932,Aerospace Engineer,Occupation,1,2,24,243,2439
+243933,Biomedical Engineer,Occupation,1,2,24,243,2439
+243934,Engineering Technologist,Occupation,1,2,24,243,2439
+243935,Environmental Engineer,Occupation,1,2,24,243,2439
+243936,Fire Safety Engineer,Occupation,1,2,24,243,2439
+243937,Mechatronics Engineer,Occupation,1,2,24,243,2439
+243938,Naval Architect,Occupation,1,2,24,243,2439
+243999,Engineering Professionals nec,Occupation,1,2,24,243,2439
+244,Natural and Physical Science Professionals,Minor group,1,2,24,244,
+2441,"Agricultural, Fisheries and Forestry Scientists",Unit group,1,2,24,244,2441
+244131,Agricultural Consultant,Occupation,1,2,24,244,2441
+244132,Agricultural Research Scientist,Occupation,1,2,24,244,2441
+244133,Agronomist,Occupation,1,2,24,244,2441
+244134,Aquaculture or Fisheries Scientist,Occupation,1,2,24,244,2441
+244135,Forester,Occupation,1,2,24,244,2441
+2442,"Chemists, and Food and Wine Scientists",Unit group,1,2,24,244,2442
+244231,Chemist,Occupation,1,2,24,244,2442
+244232,Food Technologist,Occupation,1,2,24,244,2442
+244233,Winemaker,Occupation,1,2,24,244,2442
+2443,Environmental Conservation Professionals,Unit group,1,2,24,244,2443
+244331,Aboriginal and Torres Strait Islander Land and Sea Ranger,Occupation,1,2,24,244,2443
+244332,Conservation Officer,Occupation,1,2,24,244,2443
+244333,Ecologist,Occupation,1,2,24,244,2443
+244334,Park Ranger,Occupation,1,2,24,244,2443
+2444,Environmental Consultants and Scientists,Unit group,1,2,24,244,2444
+244431,Environmental Consultant,Occupation,1,2,24,244,2444
+244432,Environmental Research Scientist,Occupation,1,2,24,244,2444
+244499,Environmental Consultants and Scientists nec,Occupation,1,2,24,244,2444
+2445,Geoscientists and Hydrologists,Unit group,1,2,24,244,2445
+244531,Geologist,Occupation,1,2,24,244,2445
+244532,Geophysicist,Occupation,1,2,24,244,2445
+244533,Hydrologist,Occupation,1,2,24,244,2445
+2446,Life Scientists,Unit group,1,2,24,244,2446
+244631,Biotechnologist,Occupation,1,2,24,244,2446
+244632,Botanist,Occupation,1,2,24,244,2446
+244633,Entomologist,Occupation,1,2,24,244,2446
+244634,Marine Biologist,Occupation,1,2,24,244,2446
+244635,Microbiologist,Occupation,1,2,24,244,2446
+244636,Zoologist,Occupation,1,2,24,244,2446
+244699,Life Scientists nec,Occupation,1,2,24,244,2446
+2447,Medical Science Professionals,Unit group,1,2,24,244,2447
+244731,Medical Laboratory Scientist,Occupation,1,2,24,244,2447
+244732,Medical Physicist,Occupation,1,2,24,244,2447
+2449,Other Natural and Physical Science Professionals,Unit group,1,2,24,244,2449
+244931,Conservator,Occupation,1,2,24,244,2449
+244932,Meteorologist,Occupation,1,2,24,244,2449
+244933,Physicist,Occupation,1,2,24,244,2449
+244999,Natural and Physical Science Professionals nec,Occupation,1,2,24,244,2449
+25,Education Professionals,Sub-major group,1,2,25,,
+251,"Early Childhood, School and Specialist Education Teachers",Minor group,1,2,25,251,
+2511,Early Childhood (Pre-primary School) Teachers,Unit group,1,2,25,251,2511
+251131,Early Childhood (Pre-primary School) Teacher,Occupation,1,2,25,251,2511
+2512,Primary School Teachers,Unit group,1,2,25,251,2512
+251231,Primary School Teacher,Occupation,1,2,25,251,2512
+2513,Secondary School Teachers,Unit group,1,2,25,251,2513
+251331,Secondary School Teacher,Occupation,1,2,25,251,2513
+2514,Specialist Education Teachers,Unit group,1,2,25,251,2514
+251431,Special Education Teacher,Occupation,1,2,25,251,2514
+251432,Specialist Teacher (Vision Impairment),Occupation,1,2,25,251,2514
+251433,Teacher of the Deaf,Occupation,1,2,25,251,2514
+2519,"Other Early Childhood, School and Specialist Education Teachers",Unit group,1,2,25,251,2519
+251931,Teacher Librarian,Occupation,1,2,25,251,2519
+252,Tertiary Educators,Minor group,1,2,25,252,
+2521,University Lecturers and Tutors,Unit group,1,2,25,252,2521
+252131,University Lecturer,Occupation,1,2,25,252,2521
+252132,University Tutor,Occupation,1,2,25,252,2521
+2522,Vocational Education Teachers,Unit group,1,2,25,252,2522
+252231,Vocational Education Teacher,Occupation,1,2,25,252,2522
+259,Miscellaneous Education Professionals,Minor group,1,2,25,259,
+2591,Academic Tutors (Private Tuition),Unit group,1,2,25,259,2591
+259131,Academic Tutor (Private Tuition),Occupation,1,2,25,259,2591
+2592,Arts and Personal Enrichment Teachers (Private Tuition),Unit group,1,2,25,259,2592
+259231,Art Teacher (Private Tuition),Occupation,1,2,25,259,2592
+259232,Dance Teacher (Private Tuition),Occupation,1,2,25,259,2592
+259233,Speech and Drama Teacher (Private Tuition),Occupation,1,2,25,259,2592
+259299,Arts and Personal Enrichment Teachers (Private Tuition) nec,Occupation,1,2,25,259,2592
+2593,Education Advisers and Reviewers,Unit group,1,2,25,259,2593
+259331,Education Adviser,Occupation,1,2,25,259,2593
+259332,Education Reviewer,Occupation,1,2,25,259,2593
+2594,Music Teachers (Private Tuition),Unit group,1,2,25,259,2594
+259431,Music Teacher (Private Tuition),Occupation,1,2,25,259,2594
+2595,Teachers of English to Speakers of Other Languages,Unit group,1,2,25,259,2595
+259531,Teacher of English to Speakers of Other Languages,Occupation,1,2,25,259,2595
+2599,Other Education Professionals,Unit group,1,2,25,259,2599
+259931,Adult Literacy / Numeracy Teacher,Occupation,1,2,25,259,2599
+259932,Careers Adviser,Occupation,1,2,25,259,2599
+259933,Student Services Adviser,Occupation,1,2,25,259,2599
+259999,Education Professionals nec,Occupation,1,2,25,259,2599
+26,Health Professionals,Sub-major group,1,2,26,,
+261,"Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals",Minor group,1,2,26,261,
+2611,Counsellors and Psychotherapists,Unit group,1,2,26,261,2611
+261131,Counsellor (General),Occupation,1,2,26,261,2611
+261132,Alcohol and Other Drugs Counsellor,Occupation,1,2,26,261,2611
+261133,Family and Relationship Counsellor,Occupation,1,2,26,261,2611
+261134,Psychotherapist,Occupation,1,2,26,261,2611
+261135,Rehabilitation Counsellor,Occupation,1,2,26,261,2611
+261136,School Counsellor,Occupation,1,2,26,261,2611
+2612,Psychologists,Unit group,1,2,26,261,2612
+261231,Psychologist,Occupation,1,2,26,261,2612
+2613,Social Workers,Unit group,1,2,26,261,2613
+261331,Social Worker,Occupation,1,2,26,261,2613
+2619,"Other Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals",Unit group,1,2,26,261,2619
+261931,Arts Therapist,Occupation,1,2,26,261,2619
+261932,Behaviour Support Practitioner,Occupation,1,2,26,261,2619
+261933,Music Therapist,Occupation,1,2,26,261,2619
+261999,"Allied Health Counselling, Psychology, Social Work and Creative Therapy Professionals nec",Occupation,1,2,26,261,2619
+262,Allied Health Physical and Sensory Therapy Professionals,Minor group,1,2,26,262,
+2621,Chiropractors,Unit group,1,2,26,262,2621
+262131,Chiropractor,Occupation,1,2,26,262,2621
+2622,Exercise Physiologists and Scientists,Unit group,1,2,26,262,2622
+262231,Exercise Physiologist,Occupation,1,2,26,262,2622
+262232,Exercise and Sports Scientist,Occupation,1,2,26,262,2622
+2623,Occupational Therapists,Unit group,1,2,26,262,2623
+262331,Occupational Therapist,Occupation,1,2,26,262,2623
+2624,Physiotherapists,Unit group,1,2,26,262,2624
+262431,Physiotherapist,Occupation,1,2,26,262,2624
+2625,Podiatrists,Unit group,1,2,26,262,2625
+262531,Podiatrist,Occupation,1,2,26,262,2625
+2626,Speech Pathologists,Unit group,1,2,26,262,2626
+262631,Speech Pathologist,Occupation,1,2,26,262,2626
+2629,Other Allied Health Physical and Sensory Therapy Professionals,Unit group,1,2,26,262,2629
+262931,Orthotist / Prosthetist,Occupation,1,2,26,262,2629
+262932,Osteopath,Occupation,1,2,26,262,2629
+262999,Allied Health Physical and Sensory Therapy Professionals nec,Occupation,1,2,26,262,2629
+263,Allied Health Science Professionals,Minor group,1,2,26,263,
+2631,Medical Radiation Practitioners,Unit group,1,2,26,263,2631
+263131,Nuclear Medicine Technologist,Occupation,1,2,26,263,2631
+263132,Radiation Therapist,Occupation,1,2,26,263,2631
+263133,Radiographer,Occupation,1,2,26,263,2631
+2632,Nutrition Professionals,Unit group,1,2,26,263,2632
+263231,Dietitian,Occupation,1,2,26,263,2632
+263232,Nutritionist,Occupation,1,2,26,263,2632
+2633,Optometrists,Unit group,1,2,26,263,2633
+263331,Optometrist,Occupation,1,2,26,263,2633
+2634,Pharmacists,Unit group,1,2,26,263,2634
+263431,Community Pharmacist,Occupation,1,2,26,263,2634
+263432,Hospital Pharmacist,Occupation,1,2,26,263,2634
+2635,Sonographers,Unit group,1,2,26,263,2635
+263531,Sonographer,Occupation,1,2,26,263,2635
+2639,Other Allied Health Science Professionals,Unit group,1,2,26,263,2639
+263931,Audiologist,Occupation,1,2,26,263,2639
+263932,Cardiac Physiologist,Occupation,1,2,26,263,2639
+263933,Diabetes Educator,Occupation,1,2,26,263,2639
+263934,Neurophysiology Scientist,Occupation,1,2,26,263,2639
+263935,Orthoptist,Occupation,1,2,26,263,2639
+263936,Respiratory or Sleep Scientist,Occupation,1,2,26,263,2639
+263999,Allied Health Science Professionals nec,Occupation,1,2,26,263,2639
+264,Medical Practitioners,Minor group,1,2,26,264,
+2641,Anaesthetists,Unit group,1,2,26,264,2641
+264131,Anaesthetist,Occupation,1,2,26,264,2641
+2642,General Practitioners,Unit group,1,2,26,264,2642
+264231,General Practitioner,Occupation,1,2,26,264,2642
+2643,Physicians,Unit group,1,2,26,264,2643
+264331,General Medicine Physician,Occupation,1,2,26,264,2643
+264332,Cardiologist,Occupation,1,2,26,264,2643
+264333,Endocrinologist,Occupation,1,2,26,264,2643
+264334,Gastroenterologist,Occupation,1,2,26,264,2643
+264335,Geriatrician,Occupation,1,2,26,264,2643
+264336,Haematologist,Occupation,1,2,26,264,2643
+264337,Intensive Care Specialist,Occupation,1,2,26,264,2643
+264338,Medical Oncologist,Occupation,1,2,26,264,2643
+264341,Nephrologist,Occupation,1,2,26,264,2643
+264342,Neurologist,Occupation,1,2,26,264,2643
+264343,Paediatrician,Occupation,1,2,26,264,2643
+264344,Public Health Physician,Occupation,1,2,26,264,2643
+264345,Respiratory Physician,Occupation,1,2,26,264,2643
+264346,Rheumatologist,Occupation,1,2,26,264,2643
+264399,Physicians nec,Occupation,1,2,26,264,2643
+2644,Psychiatrists,Unit group,1,2,26,264,2644
+264431,Psychiatrist,Occupation,1,2,26,264,2644
+2645,Resident Medical Officers,Unit group,1,2,26,264,2645
+264531,Resident Medical Officer,Occupation,1,2,26,264,2645
+2646,Surgeons,Unit group,1,2,26,264,2646
+264631,General Surgeon,Occupation,1,2,26,264,2646
+264632,Cardiothoracic Surgeon,Occupation,1,2,26,264,2646
+264633,Neurosurgeon,Occupation,1,2,26,264,2646
+264634,Orthopaedic Surgeon,Occupation,1,2,26,264,2646
+264635,Otolaryngologist,Occupation,1,2,26,264,2646
+264636,Paediatric Surgeon,Occupation,1,2,26,264,2646
+264637,Plastic and Reconstructive Surgeon,Occupation,1,2,26,264,2646
+264638,Urologist,Occupation,1,2,26,264,2646
+264641,Vascular Surgeon,Occupation,1,2,26,264,2646
+2649,Other Medical Practitioners,Unit group,1,2,26,264,2649
+264931,Dermatologist,Occupation,1,2,26,264,2649
+264932,Emergency Medicine Specialist,Occupation,1,2,26,264,2649
+264933,Obstetrician and Gynaecologist,Occupation,1,2,26,264,2649
+264934,Ophthalmologist,Occupation,1,2,26,264,2649
+264935,Pathologist,Occupation,1,2,26,264,2649
+264936,Radiation Oncologist,Occupation,1,2,26,264,2649
+264937,Radiologist,Occupation,1,2,26,264,2649
+264999,Medical Practitioners nec,Occupation,1,2,26,264,2649
+265,Midwifery and Nursing Professionals,Minor group,1,2,26,265,
+2651,Midwives,Unit group,1,2,26,265,2651
+265131,Midwife,Occupation,1,2,26,265,2651
+2652,Nurse Educators and Researchers,Unit group,1,2,26,265,2652
+265231,Nurse Educator,Occupation,1,2,26,265,2652
+265232,Nurse Researcher,Occupation,1,2,26,265,2652
+2653,Nursing and Midwifery Unit Managers,Unit group,1,2,26,265,2653
+265331,Nursing / Midwifery Unit Manager,Occupation,1,2,26,265,2653
+2654,Registered Nurses,Unit group,1,2,26,265,2654
+265431,Nurse Practitioner,Occupation,1,2,26,265,2654
+265432,Registered Nurse (Acute Care),Occupation,1,2,26,265,2654
+265433,Registered Nurse (Aged Care),Occupation,1,2,26,265,2654
+265434,Registered Nurse (Mental Health),Occupation,1,2,26,265,2654
+265435,Registered Nurse (Primary Health Care),Occupation,1,2,26,265,2654
+265499,Registered Nurses nec,Occupation,1,2,26,265,2654
+269,Miscellaneous Health Professionals,Minor group,1,2,26,269,
+2691,"Dental Hygienists, Prosthetists and Therapists",Unit group,1,2,26,269,2691
+269131,Dental Hygienist,Occupation,1,2,26,269,2691
+269132,Dental Prosthetist,Occupation,1,2,26,269,2691
+269133,Oral Health Therapist or Dental Therapist,Occupation,1,2,26,269,2691
+2692,Dentists and Dental Specialists,Unit group,1,2,26,269,2692
+269231,Dental Specialist,Occupation,1,2,26,269,2692
+269232,Dentist,Occupation,1,2,26,269,2692
+2693,Environmental Health and Health Promotion Officers,Unit group,1,2,26,269,2693
+269331,Environmental Health Officer,Occupation,1,2,26,269,2693
+269332,Health Promotion Officer,Occupation,1,2,26,269,2693
+2694,Paramedic Professionals,Unit group,1,2,26,269,2694
+269431,Critical Care Paramedic,Occupation,1,2,26,269,2694
+269432,Paramedic,Occupation,1,2,26,269,2694
+2695,Veterinarians and Veterinary Technologists,Unit group,1,2,26,269,2695
+269531,Veterinarian,Occupation,1,2,26,269,2695
+269532,Veterinary Technologist,Occupation,1,2,26,269,2695
+2699,Other Health Professionals,Unit group,1,2,26,269,2699
+269931,Acupuncturist,Occupation,1,2,26,269,2699
+269932,Chinese Medicine Practitioner,Occupation,1,2,26,269,2699
+269933,Naturopath,Occupation,1,2,26,269,2699
+269999,Health Professionals nec,Occupation,1,2,26,269,2699
+27,ICT Professionals,Sub-major group,1,2,27,,
+271,Cyber Security Professionals and Database and Systems Administrators,Minor group,1,2,27,271,
+2711,Cyber Security Professionals,Unit group,1,2,27,271,2711
+271131,Cyber Governance Risk and Compliance Specialist,Occupation,1,2,27,271,2711
+271132,Cyber Security Advice and Assessment Specialist,Occupation,1,2,27,271,2711
+271133,Cyber Security Analyst,Occupation,1,2,27,271,2711
+271134,Cyber Security Architect,Occupation,1,2,27,271,2711
+271135,Cyber Security Engineer,Occupation,1,2,27,271,2711
+271136,Cyber Security Operations Coordinator,Occupation,1,2,27,271,2711
+271137,Penetration Tester,Occupation,1,2,27,271,2711
+2712,Database and Systems Administrators,Unit group,1,2,27,271,2712
+271231,Database Administrator,Occupation,1,2,27,271,2712
+271232,Systems Administrator,Occupation,1,2,27,271,2712
+272,ICT Network and Testing Professionals,Minor group,1,2,27,272,
+2721,ICT Network Professionals,Unit group,1,2,27,272,2721
+272131,ICT Network and Systems Engineer,Occupation,1,2,27,272,2721
+272132,Network Administrator,Occupation,1,2,27,272,2721
+272133,Network Architect,Occupation,1,2,27,272,2721
+2722,ICT Quality Engineers and Test Analysts,Unit group,1,2,27,272,2722
+272231,ICT Quality Assurance Engineer,Occupation,1,2,27,272,2722
+272232,ICT Support Engineer,Occupation,1,2,27,272,2722
+272233,ICT Test Analyst,Occupation,1,2,27,272,2722
+2723,Telecommunications Engineers,Unit group,1,2,27,272,2723
+272331,Telecommunications Engineer,Occupation,1,2,27,272,2723
+273,"ICT Programmers, Analysts, Architects and Engineers",Minor group,1,2,27,273,
+2731,Digital Game and Web Developers,Unit group,1,2,27,273,2731
+273131,Digital Game Developer,Occupation,1,2,27,273,2731
+273132,Web Developer,Occupation,1,2,27,273,2731
+2732,ICT Business and Systems Analysts and Architects,Unit group,1,2,27,273,2732
+273231,Cloud Architect,Occupation,1,2,27,273,2732
+273232,ICT Business Analyst,Occupation,1,2,27,273,2732
+273233,Solution Architect,Occupation,1,2,27,273,2732
+273234,Systems Analyst,Occupation,1,2,27,273,2732
+2733,Software and Applications Engineers,Unit group,1,2,27,273,2733
+273331,Cloud Engineer,Occupation,1,2,27,273,2733
+273332,DevOps Engineer,Occupation,1,2,27,273,2733
+273333,Software Engineer,Occupation,1,2,27,273,2733
+28,Legal Professionals,Sub-major group,1,2,28,,
+281,Legal Professionals,Minor group,1,2,28,281,
+2811,Barristers,Unit group,1,2,28,281,2811
+281131,Barrister,Occupation,1,2,28,281,2811
+2812,Judicial and Other Legal Professionals,Unit group,1,2,28,281,2812
+281231,Family Dispute Resolution Practitioner,Occupation,1,2,28,281,2812
+281232,Intellectual Property Lawyer,Occupation,1,2,28,281,2812
+281233,Judge,Occupation,1,2,28,281,2812
+281234,Judge's Associate,Occupation,1,2,28,281,2812
+281235,Magistrate,Occupation,1,2,28,281,2812
+281236,Migration Agent,Occupation,1,2,28,281,2812
+281237,Police Prosecutor,Occupation,1,2,28,281,2812
+281238,Tribunal Member,Occupation,1,2,28,281,2812
+281299,Judicial and Other Legal Professionals nec,Occupation,1,2,28,281,2812
+2813,Solicitors,Unit group,1,2,28,281,2813
+281331,Solicitor,Occupation,1,2,28,281,2813
+29,Other Professionals,Sub-major group,1,2,29,,
+299,Miscellaneous Professionals,Minor group,1,2,29,299,
+2991,Air Transport Professionals,Unit group,1,2,29,299,2991
+299131,Aeroplane Pilot,Occupation,1,2,29,299,2991
+299132,Air Traffic Controller,Occupation,1,2,29,299,2991
+299133,Flight Instructor,Occupation,1,2,29,299,2991
+299134,Helicopter Pilot,Occupation,1,2,29,299,2991
+299199,Air Transport Professionals nec,Occupation,1,2,29,299,2991
+2992,Specialist Police Officers,Unit group,1,2,29,299,2992
+299231,Specialist Police Officer,Occupation,1,2,29,299,2992
+3,Technicians and Trades Workers,Major group,2; 3,3,,,
+31,"Building, Engineering, ICT and Scientific Technicians",Sub-major group,2; 3,3,31,,
+311,"Agricultural, Health and Science Technicians",Minor group,2; 3,3,31,311,
+3111,Agricultural Technicians and Inspection Officers,Unit group,2; 3,3,31,311,3111
+311131,Agricultural and Agritech Technician,Occupation,2,3,31,311,3111
+311132,Animal Husbandry Technician,Occupation,2,3,31,311,3111
+311133,Aquaculture or Fisheries Technician,Occupation,2,3,31,311,3111
+311134,Biosecurity Officer,Occupation,2,3,31,311,3111
+311135,Fisheries Officer,Occupation,2,3,31,311,3111
+311136,Irrigation Designer,Occupation,2,3,31,311,3111
+311137,Meat Inspector,Occupation,3,3,31,311,3111
+311138,Primary Products Quality Assurance Officer,Occupation,2,3,31,311,3111
+311199,Agricultural Technicians and Inspection Officers nec,Occupation,2,3,31,311,3111
+3112,Medical and Dental Technicians,Unit group,2; 3,3,31,311,3112
+311231,Anaesthetic Technician,Occupation,2,3,31,311,3112
+311232,Dental Technician,Occupation,2,3,31,311,3112
+311233,Medical Laboratory Technician,Occupation,2,3,31,311,3112
+311234,Operating Theatre Technician,Occupation,3,3,31,311,3112
+311235,Respiratory Technician,Occupation,2,3,31,311,3112
+311299,Medical and Dental Technicians nec,Occupation,2,3,31,311,3112
+3113,Pharmacy Technicians,Unit group,3,3,31,311,3113
+311331,Community Pharmacy Technician,Occupation,3,3,31,311,3113
+311332,Hospital Pharmacy Technician,Occupation,3,3,31,311,3113
+3114,Phlebotomists,Unit group,3,3,31,311,3114
+311431,Phlebotomist,Occupation,3,3,31,311,3114
+3115,Science Technicians,Unit group,2,3,31,311,3115
+311531,Chemical Technician,Occupation,2,3,31,311,3115
+311532,Earth Science Technician,Occupation,2,3,31,311,3115
+311533,Geospatial Technician,Occupation,2,3,31,311,3115
+311534,Hydrographer,Occupation,2,3,31,311,3115
+311535,Life Science Technician,Occupation,2,3,31,311,3115
+311536,School Laboratory Technician,Occupation,2,3,31,311,3115
+311599,Science Technicians nec,Occupation,2,3,31,311,3115
+312,Building and Construction Technicians,Minor group,2; 3,3,31,312,
+3121,Building and Landscape Designers and Technicians,Unit group,2,3,31,312,3121
+312131,Architectural Technician,Occupation,2,3,31,312,3121
+312132,Building Designer,Occupation,2,3,31,312,3121
+312133,Detailer Drafter,Occupation,2,3,31,312,3121
+312134,Landscape Designer,Occupation,2,3,31,312,3121
+312135,Surveying Technician,Occupation,2,3,31,312,3121
+312199,Building and Landscape Designers and Technicians nec,Occupation,2,3,31,312,3121
+3122,Construction and Safety Inspectors,Unit group,2; 3,3,31,312,3122
+312231,Building Inspector,Occupation,2,3,31,312,3122
+312232,Energy Assessor,Occupation,3,3,31,312,3122
+312233,Plumbing Inspector,Occupation,2,3,31,312,3122
+312234,Safety Inspector,Occupation,2,3,31,312,3122
+3123,Construction Estimators,Unit group,2,3,31,312,3123
+312331,Construction Estimator,Occupation,2,3,31,312,3123
+3124,Construction Supervisors,Unit group,2; 3,3,31,312,3124
+312431,Civil Construction Leading Hand,Occupation,3,3,31,312,3124
+312432,Construction Site Supervisor,Occupation,2,3,31,312,3124
+313,Engineering Technicians,Minor group,2,3,31,313,
+3131,Civil Engineering Draftspersons and Technicians,Unit group,2,3,31,313,3131
+313131,Civil Engineering Draftsperson,Occupation,2,3,31,313,3131
+313132,Civil Engineering Technician,Occupation,2,3,31,313,3131
+3132,Electrical Engineering Draftspersons and Technicians,Unit group,2,3,31,313,3132
+313231,Electrical Engineering Draftsperson,Occupation,2,3,31,313,3132
+313232,Electrical Engineering Technician,Occupation,2,3,31,313,3132
+3133,Maintenance Planners,Unit group,2,3,31,313,3133
+313331,Maintenance Planner,Occupation,2,3,31,313,3133
+3134,"Marine Transport Masters, Officers and Technicians",Unit group,2,3,31,313,3134
+313431,Marine Engineer,Occupation,2,3,31,313,3134
+313432,Marine Pilot,Occupation,2,3,31,313,3134
+313433,Marine Surveyor,Occupation,2,3,31,313,3134
+313434,Master Fisher,Occupation,2,3,31,313,3134
+313435,Ship's Master,Occupation,2,3,31,313,3134
+313436,Ship's Officer,Occupation,2,3,31,313,3134
+313499,"Marine Transport Masters, Officers and Technicians nec",Occupation,2,3,31,313,3134
+3135,Mining Supervisors,Unit group,2,3,31,313,3135
+313531,Mining Supervisor,Occupation,2,3,31,313,3135
+3139,Other Engineering Technicians,Unit group,2,3,31,313,3139
+313931,Biomedical Technician,Occupation,2,3,31,313,3139
+313932,Electronic Engineering Technician,Occupation,2,3,31,313,3139
+313933,Mechanical Engineering Draftsperson,Occupation,2,3,31,313,3139
+313934,Mechanical Engineering Technician,Occupation,2,3,31,313,3139
+313935,Metallurgical or Materials Technician,Occupation,2,3,31,313,3139
+313936,Non-destructive Testing Technician,Occupation,2,3,31,313,3139
+313937,Other Draftsperson,Occupation,2,3,31,313,3139
+313999,Engineering Technicians nec,Occupation,2,3,31,313,3139
+314,ICT and Telecommunications Technicians and Support Officers,Minor group,2,3,31,314,
+3141,ICT and Telecommunications Technicians,Unit group,2,3,31,314,3141
+314131,ICT Hardware Technician,Occupation,2,3,31,314,3141
+314132,Radiocommunications Technician,Occupation,2,3,31,314,3141
+314133,Telecommunications Field Engineer,Occupation,2,3,31,314,3141
+314134,Telecommunications Network Designer,Occupation,2,3,31,314,3141
+314135,Telecommunications Technical Officer or Technologist,Occupation,2,3,31,314,3141
+314136,Web Administrator,Occupation,2,3,31,314,3141
+314199,ICT and Telecommunications Technicians nec,Occupation,2,3,31,314,3141
+3142,ICT Customer Support Officers,Unit group,2,3,31,314,3142
+314231,ICT Customer Support Officer,Occupation,2,3,31,314,3142
+32,Chefs and Food Trades Workers,Sub-major group,2; 3,3,32,,
+321,Chefs,Minor group,2,3,32,321,
+3211,Chefs,Unit group,2,3,32,321,3211
+321131,Chef,Occupation,2,3,32,321,3211
+322,Food Trades Workers,Minor group,3,3,32,322,
+3221,Bakers,Unit group,3,3,32,322,3221
+322131,Baker,Occupation,3,3,32,322,3221
+3222,Butchers and Smallgoods Makers,Unit group,3,3,32,322,3222
+322231,Butcher or Smallgoods Maker,Occupation,3,3,32,322,3222
+3223,Cooks,Unit group,3,3,32,322,3223
+322331,Cook,Occupation,3,3,32,322,3223
+3224,Pastrycooks,Unit group,3,3,32,322,3224
+322431,Pastrycook,Occupation,3,3,32,322,3224
+33,Engineering Trades Workers,Sub-major group,2; 3,3,33,,
+331,Fabrication Engineering Trades Workers,Minor group,3,3,33,331,
+3311,Structural Steel and Welding Trades Workers,Unit group,3,3,33,331,3311
+331131,Metal Fabricator,Occupation,3,3,33,331,3311
+331132,Pressure Welder,Occupation,3,3,33,331,3311
+331133,Welder (First Class),Occupation,3,3,33,331,3311
+3319,Other Fabrication Engineering Trades Workers,Unit group,3,3,33,331,3319
+331931,Blacksmith,Occupation,3,3,33,331,3319
+331932,Electroplater,Occupation,3,3,33,331,3319
+331933,Farrier,Occupation,3,3,33,331,3319
+331934,Metal Casting Trades Worker,Occupation,3,3,33,331,3319
+331935,Metal Polisher,Occupation,3,3,33,331,3319
+331936,Sheetmetal Worker,Occupation,3,3,33,331,3319
+332,Mechanical Engineering Trades Workers,Minor group,2; 3,3,33,332,
+3321,Aircraft Maintenance Technicians,Unit group,2; 3,3,33,332,3321
+332131,Aircraft Maintenance Technician (Avionics),Occupation,3,3,33,332,3321
+332132,Aircraft Maintenance Technician (Mechanical),Occupation,3,3,33,332,3321
+332133,Aircraft Maintenance Technician (Structures),Occupation,3,3,33,332,3321
+332134,Licensed Aircraft Maintenance Engineer,Occupation,2,3,33,332,3321
+3322,Metal Fitters and Machinists,Unit group,3,3,33,332,3322
+332231,Fitter (General),Occupation,3,3,33,332,3322
+332232,Fitter and Turner,Occupation,3,3,33,332,3322
+332233,Fitter-Welder,Occupation,3,3,33,332,3322
+332234,Metal Machinist (First Class),Occupation,3,3,33,332,3322
+332299,Metal Fitters and Machinists nec,Occupation,3,3,33,332,3322
+3323,Precision Engineering Trades Workers,Unit group,3,3,33,332,3323
+332331,Engineering Patternmaker,Occupation,3,3,33,332,3323
+332332,Engraver,Occupation,3,3,33,332,3323
+332333,Gunsmith,Occupation,3,3,33,332,3323
+332334,Locksmith,Occupation,3,3,33,332,3323
+332335,Precision Instrument Maker and Repairer,Occupation,3,3,33,332,3323
+332336,Saw Technician,Occupation,3,3,33,332,3323
+332337,Toolmaker,Occupation,3,3,33,332,3323
+332338,Watch and Clock Maker and Repairer,Occupation,3,3,33,332,3323
+34,"Skilled Animal, Agricultural and Horticultural Workers",Sub-major group,2; 3,3,34,,
+341,"Animal Trainers and Zookeepers, and Veterinary Nurses",Minor group,3,3,34,341,
+3411,Animal Trainers and Zookeepers,Unit group,3,3,34,341,3411
+341131,Dog Handler or Trainer,Occupation,3,3,34,341,3411
+341132,Horse Trainer,Occupation,3,3,34,341,3411
+341133,Track Rider,Occupation,3,3,34,341,3411
+341134,Zookeeper,Occupation,3,3,34,341,3411
+341199,Animal Trainers and Zookeepers nec,Occupation,3,3,34,341,3411
+3412,Veterinary Nurses,Unit group,3,3,34,341,3412
+341231,Veterinary Nurse,Occupation,3,3,34,341,3412
+342,Horticultural Trades Workers,Minor group,2; 3,3,34,342,
+3421,Gardeners (General),Unit group,3,3,34,342,3421
+342131,Gardener (General),Occupation,3,3,34,342,3421
+3422,Arboriculture Workers,Unit group,2; 3,3,34,342,3422
+342231,Arborist,Occupation,2,3,34,342,3422
+342232,Tree Worker,Occupation,3,3,34,342,3422
+3423,Florists,Unit group,3,3,34,342,3423
+342331,Florist,Occupation,3,3,34,342,3423
+3424,Irrigation Technicians and Landscape Gardeners,Unit group,3,3,34,342,3424
+342431,Irrigation Technician,Occupation,3,3,34,342,3424
+342432,Landscape Gardener,Occupation,3,3,34,342,3424
+3425,Sports Turf Managers and Trades Workers,Unit group,2; 3,3,34,342,3425
+342531,Sports Turf Manager,Occupation,2,3,34,342,3425
+342532,Sports Turf Trades Worker,Occupation,3,3,34,342,3425
+3429,Other Horticultural Trades Workers,Unit group,3,3,34,342,3429
+342931,Nurseryperson,Occupation,3,3,34,342,3429
+343,Primary Production Supervisors and Specialists,Minor group,3,3,34,343,
+3431,"Senior Aquaculture, Crop and Forestry Workers",Unit group,3,3,34,343,3431
+343131,Aquaculture Supervisor,Occupation,3,3,34,343,3431
+343132,Fishing Leading Hand,Occupation,3,3,34,343,3431
+343133,Forestry Operations Supervisor,Occupation,3,3,34,343,3431
+343134,Horticultural Supervisor or Specialist,Occupation,3,3,34,343,3431
+343135,Senior Broadacre Crop and Livestock Farm Worker,Occupation,3,3,34,343,3431
+343136,Senior Broadacre Crop Farm Worker,Occupation,3,3,34,343,3431
+343137,Vineyard Supervisor,Occupation,3,3,34,343,3431
+343199,"Senior Aquaculture, Crop and Forestry Workers nec",Occupation,3,3,34,343,3431
+3432,Senior Livestock Farm Workers,Unit group,3,3,34,343,3432
+343231,Senior Beef Cattle Station Worker,Occupation,3,3,34,343,3432
+343232,Senior Cattle and Sheep Farm Worker,Occupation,3,3,34,343,3432
+343233,Senior Dairy Cattle Farm Worker,Occupation,3,3,34,343,3432
+343234,Senior Horse Stable or Stud Worker,Occupation,3,3,34,343,3432
+343235,Senior Piggery Stockperson,Occupation,3,3,34,343,3432
+343236,Senior Sheep Farm Worker,Occupation,3,3,34,343,3432
+343299,Senior Livestock Farm Workers nec,Occupation,3,3,34,343,3432
+3433,Shearers and Wool Classers,Unit group,3,3,34,343,3433
+343331,Shearer,Occupation,3,3,34,343,3433
+343332,Wool Classer,Occupation,3,3,34,343,3433
+35,Automotive Technicians and Trades Workers,Sub-major group,3,3,35,,
+351,Automotive Technicians and Trades Workers,Minor group,3,3,35,351,
+3511,Automotive Technicians (General),Unit group,3,3,35,351,3511
+351131,Automotive Technician (General),Occupation,3,3,35,351,3511
+3512,Automotive Electricians,Unit group,3,3,35,351,3512
+351231,Automotive Electrician,Occupation,3,3,35,351,3512
+3513,Panelbeaters,Unit group,3,3,35,351,3513
+351331,Panelbeater,Occupation,3,3,35,351,3513
+3514,Specialist Automotive Technicians,Unit group,3,3,35,351,3514
+351431,Agricultural Mechanic,Occupation,3,3,35,351,3514
+351432,Bicycle Technician,Occupation,3,3,35,351,3514
+351433,Diesel Technician,Occupation,3,3,35,351,3514
+351434,Electric Vehicle Technician,Occupation,3,3,35,351,3514
+351435,Marine Technician,Occupation,3,3,35,351,3514
+351436,Motorcycle Technician,Occupation,3,3,35,351,3514
+351437,Small Engine Technician,Occupation,3,3,35,351,3514
+3515,Vehicle Body Builders and Trimmers,Unit group,3,3,35,351,3515
+351531,Vehicle Body Builder,Occupation,3,3,35,351,3515
+351532,Vehicle Trimmer,Occupation,3,3,35,351,3515
+3516,Vehicle Painters,Unit group,3,3,35,351,3516
+351631,Vehicle Painter,Occupation,3,3,35,351,3516
+36,Building Completion and Related Trades Workers,Sub-major group,3,3,36,,
+361,Floor Finishers and Painters,Minor group,3,3,36,361,
+3611,Floor Finishers,Unit group,3,3,36,361,3611
+361131,Floor Finisher,Occupation,3,3,36,361,3611
+3612,Painters,Unit group,3,3,36,361,3612
+361231,Painter,Occupation,3,3,36,361,3612
+362,"Glaziers, Plasterers and Tilers",Minor group,3,3,36,362,
+3621,Glaziers,Unit group,3,3,36,362,3621
+362131,Glazier,Occupation,3,3,36,362,3621
+3622,Plasterers and Renderers,Unit group,3,3,36,362,3622
+362231,Plasterer (Wall and Ceiling),Occupation,3,3,36,362,3622
+362232,Renderer (Solid Plaster),Occupation,3,3,36,362,3622
+3623,Roof Tilers,Unit group,3,3,36,362,3623
+362331,Roof Tiler,Occupation,3,3,36,362,3623
+3624,Wall and Floor Tilers,Unit group,3,3,36,362,3624
+362431,Wall and Floor Tiler,Occupation,3,3,36,362,3624
+363,Plumbers,Minor group,3,3,36,363,
+3631,Plumbers (General),Unit group,3,3,36,363,3631
+363131,Plumber (General),Occupation,3,3,36,363,3631
+3632,Gasfitters,Unit group,3,3,36,363,3632
+363231,Gasfitter,Occupation,3,3,36,363,3632
+3633,Roof Plumbers,Unit group,3,3,36,363,3633
+363331,Roof Plumber,Occupation,3,3,36,363,3633
+3639,Other Plumbers,Unit group,3,3,36,363,3639
+363931,Drainer,Occupation,3,3,36,363,3639
+363932,Fire Protection Plumber,Occupation,3,3,36,363,3639
+363933,Mechanical Services Plumber,Occupation,3,3,36,363,3639
+369,Miscellaneous Building Completion and Related Trades Workers,Minor group,3,3,36,369,
+3691,Cabinet Makers,Unit group,3,3,36,369,3691
+369131,Cabinet Maker,Occupation,3,3,36,369,3691
+3699,Other Building Completion and Related Trades Workers,Unit group,3,3,36,369,3699
+369931,Shopfitter,Occupation,3,3,36,369,3699
+369932,Swimming Pool and Spa Builder,Occupation,3,3,36,369,3699
+369933,Waterproofer,Occupation,3,3,36,369,3699
+37,Building Structural Trades Workers,Sub-major group,3,3,37,,
+371,"Bricklayers, Stonemasons and Concreters",Minor group,3,3,37,371,
+3711,Bricklayers and Stonemasons,Unit group,3,3,37,371,3711
+371131,Bricklayer,Occupation,3,3,37,371,3711
+371132,Stonemason,Occupation,3,3,37,371,3711
+3712,Concreters,Unit group,3,3,37,371,3712
+371231,Concreter,Occupation,3,3,37,371,3712
+372,Carpenters and Joiners,Minor group,3,3,37,372,
+3721,Carpenters and Joiners,Unit group,3,3,37,372,3721
+372131,Carpenter and Joiner,Occupation,3,3,37,372,3721
+372132,Carpenter,Occupation,3,3,37,372,3721
+372133,Joiner,Occupation,3,3,37,372,3721
+38,Electrotechnology and Telecommunications Trades Workers,Sub-major group,3,3,38,,
+381,Electrical Trades Workers,Minor group,3,3,38,381,
+3811,Electrical Distribution Trades Workers,Unit group,3,3,38,381,3811
+381131,Electrical Distribution Trades Worker,Occupation,3,3,38,381,3811
+3812,Electricians,Unit group,3,3,38,381,3812
+381231,Electrician (General),Occupation,3,3,38,381,3812
+381232,Electrical Fitter,Occupation,3,3,38,381,3812
+381233,Industrial Electrician,Occupation,3,3,38,381,3812
+381234,Lift Mechanic,Occupation,3,3,38,381,3812
+382,Electronics and Telecommunications Trades Workers,Minor group,3,3,38,382,
+3821,Air Conditioning and Refrigeration Technicians,Unit group,3,3,38,382,3821
+382131,Air Conditioning and Refrigeration Technician,Occupation,3,3,38,382,3821
+3822,Electronics Trades Workers,Unit group,3,3,38,382,3822
+382231,Communications Operator,Occupation,3,3,38,382,3822
+382232,Electronic Equipment Trades Worker,Occupation,3,3,38,382,3822
+382233,Electronic Instrument Technician,Occupation,3,3,38,382,3822
+382234,Office Equipment Technician,Occupation,3,3,38,382,3822
+3823,Telecommunications Trades Workers,Unit group,3,3,38,382,3823
+382331,Cabler (Data and Telecommunications),Occupation,3,3,38,382,3823
+382332,Telecommunications Cable Technician,Occupation,3,3,38,382,3823
+382333,Telecommunications Linesworker,Occupation,3,3,38,382,3823
+382334,Telecommunications Technician,Occupation,3,3,38,382,3823
+39,Other Technicians and Trades Workers,Sub-major group,2; 3,3,39,,
+391,Artistic and Cultural Technicians and Trades Workers,Minor group,2; 3,3,39,391,
+3911,"Gallery, Library and Museum Technicians",Unit group,2,3,39,391,3911
+391131,Gallery or Museum Technician,Occupation,2,3,39,391,3911
+391132,Library Technician,Occupation,2,3,39,391,3911
+3912,Performing Arts Technicians,Unit group,3,3,39,391,3912
+391231,Audio Engineer,Occupation,3,3,39,391,3912
+391232,Broadcast Technician,Occupation,3,3,39,391,3912
+391233,"Camera Operator (Film, Television or Video)",Occupation,3,3,39,391,3912
+391234,Lighting Technician,Occupation,3,3,39,391,3912
+391299,Performing Arts Technicians nec,Occupation,3,3,39,391,3912
+3913,Photographers,Unit group,2,3,39,391,3913
+391331,Photographer,Occupation,2,3,39,391,3913
+3914,Printing Trades Workers,Unit group,3,3,39,391,3914
+391431,Graphic Pre-press Operator,Occupation,3,3,39,391,3914
+391432,Print Finisher,Occupation,3,3,39,391,3914
+391433,Printing Machinist,Occupation,3,3,39,391,3914
+391434,Screen Printer,Occupation,3,3,39,391,3914
+3915,Signwriters,Unit group,3,3,39,391,3915
+391531,Signwriter,Occupation,3,3,39,391,3915
+3919,Other Artistic and Cultural Technicians and Trades Workers,Unit group,2; 3,3,39,391,3919
+391931,Interior Decorator,Occupation,2,3,39,391,3919
+391932,Jeweller,Occupation,3,3,39,391,3919
+391933,Musical Instrument Maker or Repairer,Occupation,3,3,39,391,3919
+392,Barbers and Hairdressers,Minor group,3,3,39,392,
+3921,Barbers and Hairdressers,Unit group,3,3,39,392,3921
+392131,Barber,Occupation,3,3,39,392,3921
+392132,Hairdresser,Occupation,3,3,39,392,3921
+399,Miscellaneous Technicians and Trades Workers,Minor group,3,3,39,399,
+3991,"Chemical, Gas, Petroleum and Power Generation Plant Technicians",Unit group,3,3,39,399,3991
+399131,Chemical Plant Operator,Occupation,3,3,39,399,3991
+399132,Gas or Petroleum Production Technician,Occupation,3,3,39,399,3991
+399133,Power Generation Plant Operator,Occupation,3,3,39,399,3991
+3992,Drillers,Unit group,3,3,39,399,3992
+399231,Driller,Occupation,3,3,39,399,3992
+3993,Pest Control Technicians,Unit group,3,3,39,399,3993
+399331,Pest Control Technician,Occupation,3,3,39,399,3993
+3994,"Textile, Clothing and Footwear Trades Workers",Unit group,3,3,39,399,3994
+399431,Apparel Cutter,Occupation,3,3,39,399,3994
+399432,Canvas Goods Fabricator,Occupation,3,3,39,399,3994
+399433,Dressmaker or Tailor,Occupation,3,3,39,399,3994
+399434,Garment Technician,Occupation,3,3,39,399,3994
+399435,Leather Goods Maker,Occupation,3,3,39,399,3994
+399436,Sail Maker,Occupation,3,3,39,399,3994
+399437,Shoemaker,Occupation,3,3,39,399,3994
+399438,Upholsterer,Occupation,3,3,39,399,3994
+3995,Wood Machinists and Other Wood Trades Workers,Unit group,3,3,39,399,3995
+399531,Furniture Finisher,Occupation,3,3,39,399,3995
+399532,Furniture Maker,Occupation,3,3,39,399,3995
+399533,Picture Framer,Occupation,3,3,39,399,3995
+399534,Wood Machinist,Occupation,3,3,39,399,3995
+399599,Wood Machinists and Other Wood Trades Workers nec,Occupation,3,3,39,399,3995
+3999,Other Miscellaneous Technicians and Trades Workers,Unit group,3,3,39,399,3999
+399931,Boat Builder and Repairer,Occupation,3,3,39,399,3999
+399932,Diver,Occupation,3,3,39,399,3999
+399933,Fire Protection Equipment Technician,Occupation,3,3,39,399,3999
+399934,Gas Network Technician,Occupation,3,3,39,399,3999
+399935,Optical Mechanic,Occupation,3,3,39,399,3999
+399936,Plastics Technician,Occupation,3,3,39,399,3999
+399937,Railway Network Controller,Occupation,3,3,39,399,3999
+399938,Shipwright,Occupation,3,3,39,399,3999
+399999,Technicians and Trades Workers nec,Occupation,3,3,39,399,3999
+4,Community and Personal Service Workers,Major group,2; 3; 4; 5,4,,,
+41,Community and Welfare Support Workers,Sub-major group,2; 3,4,41,,
+411,Community and Welfare Support Workers,Minor group,2; 3,4,41,411,
+4111,Child Protection and Family Violence Practitioners,Unit group,2,4,41,411,4111
+411131,Child Protection Practitioner,Occupation,2,4,41,411,4111
+411132,Family Violence Practitioner,Occupation,2,4,41,411,4111
+4112,Community Development and Support Workers,Unit group,2,4,41,411,4112
+411231,Community Development Officer,Occupation,2,4,41,411,4112
+411232,Community Support Worker,Occupation,2,4,41,411,4112
+4113,"Diversional Therapists, and Lifestyle Coordinators and Officers",Unit group,2; 3,4,41,411,4113
+411331,Diversional Therapist,Occupation,2,4,41,411,4113
+411332,Lifestyle Coordinator,Occupation,3,4,41,411,4113
+411333,Lifestyle Officer,Occupation,3,4,41,411,4113
+4114,Employment Consultants,Unit group,3,4,41,411,4114
+411431,Employment Consultant,Occupation,3,4,41,411,4114
+4115,Interpreters and Translators,Unit group,2,4,41,411,4115
+411531,Interpreter,Occupation,2,4,41,411,4115
+411532,Translator,Occupation,2,4,41,411,4115
+4116,Welfare Support Workers,Unit group,2; 3,4,41,411,4116
+411631,Community Corrections Officer,Occupation,2,4,41,411,4116
+411632,Family Support Worker,Occupation,2,4,41,411,4116
+411633,Financial Counsellor (Community),Occupation,2,4,41,411,4116
+411634,Housing Officer,Occupation,2,4,41,411,4116
+411635,Refuge Worker,Occupation,3,4,41,411,4116
+411636,Welfare Worker,Occupation,2,4,41,411,4116
+4117,Youth Support Workers,Unit group,2,4,41,411,4117
+411731,Residential Youth Worker,Occupation,2,4,41,411,4117
+411732,Youth Justice Worker,Occupation,2,4,41,411,4117
+411733,Youth Worker,Occupation,2,4,41,411,4117
+4119,Other Community and Welfare Support Workers,Unit group,2; 3,4,41,411,4119
+411931,Recreation Officer,Occupation,3,4,41,411,4119
+411932,Sports Development Officer,Occupation,2,4,41,411,4119
+411933,Volunteer Coordinator,Occupation,3,4,41,411,4119
+42,Aged Care and Disability Services and Support Workers,Sub-major group,2; 3; 4,4,42,,
+421,Aged Care Workers,Minor group,3; 4,4,42,421,
+4211,Aged Care Coordinators and Team Leaders,Unit group,3,4,42,421,4211
+421131,Aged Care Coordinator,Occupation,3,4,42,421,4211
+421132,Aged Care Team Leader,Occupation,3,4,42,421,4211
+4212,Community Aged Care Support Workers,Unit group,4,4,42,421,4212
+421231,Community Aged Care Support Worker,Occupation,4,4,42,421,4212
+4213,Residential Aged Care Workers,Unit group,4,4,42,421,4213
+421331,Residential Aged Care Worker,Occupation,4,4,42,421,4213
+422,Disability Services and Support Workers,Minor group,2; 3; 4,4,42,422,
+4221,Disability Services and Residential Care Officers,Unit group,2,4,42,422,4221
+422131,Disability Services Officer,Occupation,2,4,42,422,4221
+422132,Residential Care Officer,Occupation,2,4,42,422,4221
+4222,Disability Support Workers and Team Leaders,Unit group,3; 4,4,42,422,4222
+422231,Disability Support Worker,Occupation,4,4,42,422,4222
+422232,Disability Team Leader,Occupation,3,4,42,422,4222
+43,"Early Childhood Educators, Child Carers and Education Assistants",Sub-major group,2; 3; 4,4,43,,
+431,Early Childhood Educators and Child Carers,Minor group,2; 3; 4,4,43,431,
+4311,Early Childhood Educators and Room Leaders,Unit group,2; 3,4,43,431,4311
+431131,Early Childhood Education Room Leader,Occupation,2,4,43,431,4311
+431132,Early Childhood Educator,Occupation,3,4,43,431,4311
+4312,Family Day Care Educators and Coordinators,Unit group,2; 3,4,43,431,4312
+431231,Family Day Care Coordinator,Occupation,2,4,43,431,4312
+431232,Family Day Care Educator,Occupation,3,4,43,431,4312
+4313,Nannies,Unit group,4,4,43,431,4313
+431331,Nanny,Occupation,4,4,43,431,4313
+4314,Out of School Hours Care Educators,Unit group,3,4,43,431,4314
+431431,Out of School Hours Care Educator,Occupation,3,4,43,431,4314
+432,Education Assistants,Minor group,3; 4,4,43,432,
+4321,Inclusion Support Assistants,Unit group,3,4,43,432,4321
+432131,Inclusion Support Assistant,Occupation,3,4,43,432,4321
+4322,Teaching Assistants,Unit group,3,4,43,432,4322
+432231,Teaching Assistant,Occupation,3,4,43,432,4322
+4329,Other Education Assistants,Unit group,3; 4,4,43,432,4329
+432931,Aboriginal and Torres Strait Islander Education Officer,Occupation,3,4,43,432,4329
+432932,Boarding Supervisor,Occupation,4,4,43,432,4329
+44,Health Support Workers and Assistants,Sub-major group,2; 3; 4,4,44,,
+441,Health Support Workers,Minor group,2; 3; 4,4,44,441,
+4411,Enrolled Nurses,Unit group,2,4,44,441,4411
+441131,Enrolled Nurse,Occupation,2,4,44,441,4411
+4412,Massage Therapists and Myotherapists,Unit group,2; 3,4,44,441,4412
+441231,Massage Therapist,Occupation,3,4,44,441,4412
+441232,Myotherapist,Occupation,2,4,44,441,4412
+441233,Remedial Massage Therapist,Occupation,2,4,44,441,4412
+4413,Mental Health Workers,Unit group,2,4,44,441,4413
+441331,Mental Health Worker,Occupation,2,4,44,441,4413
+4419,Other Health Support Workers,Unit group,2; 3; 4,4,44,441,4419
+441931,Aboriginal and Torres Strait Islander Health Practitioner,Occupation,3,4,44,441,4419
+441932,Aboriginal and Torres Strait Islander Health Worker,Occupation,4,4,44,441,4419
+441933,Audiometrist,Occupation,2,4,44,441,4419
+442,Patient and Health Care Assistants,Minor group,3; 4,4,44,442,
+4421,Allied Health Assistants,Unit group,3,4,44,442,4421
+442131,Allied Health Assistant,Occupation,3,4,44,442,4421
+4422,Assistants in Nursing,Unit group,4,4,44,442,4422
+442231,Assistant in Nursing,Occupation,4,4,44,442,4422
+4423,Dental Assistants,Unit group,4,4,44,442,4423
+442331,Dental Assistant,Occupation,4,4,44,442,4423
+4424,Optical Dispensers,Unit group,3,4,44,442,4424
+442431,Optical Dispenser,Occupation,3,4,44,442,4424
+4425,Patient Care and Patient Services Assistants,Unit group,4,4,44,442,4425
+442531,Patient Care Assistant,Occupation,4,4,44,442,4425
+442532,Patient Services Assistant,Occupation,4,4,44,442,4425
+4429,Other Patient and Health Care Assistants,Unit group,4,4,44,442,4429
+442931,Patient Transport Officer,Occupation,4,4,44,442,4429
+442999,Patient and Health Care Assistants nec,Occupation,4,4,44,442,4429
+45,Protective Service and Security Workers,Sub-major group,2; 3; 4,4,45,,
+451,Protective Service Workers,Minor group,2; 3,4,45,451,
+4511,Defence Force Members - Other Ranks,Unit group,3,4,45,451,4511
+451131,Defence Force Member - Other Ranks,Occupation,3,4,45,451,4511
+4512,Emergency Services Officers and Firefighters,Unit group,3,4,45,451,4512
+451231,Emergency Services Officer,Occupation,3,4,45,451,4512
+451232,Firefighter,Occupation,3,4,45,451,4512
+4513,General Duties Police Officers,Unit group,2,4,45,451,4513
+451331,General Duties Police Officer,Occupation,2,4,45,451,4513
+4519,Other Protective Service Workers,Unit group,2,4,45,451,4519
+451931,Border Enforcement Operations Officer,Occupation,2,4,45,451,4519
+452,Security Workers,Minor group,3; 4,4,45,452,
+4521,Correctional Officers,Unit group,4,4,45,452,4521
+452131,Correctional Officer,Occupation,4,4,45,452,4521
+4522,Security Officers and Guards,Unit group,3; 4,4,45,452,4522
+452231,"Alarm, Security or Surveillance Monitor",Occupation,4,4,45,452,4522
+452232,Cash In Transit Officer,Occupation,4,4,45,452,4522
+452233,Crowd Controller,Occupation,4,4,45,452,4522
+452234,Private Investigator,Occupation,4,4,45,452,4522
+452235,Protective Services Officer,Occupation,4,4,45,452,4522
+452236,Retail Loss Prevention Officer,Occupation,4,4,45,452,4522
+452237,Security Consultant,Occupation,3,4,45,452,4522
+452238,Security Officer,Occupation,4,4,45,452,4522
+452241,Security Screening Officer,Occupation,4,4,45,452,4522
+46,"Personal Service, Sports and Fitness Workers",Sub-major group,2; 3; 4; 5,4,46,,
+461,Personal Service and Travel Workers,Minor group,2; 3; 4; 5,4,46,461,
+4611,Beauty and Dermal Therapists,Unit group,2; 3,4,46,461,4611
+461131,Beauty Therapist,Occupation,3,4,46,461,4611
+461132,Dermal Therapist,Occupation,2,4,46,461,4611
+4612,Body and Make-up Artists,Unit group,3; 4,4,46,461,4612
+461231,Body Artist,Occupation,4,4,46,461,4612
+461232,Make-up Artist,Occupation,3,4,46,461,4612
+4613,Civil Celebrants and Funeral Workers,Unit group,2; 3; 4,4,46,461,4613
+461331,Civil Celebrant,Occupation,3,4,46,461,4613
+461332,Funeral Director,Occupation,2,4,46,461,4613
+461333,Funeral Worker,Occupation,4,4,46,461,4613
+4614,Domestic Animal Care Workers,Unit group,4; 5,4,46,461,4614
+461431,Dog Walker,Occupation,5,4,46,461,4614
+461432,Domestic Animal Attendant,Occupation,4,4,46,461,4614
+461433,Pet Groomer,Occupation,4,4,46,461,4614
+461499,Domestic Animal Care Workers nec,Occupation,4,4,46,461,4614
+4615,Driving Instructors,Unit group,3,4,46,461,4615
+461531,Driving Instructor,Occupation,3,4,46,461,4615
+4616,Tourist Guides and Information Officers,Unit group,3; 4,4,46,461,4616
+461631,Gallery or Museum Guide,Occupation,4,4,46,461,4616
+461632,Tour Guide,Occupation,3,4,46,461,4616
+461633,Tourist Information Officer,Occupation,4,4,46,461,4616
+4617,Travel Attendants,Unit group,3; 4,4,46,461,4617
+461731,Flight Attendant,Occupation,3,4,46,461,4617
+461799,Travel Attendants nec,Occupation,4,4,46,461,4617
+4618,Travel Consultants,Unit group,3,4,46,461,4618
+461831,Travel Consultant,Occupation,3,4,46,461,4618
+4619,Other Personal Service and Travel Workers,Unit group,3; 4; 5,4,46,461,4619
+461931,Airline Customer Support Worker,Occupation,5,4,46,461,4619
+461932,Fashion Stylist,Occupation,4,4,46,461,4619
+461933,First Aid Trainer,Occupation,3,4,46,461,4619
+461934,Hair or Beauty Salon Assistant,Occupation,5,4,46,461,4619
+461935,Natural Remedy Consultant,Occupation,4,4,46,461,4619
+461936,Photographer's Assistant,Occupation,4,4,46,461,4619
+461937,Religious Assistant,Occupation,4,4,46,461,4619
+461938,Sex Worker or Escort,Occupation,5,4,46,461,4619
+461941,Weight Loss Consultant,Occupation,4,4,46,461,4619
+461999,Personal Service and Travel Workers nec,Occupation,4,4,46,461,4619
+462,Sports and Fitness Workers,Minor group,3; 4,4,46,462,
+4621,Fitness Instructors (General),Unit group,4,4,46,462,4621
+462131,Fitness Instructor (General),Occupation,4,4,46,462,4621
+4622,Pilates and Yoga Instructors,Unit group,3; 4,4,46,462,4622
+462231,Pilates Instructor,Occupation,3,4,46,462,4622
+462232,Yoga Teacher,Occupation,4,4,46,462,4622
+4623,Sport and Recreation Safety Patrollers,Unit group,3,4,46,462,4623
+462331,Lifeguard,Occupation,3,4,46,462,4623
+462399,Sport and Recreation Safety Patrollers nec,Occupation,3,4,46,462,4623
+4624,Sports Coaches and Outdoor Adventure Guides,Unit group,3; 4,4,46,462,4624
+462431,Basketball Coach,Occupation,4,4,46,462,4624
+462432,Diving Instructor (Open Water),Occupation,3,4,46,462,4624
+462433,Football Coach,Occupation,4,4,46,462,4624
+462434,Gymnastics Coach or Instructor,Occupation,4,4,46,462,4624
+462435,Horse Riding Coach or Instructor,Occupation,3,4,46,462,4624
+462436,Martial Arts Instructor,Occupation,4,4,46,462,4624
+462437,Netball Coach,Occupation,4,4,46,462,4624
+462438,Outdoor Adventure Leader or Guide,Occupation,3,4,46,462,4624
+462441,Snowsport Instructor,Occupation,3,4,46,462,4624
+462442,Swimming Instructor or Coach,Occupation,4,4,46,462,4624
+462443,Tennis Coach,Occupation,4,4,46,462,4624
+462499,Sports Coaches and Outdoor Adventure Guides nec,Occupation,4,4,46,462,4624
+4625,Sports Officials and Umpires,Unit group,3,4,46,462,4625
+462531,Dog and Horse Racing Official,Occupation,3,4,46,462,4625
+462532,Sports Umpire,Occupation,3,4,46,462,4625
+462599,Sports Officials and Umpires nec,Occupation,3,4,46,462,4625
+4626,Sportspersons,Unit group,3,4,46,462,4626
+462631,Footballer,Occupation,3,4,46,462,4626
+462632,Golfer,Occupation,3,4,46,462,4626
+462633,Jockey,Occupation,3,4,46,462,4626
+462699,Sportspersons nec,Occupation,3,4,46,462,4626
+47,Hospitality Workers,Sub-major group,3; 4; 5,4,47,,
+471,Hospitality Workers,Minor group,3; 4; 5,4,47,471,
+4711,Bar Attendants,Unit group,4,4,47,471,4711
+471131,Bar Attendant,Occupation,4,4,47,471,4711
+4712,Baristas,Unit group,4,4,47,471,4712
+471231,Barista,Occupation,4,4,47,471,4712
+4713,Cafe Workers,Unit group,5,4,47,471,4713
+471331,Cafe Worker,Occupation,5,4,47,471,4713
+4714,"Gaming Attendants, Dealers and Croupiers",Unit group,4,4,47,471,4714
+471431,Gaming Attendant,Occupation,4,4,47,471,4714
+471432,Gaming Dealer or Croupier,Occupation,4,4,47,471,4714
+4715,Hospitality Supervisors,Unit group,3,4,47,471,4715
+471531,Bar Supervisor,Occupation,3,4,47,471,4715
+471532,Cafe or Restaurant Supervisor,Occupation,3,4,47,471,4715
+471533,Front Office Supervisor (Accommodation),Occupation,3,4,47,471,4715
+471534,Gaming Supervisor,Occupation,3,4,47,471,4715
+471535,Housekeeping Supervisor,Occupation,3,4,47,471,4715
+4716,Sommeliers and Waiters,Unit group,3; 4,4,47,471,4716
+471631,Sommelier,Occupation,3,4,47,471,4716
+471632,Waiter,Occupation,4,4,47,471,4716
+4719,Other Hospitality Workers,Unit group,5,4,47,471,4719
+471931,Bar Useful,Occupation,5,4,47,471,4719
+471932,Doorperson or Porter,Occupation,5,4,47,471,4719
+471999,Hospitality Workers nec,Occupation,5,4,47,471,4719
+5,Clerical and Administrative Workers,Major group,2; 3; 4; 5,5,,,
+51,"Contract, Program and Project Administrators",Sub-major group,2,5,51,,
+511,"Contract, Program and Project Administrators",Minor group,2,5,51,511,
+5111,Contract Administrators,Unit group,2,5,51,511,5111
+511131,Contract Administrator,Occupation,2,5,51,511,5111
+5112,Program and Project Administrators,Unit group,2,5,51,511,5112
+511231,Program or Project Administrator,Occupation,2,5,51,511,5112
+52,Executive and Legal Assistants and Secretaries,Sub-major group,2; 3,5,52,,
+521,Conveyancers and Court and Legal Assistants,Minor group,2; 3,5,52,521,
+5211,Conveyancers,Unit group,2,5,52,521,5211
+521131,Conveyancer,Occupation,2,5,52,521,5211
+5212,Court and Legal Assistants,Unit group,3,5,52,521,5212
+521231,Clerk of Court,Occupation,3,5,52,521,5212
+521232,Court Bailiff or Sheriff,Occupation,3,5,52,521,5212
+521233,Court Orderly,Occupation,3,5,52,521,5212
+521234,Law Clerk,Occupation,3,5,52,521,5212
+521235,Legal Secretary,Occupation,3,5,52,521,5212
+521236,Trust Officer,Occupation,3,5,52,521,5212
+522,Executive Assistants and Secretaries,Minor group,2; 3,5,52,522,
+5221,Secretaries (General),Unit group,3,5,52,522,5221
+522131,Secretary (General),Occupation,3,5,52,522,5221
+5222,Executive Assistants,Unit group,2,5,52,522,5222
+522231,Executive Assistant,Occupation,2,5,52,522,5222
+53,Financial Services and Insurance Workers and Brokers,Sub-major group,2; 3; 4,5,53,,
+531,Financial Services and Insurance Workers and Brokers,Minor group,2; 3; 4,5,53,531,
+5311,Bank Officers,Unit group,3,5,53,531,5311
+531131,Bank Officer,Occupation,3,5,53,531,5311
+5312,Credit and Loans Officers,Unit group,3,5,53,531,5312
+531231,Credit or Loans Officer,Occupation,3,5,53,531,5312
+5313,Financial and Insurance Brokers,Unit group,2; 3,5,53,531,5313
+531331,Business Broker,Occupation,3,5,53,531,5313
+531332,Commodities Trader,Occupation,2,5,53,531,5313
+531333,Finance Broker,Occupation,2,5,53,531,5313
+531334,Insurance Broker,Occupation,2,5,53,531,5313
+531399,Financial and Insurance Brokers nec,Occupation,2,5,53,531,5313
+5314,Insurance Consultants,Unit group,4,5,53,531,5314
+531431,Insurance Consultant,Occupation,4,5,53,531,5314
+5315,"Insurance Investigators, Loss Adjusters and Risk Surveyors",Unit group,2; 3,5,53,531,5315
+531531,Insurance Investigator,Occupation,3,5,53,531,5315
+531532,Insurance Loss Adjuster,Occupation,3,5,53,531,5315
+531533,Insurance Risk Surveyor,Occupation,2,5,53,531,5315
+5319,Other Financial Services and Insurance Workers and Brokers,Unit group,2,5,53,531,5319
+531931,Investment Administrator,Occupation,2,5,53,531,5319
+531932,Paraplanner,Occupation,2,5,53,531,5319
+54,Accounting and Related Clerks,Sub-major group,3; 4; 5,5,54,,
+541,"Accounts Clerks, Estimators and Payroll Officers",Minor group,4,5,54,541,
+5411,Accounts Clerks,Unit group,4,5,54,541,5411
+541131,Accounts Clerk,Occupation,4,5,54,541,5411
+5412,Estimators,Unit group,4,5,54,541,5412
+541231,Estimator,Occupation,4,5,54,541,5412
+5413,Payroll Officers,Unit group,4,5,54,541,5413
+541331,Payroll Officer,Occupation,4,5,54,541,5413
+542,Bookkeepers,Minor group,3,5,54,542,
+5421,Bookkeepers,Unit group,3,5,54,542,5421
+542131,Bookkeeper,Occupation,3,5,54,542,5421
+549,Miscellaneous Accounting and Related Clerks,Minor group,4; 5,5,54,549,
+5491,Other Accounting and Related Clerks,Unit group,4; 5,5,54,549,5491
+549131,Betting Clerk,Occupation,5,5,54,549,5491
+549132,Bookmaker,Occupation,4,5,54,549,5491
+549133,Debt Collector,Occupation,4,5,54,549,5491
+55,Enquiry and Information Officers and Receptionists,Sub-major group,3; 4; 5,5,55,,
+551,Call Centre and Information Officers,Minor group,3; 4; 5,5,55,551,
+5511,Call and Contact Centre Workers,Unit group,3; 4,5,55,551,5511
+551131,Call or Contact Centre Operator,Occupation,4,5,55,551,5511
+551132,Call or Contact Centre Team Leader,Occupation,3,5,55,551,5511
+5512,Information Officers and Switchboard Operators,Unit group,4; 5,5,55,551,5512
+551231,Information Officer,Occupation,4,5,55,551,5512
+551232,Switchboard Operator,Occupation,5,5,55,551,5512
+552,Medical Receptionists and Ward Clerks,Minor group,4,5,55,552,
+5521,Medical Receptionists,Unit group,4,5,55,552,5521
+552131,Medical Receptionist,Occupation,4,5,55,552,5521
+5522,Ward Clerks,Unit group,4,5,55,552,5522
+552231,Ward Clerk,Occupation,4,5,55,552,5522
+553,Receptionists,Minor group,4,5,55,553,
+5531,Receptionists (General),Unit group,4,5,55,553,5531
+553131,Receptionist (General),Occupation,4,5,55,553,5531
+5532,Hotel and Motel Receptionists,Unit group,4,5,55,553,5532
+553231,Hotel or Motel Receptionist,Occupation,4,5,55,553,5532
+56,General Clerical Workers,Sub-major group,4,5,56,,
+561,General Clerical Workers,Minor group,4,5,56,561,
+5611,General Clerks,Unit group,4,5,56,561,5611
+561131,General Clerk,Occupation,4,5,56,561,5611
+5612,Data Entry Operators and Transcriptionists,Unit group,4,5,56,561,5612
+561231,Data Entry Operator,Occupation,4,5,56,561,5612
+561232,Machine Shorthand Reporter,Occupation,4,5,56,561,5612
+561233,Word Processing Operator,Occupation,4,5,56,561,5612
+57,Supply Chain Support Workers,Sub-major group,4,5,57,,
+571,Supply Chain Support Workers,Minor group,4,5,57,571,
+5711,Logistics Officers,Unit group,4,5,57,571,5711
+571131,Logistics Officer,Occupation,4,5,57,571,5711
+5712,Order Clerks,Unit group,4,5,57,571,5712
+571231,Order Clerk,Occupation,4,5,57,571,5712
+5713,Procurement and Purchasing Officers,Unit group,4,5,57,571,5713
+571331,Procurement Officer,Occupation,4,5,57,571,5713
+571332,Purchasing Officer,Occupation,4,5,57,571,5713
+5714,Stock Clerks,Unit group,4,5,57,571,5714
+571431,Stock Clerk,Occupation,4,5,57,571,5714
+5715,Warehouse Administrators,Unit group,4,5,57,571,5715
+571531,Warehouse Administrator,Occupation,4,5,57,571,5715
+5719,Other Supply Chain Support Workers,Unit group,4,5,57,571,5719
+571931,Freight Forwarder,Occupation,4,5,57,571,5719
+571932,Production Coordinator (Logistics),Occupation,4,5,57,571,5719
+59,Other Clerical and Administrative Workers,Sub-major group,2; 3; 4; 5,5,59,,
+591,Inspectors and Regulatory Officers,Minor group,4; 5,5,59,591,
+5911,Inspectors and Regulatory Compliance Officers,Unit group,4; 5,5,59,591,5911
+591131,Aerodrome Reporting Officer,Occupation,4,5,59,591,5911
+591132,Council Ranger,Occupation,4,5,59,591,5911
+591133,Electrical Asset Inspector,Occupation,4,5,59,591,5911
+591134,"Invasive Pest, Weed and Disease Inspector",Occupation,4,5,59,591,5911
+591135,Meter Reader,Occupation,5,5,59,591,5911
+591136,Motor Vehicle Licence Examiner,Occupation,4,5,59,591,5911
+591137,Parking Officer,Occupation,5,5,59,591,5911
+591138,Transport Revenue Officer,Occupation,5,5,59,591,5911
+591141,Water Inspector,Occupation,4,5,59,591,5911
+5912,Regulatory Administration and Assessment Officers,Unit group,4,5,59,591,5912
+591231,Social Security Assessor,Occupation,4,5,59,591,5912
+591232,Taxation Compliance Officer,Occupation,4,5,59,591,5912
+591233,Visa and Citizenship Processing Officer,Occupation,4,5,59,591,5912
+5919,Other Inspectors and Regulatory Officers,Unit group,4,5,59,591,5919
+591999,Inspectors and Regulatory Officers nec,Occupation,4,5,59,591,5919
+599,Miscellaneous Clerical and Administrative Workers,Minor group,2; 3; 4; 5,5,59,599,
+5991,Filing and Registry Clerks and Library Assistants,Unit group,4; 5,5,59,599,5991
+599131,Filing or Registry Clerk,Occupation,5,5,59,599,5991
+599132,Library Assistant,Occupation,4,5,59,599,5991
+5992,Human Resources Assistants,Unit group,4,5,59,599,5992
+599231,Human Resources Administration Assistant,Occupation,4,5,59,599,5992
+599232,Rostering Officer,Occupation,4,5,59,599,5992
+5993,Mail Sorters,Unit group,5,5,59,599,5993
+599331,Mail Clerk,Occupation,5,5,59,599,5993
+599332,Postal Sorting Officer,Occupation,5,5,59,599,5993
+5999,Other Miscellaneous Clerical and Administrative Workers,Unit group,2; 3; 4; 5,5,59,599,5999
+599931,Clinical Coder,Occupation,3,5,59,599,5999
+599932,Customs Broker,Occupation,2,5,59,599,5999
+599933,Facilities Administrator,Occupation,4,5,59,599,5999
+599934,"Production Assistant (Audio, Screen or Live Performance)",Occupation,4,5,59,599,5999
+599935,"Production Coordinator (Audio, Screen or Live Performance)",Occupation,3,5,59,599,5999
+599936,Radio Dispatcher,Occupation,4,5,59,599,5999
+599937,Strata Manager,Occupation,2,5,59,599,5999
+599938,Survey Interviewer,Occupation,5,5,59,599,5999
+599941,Union Organiser,Occupation,3,5,59,599,5999
+599999,Clerical and Administrative Workers nec,Occupation,4,5,59,599,5999
+6,Sales Workers,Major group,2; 3; 4; 5,6,,,
+61,Sales Support Workers,Sub-major group,2; 3; 4; 5,6,61,,
+611,Checkout Operators,Minor group,5,6,61,611,
+6111,Checkout Operators,Unit group,5,6,61,611,6111
+611131,Checkout Operator,Occupation,5,6,61,611,6111
+619,Miscellaneous Sales Support Workers,Minor group,2; 3; 4; 5,6,61,619,
+6191,Product Promotion Workers,Unit group,4; 5,6,61,619,6191
+619131,Marketing Assistant,Occupation,4,6,61,619,6191
+619132,Model,Occupation,5,6,61,619,6191
+619133,Sales Demonstrator,Occupation,5,6,61,619,6191
+619134,Telemarketer,Occupation,5,6,61,619,6191
+619135,Visual Merchandiser,Occupation,4,6,61,619,6191
+6199,Other Sales Support Workers,Unit group,2; 3; 4; 5,6,61,619,6199
+619931,Entertainment Venue Attendant,Occupation,5,6,61,619,6199
+619932,Merchandise Planner,Occupation,2,6,61,619,6199
+619933,Personal Shopper,Occupation,5,6,61,619,6199
+619934,Reservations Agent,Occupation,5,6,61,619,6199
+619935,Retail Buyer,Occupation,3,6,61,619,6199
+619999,Sales Support Workers nec,Occupation,4,6,61,619,6199
+62,Sales Representatives and Agents,Sub-major group,3; 4,6,62,,
+621,Insurance Agents and Sales Representatives,Minor group,3; 4,6,62,621,
+6211,Insurance Agents,Unit group,3,6,62,621,6211
+621131,Insurance Agent,Occupation,3,6,62,621,6211
+6212,Sales Representatives,Unit group,4,6,62,621,6212
+621231,Sales Representative (Building and Plumbing Supplies),Occupation,4,6,62,621,6212
+621232,Sales Representative (Business Services),Occupation,4,6,62,621,6212
+621233,Sales Representative (Motor Vehicle Parts and Accessories),Occupation,4,6,62,621,6212
+621234,Sales Representative (Personal and Household Goods),Occupation,4,6,62,621,6212
+621299,Sales Representatives nec,Occupation,4,6,62,621,6212
+622,"Property Managers, Agents and Representatives",Minor group,3,6,62,622,
+6221,Property Managers,Unit group,3,6,62,622,6221
+622131,Property Manager,Occupation,3,6,62,622,6221
+6222,Property Sales Agents and Related Workers,Unit group,3,6,62,622,6222
+622231,Auctioneer,Occupation,3,6,62,622,6222
+622232,Real Estate Agent,Occupation,3,6,62,622,6222
+622233,Real Estate Representative,Occupation,3,6,62,622,6222
+622234,Stock and Station Agent,Occupation,3,6,62,622,6222
+63,Sales Assistants and Salespersons,Sub-major group,4; 5,6,63,,
+631,Sales Assistants and Salespersons,Minor group,4; 5,6,63,631,
+6311,Sales Assistants (General),Unit group,5,6,63,631,6311
+631131,Sales Assistant (General),Occupation,5,6,63,631,6311
+6312,Community Pharmacy Sales Assistants,Unit group,4,6,63,631,6312
+631231,Community Pharmacy Sales Assistant,Occupation,4,6,63,631,6312
+6313,ICT Sales Assistants,Unit group,5,6,63,631,6313
+631331,ICT Sales Assistant,Occupation,5,6,63,631,6313
+6314,Motor Vehicle and Vehicle Parts Salespersons,Unit group,4,6,63,631,6314
+631431,Motor Vehicle or Caravan Salesperson,Occupation,4,6,63,631,6314
+631432,Motor Vehicle Parts Interpreter,Occupation,4,6,63,631,6314
+6315,Retail Supervisors,Unit group,4,6,63,631,6315
+631531,Retail Supervisor,Occupation,4,6,63,631,6315
+6316,Service Station Attendants,Unit group,5,6,63,631,6316
+631631,Service Station Attendant,Occupation,5,6,63,631,6316
+6319,Other Sales Assistants and Salespersons,Unit group,5,6,63,631,6319
+631931,Door-to-door Salesperson,Occupation,5,6,63,631,6319
+631932,Materials Recycler,Occupation,5,6,63,631,6319
+631933,Rental Salesperson,Occupation,5,6,63,631,6319
+631934,Street Vendor,Occupation,5,6,63,631,6319
+631999,Sales Assistants and Salespersons nec,Occupation,5,6,63,631,6319
+7,Machinery Operators and Drivers,Major group,3; 4,7,,,
+71,Road and Rail Drivers,Sub-major group,3; 4,7,71,,
+711,"Automobile, Bus and Rail Drivers",Minor group,3; 4,7,71,711,
+7111,Automobile Drivers,Unit group,4,7,71,711,7111
+711131,Chauffeur,Occupation,4,7,71,711,7111
+711132,Oversize Load Pilot Escort,Occupation,4,7,71,711,7111
+711133,Rideshare Driver,Occupation,4,7,71,711,7111
+711134,Taxi Driver,Occupation,4,7,71,711,7111
+711199,Automobile Drivers nec,Occupation,4,7,71,711,7111
+7112,Bus and Coach Drivers,Unit group,4,7,71,711,7112
+711231,Bus Driver,Occupation,4,7,71,711,7112
+711232,Charter and Tour Bus Driver,Occupation,4,7,71,711,7112
+711233,Passenger Coach Driver,Occupation,4,7,71,711,7112
+7113,Train and Tram Drivers,Unit group,3; 4,7,71,711,7113
+711331,Freight Train Driver,Occupation,3,7,71,711,7113
+711332,Passenger Train Driver,Occupation,3,7,71,711,7113
+711333,Tram Driver,Occupation,4,7,71,711,7113
+712,Delivery Drivers,Minor group,4,7,71,712,
+7121,Furniture Removalists,Unit group,4,7,71,712,7121
+712131,Furniture Removalist,Occupation,4,7,71,712,7121
+7122,Postal and Delivery Workers,Unit group,4,7,71,712,7122
+712231,Delivery Person,Occupation,4,7,71,712,7122
+712232,Postal Delivery Officer,Occupation,4,7,71,712,7122
+713,Truck Drivers,Minor group,3; 4,7,71,713,
+7131,General Truck Drivers,Unit group,4,7,71,713,7131
+713131,Truck Driver (General),Occupation,4,7,71,713,7131
+713132,Tow Truck Driver,Occupation,4,7,71,713,7131
+7132,Articulated and Tanker Truck Drivers,Unit group,3,7,71,713,7132
+713231,Articulated Truck Driver,Occupation,3,7,71,713,7132
+713232,Tanker Truck Driver,Occupation,3,7,71,713,7132
+72,Storepersons and Warehouse Supervisors,Sub-major group,3; 4,7,72,,
+721,Storepersons and Warehouse Supervisors,Minor group,3; 4,7,72,721,
+7211,Storepersons and Warehouse Supervisors,Unit group,3; 4,7,72,721,7211
+721131,Storeperson,Occupation,4,7,72,721,7211
+721132,Warehouse Supervisor,Occupation,3,7,72,721,7211
+73,Machine and Stationary Plant Operators,Sub-major group,4,7,73,,
+731,Machine Operators,Minor group,4,7,73,731,
+7311,Industrial Spray Painters and Sandblasters,Unit group,4,7,73,731,7311
+731131,Industrial Spray Painter,Occupation,4,7,73,731,7311
+731132,Sandblaster,Occupation,4,7,73,731,7311
+7312,Paper and Wood Processing Machine Operators,Unit group,4,7,73,731,7312
+731231,Paper and Pulp Production Operator,Occupation,4,7,73,731,7312
+731232,Timber and Wood Production Operator,Occupation,4,7,73,731,7312
+7313,Plastics and Rubber Production Machine Operators,Unit group,4,7,73,731,7313
+731331,Plastics Fabricator or Welder,Occupation,4,7,73,731,7313
+731332,Plastics Production Machine Operator,Occupation,4,7,73,731,7313
+731333,Reinforced Plastic and Composite Production Worker,Occupation,4,7,73,731,7313
+731334,Rubber Production Machine Operator,Occupation,4,7,73,731,7313
+731399,Plastics and Rubber Production Machine Operators nec,Occupation,4,7,73,731,7313
+7314,"Sewing, Textile and Footwear Machine Operators",Unit group,4,7,73,731,7314
+731431,Sewing Machinist,Occupation,4,7,73,731,7314
+731432,Textile or Footwear Production Machine Operator,Occupation,4,7,73,731,7314
+7319,Other Machine Operators,Unit group,4,7,73,731,7319
+731931,Chemical Production Machine Operator,Occupation,4,7,73,731,7319
+731932,Clay Products Machine Operator,Occupation,4,7,73,731,7319
+731933,Concrete Products Machine Operator,Occupation,4,7,73,731,7319
+731934,Crushing Machine Operator,Occupation,4,7,73,731,7319
+731935,Glass Production Machine Operator,Occupation,4,7,73,731,7319
+731936,Photographic Print Processor,Occupation,4,7,73,731,7319
+731937,Sterilisation Technician,Occupation,4,7,73,731,7319
+731938,Stone Processing Machine Operator,Occupation,4,7,73,731,7319
+731999,Machine Operators nec,Occupation,4,7,73,731,7319
+732,Stationary Plant Operators,Minor group,4,7,73,732,
+7321,"Crane, Hoist and Lift Operators",Unit group,4,7,73,732,7321
+732131,"Crane, Hoist or Lift Operator",Occupation,4,7,73,732,7321
+7322,Engineering Production Workers,Unit group,4,7,73,732,7322
+732231,Engineering Production Worker,Occupation,4,7,73,732,7322
+7323,Miners and Shot Firers,Unit group,4,7,73,732,7323
+732331,Miner,Occupation,4,7,73,732,7323
+732332,Shot Firer,Occupation,4,7,73,732,7323
+7324,Wastewater and Water Plant Operators,Unit group,4,7,73,732,7324
+732431,Wastewater or Water Plant Operator,Occupation,4,7,73,732,7324
+7329,Other Stationary Plant Operators,Unit group,4,7,73,732,7329
+732931,Boiler or Engine Operator,Occupation,4,7,73,732,7329
+732932,Bulk Materials Handling Plant Operator,Occupation,4,7,73,732,7329
+732933,Concrete Batching Plant Operator,Occupation,4,7,73,732,7329
+732934,Concrete Pump Operator,Occupation,4,7,73,732,7329
+732935,Railway Signal Operator,Occupation,4,7,73,732,7329
+732936,Weighbridge Operator,Occupation,4,7,73,732,7329
+732999,Stationary Plant Operators nec,Occupation,4,7,73,732,7329
+74,Mobile Plant Operators,Sub-major group,4,7,74,,
+741,Mobile Plant Operators,Minor group,4,7,74,741,
+7411,"Agricultural, Horticultural and Logging Plant Operators",Unit group,4,7,74,741,7411
+741131,Agricultural and Horticultural Mobile Plant Operator,Occupation,4,7,74,741,7411
+741132,Logging Plant Operator,Occupation,4,7,74,741,7411
+7412,Earthmoving Plant Operators,Unit group,4,7,74,741,7412
+741231,Earthmoving Plant Operator (General),Occupation,4,7,74,741,7412
+741232,Backhoe Operator,Occupation,4,7,74,741,7412
+741233,Bulldozer Operator,Occupation,4,7,74,741,7412
+741234,Excavator Operator,Occupation,4,7,74,741,7412
+741235,Grader Operator,Occupation,4,7,74,741,7412
+741236,Loader Operator,Occupation,4,7,74,741,7412
+741237,Tunnel Constructor,Occupation,4,7,74,741,7412
+7413,Forklift Drivers,Unit group,4,7,74,741,7413
+741331,Forklift Driver,Occupation,4,7,74,741,7413
+7419,Other Mobile Plant Operators,Unit group,4,7,74,741,7419
+741931,Aircraft Baggage Handler and Ground Crew,Occupation,4,7,74,741,7419
+741932,Aircraft Refueller,Occupation,4,7,74,741,7419
+741933,Linemarker,Occupation,4,7,74,741,7419
+741934,Railway Shunter,Occupation,4,7,74,741,7419
+741935,Railway Track Plant Operator,Occupation,4,7,74,741,7419
+741936,Road Roller Operator,Occupation,4,7,74,741,7419
+741937,Stevedore,Occupation,4,7,74,741,7419
+741938,Streetsweeper Operator,Occupation,4,7,74,741,7419
+741999,Mobile Plant Operators nec,Occupation,4,7,74,741,7419
+8,Labourers,Major group,4; 5,8,,,
+81,Cleaners and Laundry Workers,Sub-major group,4; 5,8,81,,
+811,Cleaners and Laundry Workers,Minor group,4; 5,8,81,811,
+8111,Commercial Cleaners,Unit group,5,8,81,811,8111
+811131,Commercial Cleaner,Occupation,5,8,81,811,8111
+8112,Domestic Cleaners,Unit group,5,8,81,811,8112
+811231,Domestic Cleaner,Occupation,5,8,81,811,8112
+8113,Drycleaners and Laundry Workers,Unit group,5,8,81,811,8113
+811331,Drycleaner,Occupation,5,8,81,811,8113
+811332,Laundry Worker,Occupation,5,8,81,811,8113
+8114,Housekeepers,Unit group,5,8,81,811,8114
+811431,Commercial Housekeeper,Occupation,5,8,81,811,8114
+811432,Domestic Housekeeper,Occupation,5,8,81,811,8114
+8115,Vehicle Detailers,Unit group,5,8,81,811,8115
+811531,Vehicle Detailer,Occupation,5,8,81,811,8115
+8119,Other Cleaners and Laundry Workers,Unit group,4; 5,8,81,811,8119
+811931,Carpet Cleaner,Occupation,4,8,81,811,8119
+811932,Roof Gutter Cleaner,Occupation,5,8,81,811,8119
+811933,Window Cleaner,Occupation,5,8,81,811,8119
+811999,Cleaners and Laundry Workers nec,Occupation,5,8,81,811,8119
+82,Construction and Mining Labourers,Sub-major group,4; 5,8,82,,
+821,Construction and Mining Labourers,Minor group,4; 5,8,82,821,
+8211,Construction and Demolition Labourers,Unit group,4; 5,8,82,821,8211
+821131,Asbestos Removalist,Occupation,4,8,82,821,8211
+821132,Builder's Labourer,Occupation,5,8,82,821,8211
+821133,Concreter's Labourer,Occupation,5,8,82,821,8211
+821134,Demolition Labourer,Occupation,4,8,82,821,8211
+821135,Earthmoving Labourer,Occupation,5,8,82,821,8211
+8212,Construction Riggers and Doggers,Unit group,4,8,82,821,8212
+821231,Construction Rigger,Occupation,4,8,82,821,8212
+821232,Dogger,Occupation,4,8,82,821,8212
+8213,Fencers,Unit group,4,8,82,821,8213
+821331,Fencer,Occupation,4,8,82,821,8213
+8214,Home Improvement and Insulation Installers,Unit group,4,8,82,821,8214
+821431,Building Insulation Installer,Occupation,4,8,82,821,8214
+821432,Garage Door Installer,Occupation,4,8,82,821,8214
+821433,Shed Builder,Occupation,4,8,82,821,8214
+821434,Window Furnishing Installer,Occupation,4,8,82,821,8214
+821499,Home Improvement and Insulation Installers nec,Occupation,4,8,82,821,8214
+8215,Paving and Surfacing Labourers,Unit group,5,8,82,821,8215
+821531,Paving and Surfacing Labourer,Occupation,5,8,82,821,8215
+8216,Plumbing and Drainage Labourers,Unit group,4; 5,8,82,821,8216
+821631,"Drainage, Sewerage and Stormwater Labourer",Occupation,5,8,82,821,8216
+821632,Pipe Layer,Occupation,4,8,82,821,8216
+821633,Plumber's Assistant,Occupation,5,8,82,821,8216
+8217,Structural Steel Construction Workers,Unit group,4,8,82,821,8217
+821731,Scaffolder,Occupation,4,8,82,821,8217
+821732,Steel Fixer,Occupation,4,8,82,821,8217
+821733,Structural Steel Erector,Occupation,4,8,82,821,8217
+8219,Other Construction and Mining Labourers,Unit group,4; 5,8,82,821,8219
+821931,Driller's Offsider,Occupation,4,8,82,821,8219
+821932,Lagger,Occupation,5,8,82,821,8219
+821933,Mining Support Worker,Occupation,5,8,82,821,8219
+821934,Rail Protection Officer,Occupation,4,8,82,821,8219
+821935,Railway Track Worker,Occupation,4,8,82,821,8219
+821936,Surveyor's Assistant,Occupation,4,8,82,821,8219
+83,Factory Process Workers,Sub-major group,4; 5,8,83,,
+831,Food Process Workers,Minor group,4; 5,8,83,831,
+8311,Food and Drink Factory Workers,Unit group,5,8,83,831,8311
+831131,Baking Factory Worker,Occupation,5,8,83,831,8311
+831132,Brewery Worker,Occupation,5,8,83,831,8311
+831133,Coffee Roaster,Occupation,5,8,83,831,8311
+831134,Confectionery Maker,Occupation,5,8,83,831,8311
+831135,Dairy Products Factory Worker,Occupation,5,8,83,831,8311
+831136,Fruit and Vegetable Factory Worker,Occupation,5,8,83,831,8311
+831137,Grain Mill Worker,Occupation,5,8,83,831,8311
+831138,Sugar Mill Worker,Occupation,5,8,83,831,8311
+831141,Winery Cellar Hand,Occupation,5,8,83,831,8311
+831199,Food and Drink Factory Workers nec,Occupation,5,8,83,831,8311
+8312,"Meat Boners and Slicers, and Slaughterers",Unit group,4,8,83,831,8312
+831231,Meat Boner and Slicer,Occupation,4,8,83,831,8312
+831232,Slaughterer,Occupation,4,8,83,831,8312
+8313,"Meat, Poultry and Seafood Process Workers",Unit group,5,8,83,831,8313
+831331,Meat Process Worker,Occupation,5,8,83,831,8313
+831332,Poultry Process Worker,Occupation,5,8,83,831,8313
+831333,Seafood Process Worker,Occupation,5,8,83,831,8313
+832,Packers and Product Assemblers,Minor group,5,8,83,832,
+8321,Packers,Unit group,5,8,83,832,8321
+832131,Packer (General),Occupation,5,8,83,832,8321
+832132,Chocolate Packer,Occupation,5,8,83,832,8321
+832133,Fruit and Vegetable Packer,Occupation,5,8,83,832,8321
+832134,Meat Packer,Occupation,5,8,83,832,8321
+832135,Seafood Packer,Occupation,5,8,83,832,8321
+8322,Product Assemblers,Unit group,5,8,83,832,8322
+832231,Product Assembler,Occupation,5,8,83,832,8322
+839,Miscellaneous Factory Process Workers,Minor group,4; 5,8,83,839,
+8391,Materials and Chemical Process Workers,Unit group,5,8,83,839,8391
+839131,Cement and Concrete Plant Worker,Occupation,5,8,83,839,8391
+839132,Chemical Plant Worker,Occupation,5,8,83,839,8391
+839133,Fabric and Textile Factory Worker,Occupation,5,8,83,839,8391
+839134,Glass Processing Worker,Occupation,5,8,83,839,8391
+839135,Metal Engineering Process Worker,Occupation,5,8,83,839,8391
+839136,Paper and Pulp Process Worker,Occupation,5,8,83,839,8391
+839137,Plastics Factory Worker,Occupation,5,8,83,839,8391
+839138,Recycling Worker,Occupation,5,8,83,839,8391
+839141,Timber and Wood Process Worker,Occupation,5,8,83,839,8391
+839199,Materials and Chemical Process Workers nec,Occupation,5,8,83,839,8391
+8392,Product Quality Controllers,Unit group,4,8,83,839,8392
+839231,Product Examiner,Occupation,4,8,83,839,8392
+839232,Product Grader,Occupation,4,8,83,839,8392
+839233,Product Tester,Occupation,4,8,83,839,8392
+84,"Farm, Garden and Forestry Workers",Sub-major group,4; 5,8,84,,
+841,Farm Workers,Minor group,4; 5,8,84,841,
+8411,Crop Farm Workers,Unit group,4; 5,8,84,841,8411
+841131,Cotton Farm Worker,Occupation,4,8,84,841,8411
+841132,Fruit Farm Worker,Occupation,5,8,84,841,8411
+841133,Fruit Picker,Occupation,5,8,84,841,8411
+841134,"Grain, Oilseed, Pulse and Pasture Farm Worker",Occupation,4,8,84,841,8411
+841135,Mushroom Picker,Occupation,5,8,84,841,8411
+841136,Nut Farm Worker,Occupation,5,8,84,841,8411
+841137,Sugar Cane Farm Worker,Occupation,4,8,84,841,8411
+841138,Vegetable Farm Worker,Occupation,5,8,84,841,8411
+841141,Vegetable Picker,Occupation,5,8,84,841,8411
+841142,Vineyard Worker,Occupation,4,8,84,841,8411
+841199,Crop Farm Workers nec,Occupation,5,8,84,841,8411
+8412,Livestock Farm Workers,Unit group,4; 5,8,84,841,8412
+841231,Beef Cattle Farm Worker,Occupation,4,8,84,841,8412
+841232,Cattle and Sheep Farm Worker,Occupation,4,8,84,841,8412
+841233,Dairy Cattle Farm Worker,Occupation,4,8,84,841,8412
+841234,Livestock Husbandry Worker,Occupation,4,8,84,841,8412
+841235,Piggery Farm Worker,Occupation,4,8,84,841,8412
+841236,Poultry Farm Worker,Occupation,4,8,84,841,8412
+841237,Sheep Farm Worker,Occupation,4,8,84,841,8412
+841238,Stablehand,Occupation,4,8,84,841,8412
+841241,Wool Handler,Occupation,5,8,84,841,8412
+841299,Livestock Farm Workers nec,Occupation,5,8,84,841,8412
+8413,Mixed Production and Aquaculture Farm Workers,Unit group,5,8,84,841,8413
+841331,Aquaculture Worker,Occupation,5,8,84,841,8413
+841332,Broadacre Crop and Livestock Farm Worker,Occupation,5,8,84,841,8413
+841399,Mixed Production and Aquaculture Farm Workers nec,Occupation,5,8,84,841,8413
+842,Garden and Forestry Workers,Minor group,4; 5,8,84,842,
+8421,Garden Labourers,Unit group,5,8,84,842,8421
+842131,Garden Labourer,Occupation,5,8,84,842,8421
+8422,Horticultural Nursery Assistants,Unit group,5,8,84,842,8422
+842231,Horticultural Nursery Assistant,Occupation,5,8,84,842,8422
+8429,Other Garden and Forestry Workers,Unit group,4; 5,8,84,842,8429
+842931,Bush Regenerator,Occupation,4,8,84,842,8429
+842932,Forestry Worker,Occupation,4,8,84,842,8429
+842933,Irrigation Assistant,Occupation,5,8,84,842,8429
+842999,Garden and Forestry Workers nec,Occupation,5,8,84,842,8429
+85,Fast Food Cooks and Food Preparation Assistants,Sub-major group,5,8,85,,
+851,Fast Food Cooks and Food Preparation Assistants,Minor group,5,8,85,851,
+8511,Fast Food Cooks,Unit group,5,8,85,851,8511
+851131,Fast Food Cook,Occupation,5,8,85,851,8511
+8512,Food Preparation Assistants,Unit group,5,8,85,851,8512
+851231,Kitchenhand (General),Occupation,5,8,85,851,8512
+851232,Dishwasher,Occupation,5,8,85,851,8512
+851233,Pastrycook's Assistant,Occupation,5,8,85,851,8512
+851299,Food Preparation Assistants nec,Occupation,5,8,85,851,8512
+89,Other Labourers,Sub-major group,4; 5,8,89,,
+891,Freight Handlers and Shelf Fillers,Minor group,5,8,89,891,
+8911,Freight and Furniture Handlers,Unit group,5,8,89,891,8911
+891131,Freight Handler (Rail or Road),Occupation,5,8,89,891,8911
+891132,Truck Driver's Offsider,Occupation,5,8,89,891,8911
+8912,Shelf Fillers,Unit group,5,8,89,891,8912
+891231,Shelf Filler,Occupation,5,8,89,891,8912
+899,Miscellaneous Labourers,Minor group,4; 5,8,89,899,
+8991,Caretakers,Unit group,5,8,89,899,8991
+899131,Caretaker,Occupation,5,8,89,899,8991
+8992,Deck and Fishing Hands,Unit group,4,8,89,899,8992
+899231,Deck Hand,Occupation,4,8,89,899,8992
+899232,Fishing Hand,Occupation,4,8,89,899,8992
+8993,Handypersons,Unit group,5,8,89,899,8993
+899331,Handyperson,Occupation,5,8,89,899,8993
+8994,Motor Vehicle Parts and Accessories Fitters,Unit group,4; 5,8,89,899,8994
+899431,Motor Vehicle Parts and Accessories Fitter (General),Occupation,4,8,89,899,8994
+899432,Autoglazier,Occupation,4,8,89,899,8994
+899433,Mechanic's Assistant,Occupation,5,8,89,899,8994
+899434,Tyre Fitter,Occupation,4,8,89,899,8994
+8995,"Rail Guards, Conductors and Railways Assistants",Unit group,5,8,89,899,8995
+899531,Rail Guard or Conductor,Occupation,5,8,89,899,8995
+899532,Railways Assistant,Occupation,5,8,89,899,8995
+8996,Road Traffic Controllers,Unit group,5,8,89,899,8996
+899631,Road Traffic Controller,Occupation,5,8,89,899,8996
+8999,Other Miscellaneous Labourers,Unit group,4; 5,8,89,899,8999
+899931,Car Park Attendant,Occupation,5,8,89,899,8999
+899932,Crossing Supervisor,Occupation,5,8,89,899,8999
+899933,Electrical or Telecommunications Trades Assistant,Occupation,5,8,89,899,8999
+899934,Leaflet or Newspaper Deliverer,Occupation,5,8,89,899,8999
+899935,Recycling or Waste Collector,Occupation,5,8,89,899,8999
+899936,Sign Installer,Occupation,5,8,89,899,8999
+899937,Swimming Pool or Spa Technician,Occupation,4,8,89,899,8999
+899938,Trolley Collector,Occupation,5,8,89,899,8999
+899941,Vending Machine Attendant,Occupation,5,8,89,899,8999
+899999,Labourers nec,Occupation,5,8,89,899,8999

@@ -1,0 +1,40 @@
+{
+ "latest_quarter": "2026-03",
+ "nom_year_to_latest_quarter_AUS": 292137.0,
+ "nom_financial_years_AUS_3101": {
+  "2019-20": 192703.0,
+  "2020-21": -84930.0,
+  "2021-22": 207912.0,
+  "2022-23": 538341.0,
+  "2023-24": 429162.0,
+  "2024-25": 301572.0
+ },
+ "nom_financial_years_AUS_34070DO004": {
+  "2019-20": 192690.0,
+  "2020-21": -84930.0,
+  "2021-22": 207910.0,
+  "2022-23": 538340.0,
+  "2023-24": 429160.0,
+  "2024-25": 305570.0
+ },
+ "note_vintages": "34070 (Dec 2025 release) and 3101 (Mar 2026 release) differ for recent years because ABS revises preliminary NOM.",
+ "states_sum_vs_AUS_nom_latest_year": {
+  "states": 292107.0,
+  "australia": 292137.0,
+  "difference_is_other_territories": 30.0
+ },
+ "3101_tables_agree_on_quarterly_nom": true,
+ "history_vs_3101_FY2020_21_nom": {
+  "HPDC7": -84935.0,
+  "3101": -84930.0
+ },
+ "rows": {
+  "abs_population_quarterly_by_state.csv": 1620,
+  "abs_population_components_australia.csv": 180,
+  "abs_nom_visa_groups_by_state.csv": 6426,
+  "abs_population_history.csv": 2045,
+  "population_years_by_state.csv": 1584,
+  "nom_by_visa_group.csv": 3402,
+  "population_long_run_australia.csv": 166
+ }
+}

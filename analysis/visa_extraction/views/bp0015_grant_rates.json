@@ -1,0 +1,4 @@
+{
+ "student_decisions_sector_state_month": {"dims": ["Financial Year of Decision","Financial Year Quarter","Month","Client Location","Sector","Applicant Type","Education Provider Registered State"], "measures": ["Grant Total","Refused Total","Total"]},
+ "student_decisions_age": {"dims": ["Financial Year of Decision","Applicant Type","Sector","Age Group"], "measures": ["Grant Total","Refused Total","Total"]}
+}

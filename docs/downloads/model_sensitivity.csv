@@ -1,0 +1,113 @@
+test,setting,plan,case,measure,measure_label,value,central_value,difference
+central,as published,Government (Labor),central,population_june_2030,Population at 30 June 2030,29316831,29316831,0
+central,as published,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,132236,132236,0
+central,as published,Government (Labor),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",762674,762674,0
+central,as published,Coalition (Liberal-National),central,population_june_2030,Population at 30 June 2030,29090923,29090923,0
+central,as published,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,109646,109646,0
+central,as published,Coalition (Liberal-National),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",575398,575398,0
+central,as published,Coalition (Liberal-National),low,population_june_2030,Population at 30 June 2030,28996831,28996831,0
+central,as published,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,100236,100236,0
+central,as published,Coalition (Liberal-National),low,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",497396,497396,0
+central,as published,One Nation,central,population_june_2030,Population at 30 June 2030,28143830,28143830,0
+central,as published,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,14936,14936,0
+central,as published,One Nation,central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",-209736,-209736,0
+central,as published,One Nation,low,population_june_2030,Population at 30 June 2030,27760832,27760832,0
+central,as published,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-23364,-23364,0
+central,as published,One Nation,low,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",-527239,-527239,0
+central,as published,One Nation,high,population_june_2030,Population at 30 June 2030,28626831,28626831,0
+central,as published,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,63236,63236,0
+central,as published,One Nation,high,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",190668,190668,0
+central,as published,Reference: latest year held flat (not a plan),central,population_june_2030,Population at 30 June 2030,29565379,29565379,0
+central,as published,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,157091,157091,0
+central,as published,Reference: latest year held flat (not a plan),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",968718,968718,0
+people_per_home,2.3,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,143735,132236,11499
+people_per_home,2.3,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,119180,109646,9534
+people_per_home,2.3,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,108953,100236,8717
+people_per_home,2.3,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,16235,14936,1299
+people_per_home,2.3,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-25395,-23364,-2031
+people_per_home,2.3,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,68735,63236,5499
+people_per_home,2.3,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,170751,157091,13660
+people_per_home,2.4,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,137746,132236,5510
+people_per_home,2.4,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,114214,109646,4568
+people_per_home,2.4,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,104413,100236,4177
+people_per_home,2.4,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,15559,14936,623
+people_per_home,2.4,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-24337,-23364,-973
+people_per_home,2.4,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,65871,63236,2635
+people_per_home,2.4,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,163637,157091,6546
+people_per_home,2.6,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,127150,132236,-5086
+people_per_home,2.6,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,105428,109646,-4218
+people_per_home,2.6,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,96381,100236,-3855
+people_per_home,2.6,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,14362,14936,-574
+people_per_home,2.6,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-22465,-23364,899
+people_per_home,2.6,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,60804,63236,-2432
+people_per_home,2.6,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,151049,157091,-6042
+people_per_home,2.7,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,122441,132236,-9795
+people_per_home,2.7,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,101524,109646,-8122
+people_per_home,2.7,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,92811,100236,-7425
+people_per_home,2.7,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,13830,14936,-1106
+people_per_home,2.7,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-21633,-23364,1731
+people_per_home,2.7,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,58552,63236,-4684
+people_per_home,2.7,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,145455,157091,-11636
+people_per_home,2.8,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,118068,132236,-14168
+people_per_home,2.8,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,97898,109646,-11748
+people_per_home,2.8,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,89497,100236,-10739
+people_per_home,2.8,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,13336,14936,-1600
+people_per_home,2.8,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-20860,-23364,2504
+people_per_home,2.8,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,56461,63236,-6775
+people_per_home,2.8,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,140260,157091,-16831
+working_age_share,0.8,Government (Labor),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",736000,762674,-26674
+working_age_share,0.8,Coalition (Liberal-National),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",555274,575398,-20124
+working_age_share,0.8,Coalition (Liberal-National),low,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",480000,497396,-17396
+working_age_share,0.8,One Nation,central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",-202401,-209736,7335
+working_age_share,0.8,One Nation,low,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",-508799,-527239,18440
+working_age_share,0.8,One Nation,high,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",184000,190668,-6668
+working_age_share,0.8,Reference: latest year held flat (not a plan),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",934838,968718,-33880
+working_age_share,0.86,Government (Labor),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",791200,762674,28526
+working_age_share,0.86,Coalition (Liberal-National),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",596919,575398,21521
+working_age_share,0.86,Coalition (Liberal-National),low,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",516000,497396,18604
+working_age_share,0.86,One Nation,central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",-217581,-209736,-7845
+working_age_share,0.86,One Nation,low,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",-546959,-527239,-19720
+working_age_share,0.86,One Nation,high,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",197800,190668,7132
+working_age_share,0.86,Reference: latest year held flat (not a plan),central,working_age_people_added_via_nom_4y,"Working-age people added through migration, four years",1004951,968718,36233
+births_minus_deaths,0.9,Government (Labor),central,population_june_2030,Population at 30 June 2030,29276595,29316831,-40236
+births_minus_deaths,0.9,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,128213,132236,-4023
+births_minus_deaths,0.9,Coalition (Liberal-National),central,population_june_2030,Population at 30 June 2030,29050687,29090923,-40236
+births_minus_deaths,0.9,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,105622,109646,-4024
+births_minus_deaths,0.9,Coalition (Liberal-National),low,population_june_2030,Population at 30 June 2030,28956595,28996831,-40236
+births_minus_deaths,0.9,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,96213,100236,-4023
+births_minus_deaths,0.9,One Nation,central,population_june_2030,Population at 30 June 2030,28103594,28143830,-40236
+births_minus_deaths,0.9,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,10913,14936,-4023
+births_minus_deaths,0.9,One Nation,low,population_june_2030,Population at 30 June 2030,27720596,27760832,-40236
+births_minus_deaths,0.9,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-27387,-23364,-4023
+births_minus_deaths,0.9,One Nation,high,population_june_2030,Population at 30 June 2030,28586595,28626831,-40236
+births_minus_deaths,0.9,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,59213,63236,-4023
+births_minus_deaths,0.9,Reference: latest year held flat (not a plan),central,population_june_2030,Population at 30 June 2030,29525143,29565379,-40236
+births_minus_deaths,0.9,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,153068,157091,-4023
+births_minus_deaths,1.1,Government (Labor),central,population_june_2030,Population at 30 June 2030,29357067,29316831,40236
+births_minus_deaths,1.1,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,136260,132236,4024
+births_minus_deaths,1.1,Coalition (Liberal-National),central,population_june_2030,Population at 30 June 2030,29131159,29090923,40236
+births_minus_deaths,1.1,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,113669,109646,4023
+births_minus_deaths,1.1,Coalition (Liberal-National),low,population_june_2030,Population at 30 June 2030,29037067,28996831,40236
+births_minus_deaths,1.1,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,104260,100236,4024
+births_minus_deaths,1.1,One Nation,central,population_june_2030,Population at 30 June 2030,28184066,28143830,40236
+births_minus_deaths,1.1,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,18960,14936,4024
+births_minus_deaths,1.1,One Nation,low,population_june_2030,Population at 30 June 2030,27801068,27760832,40236
+births_minus_deaths,1.1,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-19340,-23364,4024
+births_minus_deaths,1.1,One Nation,high,population_june_2030,Population at 30 June 2030,28667067,28626831,40236
+births_minus_deaths,1.1,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,67260,63236,4024
+births_minus_deaths,1.1,Reference: latest year held flat (not a plan),central,population_june_2030,Population at 30 June 2030,29605615,29565379,40236
+births_minus_deaths,1.1,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,161115,157091,4024
+opposition_plans_start_2027_28,yes,Government (Labor),central,population_june_2030,Population at 30 June 2030,29316831,29316831,0
+opposition_plans_start_2027_28,yes,Government (Labor),central,homes_needed_per_year,Homes needed a year for the growth,132236,132236,0
+opposition_plans_start_2027_28,yes,Coalition (Liberal-National),central,population_june_2030,Population at 30 June 2030,29162400,29090923,71477
+opposition_plans_start_2027_28,yes,Coalition (Liberal-National),central,homes_needed_per_year,Homes needed a year for the growth,116793,109646,7147
+opposition_plans_start_2027_28,yes,Coalition (Liberal-National),low,population_june_2030,Population at 30 June 2030,29091831,28996831,95000
+opposition_plans_start_2027_28,yes,Coalition (Liberal-National),low,homes_needed_per_year,Homes needed a year for the growth,109736,100236,9500
+opposition_plans_start_2027_28,yes,One Nation,central,population_june_2030,Population at 30 June 2030,28258830,28143830,115000
+opposition_plans_start_2027_28,yes,One Nation,central,homes_needed_per_year,Homes needed a year for the growth,26436,14936,11500
+opposition_plans_start_2027_28,yes,One Nation,low,population_june_2030,Population at 30 June 2030,27875832,27760832,115000
+opposition_plans_start_2027_28,yes,One Nation,low,homes_needed_per_year,Homes needed a year for the growth,-11864,-23364,11500
+opposition_plans_start_2027_28,yes,One Nation,high,population_june_2030,Population at 30 June 2030,28641831,28626831,15000
+opposition_plans_start_2027_28,yes,One Nation,high,homes_needed_per_year,Homes needed a year for the growth,64736,63236,1500
+opposition_plans_start_2027_28,yes,Reference: latest year held flat (not a plan),central,population_june_2030,Population at 30 June 2030,29565379,29565379,0
+opposition_plans_start_2027_28,yes,Reference: latest year held flat (not a plan),central,homes_needed_per_year,Homes needed a year for the growth,157091,157091,0

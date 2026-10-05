@@ -1,0 +1,381 @@
+anzsic_division,industry,financial_year,gva_cvm,gva_growth_pct,employed_avg,employed_growth_pct,gva_per_worker,gva_per_worker_growth_pct
+A,"Agriculture, forestry and fishing",2006-07,35684.0,,345900.0,,103163.0,
+A,"Agriculture, forestry and fishing",2007-08,38617.0,8.22,346000.0,0.03,111610.0,8.19
+A,"Agriculture, forestry and fishing",2008-09,45425.0,17.63,346175.0,0.05,131220.0,17.57
+A,"Agriculture, forestry and fishing",2009-10,45093.0,-0.73,342625.0,-1.03,131610.0,0.3
+A,"Agriculture, forestry and fishing",2010-11,46617.0,3.38,333550.0,-2.65,139760.0,6.19
+A,"Agriculture, forestry and fishing",2011-12,47045.0,0.92,322350.0,-3.36,145944.0,4.42
+A,"Agriculture, forestry and fishing",2012-13,46653.0,-0.83,314050.0,-2.57,148553.0,1.79
+A,"Agriculture, forestry and fishing",2013-14,47158.0,1.08,311250.0,-0.89,151512.0,1.99
+A,"Agriculture, forestry and fishing",2014-15,47944.0,1.67,312050.0,0.26,153642.0,1.41
+A,"Agriculture, forestry and fishing",2015-16,44507.0,-7.17,314675.0,0.84,141438.0,-7.94
+A,"Agriculture, forestry and fishing",2016-17,48716.0,9.46,319450.0,1.52,152500.0,7.82
+A,"Agriculture, forestry and fishing",2017-18,47348.0,-2.81,325800.0,1.99,145328.0,-4.7
+A,"Agriculture, forestry and fishing",2018-19,42370.0,-10.51,330225.0,1.36,128306.0,-11.71
+A,"Agriculture, forestry and fishing",2019-20,38246.0,-9.73,331000.0,0.23,115547.0,-9.94
+A,"Agriculture, forestry and fishing",2020-21,46415.0,21.36,326950.0,-1.22,141964.0,22.86
+A,"Agriculture, forestry and fishing",2021-22,54325.0,17.04,318550.0,-2.57,170538.0,20.13
+A,"Agriculture, forestry and fishing",2022-23,56836.0,4.62,311050.0,-2.35,182723.0,7.15
+A,"Agriculture, forestry and fishing",2023-24,54556.0,-4.01,306450.0,-1.48,178026.0,-2.57
+A,"Agriculture, forestry and fishing",2024-25,57592.0,5.56,300825.0,-1.84,191447.0,7.54
+A,"Agriculture, forestry and fishing",2025-26,61095.0,6.08,,,,
+B,Mining,2006-07,153543.0,,135200.0,,1135673.0,
+B,Mining,2007-08,158108.0,2.97,149450.0,10.54,1057932.0,-6.85
+B,Mining,2008-09,164394.0,3.98,166350.0,11.31,988242.0,-6.59
+B,Mining,2009-10,177560.0,8.01,187125.0,12.49,948884.0,-3.98
+B,Mining,2010-11,180045.0,1.4,212625.0,13.63,846772.0,-10.76
+B,Mining,2011-12,193213.0,7.31,237300.0,11.6,814214.0,-3.84
+B,Mining,2012-13,211513.0,9.47,251400.0,5.94,841340.0,3.33
+B,Mining,2013-14,233591.0,10.44,250800.0,-0.24,931384.0,10.7
+B,Mining,2014-15,251280.0,7.57,241100.0,-3.87,1042223.0,11.9
+B,Mining,2015-16,267194.0,6.33,233150.0,-3.3,1146018.0,9.96
+B,Mining,2016-17,269742.0,0.95,233525.0,0.16,1155088.0,0.79
+B,Mining,2017-18,283011.0,4.92,242325.0,3.77,1167898.0,1.11
+B,Mining,2018-19,296751.0,4.85,255325.0,5.36,1162248.0,-0.48
+B,Mining,2019-20,308712.0,4.03,268725.0,5.25,1148803.0,-1.16
+B,Mining,2020-21,299640.0,-2.94,282675.0,5.19,1060016.0,-7.73
+B,Mining,2021-22,291474.0,-2.73,296000.0,4.71,984709.0,-7.1
+B,Mining,2022-23,291854.0,0.13,305350.0,3.16,955802.0,-2.94
+B,Mining,2023-24,292712.0,0.29,310000.0,1.52,944232.0,-1.21
+B,Mining,2024-25,289848.0,-0.98,312050.0,0.66,928851.0,-1.63
+B,Mining,2025-26,295137.0,1.82,,,,
+C,Manufacturing,2006-07,151067.0,,1019475.0,,148181.0,
+C,Manufacturing,2007-08,158054.0,4.63,1044925.0,2.5,151259.0,2.08
+C,Manufacturing,2008-09,149242.0,-5.58,1023000.0,-2.1,145887.0,-3.55
+C,Manufacturing,2009-10,149547.0,0.2,990125.0,-3.21,151039.0,3.53
+C,Manufacturing,2010-11,149028.0,-0.35,967000.0,-2.34,154114.0,2.04
+C,Manufacturing,2011-12,150659.0,1.09,945925.0,-2.18,159272.0,3.35
+C,Manufacturing,2012-13,146105.0,-3.02,935775.0,-1.07,156133.0,-1.97
+C,Manufacturing,2013-14,144858.0,-0.85,924375.0,-1.22,156709.0,0.37
+C,Manufacturing,2014-15,142533.0,-1.61,910100.0,-1.54,156612.0,-0.06
+C,Manufacturing,2015-16,139521.0,-2.11,891200.0,-2.08,156554.0,-0.04
+C,Manufacturing,2016-17,138566.0,-0.68,901450.0,1.15,153715.0,-1.81
+C,Manufacturing,2017-18,141653.0,2.23,908050.0,0.73,155997.0,1.48
+C,Manufacturing,2018-19,140503.0,-0.81,904225.0,-0.42,155385.0,-0.39
+C,Manufacturing,2019-20,138320.0,-1.55,883425.0,-2.3,156572.0,0.76
+C,Manufacturing,2020-21,140884.0,1.85,879500.0,-0.44,160186.0,2.31
+C,Manufacturing,2021-22,144005.0,2.22,872275.0,-0.82,165091.0,3.06
+C,Manufacturing,2022-23,144356.0,0.24,875400.0,0.36,164903.0,-0.11
+C,Manufacturing,2023-24,144087.0,-0.19,905700.0,3.46,159089.0,-3.53
+C,Manufacturing,2024-25,140800.0,-2.28,881100.0,-2.72,159800.0,0.45
+C,Manufacturing,2025-26,141978.0,0.84,,,,
+D,"Electricity, gas, water and waste services",2006-07,48681.0,,108875.0,,447127.0,
+D,"Electricity, gas, water and waste services",2007-08,49028.0,0.71,117150.0,7.6,418506.0,-6.4
+D,"Electricity, gas, water and waste services",2008-09,51415.0,4.87,125925.0,7.49,408299.0,-2.44
+D,"Electricity, gas, water and waste services",2009-10,52596.0,2.3,133800.0,6.25,393094.0,-3.72
+D,"Electricity, gas, water and waste services",2010-11,53702.0,2.1,140050.0,4.67,383449.0,-2.45
+D,"Electricity, gas, water and waste services",2011-12,53743.0,0.08,143975.0,2.8,373280.0,-2.65
+D,"Electricity, gas, water and waste services",2012-13,54128.0,0.72,145500.0,1.06,372014.0,-0.34
+D,"Electricity, gas, water and waste services",2013-14,52963.0,-2.15,145475.0,-0.02,364069.0,-2.14
+D,"Electricity, gas, water and waste services",2014-15,53819.0,1.62,144650.0,-0.57,372064.0,2.2
+D,"Electricity, gas, water and waste services",2015-16,55497.0,3.12,144000.0,-0.45,385396.0,3.58
+D,"Electricity, gas, water and waste services",2016-17,55404.0,-0.17,144275.0,0.19,384017.0,-0.36
+D,"Electricity, gas, water and waste services",2017-18,56428.0,1.85,145750.0,1.02,387156.0,0.82
+D,"Electricity, gas, water and waste services",2018-19,56632.0,0.36,148000.0,1.54,382649.0,-1.16
+D,"Electricity, gas, water and waste services",2019-20,54794.0,-3.25,150625.0,1.77,363778.0,-4.93
+D,"Electricity, gas, water and waste services",2020-21,55668.0,1.6,154325.0,2.46,360719.0,-0.84
+D,"Electricity, gas, water and waste services",2021-22,56817.0,2.06,160350.0,3.9,354331.0,-1.77
+D,"Electricity, gas, water and waste services",2022-23,57148.0,0.58,169625.0,5.78,336908.0,-4.92
+D,"Electricity, gas, water and waste services",2023-24,58288.0,1.99,182375.0,7.52,319605.0,-5.14
+D,"Electricity, gas, water and waste services",2024-25,59430.0,1.96,197700.0,8.4,300607.0,-5.94
+D,"Electricity, gas, water and waste services",2025-26,59929.0,0.84,,,,
+E,Construction,2006-07,136023.0,,918375.0,,148113.0,
+E,Construction,2007-08,145757.0,7.16,957150.0,4.22,152282.0,2.81
+E,Construction,2008-09,152374.0,4.54,981075.0,2.5,155313.0,1.99
+E,Construction,2009-10,153335.0,0.63,983300.0,0.23,155939.0,0.4
+E,Construction,2010-11,157740.0,2.87,1001550.0,1.86,157496.0,1.0
+E,Construction,2011-12,176151.0,11.67,995175.0,-0.64,177005.0,12.39
+E,Construction,2012-13,182158.0,3.41,987250.0,-0.8,184511.0,4.24
+E,Construction,2013-14,190682.0,4.68,1010600.0,2.37,188682.0,2.26
+E,Construction,2014-15,185973.0,-2.47,1030425.0,1.96,180482.0,-4.35
+E,Construction,2015-16,182848.0,-1.68,1049325.0,1.83,174253.0,-3.45
+E,Construction,2016-17,176992.0,-3.2,1096375.0,4.48,161434.0,-7.36
+E,Construction,2017-18,185432.0,4.77,1160875.0,5.88,159735.0,-1.05
+E,Construction,2018-19,183998.0,-0.77,1172150.0,0.97,156975.0,-1.73
+E,Construction,2019-20,176855.0,-3.88,1174975.0,0.24,150518.0,-4.11
+E,Construction,2020-21,176255.0,-0.34,1155375.0,-1.67,152552.0,1.35
+E,Construction,2021-22,182149.0,3.34,1174400.0,1.65,155100.0,1.67
+E,Construction,2022-23,186819.0,2.56,1280650.0,9.05,145878.0,-5.95
+E,Construction,2023-24,189143.0,1.24,1330350.0,3.88,142175.0,-2.54
+E,Construction,2024-25,189657.0,0.27,1346825.0,1.24,140818.0,-0.95
+E,Construction,2025-26,194384.0,2.49,,,,
+F,Wholesale trade,2006-07,70324.0,,389300.0,,180642.0,
+F,Wholesale trade,2007-08,72620.0,3.26,396675.0,1.89,183072.0,1.35
+F,Wholesale trade,2008-09,73446.0,1.14,403725.0,1.78,181921.0,-0.63
+F,Wholesale trade,2009-10,75565.0,2.89,409325.0,1.39,184609.0,1.48
+F,Wholesale trade,2010-11,75275.0,-0.38,412150.0,0.69,182640.0,-1.07
+F,Wholesale trade,2011-12,79777.0,5.98,412700.0,0.13,193305.0,5.84
+F,Wholesale trade,2012-13,83102.0,4.17,409525.0,-0.77,202923.0,4.98
+F,Wholesale trade,2013-14,81838.0,-1.52,399925.0,-2.34,204633.0,0.84
+F,Wholesale trade,2014-15,84388.0,3.12,387200.0,-3.18,217944.0,6.5
+F,Wholesale trade,2015-16,87329.0,3.49,376500.0,-2.76,231950.0,6.43
+F,Wholesale trade,2016-17,92108.0,5.47,371175.0,-1.41,248152.0,6.99
+F,Wholesale trade,2017-18,92922.0,0.88,372600.0,0.38,249388.0,0.5
+F,Wholesale trade,2018-19,93910.0,1.06,377675.0,1.36,248653.0,-0.29
+F,Wholesale trade,2019-20,93234.0,-0.72,379500.0,0.48,245676.0,-1.2
+F,Wholesale trade,2020-21,97506.0,4.58,375850.0,-0.96,259428.0,5.6
+F,Wholesale trade,2021-22,98977.0,1.51,371125.0,-1.26,266695.0,2.8
+F,Wholesale trade,2022-23,106017.0,7.11,369075.0,-0.55,287251.0,7.71
+F,Wholesale trade,2023-24,106271.0,0.24,364775.0,-1.17,291333.0,1.42
+F,Wholesale trade,2024-25,106349.0,0.07,351325.0,-3.69,302708.0,3.9
+F,Wholesale trade,2025-26,109385.0,2.85,,,,
+G,Retail trade,2006-07,77249.0,,1178300.0,,65560.0,
+G,Retail trade,2007-08,82297.0,6.53,1214900.0,3.11,67740.0,3.33
+G,Retail trade,2008-09,82167.0,-0.16,1207800.0,-0.58,68030.0,0.43
+G,Retail trade,2009-10,83564.0,1.7,1184175.0,-1.96,70567.0,3.73
+G,Retail trade,2010-11,85409.0,2.21,1196725.0,1.06,71369.0,1.14
+G,Retail trade,2011-12,88350.0,3.44,1197050.0,0.03,73806.0,3.41
+G,Retail trade,2012-13,91138.0,3.16,1208925.0,0.99,75388.0,2.14
+G,Retail trade,2013-14,92287.0,1.26,1228150.0,1.59,75143.0,-0.32
+G,Retail trade,2014-15,95569.0,3.56,1233725.0,0.45,77464.0,3.09
+G,Retail trade,2015-16,98711.0,3.29,1250900.0,1.39,78912.0,1.87
+G,Retail trade,2016-17,100019.0,1.33,1242650.0,-0.66,80488.0,2.0
+G,Retail trade,2017-18,102668.0,2.65,1267825.0,2.03,80980.0,0.61
+G,Retail trade,2018-19,103586.0,0.89,1265450.0,-0.19,81857.0,1.08
+G,Retail trade,2019-20,103681.0,0.09,1248400.0,-1.35,83051.0,1.46
+G,Retail trade,2020-21,109058.0,5.19,1258175.0,0.78,86680.0,4.37
+G,Retail trade,2021-22,112101.0,2.79,1282850.0,1.96,87384.0,0.81
+G,Retail trade,2022-23,115404.0,2.95,1326875.0,3.43,86974.0,-0.47
+G,Retail trade,2023-24,114575.0,-0.72,1327950.0,0.08,86280.0,-0.8
+G,Retail trade,2024-25,115344.0,0.67,1334400.0,0.49,86439.0,0.18
+G,Retail trade,2025-26,117079.0,1.5,,,,
+H,Accommodation and food services,2006-07,51560.0,,684500.0,,75325.0,
+H,Accommodation and food services,2007-08,51606.0,0.09,702275.0,2.6,73484.0,-2.44
+H,Accommodation and food services,2008-09,50538.0,-2.07,716775.0,2.06,70507.0,-4.05
+H,Accommodation and food services,2009-10,50008.0,-1.05,738625.0,3.05,67704.0,-3.98
+H,Accommodation and food services,2010-11,51117.0,2.22,759300.0,2.8,67321.0,-0.57
+H,Accommodation and food services,2011-12,52836.0,3.36,763350.0,0.53,69216.0,2.81
+H,Accommodation and food services,2012-13,52580.0,-0.48,778600.0,2.0,67531.0,-2.43
+H,Accommodation and food services,2013-14,53216.0,1.21,786525.0,1.02,67660.0,0.19
+H,Accommodation and food services,2014-15,55399.0,4.1,814775.0,3.59,67993.0,0.49
+H,Accommodation and food services,2015-16,57873.0,4.47,834400.0,2.41,69359.0,2.01
+H,Accommodation and food services,2016-17,58191.0,0.55,857250.0,2.74,67881.0,-2.13
+H,Accommodation and food services,2017-18,59533.0,2.31,875400.0,2.12,68007.0,0.19
+H,Accommodation and food services,2018-19,60045.0,0.86,891425.0,1.83,67358.0,-0.95
+H,Accommodation and food services,2019-20,54482.0,-9.26,911633.0,2.27,59763.0,-11.28
+H,Accommodation and food services,2020-21,55987.0,2.76,,,,
+H,Accommodation and food services,2021-22,57037.0,1.88,915600.0,,62295.0,
+H,Accommodation and food services,2022-23,66759.0,17.05,929575.0,1.53,71817.0,15.29
+H,Accommodation and food services,2023-24,64710.0,-3.07,929125.0,-0.05,69646.0,-3.02
+H,Accommodation and food services,2024-25,64390.0,-0.49,955700.0,2.86,67375.0,-3.26
+H,Accommodation and food services,2025-26,66473.0,3.23,,,,
+I,"Transport, postal and warehousing",2006-07,83650.0,,515150.0,,162380.0,
+I,"Transport, postal and warehousing",2007-08,88319.0,5.58,550425.0,6.85,160456.0,-1.18
+I,"Transport, postal and warehousing",2008-09,88127.0,-0.22,581575.0,5.66,151532.0,-5.56
+I,"Transport, postal and warehousing",2009-10,89592.0,1.66,575925.0,-0.97,155562.0,2.66
+I,"Transport, postal and warehousing",2010-11,92152.0,2.86,574950.0,-0.17,160278.0,3.03
+I,"Transport, postal and warehousing",2011-12,96047.0,4.23,564950.0,-1.74,170010.0,6.07
+I,"Transport, postal and warehousing",2012-13,99465.0,3.56,579225.0,2.53,171721.0,1.01
+I,"Transport, postal and warehousing",2013-14,99253.0,-0.21,590675.0,1.98,168033.0,-2.15
+I,"Transport, postal and warehousing",2014-15,99535.0,0.28,601900.0,1.9,165368.0,-1.59
+I,"Transport, postal and warehousing",2015-16,101689.0,2.16,618550.0,2.77,164399.0,-0.59
+I,"Transport, postal and warehousing",2016-17,104705.0,2.97,621375.0,0.46,168505.0,2.5
+I,"Transport, postal and warehousing",2017-18,106924.0,2.12,635800.0,2.32,168172.0,-0.2
+I,"Transport, postal and warehousing",2018-19,108318.0,1.3,651400.0,2.45,166285.0,-1.12
+I,"Transport, postal and warehousing",2019-20,101830.0,-5.99,658167.0,1.04,154718.0,-6.96
+I,"Transport, postal and warehousing",2020-21,92611.0,-9.05,653450.0,-0.72,141726.0,-8.4
+I,"Transport, postal and warehousing",2021-22,102311.0,10.47,669150.0,2.4,152897.0,7.88
+I,"Transport, postal and warehousing",2022-23,113517.0,10.95,708375.0,5.86,160250.0,4.81
+I,"Transport, postal and warehousing",2023-24,117780.0,3.76,730400.0,3.11,161254.0,0.63
+I,"Transport, postal and warehousing",2024-25,121141.0,2.85,738125.0,1.06,164120.0,1.78
+I,"Transport, postal and warehousing",2025-26,125410.0,3.52,,,,
+J,Information media and telecommunications,2006-07,24779.0,,232900.0,,106393.0,
+J,Information media and telecommunications,2007-08,26258.0,5.97,229975.0,-1.26,114178.0,7.32
+J,Information media and telecommunications,2008-09,26731.0,1.8,225300.0,-2.03,118646.0,3.91
+J,Information media and telecommunications,2009-10,27333.0,2.25,220475.0,-2.14,123973.0,4.49
+J,Information media and telecommunications,2010-11,28222.0,3.25,216625.0,-1.75,130280.0,5.09
+J,Information media and telecommunications,2011-12,28694.0,1.67,213900.0,-1.26,134147.0,2.97
+J,Information media and telecommunications,2012-13,28751.0,0.2,211675.0,-1.04,135826.0,1.25
+J,Information media and telecommunications,2013-14,30065.0,4.57,209900.0,-0.84,143235.0,5.45
+J,Information media and telecommunications,2014-15,32284.0,7.38,209275.0,-0.3,154266.0,7.7
+J,Information media and telecommunications,2015-16,34910.0,8.13,209425.0,0.07,166695.0,8.06
+J,Information media and telecommunications,2016-17,35782.0,2.5,209500.0,0.04,170797.0,2.46
+J,Information media and telecommunications,2017-18,38989.0,8.96,208375.0,-0.54,187110.0,9.55
+J,Information media and telecommunications,2018-19,40356.0,3.51,205350.0,-1.45,196523.0,5.03
+J,Information media and telecommunications,2019-20,41107.0,1.86,200800.0,-2.22,204716.0,4.17
+J,Information media and telecommunications,2020-21,42608.0,3.65,196200.0,-2.29,217166.0,6.08
+J,Information media and telecommunications,2021-22,47702.0,11.96,192575.0,-1.85,247706.0,14.06
+J,Information media and telecommunications,2022-23,53190.0,11.5,189600.0,-1.54,280538.0,13.25
+J,Information media and telecommunications,2023-24,56526.0,6.27,186475.0,-1.65,303129.0,8.05
+J,Information media and telecommunications,2024-25,58269.0,3.08,182850.0,-1.94,318671.0,5.13
+J,Information media and telecommunications,2025-26,61642.0,5.79,,,,
+K,Financial and insurance services,2006-07,123592.0,,398925.0,,309813.0,
+K,Financial and insurance services,2007-08,127734.0,3.35,406825.0,1.98,313978.0,1.34
+K,Financial and insurance services,2008-09,126929.0,-0.63,402275.0,-1.12,315528.0,0.49
+K,Financial and insurance services,2009-10,129438.0,1.98,399325.0,-0.73,324142.0,2.73
+K,Financial and insurance services,2010-11,132695.0,2.52,405600.0,1.57,327157.0,0.93
+K,Financial and insurance services,2011-12,138369.0,4.28,423375.0,4.38,326824.0,-0.1
+K,Financial and insurance services,2012-13,143810.0,3.93,421475.0,-0.45,341206.0,4.4
+K,Financial and insurance services,2013-14,147573.0,2.62,414000.0,-1.77,356457.0,4.47
+K,Financial and insurance services,2014-15,154377.0,4.61,411400.0,-0.63,375248.0,5.27
+K,Financial and insurance services,2015-16,158419.0,2.62,430325.0,4.6,368138.0,-1.89
+K,Financial and insurance services,2016-17,162422.0,2.53,435775.0,1.27,372720.0,1.24
+K,Financial and insurance services,2017-18,163659.0,0.76,434900.0,-0.2,376314.0,0.96
+K,Financial and insurance services,2018-19,167791.0,2.52,442800.0,1.82,378932.0,0.7
+K,Financial and insurance services,2019-20,169493.0,1.01,459200.0,3.7,369105.0,-2.59
+K,Financial and insurance services,2020-21,176233.0,3.98,481975.0,4.96,365648.0,-0.94
+K,Financial and insurance services,2021-22,183724.0,4.25,526700.0,9.28,348821.0,-4.6
+K,Financial and insurance services,2022-23,183829.0,0.06,552050.0,4.81,332993.0,-4.54
+K,Financial and insurance services,2023-24,187452.0,1.97,546325.0,-1.04,343114.0,3.04
+K,Financial and insurance services,2024-25,193852.0,3.41,546950.0,0.11,354424.0,3.3
+K,Financial and insurance services,2025-26,203123.0,4.78,,,,
+L,"Rental, hiring and real estate services",2006-07,43064.0,,193025.0,,223101.0,
+L,"Rental, hiring and real estate services",2007-08,41736.0,-3.08,195350.0,1.2,213647.0,-4.24
+L,"Rental, hiring and real estate services",2008-09,44134.0,5.75,194600.0,-0.38,226793.0,6.15
+L,"Rental, hiring and real estate services",2009-10,44500.0,0.83,194250.0,-0.18,229086.0,1.01
+L,"Rental, hiring and real estate services",2010-11,44971.0,1.06,196775.0,1.3,228540.0,-0.24
+L,"Rental, hiring and real estate services",2011-12,48369.0,7.56,200275.0,1.78,241513.0,5.68
+L,"Rental, hiring and real estate services",2012-13,51352.0,6.17,203425.0,1.57,252437.0,4.52
+L,"Rental, hiring and real estate services",2013-14,54912.0,6.93,207100.0,1.81,265147.0,5.03
+L,"Rental, hiring and real estate services",2014-15,55512.0,1.09,210450.0,1.62,263778.0,-0.52
+L,"Rental, hiring and real estate services",2015-16,59874.0,7.86,211925.0,0.7,282524.0,7.11
+L,"Rental, hiring and real estate services",2016-17,62014.0,3.57,212075.0,0.07,292415.0,3.5
+L,"Rental, hiring and real estate services",2017-18,61869.0,-0.23,212100.0,0.01,291697.0,-0.25
+L,"Rental, hiring and real estate services",2018-19,63078.0,1.95,212575.0,0.22,296733.0,1.73
+L,"Rental, hiring and real estate services",2019-20,62884.0,-0.31,213850.0,0.6,294057.0,-0.9
+L,"Rental, hiring and real estate services",2020-21,64475.0,2.53,216625.0,1.3,297634.0,1.22
+L,"Rental, hiring and real estate services",2021-22,67910.0,5.33,220825.0,1.94,307529.0,3.32
+L,"Rental, hiring and real estate services",2022-23,67715.0,-0.29,224725.0,1.77,301324.0,-2.02
+L,"Rental, hiring and real estate services",2023-24,69648.0,2.85,228650.0,1.75,304605.0,1.09
+L,"Rental, hiring and real estate services",2024-25,70822.0,1.69,230425.0,0.78,307354.0,0.9
+L,"Rental, hiring and real estate services",2025-26,72750.0,2.72,,,,
+M,"Professional, scientific and technical services",2006-07,91137.0,,738675.0,,123379.0,
+M,"Professional, scientific and technical services",2007-08,94471.0,3.66,771325.0,4.42,122479.0,-0.73
+M,"Professional, scientific and technical services",2008-09,100046.0,5.9,786475.0,1.96,127208.0,3.86
+M,"Professional, scientific and technical services",2009-10,106487.0,6.44,821725.0,4.48,129590.0,1.87
+M,"Professional, scientific and technical services",2010-11,114797.0,7.8,850225.0,3.47,135020.0,4.19
+M,"Professional, scientific and technical services",2011-12,120268.0,4.77,879675.0,3.46,136719.0,1.26
+M,"Professional, scientific and technical services",2012-13,125596.0,4.43,906025.0,3.0,138623.0,1.39
+M,"Professional, scientific and technical services",2013-14,125689.0,0.07,912000.0,0.66,137817.0,-0.58
+M,"Professional, scientific and technical services",2014-15,127884.0,1.75,962500.0,5.54,132866.0,-3.59
+M,"Professional, scientific and technical services",2015-16,132662.0,3.74,1004175.0,4.33,132110.0,-0.57
+M,"Professional, scientific and technical services",2016-17,141127.0,6.38,1009775.0,0.56,139761.0,5.79
+M,"Professional, scientific and technical services",2017-18,148437.0,5.18,1025400.0,1.55,144760.0,3.58
+M,"Professional, scientific and technical services",2018-19,154937.0,4.38,1092575.0,6.55,141809.0,-2.04
+M,"Professional, scientific and technical services",2019-20,160338.0,3.49,1128125.0,3.25,142128.0,0.22
+M,"Professional, scientific and technical services",2020-21,165590.0,3.28,1156550.0,2.52,143176.0,0.74
+M,"Professional, scientific and technical services",2021-22,179431.0,8.36,1223075.0,5.75,146705.0,2.46
+M,"Professional, scientific and technical services",2022-23,190333.0,6.08,1288450.0,5.35,147722.0,0.69
+M,"Professional, scientific and technical services",2023-24,197326.0,3.67,1314100.0,1.99,150161.0,1.65
+M,"Professional, scientific and technical services",2024-25,195463.0,-0.94,1319550.0,0.41,148129.0,-1.35
+M,"Professional, scientific and technical services",2025-26,196662.0,0.61,,,,
+N,Administrative and support services,2006-07,57173.0,,347950.0,,164314.0,
+N,Administrative and support services,2007-08,61139.0,6.94,349875.0,0.55,174745.0,6.35
+N,Administrative and support services,2008-09,57166.0,-6.5,356375.0,1.86,160410.0,-8.2
+N,Administrative and support services,2009-10,56503.0,-1.16,368375.0,3.37,153384.0,-4.38
+N,Administrative and support services,2010-11,60079.0,6.33,380850.0,3.39,157750.0,2.85
+N,Administrative and support services,2011-12,59752.0,-0.54,388900.0,2.11,153644.0,-2.6
+N,Administrative and support services,2012-13,59309.0,-0.74,392750.0,0.99,151010.0,-1.71
+N,Administrative and support services,2013-14,62667.0,5.66,396425.0,0.94,158080.0,4.68
+N,Administrative and support services,2014-15,64218.0,2.47,403300.0,1.73,159231.0,0.73
+N,Administrative and support services,2015-16,65883.0,2.59,411875.0,2.13,159959.0,0.46
+N,Administrative and support services,2016-17,67983.0,3.19,417450.0,1.35,162853.0,1.81
+N,Administrative and support services,2017-18,72527.0,6.68,420450.0,0.72,172499.0,5.92
+N,Administrative and support services,2018-19,77419.0,6.75,423475.0,0.72,182818.0,5.98
+N,Administrative and support services,2019-20,76280.0,-1.47,424125.0,0.15,179853.0,-1.62
+N,Administrative and support services,2020-21,73720.0,-3.36,422800.0,-0.31,174361.0,-3.05
+N,Administrative and support services,2021-22,82297.0,11.63,423800.0,0.24,194188.0,11.37
+N,Administrative and support services,2022-23,89636.0,8.92,426100.0,0.54,210364.0,8.33
+N,Administrative and support services,2023-24,89235.0,-0.45,428475.0,0.56,208262.0,-1.0
+N,Administrative and support services,2024-25,90498.0,1.42,431175.0,0.63,209887.0,0.78
+N,Administrative and support services,2025-26,93132.0,2.91,,,,
+O,Public administration and safety,2006-07,88040.0,,633200.0,,139040.0,
+O,Public administration and safety,2007-08,88518.0,0.54,638725.0,0.87,138585.0,-0.33
+O,Public administration and safety,2008-09,93895.0,6.07,660350.0,3.39,142190.0,2.6
+O,Public administration and safety,2009-10,94220.0,0.35,678950.0,2.82,138773.0,-2.4
+O,Public administration and safety,2010-11,96815.0,2.75,703575.0,3.63,137604.0,-0.84
+O,Public administration and safety,2011-12,100082.0,3.37,717250.0,1.94,139536.0,1.4
+O,Public administration and safety,2012-13,101338.0,1.25,719625.0,0.33,140821.0,0.92
+O,Public administration and safety,2013-14,104195.0,2.82,743050.0,3.26,140226.0,-0.42
+O,Public administration and safety,2014-15,104660.0,0.45,733225.0,-1.32,142739.0,1.79
+O,Public administration and safety,2015-16,108730.0,3.89,746150.0,1.76,145721.0,2.09
+O,Public administration and safety,2016-17,109379.0,0.6,768475.0,2.99,142333.0,-2.32
+O,Public administration and safety,2017-18,111206.0,1.67,764225.0,-0.55,145515.0,2.24
+O,Public administration and safety,2018-19,115643.0,3.99,825800.0,8.06,140038.0,-3.76
+O,Public administration and safety,2019-20,121016.0,4.65,845850.0,2.43,143070.0,2.17
+O,Public administration and safety,2020-21,125064.0,3.35,874425.0,3.38,143024.0,-0.03
+O,Public administration and safety,2021-22,129319.0,3.4,894575.0,2.3,144559.0,1.07
+O,Public administration and safety,2022-23,131668.0,1.82,893925.0,-0.07,147292.0,1.89
+O,Public administration and safety,2023-24,137943.0,4.77,936450.0,4.76,147304.0,0.01
+O,Public administration and safety,2024-25,142661.0,3.42,974200.0,4.03,146439.0,-0.59
+O,Public administration and safety,2025-26,144382.0,1.21,,,,
+P,Education and training,2006-07,87459.0,,748950.0,,116775.0,
+P,Education and training,2007-08,89669.0,2.53,786050.0,4.95,114075.0,-2.31
+P,Education and training,2008-09,92787.0,3.48,804700.0,2.37,115306.0,1.08
+P,Education and training,2009-10,95341.0,2.75,825375.0,2.57,115512.0,0.18
+P,Education and training,2010-11,96498.0,1.21,845675.0,2.46,114108.0,-1.22
+P,Education and training,2011-12,98428.0,2.0,861750.0,1.9,114219.0,0.1
+P,Education and training,2012-13,99761.0,1.35,889600.0,3.23,112141.0,-1.82
+P,Education and training,2013-14,102011.0,2.26,897925.0,0.94,113607.0,1.31
+P,Education and training,2014-15,104355.0,2.3,915525.0,1.96,113984.0,0.33
+P,Education and training,2015-16,106997.0,2.53,937150.0,2.36,114173.0,0.17
+P,Education and training,2016-17,108243.0,1.16,975625.0,4.11,110947.0,-2.83
+P,Education and training,2017-18,109936.0,1.56,1010200.0,3.54,108826.0,-1.91
+P,Education and training,2018-19,112612.0,2.43,1038375.0,2.79,108450.0,-0.35
+P,Education and training,2019-20,114112.0,1.33,1071900.0,3.23,106458.0,-1.84
+P,Education and training,2020-21,117618.0,3.07,1092275.0,1.9,107682.0,1.15
+P,Education and training,2021-22,119078.0,1.24,1121725.0,2.7,106156.0,-1.42
+P,Education and training,2022-23,122082.0,2.52,1152000.0,2.7,105974.0,-0.17
+P,Education and training,2023-24,123575.0,1.22,1200975.0,4.25,102896.0,-2.9
+P,Education and training,2024-25,124602.0,0.83,1260400.0,4.95,98859.0,-3.92
+P,Education and training,2025-26,126961.0,1.89,,,,
+Q,Health care and social assistance,2006-07,92501.0,,1058950.0,,87352.0,
+Q,Health care and social assistance,2007-08,98426.0,6.41,1087400.0,2.69,90515.0,3.62
+Q,Health care and social assistance,2008-09,104529.0,6.2,1141875.0,5.01,91542.0,1.13
+Q,Health care and social assistance,2009-10,109826.0,5.07,1205225.0,5.55,91125.0,-0.46
+Q,Health care and social assistance,2010-11,111963.0,1.95,1267025.0,5.13,88367.0,-3.03
+Q,Health care and social assistance,2011-12,115281.0,2.96,1325050.0,4.58,87001.0,-1.55
+Q,Health care and social assistance,2012-13,120406.0,4.45,1363600.0,2.91,88300.0,1.49
+Q,Health care and social assistance,2013-14,126514.0,5.07,1384650.0,1.54,91369.0,3.48
+Q,Health care and social assistance,2014-15,132376.0,4.63,1435475.0,3.67,92218.0,0.93
+Q,Health care and social assistance,2015-16,136591.0,3.18,1521550.0,6.0,89771.0,-2.65
+Q,Health care and social assistance,2016-17,143442.0,5.02,1575400.0,3.54,91051.0,1.43
+Q,Health care and social assistance,2017-18,152054.0,6.0,1657450.0,5.21,91740.0,0.76
+Q,Health care and social assistance,2018-19,163566.0,7.57,1692175.0,2.1,96660.0,5.36
+Q,Health care and social assistance,2019-20,170626.0,4.32,1739325.0,2.79,98099.0,1.49
+Q,Health care and social assistance,2020-21,182080.0,6.71,1790150.0,2.92,101712.0,3.68
+Q,Health care and social assistance,2021-22,193255.0,6.14,1942875.0,8.53,99469.0,-2.21
+Q,Health care and social assistance,2022-23,203477.0,5.29,2100725.0,8.12,96860.0,-2.62
+Q,Health care and social assistance,2023-24,211767.0,4.07,2212125.0,5.3,95730.0,-1.17
+Q,Health care and social assistance,2024-25,218644.0,3.25,2301525.0,4.04,95000.0,-0.76
+Q,Health care and social assistance,2025-26,223446.0,2.2,,,,
+R,Arts and recreation services,2006-07,12630.0,,181550.0,,69568.0,
+R,Arts and recreation services,2007-08,12884.0,2.01,189025.0,4.12,68160.0,-2.02
+R,Arts and recreation services,2008-09,13987.0,8.56,194275.0,2.78,71996.0,5.63
+R,Arts and recreation services,2009-10,14073.0,0.61,197700.0,1.76,71184.0,-1.13
+R,Arts and recreation services,2010-11,14443.0,2.63,200950.0,1.64,71874.0,0.97
+R,Arts and recreation services,2011-12,14807.0,2.52,204475.0,1.75,72415.0,0.75
+R,Arts and recreation services,2012-13,14793.0,-0.09,207700.0,1.58,71223.0,-1.65
+R,Arts and recreation services,2013-14,15394.0,4.06,211575.0,1.87,72759.0,2.16
+R,Arts and recreation services,2014-15,15609.0,1.4,217575.0,2.84,71741.0,-1.4
+R,Arts and recreation services,2015-16,16180.0,3.66,223925.0,2.92,72256.0,0.72
+R,Arts and recreation services,2016-17,16364.0,1.14,229775.0,2.61,71217.0,-1.44
+R,Arts and recreation services,2017-18,16785.0,2.57,235675.0,2.57,71221.0,0.01
+R,Arts and recreation services,2018-19,17749.0,5.74,239100.0,1.45,74233.0,4.23
+R,Arts and recreation services,2019-20,16219.0,-8.62,239267.0,0.07,67786.0,-8.68
+R,Arts and recreation services,2020-21,15736.0,-2.98,,,,
+R,Arts and recreation services,2021-22,17667.0,12.27,241850.0,,73049.0,
+R,Arts and recreation services,2022-23,19661.0,11.29,248025.0,2.55,79270.0,8.52
+R,Arts and recreation services,2023-24,19798.0,0.7,257050.0,3.64,77020.0,-2.84
+R,Arts and recreation services,2024-25,20517.0,3.63,262075.0,1.95,78287.0,1.65
+R,Arts and recreation services,2025-26,20810.0,1.43,,,,
+S,Other services,2006-07,32891.0,,422575.0,,77835.0,
+S,Other services,2007-08,33553.0,2.01,453700.0,7.37,73954.0,-4.99
+S,Other services,2008-09,34486.0,2.78,451025.0,-0.59,76461.0,3.39
+S,Other services,2009-10,34486.0,0.0,447875.0,-0.7,76999.0,0.7
+S,Other services,2010-11,34842.0,1.03,449750.0,0.42,77470.0,0.61
+S,Other services,2011-12,36465.0,4.66,449625.0,-0.03,81101.0,4.69
+S,Other services,2012-13,35347.0,-3.07,454075.0,0.99,77844.0,-4.02
+S,Other services,2013-14,36809.0,4.14,475525.0,4.72,77407.0,-0.56
+S,Other services,2014-15,37574.0,2.08,480725.0,1.09,78161.0,0.97
+S,Other services,2015-16,38452.0,2.34,475450.0,-1.1,80875.0,3.47
+S,Other services,2016-17,38876.0,1.1,486525.0,2.33,79905.0,-1.2
+S,Other services,2017-18,39635.0,1.95,496300.0,2.01,79861.0,-0.06
+S,Other services,2018-19,41024.0,3.5,500125.0,0.77,82027.0,2.71
+S,Other services,2019-20,37981.0,-7.42,505667.0,1.11,75111.0,-8.43
+S,Other services,2020-21,37032.0,-2.5,522550.0,3.34,70868.0,-5.65
+S,Other services,2021-22,38870.0,4.96,528575.0,1.15,73537.0,3.77
+S,Other services,2022-23,41970.0,7.98,520875.0,-1.46,80576.0,9.57
+S,Other services,2023-24,42889.0,2.19,523075.0,0.42,81994.0,1.76
+S,Other services,2024-25,42564.0,-0.76,544775.0,4.15,78131.0,-4.71
+S,Other services,2025-26,44538.0,4.64,,,,

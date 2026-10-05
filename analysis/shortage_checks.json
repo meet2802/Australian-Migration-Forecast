@@ -1,0 +1,61 @@
+{
+ "national_in_shortage": {
+  "Occupations (ANZSCO 2022 6-digit)": [
+   273,
+   916
+  ],
+  "Occupations (OSCA 2024 6-digit)": [
+   293,
+   1022
+  ],
+  "Unit groups (ANZSCO 4-digit)": [
+   103,
+   311
+  ]
+ },
+ "jsa_headline (inventory note)": {
+  "Occupations (OSCA 2024 6-digit)": [
+   293,
+   1022
+  ],
+  "Occupations (ANZSCO 2022 6-digit)": [
+   273,
+   916
+  ]
+ },
+ "rating_counts": {
+  "Occupations (ANZSCO 2022 6-digit)": {
+   "M": 8,
+   "NS": 5742,
+   "R": 167,
+   "S": 2327
+  },
+  "Occupations (OSCA 2024 6-digit)": {
+   "M": 8,
+   "NS": 6453,
+   "R": 181,
+   "S": 2556
+  },
+  "Unit groups (ANZSCO 4-digit)": {
+   "M": 8,
+   "NS": 1821,
+   "R": 69,
+   "S": 901
+  }
+ },
+ "national_rating_values": [
+  "M",
+  "NS",
+  "R",
+  "S"
+ ],
+ "codes_per_list": {
+  "Occupations (ANZSCO 2022 6-digit)": 916,
+  "Occupations (OSCA 2024 6-digit)": 1022,
+  "Unit groups (ANZSCO 4-digit)": 311
+ },
+ "rows": {
+  "jsa_osl_2025_ratings.csv": 20241,
+  "shortage_summary.csv": 135
+ }
+}

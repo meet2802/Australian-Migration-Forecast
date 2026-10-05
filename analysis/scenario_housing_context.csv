@@ -1,0 +1,28 @@
+window,from_quarter,to_quarter,place,population_growth,homes_needed_for_growth,homes_completed,homes_completed_minus_needed,people_added_per_home_completed
+Latest 12 months,2025-06,2026-03,AUS,392728,157091,173523,16432,2.26
+Latest 12 months,2025-06,2026-03,NSW,96971,38788,44804,6016,2.16
+Latest 12 months,2025-06,2026-03,VIC,109491,43796,54599,10803,2.01
+Latest 12 months,2025-06,2026-03,QLD,90078,36031,33060,-2971,2.72
+Latest 12 months,2025-06,2026-03,SA,18387,7355,14051,6696,1.31
+Latest 12 months,2025-06,2026-03,WA,64198,25679,19963,-5716,3.22
+Latest 12 months,2025-06,2026-03,TAS,3394,1358,2285,927,1.49
+Latest 12 months,2025-06,2026-03,NT,3965,1586,601,-985,6.6
+Latest 12 months,2025-06,2026-03,ACT,6206,2482,4160,1678,1.49
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,AUS,2147355,858942,741173,-117769,2.9
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,NSW,553048,221219,194384,-26835,2.85
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,VIC,599208,239683,241912,2229,2.48
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,QLD,489789,195916,142696,-53220,3.43
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,SA,108997,43599,51503,7904,2.12
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,WA,332982,133193,77249,-55944,4.31
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,TAS,11082,4433,12119,7686,0.91
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,NT,18399,7360,2390,-4970,7.7
+Since the borders reopened (from the March quarter 2022),2022-03,2026-03,ACT,33663,13465,18920,5455,1.78
+Five years,2021-06,2026-03,AUS,2268145,907258,880680,-26578,2.58
+Five years,2021-06,2026-03,NSW,577090,230836,231461,625,2.49
+Five years,2021-06,2026-03,VIC,598919,239568,293674,54106,2.04
+Five years,2021-06,2026-03,QLD,539913,215965,167841,-48124,3.22
+Five years,2021-06,2026-03,SA,118250,47300,59571,12271,1.99
+Five years,2021-06,2026-03,WA,357117,142847,88176,-54671,4.05
+Five years,2021-06,2026-03,TAS,15851,6340,14715,8375,1.08
+Five years,2021-06,2026-03,NT,20714,8286,2897,-5389,7.15
+Five years,2021-06,2026-03,ACT,40095,16038,22345,6307,1.79
